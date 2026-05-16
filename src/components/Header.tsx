@@ -76,23 +76,36 @@ export default function Header() {
 
       {/* mobile nav */}
       <div className="flex gap-1 border-t border-zinc-100 px-2 py-1.5 sm:hidden dark:border-zinc-800">
-        {levels.map(level => {
-          const href = `/grammar/${level.toLowerCase()}`;
-          const active = pathname.startsWith(href);
-          return (
-            <Link
-              key={level}
-              href={href}
-              className={`flex-1 rounded-lg px-2 py-1 text-center text-xs font-medium transition ${
-                active
-                  ? 'bg-zinc-100 text-zinc-900 dark:bg-zinc-800 dark:text-zinc-100'
-                  : 'text-zinc-400 hover:text-zinc-600 dark:text-zinc-500 dark:hover:text-zinc-300'
-              }`}
-            >
-              {level}
-            </Link>
-          );
-        })}
+        <Link
+          href="/test"
+          className={`flex-1 rounded-lg px-2 py-1 text-center text-xs font-medium transition ${
+            pathname === '/test'
+              ? 'bg-zinc-100 text-zinc-900 dark:bg-zinc-800 dark:text-zinc-100'
+              : 'text-zinc-400 hover:text-zinc-600 dark:text-zinc-500 dark:hover:text-zinc-300'
+          }`}
+        >
+          测试
+        </Link>
+        <Link
+          href="/plan"
+          className={`flex-1 rounded-lg px-2 py-1 text-center text-xs font-medium transition ${
+            pathname === '/plan'
+              ? 'bg-zinc-100 text-zinc-900 dark:bg-zinc-800 dark:text-zinc-100'
+              : 'text-zinc-400 hover:text-zinc-600 dark:text-zinc-500 dark:hover:text-zinc-300'
+          }`}
+        >
+          学习
+        </Link>
+        <Link
+          href="/colloquial"
+          className={`flex-1 rounded-lg px-2 py-1 text-center text-xs font-medium transition ${
+            pathname === '/colloquial'
+              ? 'bg-zinc-100 text-zinc-900 dark:bg-zinc-800 dark:text-zinc-100'
+              : 'text-zinc-400 hover:text-zinc-600 dark:text-zinc-500 dark:hover:text-zinc-300'
+          }`}
+        >
+          口语
+        </Link>
       </div>
     </header>
   );
