@@ -14,17 +14,20 @@
       {
         "word": "修了",
         "reading": "しゅうりょう",
-        "meaning": "completion (of a course)"
+        "meaning": "completion (of a course)",
+        "cn": "完成（一门课程）"
       },
       {
         "word": "終了",
         "reading": "しゅうりょう",
-        "meaning": "end"
+        "meaning": "end",
+        "cn": "结尾"
       },
       {
         "word": "終わる",
         "reading": "おわる",
-        "meaning": "to end"
+        "meaning": "to end",
+        "cn": "结束"
       }
     ]
   },
@@ -48,17 +51,20 @@
       {
         "word": "物干し",
         "reading": "ものほし",
-        "meaning": "frame for drying clothes"
+        "meaning": "frame for drying clothes",
+        "cn": "晾衣架"
       },
       {
         "word": "干渉",
         "reading": "かんしょう",
-        "meaning": "interference"
+        "meaning": "interference",
+        "cn": "干涉"
       },
       {
         "word": "梅干",
         "reading": "うめぼし",
-        "meaning": "umeboshi"
+        "meaning": "umeboshi",
+        "cn": "腌李子"
       }
     ]
   },
@@ -80,17 +86,20 @@
       {
         "word": "久し振り",
         "reading": "ひさしぶり",
-        "meaning": "a long time (since the last time)"
+        "meaning": "a long time (since the last time)",
+        "cn": "很长一段时间（自从上次以来）"
       },
       {
         "word": "久しぶり",
         "reading": "ひさしぶり",
-        "meaning": "a long time (since the last time)"
+        "meaning": "a long time (since the last time)",
+        "cn": "很长一段时间（自从上次以来）"
       },
       {
         "word": "久しい",
         "reading": "ひさしい",
-        "meaning": "long (time that has passed)"
+        "meaning": "long (time that has passed)",
+        "cn": "长（过去的时间）"
       }
     ]
   },
@@ -113,17 +122,20 @@
       {
         "word": "丸まる",
         "reading": "まるまる",
-        "meaning": "to become rounded"
+        "meaning": "to become rounded",
+        "cn": "变得圆润"
       },
       {
         "word": "円形",
         "reading": "えんけい",
-        "meaning": "round shape"
+        "meaning": "round shape",
+        "cn": "圆形"
       },
       {
         "word": "丸っきり",
         "reading": "まるっきり",
-        "meaning": "completely"
+        "meaning": "completely",
+        "cn": "完全地"
       }
     ]
   },
@@ -144,17 +156,20 @@
       {
         "word": "比較",
         "reading": "ひかく",
-        "meaning": "comparison"
+        "meaning": "comparison",
+        "cn": "比较"
       },
       {
         "word": "見比べる",
         "reading": "みくらべる",
-        "meaning": "to compare with the eye"
+        "meaning": "to compare with the eye",
+        "cn": "与眼睛比较"
       },
       {
         "word": "比較的",
         "reading": "ひかくてき",
-        "meaning": "comparatively"
+        "meaning": "comparatively",
+        "cn": "比较"
       }
     ]
   },
@@ -176,17 +191,20 @@
       {
         "word": "仏教",
         "reading": "ぶっきょう",
-        "meaning": "Buddhism"
+        "meaning": "Buddhism",
+        "cn": "佛教"
       },
       {
         "word": "大仏",
         "reading": "だいぶつ",
-        "meaning": "large statue of Buddha (trad. at least 4.8m high)"
+        "meaning": "large statue of Buddha (trad. at least 4.8m high)",
+        "cn": "大佛像（传统高度至少4.8m）"
       },
       {
         "word": "仏像",
         "reading": "ぶつぞう",
-        "meaning": "statue of Buddha"
+        "meaning": "statue of Buddha",
+        "cn": "佛像"
       }
     ]
   },
@@ -207,17 +225,20 @@
       {
         "word": "ガラス戸",
         "reading": "ガラスど",
-        "meaning": "glass door"
+        "meaning": "glass door",
+        "cn": "玻璃门"
       },
       {
         "word": "雨戸",
         "reading": "あまど",
-        "meaning": "sliding storm shutter"
+        "meaning": "sliding storm shutter",
+        "cn": "滑动风暴百叶窗"
       },
       {
         "word": "井戸",
         "reading": "いど",
-        "meaning": "water well"
+        "meaning": "water well",
+        "cn": "水井"
       }
     ]
   },
@@ -236,17 +257,20 @@
       {
         "word": "仲介",
         "reading": "ちゅうかい",
-        "meaning": "agency"
+        "meaning": "agency",
+        "cn": "机构"
       },
       {
         "word": "紹介",
         "reading": "しょうかい",
-        "meaning": "introduction"
+        "meaning": "introduction",
+        "cn": "介绍"
       },
       {
         "word": "お節介",
         "reading": "おせっかい",
-        "meaning": "meddler"
+        "meaning": "meddler",
+        "cn": "多管闲事的人"
       }
     ]
   },
@@ -267,17 +291,20 @@
       {
         "word": "毛布",
         "reading": "もうふ",
-        "meaning": "blanket"
+        "meaning": "blanket",
+        "cn": "毯子"
       },
       {
         "word": "眉毛",
         "reading": "まゆげ",
-        "meaning": "eyebrow"
+        "meaning": "eyebrow",
+        "cn": "眉"
       },
       {
         "word": "髪の毛",
         "reading": "かみのけ",
-        "meaning": "hair (of the head)"
+        "meaning": "hair (of the head)",
+        "cn": "（头部的）头发"
       }
     ]
   },
@@ -298,12 +325,14 @@
       {
         "word": "匹敵",
         "reading": "ひってき",
-        "meaning": "to be a match for"
+        "meaning": "to be a match for",
+        "cn": "成为一个匹配者"
       },
       {
         "word": "一匹",
         "reading": "いっぴき",
-        "meaning": "one animal (small)"
+        "meaning": "one animal (small)",
+        "cn": "一只动物（小）"
       }
     ]
   },
@@ -325,17 +354,20 @@
       {
         "word": "花弁",
         "reading": "かべん",
-        "meaning": "(flower) petal"
+        "meaning": "(flower) petal",
+        "cn": "（花）花瓣"
       },
       {
         "word": "片手",
         "reading": "かたて",
-        "meaning": "one hand"
+        "meaning": "one hand",
+        "cn": "一只手"
       },
       {
         "word": "片側",
         "reading": "かたがわ",
-        "meaning": "one side"
+        "meaning": "one side",
+        "cn": "一边"
       }
     ]
   },
@@ -356,17 +388,20 @@
       {
         "word": "区役所",
         "reading": "くやくしょ",
-        "meaning": "ward office"
+        "meaning": "ward office",
+        "cn": "区役所"
       },
       {
         "word": "区別",
         "reading": "くべつ",
-        "meaning": "distinction"
+        "meaning": "distinction",
+        "cn": "区别"
       },
       {
         "word": "区画",
         "reading": "くかく",
-        "meaning": "division"
+        "meaning": "division",
+        "cn": "分配"
       }
     ]
   },
@@ -390,17 +425,20 @@
       {
         "word": "双子",
         "reading": "そうし",
-        "meaning": "twins"
+        "meaning": "twins",
+        "cn": "双胞胎"
       },
       {
         "word": "並ぶ",
         "reading": "ならぶ",
-        "meaning": "to line up"
+        "meaning": "to line up",
+        "cn": "排队"
       },
       {
         "word": "並べる",
         "reading": "ならべる",
-        "meaning": "to enumerate"
+        "meaning": "to enumerate",
+        "cn": "列举"
       }
     ]
   },
@@ -422,17 +460,20 @@
       {
         "word": "包み紙",
         "reading": "つつみがみ",
-        "meaning": "wrapping paper"
+        "meaning": "wrapping paper",
+        "cn": "包装纸"
       },
       {
         "word": "包帯",
         "reading": "ほうたい",
-        "meaning": "bandage"
+        "meaning": "bandage",
+        "cn": "绷带"
       },
       {
         "word": "包装",
         "reading": "ほうそう",
-        "meaning": "packing"
+        "meaning": "packing",
+        "cn": "包装"
       }
     ]
   },
@@ -455,17 +496,20 @@
       {
         "word": "頬っぺた",
         "reading": "ほっぺた",
-        "meaning": "cheek"
+        "meaning": "cheek",
+        "cn": "脸颊"
       },
       {
         "word": "浜辺",
         "reading": "はまべ",
-        "meaning": "beach"
+        "meaning": "beach",
+        "cn": "海滩"
       },
       {
         "word": "岸辺",
         "reading": "きしべ",
-        "meaning": "shore"
+        "meaning": "shore",
+        "cn": "支撑"
       }
     ]
   },
@@ -488,17 +532,20 @@
       {
         "word": "氷山",
         "reading": "ひょうざん",
-        "meaning": "iceberg"
+        "meaning": "iceberg",
+        "cn": "冰山"
       },
       {
         "word": "凍る",
         "reading": "こおる",
-        "meaning": "to freeze"
+        "meaning": "to freeze",
+        "cn": "冻结"
       },
       {
         "word": "南氷洋",
         "reading": "なんひょうよう",
-        "meaning": "Antarctic Ocean"
+        "meaning": "Antarctic Ocean",
+        "cn": "南极海洋"
       }
     ]
   },
@@ -522,17 +569,20 @@
       {
         "word": "毛布",
         "reading": "もうふ",
-        "meaning": "blanket"
+        "meaning": "blanket",
+        "cn": "毯子"
       },
       {
         "word": "配布",
         "reading": "はいふ",
-        "meaning": "distribution"
+        "meaning": "distribution",
+        "cn": "分配"
       },
       {
         "word": "分布",
         "reading": "ぶんぷ",
-        "meaning": "distribution"
+        "meaning": "distribution",
+        "cn": "分配"
       }
     ]
   },
@@ -554,17 +604,20 @@
       {
         "word": "小冊子",
         "reading": "しょうさっし",
-        "meaning": "booklet"
+        "meaning": "booklet",
+        "cn": "小册子"
       },
       {
         "word": "冊子",
         "reading": "さっし",
-        "meaning": "book"
+        "meaning": "book",
+        "cn": "书"
       },
       {
         "word": "別冊",
         "reading": "べっさつ",
-        "meaning": "separate volume"
+        "meaning": "separate volume",
+        "cn": "单独的卷"
       }
     ]
   },
@@ -588,17 +641,20 @@
       {
         "word": "薩摩芋",
         "reading": "さつまいも",
-        "meaning": "sweet potato (Ipomoea batatas)"
+        "meaning": "sweet potato (Ipomoea batatas)",
+        "cn": "甘薯（Ipomoea batatas）"
       },
       {
         "word": "甘やかす",
         "reading": "あまやかす",
-        "meaning": "to pamper"
+        "meaning": "to pamper",
+        "cn": "纵容"
       },
       {
         "word": "甘味",
         "reading": "あまみ",
-        "meaning": "sweetness"
+        "meaning": "sweetness",
+        "cn": "甜味"
       }
     ]
   },
@@ -620,17 +676,20 @@
       {
         "word": "旧式",
         "reading": "きゅうしき",
-        "meaning": "old type"
+        "meaning": "old type",
+        "cn": "旧式"
       },
       {
         "word": "古里",
         "reading": "ふるさと",
-        "meaning": "ruins"
+        "meaning": "ruins",
+        "cn": "废墟"
       },
       {
         "word": "古い",
         "reading": "ふるい",
-        "meaning": "of the distant past"
+        "meaning": "of the distant past",
+        "cn": "遥远的过去"
       }
     ]
   },
@@ -649,17 +708,20 @@
       {
         "word": "巨大",
         "reading": "きょだい",
-        "meaning": "huge"
+        "meaning": "huge",
+        "cn": "巨大的"
       },
       {
         "word": "巨視的",
         "reading": "きょしてき",
-        "meaning": "macroscopic"
+        "meaning": "macroscopic",
+        "cn": "宏观的"
       },
       {
         "word": "巨体",
         "reading": "きょたい",
-        "meaning": "huge body"
+        "meaning": "huge body",
+        "cn": "巨大的身体"
       }
     ]
   },
@@ -678,17 +740,20 @@
       {
         "word": "夕刊",
         "reading": "ゆうかん",
-        "meaning": "evening paper"
+        "meaning": "evening paper",
+        "cn": "晚报"
       },
       {
         "word": "朝刊",
         "reading": "ちょうかん",
-        "meaning": "morning newspaper"
+        "meaning": "morning newspaper",
+        "cn": "晨报"
       },
       {
         "word": "週刊",
         "reading": "しゅうかん",
-        "meaning": "weekly publication"
+        "meaning": "weekly publication",
+        "cn": "周刊"
       }
     ]
   },
@@ -707,17 +772,20 @@
       {
         "word": "年齢",
         "reading": "ねんれい",
-        "meaning": "age"
+        "meaning": "age",
+        "cn": "年龄"
       },
       {
         "word": "法令",
         "reading": "ほうれい",
-        "meaning": "statute"
+        "meaning": "statute",
+        "cn": "法令"
       },
       {
         "word": "仮令",
         "reading": "たとい",
-        "meaning": "even if"
+        "meaning": "even if",
+        "cn": "即使"
       }
     ]
   },
@@ -738,17 +806,20 @@
       {
         "word": "灰皿",
         "reading": "はいざら",
-        "meaning": "ashtray"
+        "meaning": "ashtray",
+        "cn": "烟灰缸"
       },
       {
         "word": "受け皿",
         "reading": "うけざら",
-        "meaning": "saucer"
+        "meaning": "saucer",
+        "cn": "碟子"
       },
       {
         "word": "小皿",
         "reading": "こざら",
-        "meaning": "small dish"
+        "meaning": "small dish",
+        "cn": "小菜"
       }
     ]
   },
@@ -769,17 +840,20 @@
       {
         "word": "皮膚",
         "reading": "ひふ",
-        "meaning": "skin"
+        "meaning": "skin",
+        "cn": "皮肤"
       },
       {
         "word": "毛皮",
         "reading": "けがわ",
-        "meaning": "kanji \"fur\" radical"
+        "meaning": "kanji \"fur\" radical",
+        "cn": "汉字“毛”部首"
       },
       {
         "word": "皮肉",
         "reading": "ひにく",
-        "meaning": "(only) surface"
+        "meaning": "(only) surface",
+        "cn": "（仅）表面"
       }
     ]
   },
@@ -798,17 +872,20 @@
       {
         "word": "歴史",
         "reading": "れきし",
-        "meaning": "history"
+        "meaning": "history",
+        "cn": "历史"
       },
       {
         "word": "史上",
         "reading": "しじょう",
-        "meaning": "in history"
+        "meaning": "in history",
+        "cn": "历史上"
       },
       {
         "word": "歴史的",
         "reading": "れきしてき",
-        "meaning": "historic"
+        "meaning": "historic",
+        "cn": "历史性"
       }
     ]
   },
@@ -830,17 +907,20 @@
       {
         "word": "警視庁",
         "reading": "けいしちょう",
-        "meaning": "Metropolitan Police Department"
+        "meaning": "Metropolitan Police Department",
+        "cn": "警察厅"
       },
       {
         "word": "都庁",
         "reading": "とちょう",
-        "meaning": "Tokyo Metropolitan Government (Office)"
+        "meaning": "Tokyo Metropolitan Government (Office)",
+        "cn": "东京都政府（办公室）"
       },
       {
         "word": "県庁",
         "reading": "けんちょう",
-        "meaning": "prefectural office"
+        "meaning": "prefectural office",
+        "cn": "县政府"
       }
     ]
   },
@@ -866,17 +946,20 @@
       {
         "word": "気圧",
         "reading": "きあつ",
-        "meaning": "atmospheric pressure"
+        "meaning": "atmospheric pressure",
+        "cn": "气压"
       },
       {
         "word": "血圧",
         "reading": "けつあつ",
-        "meaning": "blood pressure"
+        "meaning": "blood pressure",
+        "cn": "血压"
       },
       {
         "word": "電圧",
         "reading": "でんあつ",
-        "meaning": "voltage"
+        "meaning": "voltage",
+        "cn": "电压"
       }
     ]
   },
@@ -895,12 +978,14 @@
       {
         "word": "中央",
         "reading": "ちゅうおう",
-        "meaning": "capital"
+        "meaning": "capital",
+        "cn": "首都"
       },
       {
         "word": "中央集権",
         "reading": "ちゅうおうしゅうけん",
-        "meaning": "centralized authoritarian rule"
+        "meaning": "centralized authoritarian rule",
+        "cn": "中央集权独裁统治"
       }
     ]
   },
@@ -921,17 +1006,20 @@
       {
         "word": "長らく",
         "reading": "ながらく",
-        "meaning": "long"
+        "meaning": "long",
+        "cn": "长的"
       },
       {
         "word": "長年",
         "reading": "ながねん",
-        "meaning": "long time"
+        "meaning": "long time",
+        "cn": "很久"
       },
       {
         "word": "永遠",
         "reading": "えいえん",
-        "meaning": "eternity"
+        "meaning": "eternity",
+        "cn": "永恒"
       }
     ]
   },
@@ -952,17 +1040,20 @@
       {
         "word": "幼なじみ",
         "reading": "おさなじみ",
-        "meaning": "childhood friend"
+        "meaning": "childhood friend",
+        "cn": "儿时的朋友"
       },
       {
         "word": "幼稚園",
         "reading": "ようちえん",
-        "meaning": "kindergarten"
+        "meaning": "kindergarten",
+        "cn": "幼儿园"
       },
       {
         "word": "幼児",
         "reading": "ようじ",
-        "meaning": "child over 1 but not yet of school age"
+        "meaning": "child over 1 but not yet of school age",
+        "cn": "1岁以上但尚未达到学龄的儿童"
       }
     ]
   },
@@ -985,17 +1076,20 @@
       {
         "word": "お年玉",
         "reading": "おとしだま",
-        "meaning": "New Year's gift (usu. money given to a child by relatives and visitors)"
+        "meaning": "New Year's gift (usu. money given to a child by relatives and visitors)",
+        "cn": "压岁钱（通常是亲戚、来访者送给孩子的钱）"
       },
       {
         "word": "玉ねぎ",
         "reading": "たまねぎ",
-        "meaning": "onion (Allium cepa)"
+        "meaning": "onion (Allium cepa)",
+        "cn": "洋葱（Allium cepa）"
       },
       {
         "word": "目玉商品",
         "reading": "めだましょうひん",
-        "meaning": "bargain goods"
+        "meaning": "bargain goods",
+        "cn": "便宜货"
       }
     ]
   },
@@ -1016,17 +1110,20 @@
       {
         "word": "荷札",
         "reading": "にふだ",
-        "meaning": "label"
+        "meaning": "label",
+        "cn": "标签"
       },
       {
         "word": "表札",
         "reading": "ひょうさつ",
-        "meaning": "nameplate"
+        "meaning": "nameplate",
+        "cn": "铭牌"
       },
       {
         "word": "落札",
         "reading": "らくさつ",
-        "meaning": "successful bid"
+        "meaning": "successful bid",
+        "cn": "竞标成功"
       }
     ]
   },
@@ -1048,17 +1145,20 @@
       {
         "word": "独り占め",
         "reading": "ひとりじめ",
-        "meaning": "hogging"
+        "meaning": "hogging",
+        "cn": "霸占"
       },
       {
         "word": "占い",
         "reading": "うらない",
-        "meaning": "fortune-teller"
+        "meaning": "fortune-teller",
+        "cn": "算命先生"
       },
       {
         "word": "独占",
         "reading": "どくせん",
-        "meaning": "hogging"
+        "meaning": "hogging",
+        "cn": "霸占"
       }
     ]
   },
@@ -1079,17 +1179,20 @@
       {
         "word": "招請",
         "reading": "しょうじょう",
-        "meaning": "invitation"
+        "meaning": "invitation",
+        "cn": "邀请函"
       },
       {
         "word": "召集",
         "reading": "しょうしゅう",
-        "meaning": "convening"
+        "meaning": "convening",
+        "cn": "召集"
       },
       {
         "word": "応召",
         "reading": "おうしょう",
-        "meaning": "responding to a call-up for military service"
+        "meaning": "responding to a call-up for military service",
+        "cn": "响应兵役征召"
       }
     ]
   },
@@ -1110,17 +1213,20 @@
       {
         "word": "電池",
         "reading": "でんち",
-        "meaning": "battery"
+        "meaning": "battery",
+        "cn": "电池"
       },
       {
         "word": "乾電池",
         "reading": "かんでんち",
-        "meaning": "dry cell"
+        "meaning": "dry cell",
+        "cn": "干电池"
       },
       {
         "word": "太陽電池",
         "reading": "たいようでんち",
-        "meaning": "solar cell"
+        "meaning": "solar cell",
+        "cn": "太阳能电池"
       }
     ]
   },
@@ -1142,17 +1248,20 @@
       {
         "word": "昆虫",
         "reading": "こんちゅう",
-        "meaning": "insect"
+        "meaning": "insect",
+        "cn": "昆虫"
       },
       {
         "word": "虫歯",
         "reading": "むしば",
-        "meaning": "cavity"
+        "meaning": "cavity",
+        "cn": "空腔"
       },
       {
         "word": "害虫",
         "reading": "がいちゅう",
-        "meaning": "harmful insect"
+        "meaning": "harmful insect",
+        "cn": "有害昆虫"
       }
     ]
   },
@@ -1177,17 +1286,20 @@
       {
         "word": "電灯",
         "reading": "でんとう",
-        "meaning": "electric light"
+        "meaning": "electric light",
+        "cn": "电灯"
       },
       {
         "word": "消灯",
         "reading": "しょうとう",
-        "meaning": "putting out the lights"
+        "meaning": "putting out the lights",
+        "cn": "熄灯"
       },
       {
         "word": "灯す",
         "reading": "とぼす",
-        "meaning": "to light (a candle, lamp, etc.)"
+        "meaning": "to light (a candle, lamp, etc.)",
+        "cn": "点燃（蜡烛、灯等）"
       }
     ]
   },
@@ -1208,17 +1320,20 @@
       {
         "word": "缶詰め",
         "reading": "かんづめ",
-        "meaning": "being stuck in a confined space"
+        "meaning": "being stuck in a confined space",
+        "cn": "被困在密闭空间内"
       },
       {
         "word": "缶詰",
         "reading": "かんづめ",
-        "meaning": "being stuck in a confined space"
+        "meaning": "being stuck in a confined space",
+        "cn": "被困在密闭空间内"
       },
       {
         "word": "空き缶",
         "reading": "あきかん",
-        "meaning": "empty can"
+        "meaning": "empty can",
+        "cn": "空罐头"
       }
     ]
   },
@@ -1239,17 +1354,20 @@
       {
         "word": "各種",
         "reading": "かくしゅ",
-        "meaning": "every kind"
+        "meaning": "every kind",
+        "cn": "各种"
       },
       {
         "word": "各地",
         "reading": "かくち",
-        "meaning": "every place"
+        "meaning": "every place",
+        "cn": "每个地方"
       },
       {
         "word": "各位",
         "reading": "かくい",
-        "meaning": "everyone"
+        "meaning": "everyone",
+        "cn": "每个人"
       }
     ]
   },
@@ -1270,17 +1388,20 @@
       {
         "word": "冷汗",
         "reading": "ひやあせ",
-        "meaning": "cold sweat"
+        "meaning": "cold sweat",
+        "cn": "冷汗"
       },
       {
         "word": "冷や汗",
         "reading": "ひやあせ",
-        "meaning": "cold sweat"
+        "meaning": "cold sweat",
+        "cn": "冷汗"
       },
       {
         "word": "汗水",
         "reading": "あせみず",
-        "meaning": "profuse sweat"
+        "meaning": "profuse sweat",
+        "cn": "大量的汗水"
       }
     ]
   },
@@ -1301,17 +1422,20 @@
       {
         "word": "灰皿",
         "reading": "はいざら",
-        "meaning": "ashtray"
+        "meaning": "ashtray",
+        "cn": "烟灰缸"
       },
       {
         "word": "灰色",
         "reading": "かいしょく",
-        "meaning": "grey"
+        "meaning": "grey",
+        "cn": "灰色的"
       },
       {
         "word": "火山灰",
         "reading": "かざんばい",
-        "meaning": "volcanic ash"
+        "meaning": "volcanic ash",
+        "cn": "火山灰"
       }
     ]
   },
@@ -1332,7 +1456,8 @@
       {
         "word": "机上",
         "reading": "きじょう",
-        "meaning": "on the desk"
+        "meaning": "on the desk",
+        "cn": "在桌子上"
       }
     ]
   },
@@ -1353,17 +1478,20 @@
       {
         "word": "肌着",
         "reading": "はだぎ",
-        "meaning": "underwear"
+        "meaning": "underwear",
+        "cn": "内衣"
       },
       {
         "word": "肌色",
         "reading": "はだいろ",
-        "meaning": "(one's) skin color"
+        "meaning": "(one's) skin color",
+        "cn": "（某人的）肤色"
       },
       {
         "word": "肌身",
         "reading": "はだみ",
-        "meaning": "body"
+        "meaning": "body",
+        "cn": "身体"
       }
     ]
   },
@@ -1384,17 +1512,20 @@
       {
         "word": "喚く",
         "reading": "わめく",
-        "meaning": "to shout"
+        "meaning": "to shout",
+        "cn": "喊叫"
       },
       {
         "word": "叫び",
         "reading": "さけび",
-        "meaning": "shout"
+        "meaning": "shout",
+        "cn": "喊"
       },
       {
         "word": "叫ぶ",
         "reading": "さけぶ",
-        "meaning": "to clamor (for or against)"
+        "meaning": "to clamor (for or against)",
+        "cn": "大声喧哗（支持或反对）"
       }
     ]
   },
@@ -1415,17 +1546,20 @@
       {
         "word": "繭糸",
         "reading": "きぬいと",
-        "meaning": "silk thread"
+        "meaning": "silk thread",
+        "cn": "丝线"
       },
       {
         "word": "絹糸",
         "reading": "きぬいと",
-        "meaning": "silk thread"
+        "meaning": "silk thread",
+        "cn": "丝线"
       },
       {
         "word": "毛糸",
         "reading": "けいと",
-        "meaning": "knitting wool"
+        "meaning": "knitting wool",
+        "cn": "毛线"
       }
     ]
   },
@@ -1446,17 +1580,20 @@
       {
         "word": "寺院",
         "reading": "じいん",
-        "meaning": "Buddhist temple"
+        "meaning": "Buddhist temple",
+        "cn": "佛寺"
       },
       {
         "word": "禅寺",
         "reading": "ぜんでら",
-        "meaning": "Zen temple"
+        "meaning": "Zen temple",
+        "cn": "禅寺"
       },
       {
         "word": "国分寺",
         "reading": "こくぶんじ",
-        "meaning": "state-supported provincial temple (Nara period)"
+        "meaning": "state-supported provincial temple (Nara period)",
+        "cn": "国家支持的省立寺庙（奈良时代）"
       }
     ]
   },
@@ -1479,17 +1616,20 @@
       {
         "word": "集団",
         "reading": "しゅうだん",
-        "meaning": "group"
+        "meaning": "group",
+        "cn": "团体"
       },
       {
         "word": "団地",
         "reading": "だんち",
-        "meaning": "multi-unit apartments"
+        "meaning": "multi-unit apartments",
+        "cn": "多单元公寓"
       },
       {
         "word": "団扇",
         "reading": "うちわ",
-        "meaning": "uchiwa"
+        "meaning": "uchiwa",
+        "cn": "内轮"
       }
     ]
   },
@@ -1515,17 +1655,20 @@
       {
         "word": "汚職",
         "reading": "おしょく",
-        "meaning": "corruption"
+        "meaning": "corruption",
+        "cn": "腐败"
       },
       {
         "word": "汚染",
         "reading": "おせん",
-        "meaning": "pollution"
+        "meaning": "pollution",
+        "cn": "污染"
       },
       {
         "word": "汚れ",
         "reading": "よごれ",
-        "meaning": "dirt"
+        "meaning": "dirt",
+        "cn": "污垢"
       }
     ]
   },
@@ -1546,17 +1689,20 @@
       {
         "word": "血液",
         "reading": "けつえき",
-        "meaning": "blood"
+        "meaning": "blood",
+        "cn": "血"
       },
       {
         "word": "献血",
         "reading": "けんけつ",
-        "meaning": "blood donation"
+        "meaning": "blood donation",
+        "cn": "献血"
       },
       {
         "word": "血圧",
         "reading": "けつあつ",
-        "meaning": "blood pressure"
+        "meaning": "blood pressure",
+        "cn": "血压"
       }
     ]
   },
@@ -1580,17 +1726,20 @@
       {
         "word": "脱衣所",
         "reading": "だついしょ",
-        "meaning": "changing room (at a bathhouse, swimming pool, etc.)"
+        "meaning": "changing room (at a bathhouse, swimming pool, etc.)",
+        "cn": "更衣室（澡堂、游泳池等）"
       },
       {
         "word": "衣服",
         "reading": "いふく",
-        "meaning": "clothes"
+        "meaning": "clothes",
+        "cn": "衣服"
       },
       {
         "word": "衣料",
         "reading": "いりょう",
-        "meaning": "clothing"
+        "meaning": "clothing",
+        "cn": "衣服"
       }
     ]
   },
@@ -1613,17 +1762,20 @@
       {
         "word": "印紙",
         "reading": "いんし",
-        "meaning": "(revenue) stamp"
+        "meaning": "(revenue) stamp",
+        "cn": "（收入）邮票"
       },
       {
         "word": "印象",
         "reading": "いんしょう",
-        "meaning": "impression"
+        "meaning": "impression",
+        "cn": "印象"
       },
       {
         "word": "印刷",
         "reading": "いんさつ",
-        "meaning": "printing"
+        "meaning": "printing",
+        "cn": "印刷"
       }
     ]
   },
@@ -1642,17 +1794,20 @@
       {
         "word": "宇宙",
         "reading": "うちゅう",
-        "meaning": "universe"
+        "meaning": "universe",
+        "cn": "宇宙"
       },
       {
         "word": "有頂天",
         "reading": "うちょうてん",
-        "meaning": "ecstasy"
+        "meaning": "ecstasy",
+        "cn": "狂喜"
       },
       {
         "word": "宇宙空間",
         "reading": "うちゅうくうかん",
-        "meaning": "(outer) space"
+        "meaning": "(outer) space",
+        "cn": "（外层空间"
       }
     ]
   },
@@ -1675,17 +1830,20 @@
       {
         "word": "羽織",
         "reading": "はおり",
-        "meaning": "haori (Japanese formal coat)"
+        "meaning": "haori (Japanese formal coat)",
+        "cn": "羽织（日式正式外套）"
       },
       {
         "word": "葉書",
         "reading": "はがき",
-        "meaning": "postcard"
+        "meaning": "postcard",
+        "cn": "明信片"
       },
       {
         "word": "羽根",
         "reading": "はね",
-        "meaning": "arrow feathers"
+        "meaning": "arrow feathers",
+        "cn": "箭羽"
       }
     ]
   },
@@ -1707,17 +1865,20 @@
       {
         "word": "再来月",
         "reading": "さらいげつ",
-        "meaning": "month after next"
+        "meaning": "month after next",
+        "cn": "下个月后"
       },
       {
         "word": "再来週",
         "reading": "さらいしゅう",
-        "meaning": "week after next"
+        "meaning": "week after next",
+        "cn": "下周后"
       },
       {
         "word": "再来年",
         "reading": "さらいねん",
-        "meaning": "year after next"
+        "meaning": "year after next",
+        "cn": "后年"
       }
     ]
   },
@@ -1739,17 +1900,20 @@
       {
         "word": "兆し",
         "reading": "きざし",
-        "meaning": "sign"
+        "meaning": "sign",
+        "cn": "符号"
       },
       {
         "word": "徴候",
         "reading": "ちょうこう",
-        "meaning": "sign"
+        "meaning": "sign",
+        "cn": "符号"
       },
       {
         "word": "兆候",
         "reading": "ちょうこう",
-        "meaning": "sign"
+        "meaning": "sign",
+        "cn": "符号"
       }
     ]
   },
@@ -1770,17 +1934,20 @@
       {
         "word": "仲買",
         "reading": "なかがい",
-        "meaning": "brokerage"
+        "meaning": "brokerage",
+        "cn": "经纪业务"
       },
       {
         "word": "仲介",
         "reading": "ちゅうかい",
-        "meaning": "agency"
+        "meaning": "agency",
+        "cn": "机构"
       },
       {
         "word": "仲裁",
         "reading": "ちゅうさい",
-        "meaning": "arbitration"
+        "meaning": "arbitration",
+        "cn": "仲裁"
       }
     ]
   },
@@ -1802,17 +1969,20 @@
       {
         "word": "沿海州",
         "reading": "えんかいしゅう",
-        "meaning": "(Russian) maritime provinces"
+        "meaning": "(Russian) maritime provinces",
+        "cn": "（俄罗斯）沿海省份"
       },
       {
         "word": "欧州",
         "reading": "おうしゅう",
-        "meaning": "Europe"
+        "meaning": "Europe",
+        "cn": "欧洲"
       },
       {
         "word": "九州",
         "reading": "きゅうしゅう",
-        "meaning": "Kyūshū (southernmost of the four main islands of Japan)"
+        "meaning": "Kyūshū (southernmost of the four main islands of Japan)",
+        "cn": "九州岛（日本四大岛屿的最南端）"
       }
     ]
   },
@@ -1835,17 +2005,20 @@
       {
         "word": "箱船",
         "reading": "はこぶね",
-        "meaning": "ark (i.e. Noah's)"
+        "meaning": "ark (i.e. Noah's)",
+        "cn": "方舟（即诺亚方舟）"
       },
       {
         "word": "舟橋",
         "reading": "しゅうきょう",
-        "meaning": "pontoon bridge"
+        "meaning": "pontoon bridge",
+        "cn": "浮桥"
       },
       {
         "word": "船酔い",
         "reading": "ふなよい",
-        "meaning": "seasickness"
+        "meaning": "seasickness",
+        "cn": "晕船"
       }
     ]
   },
@@ -1866,17 +2039,20 @@
       {
         "word": "爆竹",
         "reading": "ばくちく",
-        "meaning": "firecracker"
+        "meaning": "firecracker",
+        "cn": "鞭炮"
       },
       {
         "word": "破竹",
         "reading": "はちく",
-        "meaning": "breaking bamboo"
+        "meaning": "breaking bamboo",
+        "cn": "破竹"
       },
       {
         "word": "青竹",
         "reading": "あおだけ",
-        "meaning": "green bamboo"
+        "meaning": "green bamboo",
+        "cn": "青竹"
       }
     ]
   },
@@ -1897,17 +2073,20 @@
       {
         "word": "坂道",
         "reading": "さかみち",
-        "meaning": "hill road"
+        "meaning": "hill road",
+        "cn": "山路"
       },
       {
         "word": "下り坂",
         "reading": "くだりざか",
-        "meaning": "downhill"
+        "meaning": "downhill",
+        "cn": "下坡"
       },
       {
         "word": "上り坂",
         "reading": "のぼりざか",
-        "meaning": "(gradual) upturn"
+        "meaning": "(gradual) upturn",
+        "cn": "（逐渐）好转"
       }
     ]
   },
@@ -1928,17 +2107,20 @@
       {
         "word": "貝殻",
         "reading": "かいがら",
-        "meaning": "seashell"
+        "meaning": "seashell",
+        "cn": "贝壳"
       },
       {
         "word": "魚介類",
         "reading": "ぎょかいるい",
-        "meaning": "marine products"
+        "meaning": "marine products",
+        "cn": "海产"
       },
       {
         "word": "巻き貝",
         "reading": "まきがい",
-        "meaning": "snail"
+        "meaning": "snail",
+        "cn": "蜗牛"
       }
     ]
   },
@@ -1960,17 +2142,20 @@
       {
         "word": "核兵器",
         "reading": "かくへいき",
-        "meaning": "nuclear weapon"
+        "meaning": "nuclear weapon",
+        "cn": "核武器"
       },
       {
         "word": "兵士",
         "reading": "へいし",
-        "meaning": "soldier"
+        "meaning": "soldier",
+        "cn": "士兵"
       },
       {
         "word": "兵役",
         "reading": "へいえき",
-        "meaning": "military service"
+        "meaning": "military service",
+        "cn": "兵役"
       }
     ]
   },
@@ -1989,17 +2174,20 @@
       {
         "word": "木材",
         "reading": "もくざい",
-        "meaning": "lumber"
+        "meaning": "lumber",
+        "cn": "木材"
       },
       {
         "word": "材木",
         "reading": "ざいもく",
-        "meaning": "wood (for building)"
+        "meaning": "wood (for building)",
+        "cn": "木材（建筑用）"
       },
       {
         "word": "取材",
         "reading": "しゅざい",
-        "meaning": "gathering material (for an article, novel, etc.)"
+        "meaning": "gathering material (for an article, novel, etc.)",
+        "cn": "收集材料（文章、小说等）"
       }
     ]
   },
@@ -2019,17 +2207,20 @@
       {
         "word": "大臣",
         "reading": "だいじん",
-        "meaning": "cabinet minister"
+        "meaning": "cabinet minister",
+        "cn": "内阁部长"
       },
       {
         "word": "総理大臣",
         "reading": "そうりだいじん",
-        "meaning": "prime minister (as the head of a cabinet government)"
+        "meaning": "prime minister (as the head of a cabinet government)",
+        "cn": "首相（作为内阁政府首脑）"
       },
       {
         "word": "忠臣",
         "reading": "ちゅうしん",
-        "meaning": "loyal retainer"
+        "meaning": "loyal retainer",
+        "cn": "忠诚的家臣"
       }
     ]
   },
@@ -2051,17 +2242,20 @@
       {
         "word": "胡座",
         "reading": "あぐら",
-        "meaning": "sitting cross-legged (i.e. Indian style)"
+        "meaning": "sitting cross-legged (i.e. Indian style)",
+        "cn": "盘腿而坐（即印度式）"
       },
       {
         "word": "床の間",
         "reading": "とこのま",
-        "meaning": "tokonoma (alcove where art or flowers are displayed)"
+        "meaning": "tokonoma (alcove where art or flowers are displayed)",
+        "cn": "壁龛（展示艺术品或鲜花的壁龛）"
       },
       {
         "word": "床屋",
         "reading": "とこや",
-        "meaning": "barbershop"
+        "meaning": "barbershop",
+        "cn": "理发店"
       }
     ]
   },
@@ -2082,17 +2276,20 @@
       {
         "word": "伺う",
         "reading": "うかがう",
-        "meaning": "to speak to (a large crowd at a theatre, etc.)"
+        "meaning": "to speak to (a large crowd at a theatre, etc.)",
+        "cn": "与（剧院等处的一大群人）交谈"
       },
       {
         "word": "進退伺い",
         "reading": "しんたいうかがい",
-        "meaning": "informal resignation"
+        "meaning": "informal resignation",
+        "cn": "非正式辞职"
       },
       {
         "word": "伺い",
         "reading": "うかがい",
-        "meaning": "call"
+        "meaning": "call",
+        "cn": "称呼"
       }
     ]
   },
@@ -2113,17 +2310,20 @@
       {
         "word": "漁村",
         "reading": "ぎょそん",
-        "meaning": "fishing village"
+        "meaning": "fishing village",
+        "cn": "渔村"
       },
       {
         "word": "農村",
         "reading": "のうそん",
-        "meaning": "rural"
+        "meaning": "rural",
+        "cn": "乡村的"
       },
       {
         "word": "山村",
         "reading": "さんそん",
-        "meaning": "mountain village"
+        "meaning": "mountain village",
+        "cn": "山村"
       }
     ]
   },
@@ -2146,17 +2346,20 @@
       {
         "word": "低温",
         "reading": "ていおん",
-        "meaning": "low temperature"
+        "meaning": "low temperature",
+        "cn": "低温"
       },
       {
         "word": "高低",
         "reading": "こうてい",
-        "meaning": "high and low"
+        "meaning": "high and low",
+        "cn": "高和低"
       },
       {
         "word": "低音",
         "reading": "ていおん",
-        "meaning": "low tone"
+        "meaning": "low tone",
+        "cn": "低音调"
       }
     ]
   },
@@ -2181,17 +2384,20 @@
       {
         "word": "小児科",
         "reading": "しょうにか",
-        "meaning": "pediatrics"
+        "meaning": "pediatrics",
+        "cn": "儿科"
       },
       {
         "word": "捨て子",
         "reading": "すてご",
-        "meaning": "abandoned child"
+        "meaning": "abandoned child",
+        "cn": "被遗弃的孩子"
       },
       {
         "word": "児童",
         "reading": "じどう",
-        "meaning": "children"
+        "meaning": "children",
+        "cn": "孩子们"
       }
     ]
   },
@@ -2212,17 +2418,20 @@
       {
         "word": "防戦",
         "reading": "ぼうせん",
-        "meaning": "defensive fight (battle)"
+        "meaning": "defensive fight (battle)",
+        "cn": "防御战（战斗）"
       },
       {
         "word": "消防署",
         "reading": "しょうぼうしょ",
-        "meaning": "fire station"
+        "meaning": "fire station",
+        "cn": "消防局"
       },
       {
         "word": "防音",
         "reading": "ぼうおん",
-        "meaning": "soundproofing"
+        "meaning": "soundproofing",
+        "cn": "隔音"
       }
     ]
   },
@@ -2244,17 +2453,20 @@
       {
         "word": "改良",
         "reading": "かいりょう",
-        "meaning": "improvement"
+        "meaning": "improvement",
+        "cn": "改进"
       },
       {
         "word": "改革",
         "reading": "かいかく",
-        "meaning": "reform"
+        "meaning": "reform",
+        "cn": "改革"
       },
       {
         "word": "改正",
         "reading": "かいせい",
-        "meaning": "revision"
+        "meaning": "revision",
+        "cn": "修订"
       }
     ]
   },
@@ -2276,17 +2488,20 @@
       {
         "word": "極まる",
         "reading": "きわまる",
-        "meaning": "extremely"
+        "meaning": "extremely",
+        "cn": "极其"
       },
       {
         "word": "谷川",
         "reading": "たにがわ",
-        "meaning": "mountain stream"
+        "meaning": "mountain stream",
+        "cn": "山涧"
       },
       {
         "word": "渓谷",
         "reading": "けいこく",
-        "meaning": "valley (with a river running through it)"
+        "meaning": "valley (with a river running through it)",
+        "cn": "山谷（有河流穿过）"
       }
     ]
   },
@@ -2308,17 +2523,20 @@
       {
         "word": "含む",
         "reading": "くくむ",
-        "meaning": "to hold in the mouth"
+        "meaning": "to hold in the mouth",
+        "cn": "含在嘴里"
       },
       {
         "word": "含める",
         "reading": "ふくめる",
-        "meaning": "to include (in a group or scope)"
+        "meaning": "to include (in a group or scope)",
+        "cn": "包括（在一个组或范围内）"
       },
       {
         "word": "含有",
         "reading": "がんゆう",
-        "meaning": "containing (an ingredient, mineral, etc.)"
+        "meaning": "containing (an ingredient, mineral, etc.)",
+        "cn": "含有（成分、矿物质等）"
       }
     ]
   },
@@ -2339,17 +2557,20 @@
       {
         "word": "特技",
         "reading": "とくぎ",
-        "meaning": "special skill"
+        "meaning": "special skill",
+        "cn": "特殊技能"
       },
       {
         "word": "演技",
         "reading": "えんぎ",
-        "meaning": "acting"
+        "meaning": "acting",
+        "cn": "表演"
       },
       {
         "word": "技師",
         "reading": "ぎし",
-        "meaning": "engineer"
+        "meaning": "engineer",
+        "cn": "工程师"
       }
     ]
   },
@@ -2371,17 +2592,20 @@
       {
         "word": "角度",
         "reading": "かくど",
-        "meaning": "angle"
+        "meaning": "angle",
+        "cn": "角度"
       },
       {
         "word": "真四角",
         "reading": "ましかく",
-        "meaning": "square"
+        "meaning": "square",
+        "cn": "正方形"
       },
       {
         "word": "町角",
         "reading": "まちかど",
-        "meaning": "street corner"
+        "meaning": "street corner",
+        "cn": "街角"
       }
     ]
   },
@@ -2402,17 +2626,20 @@
       {
         "word": "均衡",
         "reading": "きんこう",
-        "meaning": "equilibrium"
+        "meaning": "equilibrium",
+        "cn": "平衡"
       },
       {
         "word": "均一",
         "reading": "きんいち",
-        "meaning": "uniformity"
+        "meaning": "uniformity",
+        "cn": "均匀性"
       },
       {
         "word": "均等",
         "reading": "きんとう",
-        "meaning": "equal (distribution, treatment, level, etc.)"
+        "meaning": "equal (distribution, treatment, level, etc.)",
+        "cn": "平等（分配、待遇、水平等）"
       }
     ]
   },
@@ -2433,17 +2660,20 @@
       {
         "word": "全快",
         "reading": "ぜんかい",
-        "meaning": "complete recovery of health"
+        "meaning": "complete recovery of health",
+        "cn": "完全恢复健康"
       },
       {
         "word": "快晴",
         "reading": "かいせい",
-        "meaning": "clear weather"
+        "meaning": "clear weather",
+        "cn": "天气晴朗"
       },
       {
         "word": "快い",
         "reading": "こころよい",
-        "meaning": "pleasant"
+        "meaning": "pleasant",
+        "cn": "令人愉快的"
       }
     ]
   },
@@ -2464,17 +2694,20 @@
       {
         "word": "卵形",
         "reading": "たまごがた",
-        "meaning": "oval shape"
+        "meaning": "oval shape",
+        "cn": "椭圆形"
       },
       {
         "word": "卵巣",
         "reading": "らんそう",
-        "meaning": "ovary"
+        "meaning": "ovary",
+        "cn": "子房"
       },
       {
         "word": "産卵",
         "reading": "さんらん",
-        "meaning": "egg-laying"
+        "meaning": "egg-laying",
+        "cn": "产卵"
       }
     ]
   },
@@ -2501,17 +2734,20 @@
       {
         "word": "吹雪",
         "reading": "ふぶき",
-        "meaning": "snow storm"
+        "meaning": "snow storm",
+        "cn": "暴风雪"
       },
       {
         "word": "乱用",
         "reading": "らんよう",
-        "meaning": "abuse"
+        "meaning": "abuse",
+        "cn": "虐待"
       },
       {
         "word": "混乱",
         "reading": "こんらん",
-        "meaning": "disorder"
+        "meaning": "disorder",
+        "cn": "紊乱"
       }
     ]
   },
@@ -2532,17 +2768,20 @@
       {
         "word": "大麦",
         "reading": "おおむぎ",
-        "meaning": "barley (Hordeum vulgare)"
+        "meaning": "barley (Hordeum vulgare)",
+        "cn": "大麦（大麦）"
       },
       {
         "word": "蕎麦屋",
         "reading": "そばや",
-        "meaning": "soba restaurant"
+        "meaning": "soba restaurant",
+        "cn": "荞麦面餐厅"
       },
       {
         "word": "小麦",
         "reading": "こむぎ",
-        "meaning": "wheat"
+        "meaning": "wheat",
+        "cn": "小麦"
       }
     ]
   },
@@ -2566,17 +2805,20 @@
       {
         "word": "伸びやか",
         "reading": "のびやか",
-        "meaning": "comfortable"
+        "meaning": "comfortable",
+        "cn": "舒服的"
       },
       {
         "word": "追伸",
         "reading": "ついしん",
-        "meaning": "postscript"
+        "meaning": "postscript",
+        "cn": "后记"
       },
       {
         "word": "伸び伸び",
         "reading": "のびのび",
-        "meaning": "(growing) quickly"
+        "meaning": "(growing) quickly",
+        "cn": "（成长）很快"
       }
     ]
   },
@@ -2599,17 +2841,20 @@
       {
         "word": "沈黙",
         "reading": "ちんもく",
-        "meaning": "reticence"
+        "meaning": "reticence",
+        "cn": "沉默寡言"
       },
       {
         "word": "沈める",
         "reading": "しずめる",
-        "meaning": "to floor (an opponent)"
+        "meaning": "to floor (an opponent)",
+        "cn": "到地板（对手）"
       },
       {
         "word": "沈む",
         "reading": "しずむ",
-        "meaning": "to feel depressed"
+        "meaning": "to feel depressed",
+        "cn": "感到沮丧"
       }
     ]
   },
@@ -2632,17 +2877,20 @@
       {
         "word": "囲碁",
         "reading": "いご",
-        "meaning": "go (board game)"
+        "meaning": "go (board game)",
+        "cn": "去（棋盘游戏）"
       },
       {
         "word": "範囲",
         "reading": "はんい",
-        "meaning": "extent"
+        "meaning": "extent",
+        "cn": "程度"
       },
       {
         "word": "包囲",
         "reading": "ほうい",
-        "meaning": "siege"
+        "meaning": "siege",
+        "cn": "围城"
       }
     ]
   },
@@ -2665,17 +2913,20 @@
       {
         "word": "願わくは",
         "reading": "ねがわくは",
-        "meaning": "I pray"
+        "meaning": "I pray",
+        "cn": "我祈祷"
       },
       {
         "word": "希望",
         "reading": "きぼう",
-        "meaning": "(bright) prospects"
+        "meaning": "(bright) prospects",
+        "cn": "（光明的）前景"
       },
       {
         "word": "希少",
         "reading": "きしょう",
-        "meaning": "scarce"
+        "meaning": "scarce",
+        "cn": "稀缺"
       }
     ]
   },
@@ -2699,17 +2950,20 @@
       {
         "word": "辛子",
         "reading": "からし",
-        "meaning": "mustard"
+        "meaning": "mustard",
+        "cn": "芥末"
       },
       {
         "word": "塩辛い",
         "reading": "しおからい",
-        "meaning": "salty (taste)"
+        "meaning": "salty (taste)",
+        "cn": "咸（味道）"
       },
       {
         "word": "辛抱",
         "reading": "しんぼう",
-        "meaning": "patience"
+        "meaning": "patience",
+        "cn": "耐心"
       }
     ]
   },
@@ -2733,17 +2987,20 @@
       {
         "word": "芸術",
         "reading": "げいじゅつ",
-        "meaning": "art"
+        "meaning": "art",
+        "cn": "艺术"
       },
       {
         "word": "園芸",
         "reading": "えんげい",
-        "meaning": "horticulture"
+        "meaning": "horticulture",
+        "cn": "园艺"
       },
       {
         "word": "工芸",
         "reading": "こうげい",
-        "meaning": "industrial arts"
+        "meaning": "industrial arts",
+        "cn": "工艺美术"
       }
     ]
   },
@@ -2764,17 +3021,20 @@
       {
         "word": "海岸",
         "reading": "かいがん",
-        "meaning": "coast"
+        "meaning": "coast",
+        "cn": "海岸"
       },
       {
         "word": "河岸",
         "reading": "かがん",
-        "meaning": "riverbank"
+        "meaning": "riverbank",
+        "cn": "河岸"
       },
       {
         "word": "岸辺",
         "reading": "きしべ",
-        "meaning": "shore"
+        "meaning": "shore",
+        "cn": "支撑"
       }
     ]
   },
@@ -2796,17 +3056,20 @@
       {
         "word": "拝見",
         "reading": "はいけん",
-        "meaning": "seeing"
+        "meaning": "seeing",
+        "cn": "看到"
       },
       {
         "word": "拝啓",
         "reading": "はいけい",
-        "meaning": "Dear (so and so)"
+        "meaning": "Dear (so and so)",
+        "cn": "亲爱的（某某）"
       },
       {
         "word": "崇拝",
         "reading": "すうはい",
-        "meaning": "worship"
+        "meaning": "worship",
+        "cn": "崇拜"
       }
     ]
   },
@@ -2828,17 +3091,20 @@
       {
         "word": "黒板",
         "reading": "こくばん",
-        "meaning": "blackboard"
+        "meaning": "blackboard",
+        "cn": "黑板"
       },
       {
         "word": "甲板",
         "reading": "かんぱん",
-        "meaning": "deck (of a ship)"
+        "meaning": "deck (of a ship)",
+        "cn": "(船的)甲板"
       },
       {
         "word": "出版",
         "reading": "しゅっぱん",
-        "meaning": "publication"
+        "meaning": "publication",
+        "cn": "发布"
       }
     ]
   },
@@ -2857,17 +3123,20 @@
       {
         "word": "出版",
         "reading": "しゅっぱん",
-        "meaning": "publication"
+        "meaning": "publication",
+        "cn": "发布"
       },
       {
         "word": "出版社",
         "reading": "しゅっぱんしゃ",
-        "meaning": "publisher"
+        "meaning": "publisher",
+        "cn": "出版商"
       },
       {
         "word": "版画",
         "reading": "はんが",
-        "meaning": "woodcut"
+        "meaning": "woodcut",
+        "cn": "木刻"
       }
     ]
   },
@@ -2888,17 +3157,20 @@
       {
         "word": "国宝",
         "reading": "こくほう",
-        "meaning": "national treasure"
+        "meaning": "national treasure",
+        "cn": "国宝"
       },
       {
         "word": "宝石",
         "reading": "ほうせき",
-        "meaning": "gem"
+        "meaning": "gem",
+        "cn": "宝石"
       },
       {
         "word": "宝物",
         "reading": "たからもの",
-        "meaning": "treasure"
+        "meaning": "treasure",
+        "cn": "宝藏"
       }
     ]
   },
@@ -2924,17 +3196,20 @@
       {
         "word": "並木",
         "reading": "なみき",
-        "meaning": "roadside trees"
+        "meaning": "roadside trees",
+        "cn": "路边树"
       },
       {
         "word": "並びに",
         "reading": "ならびに",
-        "meaning": "and (also)"
+        "meaning": "and (also)",
+        "cn": "和（也）"
       },
       {
         "word": "町並",
         "reading": "まちなみ",
-        "meaning": "townscape"
+        "meaning": "townscape",
+        "cn": "市容"
       }
     ]
   },
@@ -2955,17 +3230,20 @@
       {
         "word": "寒波",
         "reading": "かんぱ",
-        "meaning": "cold wave"
+        "meaning": "cold wave",
+        "cn": "寒潮"
       },
       {
         "word": "波長",
         "reading": "はちょう",
-        "meaning": "wavelength"
+        "meaning": "wavelength",
+        "cn": "波长"
       },
       {
         "word": "津波",
         "reading": "つなみ",
-        "meaning": "tsunami"
+        "meaning": "tsunami",
+        "cn": "海啸"
       }
     ]
   },
@@ -2988,17 +3266,20 @@
       {
         "word": "了承",
         "reading": "りょうしょう",
-        "meaning": "acknowledgement"
+        "meaning": "acknowledgement",
+        "cn": "致谢"
       },
       {
         "word": "承諾",
         "reading": "しょうだく",
-        "meaning": "consent"
+        "meaning": "consent",
+        "cn": "同意"
       },
       {
         "word": "承認",
         "reading": "しょうにん",
-        "meaning": "recognition"
+        "meaning": "recognition",
+        "cn": "认出"
       }
     ]
   },
@@ -3023,17 +3304,20 @@
       {
         "word": "名刺",
         "reading": "めいし",
-        "meaning": "business card"
+        "meaning": "business card",
+        "cn": "名片"
       },
       {
         "word": "刺身",
         "reading": "さしみ",
-        "meaning": "sashimi (raw sliced fish, shellfish or crustaceans)"
+        "meaning": "sashimi (raw sliced fish, shellfish or crustaceans)",
+        "cn": "生鱼片（生切片鱼、贝类或甲壳类动物）"
       },
       {
         "word": "風刺",
         "reading": "ふうし",
-        "meaning": "satire"
+        "meaning": "satire",
+        "cn": "讽刺"
       }
     ]
   },
@@ -3055,17 +3339,20 @@
       {
         "word": "担当",
         "reading": "たんとう",
-        "meaning": "being in charge (of an area of responsibility)"
+        "meaning": "being in charge (of an area of responsibility)",
+        "cn": "负责（负责的领域）"
       },
       {
         "word": "担保",
         "reading": "たんぽ",
-        "meaning": "security"
+        "meaning": "security",
+        "cn": "安全"
       },
       {
         "word": "担架",
         "reading": "たんか",
-        "meaning": "stretcher"
+        "meaning": "stretcher",
+        "cn": "担架"
       }
     ]
   },
@@ -3086,17 +3373,20 @@
       {
         "word": "徹底的",
         "reading": "てっていてき",
-        "meaning": "thorough"
+        "meaning": "thorough",
+        "cn": "彻底"
       },
       {
         "word": "到底",
         "reading": "とうてい",
-        "meaning": "(cannot) possibly"
+        "meaning": "(cannot) possibly",
+        "cn": "（不能）可能"
       },
       {
         "word": "徹底",
         "reading": "てってい",
-        "meaning": "thorough enforcement"
+        "meaning": "thorough enforcement",
+        "cn": "彻底执行"
       }
     ]
   },
@@ -3115,17 +3405,20 @@
       {
         "word": "食中毒",
         "reading": "しょくちゅうどく",
-        "meaning": "food poisoning"
+        "meaning": "food poisoning",
+        "cn": "食物中毒"
       },
       {
         "word": "毒薬",
         "reading": "どくやく",
-        "meaning": "poison"
+        "meaning": "poison",
+        "cn": "毒"
       },
       {
         "word": "有毒",
         "reading": "ゆうどく",
-        "meaning": "poisonous"
+        "meaning": "poisonous",
+        "cn": "有毒"
       }
     ]
   },
@@ -3147,17 +3440,20 @@
       {
         "word": "沸かす",
         "reading": "わかす",
-        "meaning": "to excite"
+        "meaning": "to excite",
+        "cn": "兴奋"
       },
       {
         "word": "沸騰",
         "reading": "ふっとう",
-        "meaning": "boiling"
+        "meaning": "boiling",
+        "cn": "沸腾"
       },
       {
         "word": "沸く",
         "reading": "わく",
-        "meaning": "to ferment"
+        "meaning": "to ferment",
+        "cn": "发酵"
       }
     ]
   },
@@ -3176,17 +3472,20 @@
       {
         "word": "府庁",
         "reading": "ふちょう",
-        "meaning": "prefectural office (of Osaka or Kyoto)"
+        "meaning": "prefectural office (of Osaka or Kyoto)",
+        "cn": "都道府县政府（大阪、京都）"
       },
       {
         "word": "府立",
         "reading": "ふりつ",
-        "meaning": "prefectural"
+        "meaning": "prefectural",
+        "cn": "县级的"
       },
       {
         "word": "政府",
         "reading": "せいふ",
-        "meaning": "government"
+        "meaning": "government",
+        "cn": "政府"
       }
     ]
   },
@@ -3210,17 +3509,20 @@
       {
         "word": "固形",
         "reading": "こけい",
-        "meaning": "solid (body)"
+        "meaning": "solid (body)",
+        "cn": "固体）"
       },
       {
         "word": "固体",
         "reading": "こたい",
-        "meaning": "solid (body)"
+        "meaning": "solid (body)",
+        "cn": "固体）"
       },
       {
         "word": "頑固",
         "reading": "がんこ",
-        "meaning": "stubborn"
+        "meaning": "stubborn",
+        "cn": "固执的"
       }
     ]
   },
@@ -3241,17 +3543,20 @@
       {
         "word": "大河",
         "reading": "たいが",
-        "meaning": "large river"
+        "meaning": "large river",
+        "cn": "大河"
       },
       {
         "word": "河川",
         "reading": "かせん",
-        "meaning": "rivers"
+        "meaning": "rivers",
+        "cn": "河流"
       },
       {
         "word": "運河",
         "reading": "うんが",
-        "meaning": "(navigable) canal"
+        "meaning": "(navigable) canal",
+        "cn": "（可通航的）运河"
       }
     ]
   },
@@ -3270,17 +3575,20 @@
       {
         "word": "冬季",
         "reading": "とうき",
-        "meaning": "(season of) winter"
+        "meaning": "(season of) winter",
+        "cn": "冬天（的季节）"
       },
       {
         "word": "乾季",
         "reading": "かんき",
-        "meaning": "dry season"
+        "meaning": "dry season",
+        "cn": "旱季"
       },
       {
         "word": "乾期",
         "reading": "かんき",
-        "meaning": "dry season"
+        "meaning": "dry season",
+        "cn": "旱季"
       }
     ]
   },
@@ -3301,17 +3609,20 @@
       {
         "word": "肩代わり",
         "reading": "かたがわり",
-        "meaning": "taking over another's debt"
+        "meaning": "taking over another's debt",
+        "cn": "接管他人的债务"
       },
       {
         "word": "肩書き",
         "reading": "かたがき",
-        "meaning": "title (e.g. Doctor, Professor, Lord)"
+        "meaning": "title (e.g. Doctor, Professor, Lord)",
+        "cn": "头衔（例如博士、教授、勋爵）"
       },
       {
         "word": "肩書",
         "reading": "かたがき",
-        "meaning": "title (e.g. Doctor, Professor, Lord)"
+        "meaning": "title (e.g. Doctor, Professor, Lord)",
+        "cn": "头衔（例如博士、教授、勋爵）"
       }
     ]
   },
@@ -3334,17 +3645,20 @@
       {
         "word": "届け",
         "reading": "とどけ",
-        "meaning": "report"
+        "meaning": "report",
+        "cn": "报告"
       },
       {
         "word": "行き届く",
         "reading": "いきとどく",
-        "meaning": "to be scrupulous"
+        "meaning": "to be scrupulous",
+        "cn": "一丝不苟"
       },
       {
         "word": "見届ける",
         "reading": "みとどける",
-        "meaning": "to make sure of"
+        "meaning": "to make sure of",
+        "cn": "以确保"
       }
     ]
   },
@@ -3365,12 +3679,14 @@
       {
         "word": "頷く",
         "reading": "うなずく",
-        "meaning": "to nod"
+        "meaning": "to nod",
+        "cn": "点头"
       },
       {
         "word": "肯定",
         "reading": "こうてい",
-        "meaning": "affirmation"
+        "meaning": "affirmation",
+        "cn": "肯定"
       }
     ]
   },
@@ -3393,17 +3709,20 @@
       {
         "word": "不況",
         "reading": "ふきょう",
-        "meaning": "depression"
+        "meaning": "depression",
+        "cn": "沮丧"
       },
       {
         "word": "状況",
         "reading": "じょうきょう",
-        "meaning": "state of affairs"
+        "meaning": "state of affairs",
+        "cn": "事态"
       },
       {
         "word": "実況",
         "reading": "じっきょう",
-        "meaning": "Let's Play (playthrough of a video game with player commentary)"
+        "meaning": "Let's Play (playthrough of a video game with player commentary)",
+        "cn": "让我们一起玩（带有玩家评论的视频游戏的通关）"
       }
     ]
   },
@@ -3424,17 +3743,20 @@
       {
         "word": "農林",
         "reading": "のうりん",
-        "meaning": "agriculture and forestry"
+        "meaning": "agriculture and forestry",
+        "cn": "农业和林业"
       },
       {
         "word": "林業",
         "reading": "りんぎょう",
-        "meaning": "forestry"
+        "meaning": "forestry",
+        "cn": "林业"
       },
       {
         "word": "森林",
         "reading": "しんりん",
-        "meaning": "forest"
+        "meaning": "forest",
+        "cn": "森林"
       }
     ]
   },
@@ -3454,17 +3776,20 @@
       {
         "word": "枚数",
         "reading": "まいすう",
-        "meaning": "the number of flat things"
+        "meaning": "the number of flat things",
+        "cn": "扁平物体的数量"
       },
       {
         "word": "二枚",
         "reading": "にまい",
-        "meaning": "two sheets (of paper or other flat objects)"
+        "meaning": "two sheets (of paper or other flat objects)",
+        "cn": "两张（纸或其他扁平物体）"
       },
       {
         "word": "一枚",
         "reading": "いちまい",
-        "meaning": "one thin flat object"
+        "meaning": "one thin flat object",
+        "cn": "一个薄而扁平的物体"
       }
     ]
   },
@@ -3486,17 +3811,20 @@
       {
         "word": "裏門",
         "reading": "うらもん",
-        "meaning": "back gate"
+        "meaning": "back gate",
+        "cn": "后门"
       },
       {
         "word": "正門",
         "reading": "せいもん",
-        "meaning": "main gate"
+        "meaning": "main gate",
+        "cn": "正门"
       },
       {
         "word": "専門家",
         "reading": "せんもんか",
-        "meaning": "specialist"
+        "meaning": "specialist",
+        "cn": "专家"
       }
     ]
   },
@@ -3521,17 +3849,20 @@
       {
         "word": "泥棒",
         "reading": "どろぼう",
-        "meaning": "theft"
+        "meaning": "theft",
+        "cn": "盗窃"
       },
       {
         "word": "泥々",
         "reading": "どろどろ",
-        "meaning": "muddy"
+        "meaning": "muddy",
+        "cn": "浑"
       },
       {
         "word": "泥沼",
         "reading": "でいしょう",
-        "meaning": "quandary"
+        "meaning": "quandary",
+        "cn": "困惑"
       }
     ]
   },
@@ -3553,17 +3884,20 @@
       {
         "word": "東欧",
         "reading": "とうおう",
-        "meaning": "Eastern Europe"
+        "meaning": "Eastern Europe",
+        "cn": "东欧"
       },
       {
         "word": "欧米",
         "reading": "おうべい",
-        "meaning": "Europe and America"
+        "meaning": "Europe and America",
+        "cn": "欧洲和美洲"
       },
       {
         "word": "西欧",
         "reading": "せいおう",
-        "meaning": "Western Europe"
+        "meaning": "Western Europe",
+        "cn": "西欧"
       }
     ]
   },
@@ -3585,17 +3919,20 @@
       {
         "word": "宿泊",
         "reading": "しゅくはく",
-        "meaning": "accommodation"
+        "meaning": "accommodation",
+        "cn": "住宿"
       },
       {
         "word": "泊める",
         "reading": "とめる",
-        "meaning": "to give shelter to"
+        "meaning": "to give shelter to",
+        "cn": "庇护"
       },
       {
         "word": "泊まる",
         "reading": "とまる",
-        "meaning": "to stay at (e.g. hotel)"
+        "meaning": "to stay at (e.g. hotel)",
+        "cn": "住在（例如酒店）"
       }
     ]
   },
@@ -3616,17 +3953,20 @@
       {
         "word": "祈り",
         "reading": "いのり",
-        "meaning": "prayer"
+        "meaning": "prayer",
+        "cn": "祷告"
       },
       {
         "word": "祈願",
         "reading": "きがん",
-        "meaning": "prayer (for something)"
+        "meaning": "prayer (for something)",
+        "cn": "祈祷（为某事）"
       },
       {
         "word": "祈る",
         "reading": "いのる",
-        "meaning": "to wish"
+        "meaning": "to wish",
+        "cn": "想要"
       }
     ]
   },
@@ -3645,17 +3985,20 @@
       {
         "word": "旅券",
         "reading": "りょけん",
-        "meaning": "passport"
+        "meaning": "passport",
+        "cn": "护照"
       },
       {
         "word": "定期券",
         "reading": "ていきけん",
-        "meaning": "commuter pass"
+        "meaning": "commuter pass",
+        "cn": "月票"
       },
       {
         "word": "前売り券",
         "reading": "まえうりけん",
-        "meaning": "ticket sold in advance"
+        "meaning": "ticket sold in advance",
+        "cn": "提前售出的票"
       }
     ]
   },
@@ -3677,17 +4020,20 @@
       {
         "word": "牛乳",
         "reading": "ぎゅうにゅう",
-        "meaning": "(cow's) milk"
+        "meaning": "(cow's) milk",
+        "cn": "（牛奶）"
       },
       {
         "word": "乳児",
         "reading": "にゅうじ",
-        "meaning": "infant (below 1 year old)"
+        "meaning": "infant (below 1 year old)",
+        "cn": "婴儿（1岁以下）"
       },
       {
         "word": "乳製品",
         "reading": "にゅうせいひん",
-        "meaning": "dairy products"
+        "meaning": "dairy products",
+        "cn": "乳制品"
       }
     ]
   },
@@ -3708,17 +4054,20 @@
       {
         "word": "昇進",
         "reading": "しょうしん",
-        "meaning": "promotion"
+        "meaning": "promotion",
+        "cn": "晋升"
       },
       {
         "word": "上昇",
         "reading": "じょうしょう",
-        "meaning": "rising"
+        "meaning": "rising",
+        "cn": "上升"
       },
       {
         "word": "上り",
         "reading": "のぼり",
-        "meaning": "upbound (esp. toward Tokyo)"
+        "meaning": "upbound (esp. toward Tokyo)",
+        "cn": "上行（尤其是前往东京）"
       }
     ]
   },
@@ -3739,17 +4088,20 @@
       {
         "word": "記述",
         "reading": "きじゅつ",
-        "meaning": "description"
+        "meaning": "description",
+        "cn": "描述"
       },
       {
         "word": "述べる",
         "reading": "のべる",
-        "meaning": "to state"
+        "meaning": "to state",
+        "cn": "陈述"
       },
       {
         "word": "陳述",
         "reading": "ちんじゅつ",
-        "meaning": "statement"
+        "meaning": "statement",
+        "cn": "陈述"
       }
     ]
   },
@@ -3773,17 +4125,20 @@
       {
         "word": "印刷",
         "reading": "いんさつ",
-        "meaning": "printing"
+        "meaning": "printing",
+        "cn": "印刷"
       },
       {
         "word": "歯ブラシ",
         "reading": "はブラシ",
-        "meaning": "toothbrush"
+        "meaning": "toothbrush",
+        "cn": "牙刷"
       },
       {
         "word": "刷る",
         "reading": "する",
-        "meaning": "to color or pattern fabric using a wooden mold"
+        "meaning": "to color or pattern fabric using a wooden mold",
+        "cn": "使用木模给织物上色或图案"
       }
     ]
   },
@@ -3804,17 +4159,20 @@
       {
         "word": "委員",
         "reading": "いいん",
-        "meaning": "committee member"
+        "meaning": "committee member",
+        "cn": "委员"
       },
       {
         "word": "委任",
         "reading": "いにん",
-        "meaning": "entrusting"
+        "meaning": "entrusting",
+        "cn": "托付"
       },
       {
         "word": "委員会",
         "reading": "いいんかい",
-        "meaning": "committee"
+        "meaning": "committee",
+        "cn": "委员会"
       }
     ]
   },
@@ -3837,17 +4195,20 @@
       {
         "word": "武士",
         "reading": "ぶし",
-        "meaning": "samurai"
+        "meaning": "samurai",
+        "cn": "武士"
       },
       {
         "word": "武力",
         "reading": "ぶりょく",
-        "meaning": "armed might"
+        "meaning": "armed might",
+        "cn": "武装力量"
       },
       {
         "word": "武装",
         "reading": "ぶそう",
-        "meaning": "arms"
+        "meaning": "arms",
+        "cn": "武器"
       }
     ]
   },
@@ -3870,17 +4231,20 @@
       {
         "word": "効率",
         "reading": "こうりつ",
-        "meaning": "efficiency"
+        "meaning": "efficiency",
+        "cn": "效率"
       },
       {
         "word": "逆効果",
         "reading": "ぎゃくこうか",
-        "meaning": "opposite effect"
+        "meaning": "opposite effect",
+        "cn": "相反的效果"
       },
       {
         "word": "効力",
         "reading": "こうりょく",
-        "meaning": "effect"
+        "meaning": "effect",
+        "cn": "影响"
       }
     ]
   },
@@ -3899,17 +4263,20 @@
       {
         "word": "農協",
         "reading": "のうきょう",
-        "meaning": "agricultural cooperative"
+        "meaning": "agricultural cooperative",
+        "cn": "农业合作社"
       },
       {
         "word": "妥協",
         "reading": "だきょう",
-        "meaning": "compromise"
+        "meaning": "compromise",
+        "cn": "妥协"
       },
       {
         "word": "協議",
         "reading": "きょうぎ",
-        "meaning": "conference"
+        "meaning": "conference",
+        "cn": "会议"
       }
     ]
   },
@@ -3929,17 +4296,20 @@
       {
         "word": "同姓",
         "reading": "どうせい",
-        "meaning": "same surname"
+        "meaning": "same surname",
+        "cn": "同姓"
       },
       {
         "word": "姓名",
         "reading": "せいめい",
-        "meaning": "(full) name"
+        "meaning": "(full) name",
+        "cn": "（姓名"
       },
       {
         "word": "百姓",
         "reading": "ひゃくしょう",
-        "meaning": "farming"
+        "meaning": "farming",
+        "cn": "农业"
       }
     ]
   },
@@ -3963,17 +4333,20 @@
       {
         "word": "延期",
         "reading": "えんき",
-        "meaning": "postponement"
+        "meaning": "postponement",
+        "cn": "推迟"
       },
       {
         "word": "延滞",
         "reading": "えんたい",
-        "meaning": "arrears"
+        "meaning": "arrears",
+        "cn": "欠款"
       },
       {
         "word": "蔓延る",
         "reading": "はびこる",
-        "meaning": "to become overgrown"
+        "meaning": "to become overgrown",
+        "cn": "变得杂草丛生"
       }
     ]
   },
@@ -3994,17 +4367,20 @@
       {
         "word": "頑丈",
         "reading": "がんじょう",
-        "meaning": "solid"
+        "meaning": "solid",
+        "cn": "坚硬的"
       },
       {
         "word": "岩間",
         "reading": "いわま",
-        "meaning": "among rocks"
+        "meaning": "among rocks",
+        "cn": "在岩石之间"
       },
       {
         "word": "岩盤",
         "reading": "がんばん",
-        "meaning": "bedrock"
+        "meaning": "bedrock",
+        "cn": "基岩"
       }
     ]
   },
@@ -4026,17 +4402,20 @@
       {
         "word": "依然",
         "reading": "いぜん",
-        "meaning": "still"
+        "meaning": "still",
+        "cn": "仍然"
       },
       {
         "word": "依頼",
         "reading": "いらい",
-        "meaning": "dependence"
+        "meaning": "dependence",
+        "cn": "依赖"
       },
       {
         "word": "依存",
         "reading": "いそん",
-        "meaning": "dependence"
+        "meaning": "dependence",
+        "cn": "依赖"
       }
     ]
   },
@@ -4058,17 +4437,20 @@
       {
         "word": "原油",
         "reading": "げんゆ",
-        "meaning": "crude oil"
+        "meaning": "crude oil",
+        "cn": "原油"
       },
       {
         "word": "油田",
         "reading": "ゆでん",
-        "meaning": "oil field"
+        "meaning": "oil field",
+        "cn": "油田"
       },
       {
         "word": "油絵",
         "reading": "あぶらえ",
-        "meaning": "oil painting"
+        "meaning": "oil painting",
+        "cn": "油画"
       }
     ]
   },
@@ -4089,17 +4471,20 @@
       {
         "word": "爪楊枝",
         "reading": "つまようじ",
-        "meaning": "toothpick"
+        "meaning": "toothpick",
+        "cn": "牙签"
       },
       {
         "word": "枝葉",
         "reading": "えだは",
-        "meaning": "branches and leaves"
+        "meaning": "branches and leaves",
+        "cn": "枝叶"
       },
       {
         "word": "枝豆",
         "reading": "えだまめ",
-        "meaning": "edamame (green soybeans)"
+        "meaning": "edamame (green soybeans)",
+        "cn": "毛豆（青大豆）"
       }
     ]
   },
@@ -4120,17 +4505,20 @@
       {
         "word": "円周",
         "reading": "えんしゅう",
-        "meaning": "circumference"
+        "meaning": "circumference",
+        "cn": "圆周"
       },
       {
         "word": "周期",
         "reading": "しゅうき",
-        "meaning": "cycle"
+        "meaning": "cycle",
+        "cn": "循环"
       },
       {
         "word": "身の回り",
         "reading": "みのまわり",
-        "meaning": "one's personal belongings"
+        "meaning": "one's personal belongings",
+        "cn": "某人的个人物品"
       }
     ]
   },
@@ -4156,17 +4544,20 @@
       {
         "word": "率先",
         "reading": "そっせん",
-        "meaning": "taking the initiative"
+        "meaning": "taking the initiative",
+        "cn": "采取主动"
       },
       {
         "word": "終わる",
         "reading": "おわる",
-        "meaning": "to end"
+        "meaning": "to end",
+        "cn": "结束"
       },
       {
         "word": "軽率",
         "reading": "けいそつ",
-        "meaning": "rash"
+        "meaning": "rash",
+        "cn": "皮疹"
       }
     ]
   },
@@ -4188,17 +4579,20 @@
       {
         "word": "城内",
         "reading": "じょうない",
-        "meaning": "area surrounded by castle walls"
+        "meaning": "area surrounded by castle walls",
+        "cn": "被城墙包围的区域"
       },
       {
         "word": "居城",
         "reading": "きょじょう",
-        "meaning": "castle of a feudal lord"
+        "meaning": "castle of a feudal lord",
+        "cn": "封建领主的城堡"
       },
       {
         "word": "城主",
         "reading": "じょうしゅ",
-        "meaning": "lord of a castle"
+        "meaning": "lord of a castle",
+        "cn": "城堡的领主"
       }
     ]
   },
@@ -4218,17 +4612,20 @@
       {
         "word": "同封",
         "reading": "どうふう",
-        "meaning": "enclosing (e.g. with a letter)"
+        "meaning": "enclosing (e.g. with a letter)",
+        "cn": "附上（例如用一封信）"
       },
       {
         "word": "封筒",
         "reading": "ふうとう",
-        "meaning": "envelope"
+        "meaning": "envelope",
+        "cn": "信封"
       },
       {
         "word": "封建主義",
         "reading": "ほうけんしゅぎ",
-        "meaning": "feudalism"
+        "meaning": "feudalism",
+        "cn": "封建"
       }
     ]
   },
@@ -4249,17 +4646,20 @@
       {
         "word": "革新",
         "reading": "かくしん",
-        "meaning": "reform"
+        "meaning": "reform",
+        "cn": "改革"
       },
       {
         "word": "改革",
         "reading": "かいかく",
-        "meaning": "reform"
+        "meaning": "reform",
+        "cn": "改革"
       },
       {
         "word": "革命",
         "reading": "かくめい",
-        "meaning": "58th year of the sexagenary cycle (in Onmyōdō)"
+        "meaning": "58th year of the sexagenary cycle (in Onmyōdō)",
+        "cn": "天干地支58年（阴阳道）"
       }
     ]
   },
@@ -4283,17 +4683,20 @@
       {
         "word": "紅茶",
         "reading": "こうちゃ",
-        "meaning": "black tea"
+        "meaning": "black tea",
+        "cn": "红茶"
       },
       {
         "word": "口紅",
         "reading": "くちべに",
-        "meaning": "lipstick"
+        "meaning": "lipstick",
+        "cn": "口红"
       },
       {
         "word": "紅葉",
         "reading": "こうよう",
-        "meaning": "leaves turning red (in autumn)"
+        "meaning": "leaves turning red (in autumn)",
+        "cn": "树叶变红（秋天）"
       }
     ]
   },
@@ -4315,17 +4718,20 @@
       {
         "word": "厚さ",
         "reading": "あつさ",
-        "meaning": "thickness"
+        "meaning": "thickness",
+        "cn": "厚度"
       },
       {
         "word": "厚着",
         "reading": "あつぎ",
-        "meaning": "wearing thick clothes"
+        "meaning": "wearing thick clothes",
+        "cn": "穿着厚衣服"
       },
       {
         "word": "厚意",
         "reading": "こうい",
-        "meaning": "kindness"
+        "meaning": "kindness",
+        "cn": "仁慈"
       }
     ]
   },
@@ -4351,17 +4757,20 @@
       {
         "word": "粗筋",
         "reading": "あらすじ",
-        "meaning": "outline"
+        "meaning": "outline",
+        "cn": "大纲"
       },
       {
         "word": "荒々しい",
         "reading": "あらあらしい",
-        "meaning": "rough"
+        "meaning": "rough",
+        "cn": "粗糙的"
       },
       {
         "word": "荒野",
         "reading": "あらの",
-        "meaning": "wasteland"
+        "meaning": "wasteland",
+        "cn": "荒地"
       }
     ]
   },
@@ -4380,17 +4789,20 @@
       {
         "word": "郊外",
         "reading": "こうがい",
-        "meaning": "suburb"
+        "meaning": "suburb",
+        "cn": "市郊"
       },
       {
         "word": "近郊",
         "reading": "きんこう",
-        "meaning": "outskirts"
+        "meaning": "outskirts",
+        "cn": "郊区"
       },
       {
         "word": "北郊",
         "reading": "ほっこう",
-        "meaning": "northern suburbs"
+        "meaning": "northern suburbs",
+        "cn": "北郊"
       }
     ]
   },
@@ -4414,17 +4826,20 @@
       {
         "word": "鉢巻",
         "reading": "はちまき",
-        "meaning": "headband"
+        "meaning": "headband",
+        "cn": "头巾"
       },
       {
         "word": "鉢巻き",
         "reading": "はちまき",
-        "meaning": "headband"
+        "meaning": "headband",
+        "cn": "头巾"
       },
       {
         "word": "巻尺",
         "reading": "まきじゃく",
-        "meaning": "tape measure"
+        "meaning": "tape measure",
+        "cn": "卷尺"
       }
     ]
   },
@@ -4445,17 +4860,20 @@
       {
         "word": "空軍",
         "reading": "くうぐん",
-        "meaning": "air force"
+        "meaning": "air force",
+        "cn": "空军"
       },
       {
         "word": "陸軍",
         "reading": "りくぐん",
-        "meaning": "army"
+        "meaning": "army",
+        "cn": "军队"
       },
       {
         "word": "軍国主義",
         "reading": "ぐんこくしゅぎ",
-        "meaning": "militarism"
+        "meaning": "militarism",
+        "cn": "军国主义"
       }
     ]
   },
@@ -4477,17 +4895,20 @@
       {
         "word": "木枯し",
         "reading": "こがらし",
-        "meaning": "cold wintry wind"
+        "meaning": "cold wintry wind",
+        "cn": "寒冷的冬风"
       },
       {
         "word": "木枯らし",
         "reading": "こがらし",
-        "meaning": "cold wintry wind"
+        "meaning": "cold wintry wind",
+        "cn": "寒冷的冬风"
       },
       {
         "word": "枯葉",
         "reading": "かれは",
-        "meaning": "dead leaf"
+        "meaning": "dead leaf",
+        "cn": "枯叶"
       }
     ]
   },
@@ -4508,17 +4929,20 @@
       {
         "word": "法律",
         "reading": "ほうりつ",
-        "meaning": "law"
+        "meaning": "law",
+        "cn": "法律"
       },
       {
         "word": "旋律",
         "reading": "せんりつ",
-        "meaning": "melody"
+        "meaning": "melody",
+        "cn": "旋律"
       },
       {
         "word": "規律",
         "reading": "きりつ",
-        "meaning": "order"
+        "meaning": "order",
+        "cn": "命令"
       }
     ]
   },
@@ -4537,17 +4961,20 @@
       {
         "word": "秒読み",
         "reading": "びょうよみ",
-        "meaning": "countdown"
+        "meaning": "countdown",
+        "cn": "倒计时"
       },
       {
         "word": "秒速",
         "reading": "びょうそく",
-        "meaning": "speed per second"
+        "meaning": "speed per second",
+        "cn": "每秒速度"
       },
       {
         "word": "毎秒",
         "reading": "まいびょう",
-        "meaning": "every second"
+        "meaning": "every second",
+        "cn": "每秒"
       }
     ]
   },
@@ -4571,17 +4998,20 @@
       {
         "word": "逆境",
         "reading": "ぎゃっきょう",
-        "meaning": "adverse circumstances"
+        "meaning": "adverse circumstances",
+        "cn": "不利的情况"
       },
       {
         "word": "逆効果",
         "reading": "ぎゃくこうか",
-        "meaning": "opposite effect"
+        "meaning": "opposite effect",
+        "cn": "相反的效果"
       },
       {
         "word": "逆さ",
         "reading": "さかさ",
-        "meaning": "inverted"
+        "meaning": "inverted",
+        "cn": "倒"
       }
     ]
   },
@@ -4602,17 +5032,20 @@
       {
         "word": "浅はか",
         "reading": "あさはか",
-        "meaning": "shallow"
+        "meaning": "shallow",
+        "cn": "浅的"
       },
       {
         "word": "浅い",
         "reading": "あさい",
-        "meaning": "shallow"
+        "meaning": "shallow",
+        "cn": "浅的"
       },
       {
         "word": "浅見",
         "reading": "せんけん",
-        "meaning": "shallow view"
+        "meaning": "shallow view",
+        "cn": "浅见"
       }
     ]
   },
@@ -4633,17 +5066,20 @@
       {
         "word": "温泉",
         "reading": "おんせん",
-        "meaning": "hot spring"
+        "meaning": "hot spring",
+        "cn": "温泉"
       },
       {
         "word": "源泉",
         "reading": "げんせん",
-        "meaning": "source (of a spring, etc.)"
+        "meaning": "source (of a spring, etc.)",
+        "cn": "（弹簧等的）来源"
       },
       {
         "word": "霊泉",
         "reading": "れいせん",
-        "meaning": "miraculous spring or fountain"
+        "meaning": "miraculous spring or fountain",
+        "cn": "神奇的泉水或喷泉"
       }
     ]
   },
@@ -4669,17 +5105,20 @@
       {
         "word": "栄光",
         "reading": "えいこう",
-        "meaning": "glory"
+        "meaning": "glory",
+        "cn": "荣耀"
       },
       {
         "word": "虚栄心",
         "reading": "きょえいしん",
-        "meaning": "vanity"
+        "meaning": "vanity",
+        "cn": "虚荣"
       },
       {
         "word": "栄養",
         "reading": "えいよう",
-        "meaning": "nutrition"
+        "meaning": "nutrition",
+        "cn": "营养"
       }
     ]
   },
@@ -4704,17 +5143,20 @@
       {
         "word": "柔道",
         "reading": "じゅうどう",
-        "meaning": "judo"
+        "meaning": "judo",
+        "cn": "柔道"
       },
       {
         "word": "柔軟",
         "reading": "じゅうなん",
-        "meaning": "flexible"
+        "meaning": "flexible",
+        "cn": "灵活的"
       },
       {
         "word": "和らぐ",
         "reading": "やわらぐ",
-        "meaning": "to soften"
+        "meaning": "to soften",
+        "cn": "软化"
       }
     ]
   },
@@ -4736,17 +5178,20 @@
       {
         "word": "砂漠",
         "reading": "さばく",
-        "meaning": "desert"
+        "meaning": "desert",
+        "cn": "沙漠"
       },
       {
         "word": "砂浜",
         "reading": "すなはま",
-        "meaning": "sandy beach"
+        "meaning": "sandy beach",
+        "cn": "沙滩"
       },
       {
         "word": "砂糖",
         "reading": "さとう",
-        "meaning": "sugar"
+        "meaning": "sugar",
+        "cn": "糖"
       }
     ]
   },
@@ -4769,17 +5214,20 @@
       {
         "word": "文部省",
         "reading": "もんぶしょう",
-        "meaning": "Ministry of Education, Science and Culture (1871-2001)"
+        "meaning": "Ministry of Education, Science and Culture (1871-2001)",
+        "cn": "教育、科学和文化部（1871-2001）"
       },
       {
         "word": "外務省",
         "reading": "がいむしょう",
-        "meaning": "Ministry of Foreign Affairs"
+        "meaning": "Ministry of Foreign Affairs",
+        "cn": "外交部"
       },
       {
         "word": "通産省",
         "reading": "つうさんしょう",
-        "meaning": "(former) Ministry of International Trade and Industry (now Ministry of Economy, Trade and Industry)"
+        "meaning": "(former) Ministry of International Trade and Industry (now Ministry of Economy, Trade and Industry)",
+        "cn": "（原）通商产业省（现经济产业省）"
       }
     ]
   },
@@ -4801,17 +5249,20 @@
       {
         "word": "拾得",
         "reading": "しゅうとく",
-        "meaning": "finding (lost property)"
+        "meaning": "finding (lost property)",
+        "cn": "发现（丢失的财产）"
       },
       {
         "word": "二十",
         "reading": "にじゅう",
-        "meaning": "twenty"
+        "meaning": "twenty",
+        "cn": "二十"
       },
       {
         "word": "収拾",
         "reading": "しゅうしゅう",
-        "meaning": "control"
+        "meaning": "control",
+        "cn": "控制"
       }
     ]
   },
@@ -4832,17 +5283,20 @@
       {
         "word": "石炭",
         "reading": "いしずみ",
-        "meaning": "coal"
+        "meaning": "coal",
+        "cn": "煤炭"
       },
       {
         "word": "炭酸",
         "reading": "たんさん",
-        "meaning": "carbonic acid"
+        "meaning": "carbonic acid",
+        "cn": "碳酸"
       },
       {
         "word": "炭素",
         "reading": "たんそ",
-        "meaning": "carbon (C)"
+        "meaning": "carbon (C)",
+        "cn": "碳（C）"
       }
     ]
   },
@@ -4861,17 +5315,20 @@
       {
         "word": "胃腸",
         "reading": "いちょう",
-        "meaning": "stomach and intestines"
+        "meaning": "stomach and intestines",
+        "cn": "胃和肠"
       },
       {
         "word": "胃カメラ",
         "reading": "いカメラ",
-        "meaning": "endoscope"
+        "meaning": "endoscope",
+        "cn": "内窥镜"
       },
       {
         "word": "胃炎",
         "reading": "いえん",
-        "meaning": "gastritis"
+        "meaning": "gastritis",
+        "cn": "胃炎"
       }
     ]
   },
@@ -4892,17 +5349,20 @@
       {
         "word": "県庁",
         "reading": "けんちょう",
-        "meaning": "prefectural office"
+        "meaning": "prefectural office",
+        "cn": "县政府"
       },
       {
         "word": "県立",
         "reading": "けんりつ",
-        "meaning": "prefectural"
+        "meaning": "prefectural",
+        "cn": "县级的"
       },
       {
         "word": "県営",
         "reading": "けんえい",
-        "meaning": "(under) prefectural management"
+        "meaning": "(under) prefectural management",
+        "cn": "（下）县管理"
       }
     ]
   },
@@ -4926,17 +5386,20 @@
       {
         "word": "香水",
         "reading": "こうすい",
-        "meaning": "perfume"
+        "meaning": "perfume",
+        "cn": "香水"
       },
       {
         "word": "香る",
         "reading": "かおる",
-        "meaning": "to smell sweet"
+        "meaning": "to smell sweet",
+        "cn": "闻起来甜甜的"
       },
       {
         "word": "香り",
         "reading": "かおり",
-        "meaning": "aroma"
+        "meaning": "aroma",
+        "cn": "香气"
       }
     ]
   },
@@ -4958,17 +5421,20 @@
       {
         "word": "咲く",
         "reading": "さく",
-        "meaning": "to rise up (of breaking waves)"
+        "meaning": "to rise up (of breaking waves)",
+        "cn": "（破碎的波浪）升起"
       },
       {
         "word": "笑い",
         "reading": "わらい",
-        "meaning": "sex aids (e.g. dildos, pornographic books, erotic woodblock prints, etc.)"
+        "meaning": "sex aids (e.g. dildos, pornographic books, erotic woodblock prints, etc.)",
+        "cn": "性爱用品（例如假阳具、色情书籍、色情木版画等）"
       },
       {
         "word": "笑う",
         "reading": "わらう",
-        "meaning": "to laugh"
+        "meaning": "to laugh",
+        "cn": "笑"
       }
     ]
   },
@@ -4993,17 +5459,20 @@
       {
         "word": "挟む",
         "reading": "はさむ",
-        "meaning": "to harbour (feelings)"
+        "meaning": "to harbour (feelings)",
+        "cn": "怀有（感情）"
       },
       {
         "word": "挟み撃ち",
         "reading": "はさみうち",
-        "meaning": "attack on both sides"
+        "meaning": "attack on both sides",
+        "cn": "双方攻击"
       },
       {
         "word": "挟殺",
         "reading": "きょうさつ",
-        "meaning": "rundown"
+        "meaning": "rundown",
+        "cn": "撞倒"
       }
     ]
   },
@@ -5026,17 +5495,20 @@
       {
         "word": "火星",
         "reading": "かせい",
-        "meaning": "Mars (planet)"
+        "meaning": "Mars (planet)",
+        "cn": "火星（行星）"
       },
       {
         "word": "衛星",
         "reading": "えいせい",
-        "meaning": "(artificial) satellite"
+        "meaning": "(artificial) satellite",
+        "cn": "（卫星"
       },
       {
         "word": "星座",
         "reading": "せいざ",
-        "meaning": "constellation"
+        "meaning": "constellation",
+        "cn": "星座"
       }
     ]
   },
@@ -5058,17 +5530,20 @@
       {
         "word": "固形",
         "reading": "こけい",
-        "meaning": "solid (body)"
+        "meaning": "solid (body)",
+        "cn": "固体）"
       },
       {
         "word": "卵形",
         "reading": "たまごがた",
-        "meaning": "oval shape"
+        "meaning": "oval shape",
+        "cn": "椭圆形"
       },
       {
         "word": "模型",
         "reading": "もけい",
-        "meaning": "model"
+        "meaning": "model",
+        "cn": "模型"
       }
     ]
   },
@@ -5089,17 +5564,20 @@
       {
         "word": "勇敢",
         "reading": "ゆうかん",
-        "meaning": "brave"
+        "meaning": "brave",
+        "cn": "勇敢的"
       },
       {
         "word": "勇気",
         "reading": "ゆうき",
-        "meaning": "courage"
+        "meaning": "courage",
+        "cn": "勇气"
       },
       {
         "word": "勇ましい",
         "reading": "いさましい",
-        "meaning": "stirring"
+        "meaning": "stirring",
+        "cn": "搅拌"
       }
     ]
   },
@@ -5122,17 +5600,20 @@
       {
         "word": "法則",
         "reading": "ほうそく",
-        "meaning": "law"
+        "meaning": "law",
+        "cn": "法律"
       },
       {
         "word": "規則",
         "reading": "きそく",
-        "meaning": "rule"
+        "meaning": "rule",
+        "cn": "规则"
       },
       {
         "word": "校則",
         "reading": "こうそく",
-        "meaning": "school rules"
+        "meaning": "school rules",
+        "cn": "学校规则"
       }
     ]
   },
@@ -5151,17 +5632,20 @@
       {
         "word": "巡査",
         "reading": "じゅんさ",
-        "meaning": "police officer"
+        "meaning": "police officer",
+        "cn": "警官"
       },
       {
         "word": "捜査",
         "reading": "そうさ",
-        "meaning": "search (esp. in criminal investigations)"
+        "meaning": "search (esp. in criminal investigations)",
+        "cn": "搜查（特别是刑事调查中）"
       },
       {
         "word": "調査",
         "reading": "ちょうさ",
-        "meaning": "investigation"
+        "meaning": "investigation",
+        "cn": "调查"
       }
     ]
   },
@@ -5183,17 +5667,20 @@
       {
         "word": "珍しい",
         "reading": "めずらしい",
-        "meaning": "fine (e.g. gift)"
+        "meaning": "fine (e.g. gift)",
+        "cn": "很好（例如礼物）"
       },
       {
         "word": "珍品",
         "reading": "ちんぴん",
-        "meaning": "curio"
+        "meaning": "curio",
+        "cn": "古玩"
       },
       {
         "word": "珍味",
         "reading": "ちんみ",
-        "meaning": "delicacy"
+        "meaning": "delicacy",
+        "cn": "美味"
       }
     ]
   },
@@ -5214,17 +5701,20 @@
       {
         "word": "電柱",
         "reading": "でんちゅう",
-        "meaning": "utility pole"
+        "meaning": "utility pole",
+        "cn": "电线杆"
       },
       {
         "word": "支柱",
         "reading": "しちゅう",
-        "meaning": "prop"
+        "meaning": "prop",
+        "cn": "支柱"
       },
       {
         "word": "大黒柱",
         "reading": "だいこくばしら",
-        "meaning": "central pillar (of a building)"
+        "meaning": "central pillar (of a building)",
+        "cn": "（建筑物的）中心柱"
       }
     ]
   },
@@ -5246,17 +5736,20 @@
       {
         "word": "祝電",
         "reading": "しゅくでん",
-        "meaning": "congratulatory telegram"
+        "meaning": "congratulatory telegram",
+        "cn": "贺电"
       },
       {
         "word": "祝日",
         "reading": "しゅくじつ",
-        "meaning": "national holiday"
+        "meaning": "national holiday",
+        "cn": "国庆"
       },
       {
         "word": "祝福",
         "reading": "しゅくふく",
-        "meaning": "blessing (from God)"
+        "meaning": "blessing (from God)",
+        "cn": "（来自上帝的）祝福"
       }
     ]
   },
@@ -5277,17 +5770,20 @@
       {
         "word": "専攻",
         "reading": "せんこう",
-        "meaning": "major subject"
+        "meaning": "major subject",
+        "cn": "主要科目"
       },
       {
         "word": "専念",
         "reading": "せんねん",
-        "meaning": "absorption"
+        "meaning": "absorption",
+        "cn": "吸收"
       },
       {
         "word": "専門家",
         "reading": "せんもんか",
-        "meaning": "specialist"
+        "meaning": "specialist",
+        "cn": "专家"
       }
     ]
   },
@@ -5306,17 +5802,20 @@
       {
         "word": "一般に",
         "reading": "いっぱんに",
-        "meaning": "generally"
+        "meaning": "generally",
+        "cn": "一般来说"
       },
       {
         "word": "全般",
         "reading": "ぜんぱん",
-        "meaning": "(the) whole"
+        "meaning": "(the) whole",
+        "cn": "（整个）"
       },
       {
         "word": "一般",
         "reading": "いっぱん",
-        "meaning": "general"
+        "meaning": "general",
+        "cn": "一般的"
       }
     ]
   },
@@ -5335,17 +5834,20 @@
       {
         "word": "倍増",
         "reading": "ばいぞう",
-        "meaning": "doubling"
+        "meaning": "doubling",
+        "cn": "加倍"
       },
       {
         "word": "倍率",
         "reading": "ばいりつ",
-        "meaning": "competitiveness rating (e.g. for university entrance)"
+        "meaning": "competitiveness rating (e.g. for university entrance)",
+        "cn": "竞争力评级（例如大学入学）"
       },
       {
         "word": "人一倍",
         "reading": "ひといちばい",
-        "meaning": "(much) more than others"
+        "meaning": "(much) more than others",
+        "cn": "比其他人（多）多"
       }
     ]
   },
@@ -5369,17 +5871,20 @@
       {
         "word": "被告",
         "reading": "ひこく",
-        "meaning": "defendant"
+        "meaning": "defendant",
+        "cn": "被告"
       },
       {
         "word": "被害",
         "reading": "ひがい",
-        "meaning": "(suffering) damage"
+        "meaning": "(suffering) damage",
+        "cn": "（遭受）伤害"
       },
       {
         "word": "覆う",
         "reading": "おおう",
-        "meaning": "to cover"
+        "meaning": "to cover",
+        "cn": "覆盖"
       }
     ]
   },
@@ -5398,17 +5903,20 @@
       {
         "word": "家畜",
         "reading": "かちく",
-        "meaning": "domestic animals"
+        "meaning": "domestic animals",
+        "cn": "家畜"
       },
       {
         "word": "牧畜",
         "reading": "ぼくちく",
-        "meaning": "stock-farming"
+        "meaning": "stock-farming",
+        "cn": "畜牧业"
       },
       {
         "word": "畜生",
         "reading": "ちきしょう",
-        "meaning": "person reborn into the animal realm"
+        "meaning": "person reborn into the animal realm",
+        "cn": "人转生到畜生道"
       }
     ]
   },
@@ -5427,17 +5935,20 @@
       {
         "word": "純情",
         "reading": "じゅんじょう",
-        "meaning": "pure heart"
+        "meaning": "pure heart",
+        "cn": "纯洁的心"
       },
       {
         "word": "純粋",
         "reading": "じゅんすい",
-        "meaning": "pure"
+        "meaning": "pure",
+        "cn": "纯的"
       },
       {
         "word": "不純",
         "reading": "ふじゅん",
-        "meaning": "impure"
+        "meaning": "impure",
+        "cn": "不纯的"
       }
     ]
   },
@@ -5459,17 +5970,20 @@
       {
         "word": "温帯",
         "reading": "おんたい",
-        "meaning": "temperate zone"
+        "meaning": "temperate zone",
+        "cn": "温带"
       },
       {
         "word": "熱帯",
         "reading": "ねったい",
-        "meaning": "tropics"
+        "meaning": "tropics",
+        "cn": "热带"
       },
       {
         "word": "包帯",
         "reading": "ほうたい",
-        "meaning": "bandage"
+        "meaning": "bandage",
+        "cn": "绷带"
       }
     ]
   },
@@ -5491,17 +6005,20 @@
       {
         "word": "政党",
         "reading": "せいとう",
-        "meaning": "political party"
+        "meaning": "political party",
+        "cn": "政党"
       },
       {
         "word": "野党",
         "reading": "やとう",
-        "meaning": "opposition party"
+        "meaning": "opposition party",
+        "cn": "反对党"
       },
       {
         "word": "与党",
         "reading": "よとう",
-        "meaning": "ruling party"
+        "meaning": "ruling party",
+        "cn": "执政党"
       }
     ]
   },
@@ -5522,17 +6039,20 @@
       {
         "word": "列島",
         "reading": "れっとう",
-        "meaning": "archipelago"
+        "meaning": "archipelago",
+        "cn": "群岛"
       },
       {
         "word": "半島",
         "reading": "はんとう",
-        "meaning": "Korea"
+        "meaning": "Korea",
+        "cn": "韩国"
       },
       {
         "word": "朝鮮半島",
         "reading": "ちょうせんはんとう",
-        "meaning": "Korean peninsula"
+        "meaning": "Korean peninsula",
+        "cn": "朝鲜半岛"
       }
     ]
   },
@@ -5557,17 +6077,20 @@
       {
         "word": "冷凍",
         "reading": "れいとう",
-        "meaning": "freezing"
+        "meaning": "freezing",
+        "cn": "冷冻"
       },
       {
         "word": "凍る",
         "reading": "こおる",
-        "meaning": "to freeze"
+        "meaning": "to freeze",
+        "cn": "冻结"
       },
       {
         "word": "凍える",
         "reading": "こごえる",
-        "meaning": "to freeze (of one's body)"
+        "meaning": "to freeze (of one's body)",
+        "cn": "冻结（某人的身体）"
       }
     ]
   },
@@ -5590,17 +6113,20 @@
       {
         "word": "白粉",
         "reading": "おしろい",
-        "meaning": "(face) powder"
+        "meaning": "(face) powder",
+        "cn": "（香粉"
       },
       {
         "word": "粉末",
         "reading": "ふんまつ",
-        "meaning": "fine powder"
+        "meaning": "fine powder",
+        "cn": "细粉"
       },
       {
         "word": "小麦粉",
         "reading": "こむぎこ",
-        "meaning": "wheat flour"
+        "meaning": "wheat flour",
+        "cn": "面粉"
       }
     ]
   },
@@ -5620,17 +6146,20 @@
       {
         "word": "別個",
         "reading": "べっこ",
-        "meaning": "another"
+        "meaning": "another",
+        "cn": "其他"
       },
       {
         "word": "個々",
         "reading": "ここ",
-        "meaning": "individual"
+        "meaning": "individual",
+        "cn": "个人"
       },
       {
         "word": "個性",
         "reading": "こせい",
-        "meaning": "individuality"
+        "meaning": "individuality",
+        "cn": "个性"
       }
     ]
   },
@@ -5652,17 +6181,20 @@
       {
         "word": "屋根",
         "reading": "やね",
-        "meaning": "roof"
+        "meaning": "roof",
+        "cn": "屋顶"
       },
       {
         "word": "根気",
         "reading": "こんき",
-        "meaning": "patience"
+        "meaning": "patience",
+        "cn": "耐心"
       },
       {
         "word": "根拠",
         "reading": "こんきょ",
-        "meaning": "base (of operations)"
+        "meaning": "base (of operations)",
+        "cn": "(行动的)基地"
       }
     ]
   },
@@ -5683,17 +6215,20 @@
       {
         "word": "農耕",
         "reading": "のうこう",
-        "meaning": "farming"
+        "meaning": "farming",
+        "cn": "农业"
       },
       {
         "word": "耕す",
         "reading": "たがやす",
-        "meaning": "to till"
+        "meaning": "to till",
+        "cn": "直到"
       },
       {
         "word": "耕作",
         "reading": "こうさく",
-        "meaning": "cultivation"
+        "meaning": "cultivation",
+        "cn": "栽培"
       }
     ]
   },
@@ -5714,17 +6249,20 @@
       {
         "word": "骨折",
         "reading": "こっせつ",
-        "meaning": "bone fracture"
+        "meaning": "bone fracture",
+        "cn": "骨折"
       },
       {
         "word": "骸骨",
         "reading": "がいこつ",
-        "meaning": "skeleton"
+        "meaning": "skeleton",
+        "cn": "骨骼"
       },
       {
         "word": "拳骨",
         "reading": "げんこつ",
-        "meaning": "(clenched) fist"
+        "meaning": "(clenched) fist",
+        "cn": "（握紧）拳头"
       }
     ]
   },
@@ -5743,17 +6281,20 @@
       {
         "word": "航空機",
         "reading": "こうくうき",
-        "meaning": "aircraft"
+        "meaning": "aircraft",
+        "cn": "飞机"
       },
       {
         "word": "航空",
         "reading": "こうくう",
-        "meaning": "aviation"
+        "meaning": "aviation",
+        "cn": "航空"
       },
       {
         "word": "航空券",
         "reading": "こうくうけん",
-        "meaning": "airline ticket"
+        "meaning": "airline ticket",
+        "cn": "机票"
       }
     ]
   },
@@ -5774,17 +6315,20 @@
       {
         "word": "入荷",
         "reading": "にゅうか",
-        "meaning": "arrival of goods"
+        "meaning": "arrival of goods",
+        "cn": "货物到达"
       },
       {
         "word": "荷札",
         "reading": "にふだ",
-        "meaning": "label"
+        "meaning": "label",
+        "cn": "标签"
       },
       {
         "word": "荷作り",
         "reading": "にづくり",
-        "meaning": "packing"
+        "meaning": "packing",
+        "cn": "包装"
       }
     ]
   },
@@ -5810,17 +6354,20 @@
       {
         "word": "麻雀",
         "reading": "まあじゃん",
-        "meaning": "mahjong"
+        "meaning": "mahjong",
+        "cn": "麻将"
       },
       {
         "word": "将棋",
         "reading": "しょうぎ",
-        "meaning": "shogi"
+        "meaning": "shogi",
+        "cn": "将棋"
       },
       {
         "word": "将軍",
         "reading": "しょうぐん",
-        "meaning": "general"
+        "meaning": "general",
+        "cn": "一般的"
       }
     ]
   },
@@ -5842,17 +6389,20 @@
       {
         "word": "冷蔵庫",
         "reading": "れいぞうこ",
-        "meaning": "refrigerator"
+        "meaning": "refrigerator",
+        "cn": "冰箱"
       },
       {
         "word": "車庫",
         "reading": "しゃこ",
-        "meaning": "garage"
+        "meaning": "garage",
+        "cn": "车库"
       },
       {
         "word": "倉庫",
         "reading": "そうこ",
-        "meaning": "storehouse"
+        "meaning": "storehouse",
+        "cn": "库"
       }
     ]
   },
@@ -5874,17 +6424,20 @@
       {
         "word": "催涙",
         "reading": "さいるい",
-        "meaning": "tear-inducing"
+        "meaning": "tear-inducing",
+        "cn": "催泪的"
       },
       {
         "word": "涙声",
         "reading": "なみだごえ",
-        "meaning": "tearful voice"
+        "meaning": "tearful voice",
+        "cn": "含泪的声音"
       },
       {
         "word": "感涙",
         "reading": "かんるい",
-        "meaning": "tears (from being deeply moved)"
+        "meaning": "tears (from being deeply moved)",
+        "cn": "泪水（被深深感动）"
       }
     ]
   },
@@ -5907,17 +6460,20 @@
       {
         "word": "初恋",
         "reading": "はつこい",
-        "meaning": "first love"
+        "meaning": "first love",
+        "cn": "初恋"
       },
       {
         "word": "恋する",
         "reading": "こいする",
-        "meaning": "to fall in love (with)"
+        "meaning": "to fall in love (with)",
+        "cn": "爱上（）"
       },
       {
         "word": "恋しい",
         "reading": "こいしい",
-        "meaning": "yearned for"
+        "meaning": "yearned for",
+        "cn": "渴望"
       }
     ]
   },
@@ -5943,17 +6499,20 @@
       {
         "word": "埋め立て",
         "reading": "うめたて",
-        "meaning": "land reclamation"
+        "meaning": "land reclamation",
+        "cn": "开荒"
       },
       {
         "word": "埋める",
         "reading": "うずめる",
-        "meaning": "to cover"
+        "meaning": "to cover",
+        "cn": "覆盖"
       },
       {
         "word": "埋まる",
         "reading": "うずまる",
-        "meaning": "to be filled (e.g. blank, vacancy, schedule)"
+        "meaning": "to be filled (e.g. blank, vacancy, schedule)",
+        "cn": "待填补（例如空白、空缺、时间表）"
       }
     ]
   },
@@ -5977,17 +6536,20 @@
       {
         "word": "悩む",
         "reading": "なやむ",
-        "meaning": "to be worried"
+        "meaning": "to be worried",
+        "cn": "担心"
       },
       {
         "word": "苦悩",
         "reading": "くのう",
-        "meaning": "(mental) agony"
+        "meaning": "(mental) agony",
+        "cn": "（精神上的）痛苦"
       },
       {
         "word": "悩み",
         "reading": "なやみ",
-        "meaning": "trouble"
+        "meaning": "trouble",
+        "cn": "麻烦"
       }
     ]
   },
@@ -6011,17 +6573,20 @@
       {
         "word": "弱める",
         "reading": "よわめる",
-        "meaning": "to weaken"
+        "meaning": "to weaken",
+        "cn": "削弱"
       },
       {
         "word": "弱音",
         "reading": "よわね",
-        "meaning": "feeble complaint"
+        "meaning": "feeble complaint",
+        "cn": "微弱的抱怨"
       },
       {
         "word": "薄弱",
         "reading": "はくじゃく",
-        "meaning": "feebleness"
+        "meaning": "feebleness",
+        "cn": "虚弱"
       }
     ]
   },
@@ -6044,17 +6609,20 @@
       {
         "word": "捜査",
         "reading": "そうさ",
-        "meaning": "search (esp. in criminal investigations)"
+        "meaning": "search (esp. in criminal investigations)",
+        "cn": "搜查（特别是刑事调查中）"
       },
       {
         "word": "探し回る",
         "reading": "さがしまわる",
-        "meaning": "to search about for"
+        "meaning": "to search about for",
+        "cn": "搜索关于"
       },
       {
         "word": "捜索",
         "reading": "そうさく",
-        "meaning": "legally authorized search of a person, building, etc."
+        "meaning": "legally authorized search of a person, building, etc.",
+        "cn": "经合法授权的对人员、建筑物等的搜查"
       }
     ]
   },
@@ -6075,17 +6643,20 @@
       {
         "word": "子孫",
         "reading": "しそん",
-        "meaning": "descendant"
+        "meaning": "descendant",
+        "cn": "后裔"
       },
       {
         "word": "曽孫",
         "reading": "そうそん",
-        "meaning": "great-grandchild"
+        "meaning": "great-grandchild",
+        "cn": "曾孙"
       },
       {
         "word": "初孫",
         "reading": "ういまご",
-        "meaning": "first grandchild"
+        "meaning": "first grandchild",
+        "cn": "第一个孙子"
       }
     ]
   },
@@ -6107,17 +6678,20 @@
       {
         "word": "胸部",
         "reading": "きょうぶ",
-        "meaning": "chest"
+        "meaning": "chest",
+        "cn": "胸部"
       },
       {
         "word": "胸中",
         "reading": "きょうちゅう",
-        "meaning": "one's heart"
+        "meaning": "one's heart",
+        "cn": "一个人的心"
       },
       {
         "word": "度胸",
         "reading": "どきょう",
-        "meaning": "courage"
+        "meaning": "courage",
+        "cn": "勇气"
       }
     ]
   },
@@ -6138,17 +6712,20 @@
       {
         "word": "軒並",
         "reading": "のきなみ",
-        "meaning": "row of houses"
+        "meaning": "row of houses",
+        "cn": "一排房子"
       },
       {
         "word": "軒並み",
         "reading": "のきなみ",
-        "meaning": "row of houses"
+        "meaning": "row of houses",
+        "cn": "一排房子"
       },
       {
         "word": "軒下",
         "reading": "のきした",
-        "meaning": "under the eaves"
+        "meaning": "under the eaves",
+        "cn": "屋檐下"
       }
     ]
   },
@@ -6172,17 +6749,20 @@
       {
         "word": "訓読み",
         "reading": "くんよみ",
-        "meaning": "kun reading"
+        "meaning": "kun reading",
+        "cn": "坤读"
       },
       {
         "word": "特訓",
         "reading": "とっくん",
-        "meaning": "special training"
+        "meaning": "special training",
+        "cn": "特殊训练"
       },
       {
         "word": "教訓",
         "reading": "きょうくん",
-        "meaning": "lesson"
+        "meaning": "lesson",
+        "cn": "课"
       }
     ]
   },
@@ -6204,17 +6784,20 @@
       {
         "word": "浴室",
         "reading": "よくしつ",
-        "meaning": "bathroom"
+        "meaning": "bathroom",
+        "cn": "浴室"
       },
       {
         "word": "浴槽",
         "reading": "よくそう",
-        "meaning": "bathtub"
+        "meaning": "bathtub",
+        "cn": "浴缸"
       },
       {
         "word": "日光浴",
         "reading": "にっこうよく",
-        "meaning": "sunbathing"
+        "meaning": "sunbathing",
+        "cn": "日光浴"
       }
     ]
   },
@@ -6237,17 +6820,20 @@
       {
         "word": "造船",
         "reading": "ぞうせん",
-        "meaning": "shipbuilding"
+        "meaning": "shipbuilding",
+        "cn": "造船"
       },
       {
         "word": "製造",
         "reading": "せいぞう",
-        "meaning": "manufacture"
+        "meaning": "manufacture",
+        "cn": "生产"
       },
       {
         "word": "荷作り",
         "reading": "にづくり",
-        "meaning": "packing"
+        "meaning": "packing",
+        "cn": "包装"
       }
     ]
   },
@@ -6268,17 +6854,20 @@
       {
         "word": "針金",
         "reading": "はりがね",
-        "meaning": "wire"
+        "meaning": "wire",
+        "cn": "金属丝"
       },
       {
         "word": "方針",
         "reading": "ほうしん",
-        "meaning": "magnetic needle"
+        "meaning": "magnetic needle",
+        "cn": "磁针"
       },
       {
         "word": "指針",
         "reading": "ししん",
-        "meaning": "guiding principle"
+        "meaning": "guiding principle",
+        "cn": "指导原则"
       }
     ]
   },
@@ -6299,17 +6888,20 @@
       {
         "word": "脂肪",
         "reading": "しぼう",
-        "meaning": "fat"
+        "meaning": "fat",
+        "cn": "胖的"
       },
       {
         "word": "樹脂",
         "reading": "じゅし",
-        "meaning": "resin"
+        "meaning": "resin",
+        "cn": "树脂"
       },
       {
         "word": "脂肪酸",
         "reading": "しぼうさん",
-        "meaning": "fatty acid"
+        "meaning": "fatty acid",
+        "cn": "脂肪酸"
       }
     ]
   },
@@ -6343,17 +6935,20 @@
       {
         "word": "採算",
         "reading": "さいさん",
-        "meaning": "profit"
+        "meaning": "profit",
+        "cn": "利润"
       },
       {
         "word": "採集",
         "reading": "さいしゅう",
-        "meaning": "collecting"
+        "meaning": "collecting",
+        "cn": "收集"
       },
       {
         "word": "採点",
         "reading": "さいてん",
-        "meaning": "marking"
+        "meaning": "marking",
+        "cn": "标记"
       }
     ]
   },
@@ -6374,17 +6969,20 @@
       {
         "word": "野菜",
         "reading": "やさい",
-        "meaning": "vegetable"
+        "meaning": "vegetable",
+        "cn": "蔬菜"
       },
       {
         "word": "菜食",
         "reading": "さいしょく",
-        "meaning": "vegetable diet"
+        "meaning": "vegetable diet",
+        "cn": "蔬菜饮食"
       },
       {
         "word": "白菜",
         "reading": "はくさい",
-        "meaning": "napa cabbage (Brassica rapa subsp. pekinensis)"
+        "meaning": "napa cabbage (Brassica rapa subsp. pekinensis)",
+        "cn": "油菜卷心菜（Brassica rapa subsp. pekinensis）"
       }
     ]
   },
@@ -6406,17 +7004,20 @@
       {
         "word": "お袋",
         "reading": "おふくろ",
-        "meaning": "one's mother"
+        "meaning": "one's mother",
+        "cn": "一个人的母亲"
       },
       {
         "word": "手袋",
         "reading": "てぶくろ",
-        "meaning": "glove"
+        "meaning": "glove",
+        "cn": "手套"
       },
       {
         "word": "紙袋",
         "reading": "かみぶくろ",
-        "meaning": "paper bag"
+        "meaning": "paper bag",
+        "cn": "纸袋"
       }
     ]
   },
@@ -6435,17 +7036,20 @@
       {
         "word": "販売",
         "reading": "はんばい",
-        "meaning": "sales"
+        "meaning": "sales",
+        "cn": "销售量"
       },
       {
         "word": "市販",
         "reading": "しはん",
-        "meaning": "putting on the market"
+        "meaning": "putting on the market",
+        "cn": "投放市场"
       },
       {
         "word": "自販",
         "reading": "じはん",
-        "meaning": "automobile sales"
+        "meaning": "automobile sales",
+        "cn": "汽车销售"
       }
     ]
   },
@@ -6464,17 +7068,20 @@
       {
         "word": "切符",
         "reading": "きっぷ",
-        "meaning": "ticket"
+        "meaning": "ticket",
+        "cn": "票"
       },
       {
         "word": "終止符",
         "reading": "しゅうしふ",
-        "meaning": "end"
+        "meaning": "end",
+        "cn": "结尾"
       },
       {
         "word": "符号",
         "reading": "ふごう",
-        "meaning": "sign (e.g. positive, negative)"
+        "meaning": "sign (e.g. positive, negative)",
+        "cn": "符号（例如正、负）"
       }
     ]
   },
@@ -6493,17 +7100,20 @@
       {
         "word": "副詞",
         "reading": "ふくし",
-        "meaning": "adverb"
+        "meaning": "adverb",
+        "cn": "副词"
       },
       {
         "word": "副作用",
         "reading": "ふくさよう",
-        "meaning": "side effect"
+        "meaning": "side effect",
+        "cn": "副作用"
       },
       {
         "word": "添える",
         "reading": "そえる",
-        "meaning": "to accompany (as an aid, guide, translator, etc.)"
+        "meaning": "to accompany (as an aid, guide, translator, etc.)",
+        "cn": "陪伴（作为帮助、向导、翻译等）"
       }
     ]
   },
@@ -6522,17 +7132,20 @@
       {
         "word": "果物",
         "reading": "かぶつ",
-        "meaning": "fruit"
+        "meaning": "fruit",
+        "cn": "水果"
       },
       {
         "word": "お菓子",
         "reading": "おかし",
-        "meaning": "confections"
+        "meaning": "confections",
+        "cn": "糖果"
       },
       {
         "word": "和菓子",
         "reading": "わがし",
-        "meaning": "wagashi"
+        "meaning": "wagashi",
+        "cn": "和果子"
       }
     ]
   },
@@ -6553,17 +7166,20 @@
       {
         "word": "患者",
         "reading": "かんじゃ",
-        "meaning": "patient"
+        "meaning": "patient",
+        "cn": "病人"
       },
       {
         "word": "煩う",
         "reading": "わずらう",
-        "meaning": "to be ill"
+        "meaning": "to be ill",
+        "cn": "生病了"
       },
       {
         "word": "患う",
         "reading": "わずらう",
-        "meaning": "to be ill"
+        "meaning": "to be ill",
+        "cn": "生病了"
       }
     ]
   },
@@ -6586,17 +7202,20 @@
       {
         "word": "胡瓜",
         "reading": "きうり",
-        "meaning": "cucumber (Cucumis sativus)"
+        "meaning": "cucumber (Cucumis sativus)",
+        "cn": "黄瓜（Cucumis sativus）"
       },
       {
         "word": "黄色",
         "reading": "おうしょく",
-        "meaning": "yellow"
+        "meaning": "yellow",
+        "cn": "黄色的"
       },
       {
         "word": "黄色い",
         "reading": "きいろい",
-        "meaning": "yellow"
+        "meaning": "yellow",
+        "cn": "黄色的"
       }
     ]
   },
@@ -6621,17 +7240,20 @@
       {
         "word": "混血",
         "reading": "こんけつ",
-        "meaning": "mixed race"
+        "meaning": "mixed race",
+        "cn": "混血儿"
       },
       {
         "word": "混同",
         "reading": "こんどう",
-        "meaning": "confusion"
+        "meaning": "confusion",
+        "cn": "困惑"
       },
       {
         "word": "混ぜる",
         "reading": "まぜる",
-        "meaning": "to mix"
+        "meaning": "to mix",
+        "cn": "混合"
       }
     ]
   },
@@ -6652,17 +7274,20 @@
       {
         "word": "銅貨",
         "reading": "どうか",
-        "meaning": "copper coin"
+        "meaning": "copper coin",
+        "cn": "铜币"
       },
       {
         "word": "通貨",
         "reading": "つうか",
-        "meaning": "currency"
+        "meaning": "currency",
+        "cn": "货币"
       },
       {
         "word": "百貨店",
         "reading": "ひゃっかてん",
-        "meaning": "department store"
+        "meaning": "department store",
+        "cn": "百货商店"
       }
     ]
   },
@@ -6685,17 +7310,20 @@
       {
         "word": "冠婚葬祭",
         "reading": "かんこんそうさい",
-        "meaning": "important ceremonial occasions in family relationships"
+        "meaning": "important ceremonial occasions in family relationships",
+        "cn": "家庭关系中的重要仪式场合"
       },
       {
         "word": "祭日",
         "reading": "さいじつ",
-        "meaning": "national holiday"
+        "meaning": "national holiday",
+        "cn": "国庆"
       },
       {
         "word": "祭る",
         "reading": "まつる",
-        "meaning": "to deify"
+        "meaning": "to deify",
+        "cn": "神化"
       }
     ]
   },
@@ -6717,17 +7345,20 @@
       {
         "word": "面接",
         "reading": "めんせつ",
-        "meaning": "interview (e.g. for a job)"
+        "meaning": "interview (e.g. for a job)",
+        "cn": "面试（例如工作面试）"
       },
       {
         "word": "間接",
         "reading": "かんせつ",
-        "meaning": "indirection"
+        "meaning": "indirection",
+        "cn": "间接"
       },
       {
         "word": "応接",
         "reading": "おうせつ",
-        "meaning": "reception (e.g. of visitors)"
+        "meaning": "reception (e.g. of visitors)",
+        "cn": "接待（例如访客）"
       }
     ]
   },
@@ -6748,17 +7379,20 @@
       {
         "word": "発掘",
         "reading": "はっくつ",
-        "meaning": "discovery (of a new fact, talent, etc.)"
+        "meaning": "discovery (of a new fact, talent, etc.)",
+        "cn": "发现（新事实、才能等）"
       },
       {
         "word": "掘る",
         "reading": "ほる",
-        "meaning": "(for two men) to have anal sex"
+        "meaning": "(for two men) to have anal sex",
+        "cn": "（两个男人）进行肛交"
       },
       {
         "word": "掘削",
         "reading": "くっさく",
-        "meaning": "digging out"
+        "meaning": "digging out",
+        "cn": "挖出"
       }
     ]
   },
@@ -6779,17 +7413,20 @@
       {
         "word": "粒子",
         "reading": "りゅうし",
-        "meaning": "particle"
+        "meaning": "particle",
+        "cn": "粒子"
       },
       {
         "word": "米粒",
         "reading": "こめつぶ",
-        "meaning": "grain of rice"
+        "meaning": "grain of rice",
+        "cn": "米粒"
       },
       {
         "word": "素粒子",
         "reading": "そりゅうし",
-        "meaning": "elementary particle"
+        "meaning": "elementary particle",
+        "cn": "基本粒子"
       }
     ]
   },
@@ -6815,17 +7452,20 @@
       {
         "word": "涼風",
         "reading": "すずかぜ",
-        "meaning": "cool breeze"
+        "meaning": "cool breeze",
+        "cn": "凉风"
       },
       {
         "word": "涼む",
         "reading": "すずむ",
-        "meaning": "to cool oneself"
+        "meaning": "to cool oneself",
+        "cn": "给自己降温"
       },
       {
         "word": "涼しい",
         "reading": "すずしい",
-        "meaning": "clear"
+        "meaning": "clear",
+        "cn": "清除"
       }
     ]
   },
@@ -6847,17 +7487,20 @@
       {
         "word": "陸軍",
         "reading": "りくぐん",
-        "meaning": "army"
+        "meaning": "army",
+        "cn": "军队"
       },
       {
         "word": "内陸",
         "reading": "ないりく",
-        "meaning": "inland"
+        "meaning": "inland",
+        "cn": "内陆"
       },
       {
         "word": "離陸",
         "reading": "りりく",
-        "meaning": "takeoff"
+        "meaning": "takeoff",
+        "cn": "起飞"
       }
     ]
   },
@@ -6883,17 +7526,20 @@
       {
         "word": "略語",
         "reading": "りゃくご",
-        "meaning": "abbreviation"
+        "meaning": "abbreviation",
+        "cn": "缩写"
       },
       {
         "word": "侵略",
         "reading": "しんりゃく",
-        "meaning": "invasion (e.g. of a country)"
+        "meaning": "invasion (e.g. of a country)",
+        "cn": "入侵（例如入侵一个国家）"
       },
       {
         "word": "策略",
         "reading": "さくりゃく",
-        "meaning": "scheme"
+        "meaning": "scheme",
+        "cn": "方案"
       }
     ]
   },
@@ -6915,17 +7561,20 @@
       {
         "word": "脳死",
         "reading": "のうし",
-        "meaning": "brain death"
+        "meaning": "brain death",
+        "cn": "脑死亡"
       },
       {
         "word": "大脳",
         "reading": "だいのう",
-        "meaning": "cerebrum"
+        "meaning": "cerebrum",
+        "cn": "大脑"
       },
       {
         "word": "首脳",
         "reading": "しゅのう",
-        "meaning": "important part"
+        "meaning": "important part",
+        "cn": "重要的部分"
       }
     ]
   },
@@ -6947,17 +7596,20 @@
       {
         "word": "花瓶",
         "reading": "かびん",
-        "meaning": "(flower) vase"
+        "meaning": "(flower) vase",
+        "cn": "（花）花瓶"
       },
       {
         "word": "瓶詰め",
         "reading": "びんづめ",
-        "meaning": "bottled"
+        "meaning": "bottled",
+        "cn": "瓶装"
       },
       {
         "word": "瓶詰",
         "reading": "びんづめ",
-        "meaning": "bottled"
+        "meaning": "bottled",
+        "cn": "瓶装"
       }
     ]
   },
@@ -6983,17 +7635,20 @@
       {
         "word": "乾季",
         "reading": "かんき",
-        "meaning": "dry season"
+        "meaning": "dry season",
+        "cn": "旱季"
       },
       {
         "word": "乾期",
         "reading": "かんき",
-        "meaning": "dry season"
+        "meaning": "dry season",
+        "cn": "旱季"
       },
       {
         "word": "乾く",
         "reading": "かわく",
-        "meaning": "to get dry"
+        "meaning": "to get dry",
+        "cn": "变干"
       }
     ]
   },
@@ -7018,17 +7673,20 @@
       {
         "word": "清書",
         "reading": "せいしょ",
-        "meaning": "fair copy"
+        "meaning": "fair copy",
+        "cn": "公平的副本"
       },
       {
         "word": "清掃",
         "reading": "せいそう",
-        "meaning": "cleaning"
+        "meaning": "cleaning",
+        "cn": "打扫"
       },
       {
         "word": "清々しい",
         "reading": "すがすがしい",
-        "meaning": "refreshing (e.g. feeling, scene, wind, morning air)"
+        "meaning": "refreshing (e.g. feeling, scene, wind, morning air)",
+        "cn": "清爽（例如感觉、场景、风、早晨的空气）"
       }
     ]
   },
@@ -7050,17 +7708,20 @@
       {
         "word": "柔軟",
         "reading": "じゅうなん",
-        "meaning": "flexible"
+        "meaning": "flexible",
+        "cn": "灵活的"
       },
       {
         "word": "軟らか",
         "reading": "やわらか",
-        "meaning": "informal"
+        "meaning": "informal",
+        "cn": "非正式的"
       },
       {
         "word": "柔らか",
         "reading": "やわらか",
-        "meaning": "informal"
+        "meaning": "informal",
+        "cn": "非正式的"
       }
     ]
   },
@@ -7082,17 +7743,20 @@
       {
         "word": "清掃",
         "reading": "せいそう",
-        "meaning": "cleaning"
+        "meaning": "cleaning",
+        "cn": "打扫"
       },
       {
         "word": "掃除",
         "reading": "そうじ",
-        "meaning": "cleaning"
+        "meaning": "cleaning",
+        "cn": "打扫"
       },
       {
         "word": "掃除機",
         "reading": "そうじき",
-        "meaning": "cleaning device"
+        "meaning": "cleaning device",
+        "cn": "清洁装置"
       }
     ]
   },
@@ -7111,17 +7775,20 @@
       {
         "word": "紹介",
         "reading": "しょうかい",
-        "meaning": "introduction"
+        "meaning": "introduction",
+        "cn": "介绍"
       },
       {
         "word": "紹介状",
         "reading": "しょうかいじょう",
-        "meaning": "letter of introduction"
+        "meaning": "letter of introduction",
+        "cn": "介绍信"
       },
       {
         "word": "自己紹介",
         "reading": "じこしょうかい",
-        "meaning": "self-introduction"
+        "meaning": "self-introduction",
+        "cn": "自我介绍"
       }
     ]
   },
@@ -7142,17 +7809,20 @@
       {
         "word": "呼び捨て",
         "reading": "よびすて",
-        "meaning": "addressing (someone) without using a suffix such as \"-san\" or \"-chan\" (considered impolite)"
+        "meaning": "addressing (someone) without using a suffix such as \"-san\" or \"-chan\" (considered impolite)",
+        "cn": "不使用“-san”或“-chan”等后缀称呼（某人）（被认为是不礼貌的）"
       },
       {
         "word": "捨て子",
         "reading": "すてご",
-        "meaning": "abandoned child"
+        "meaning": "abandoned child",
+        "cn": "被遗弃的孩子"
       },
       {
         "word": "使い捨て",
         "reading": "つかいすて",
-        "meaning": "throwaway"
+        "meaning": "throwaway",
+        "cn": "丢弃"
       }
     ]
   },
@@ -7173,17 +7843,20 @@
       {
         "word": "建設",
         "reading": "けんせつ",
-        "meaning": "construction"
+        "meaning": "construction",
+        "cn": "建造"
       },
       {
         "word": "設計",
         "reading": "せっけい",
-        "meaning": "plan"
+        "meaning": "plan",
+        "cn": "计划"
       },
       {
         "word": "開設",
         "reading": "かいせつ",
-        "meaning": "establishment"
+        "meaning": "establishment",
+        "cn": "设立"
       }
     ]
   },
@@ -7205,17 +7878,20 @@
       {
         "word": "バス停",
         "reading": "バスてい",
-        "meaning": "bus stop"
+        "meaning": "bus stop",
+        "cn": "巴士站"
       },
       {
         "word": "停学",
         "reading": "ていがく",
-        "meaning": "suspension from school"
+        "meaning": "suspension from school",
+        "cn": "停学"
       },
       {
         "word": "停車",
         "reading": "ていしゃ",
-        "meaning": "stopping (of a train, car, etc.)"
+        "meaning": "stopping (of a train, car, etc.)",
+        "cn": "停止（火车、汽车等）"
       }
     ]
   },
@@ -7239,17 +7915,20 @@
       {
         "word": "細長い",
         "reading": "ほそながい",
-        "meaning": "long and narrow"
+        "meaning": "long and narrow",
+        "cn": "又长又窄"
       },
       {
         "word": "細菌",
         "reading": "さいきん",
-        "meaning": "bacterium"
+        "meaning": "bacterium",
+        "cn": "细菌"
       },
       {
         "word": "心細い",
         "reading": "こころぼそい",
-        "meaning": "helpless"
+        "meaning": "helpless",
+        "cn": "无助"
       }
     ]
   },
@@ -7270,17 +7949,20 @@
       {
         "word": "器械",
         "reading": "きかい",
-        "meaning": "machine"
+        "meaning": "machine",
+        "cn": "机器"
       },
       {
         "word": "機械",
         "reading": "きかい",
-        "meaning": "machine"
+        "meaning": "machine",
+        "cn": "机器"
       },
       {
         "word": "工作機械",
         "reading": "こうさくきかい",
-        "meaning": "machine tool"
+        "meaning": "machine tool",
+        "cn": "机床"
       }
     ]
   },
@@ -7299,17 +7981,20 @@
       {
         "word": "血液",
         "reading": "けつえき",
-        "meaning": "blood"
+        "meaning": "blood",
+        "cn": "血"
       },
       {
         "word": "液体",
         "reading": "えきたい",
-        "meaning": "liquid"
+        "meaning": "liquid",
+        "cn": "液体"
       },
       {
         "word": "液化",
         "reading": "えきか",
-        "meaning": "liquefaction"
+        "meaning": "liquefaction",
+        "cn": "液化"
       }
     ]
   },
@@ -7331,17 +8016,20 @@
       {
         "word": "移住",
         "reading": "いじゅう",
-        "meaning": "migration"
+        "meaning": "migration",
+        "cn": "迁移"
       },
       {
         "word": "変移",
         "reading": "へんい",
-        "meaning": "change"
+        "meaning": "change",
+        "cn": "改变"
       },
       {
         "word": "移民",
         "reading": "いみん",
-        "meaning": "immigrant"
+        "meaning": "immigrant",
+        "cn": "移民"
       }
     ]
   },
@@ -7360,17 +8048,20 @@
       {
         "word": "翌年",
         "reading": "よくとし",
-        "meaning": "following year"
+        "meaning": "following year",
+        "cn": "次年"
       },
       {
         "word": "翌日",
         "reading": "よくじつ",
-        "meaning": "next day"
+        "meaning": "next day",
+        "cn": "第二天"
       },
       {
         "word": "翌朝",
         "reading": "よくあさ",
-        "meaning": "next morning"
+        "meaning": "next morning",
+        "cn": "第二天早上"
       }
     ]
   },
@@ -7389,17 +8080,20 @@
       {
         "word": "郵便局",
         "reading": "ゆうびんきょく",
-        "meaning": "post office"
+        "meaning": "post office",
+        "cn": "邮局"
       },
       {
         "word": "郵送",
         "reading": "ゆうそう",
-        "meaning": "mailing"
+        "meaning": "mailing",
+        "cn": "邮寄"
       },
       {
         "word": "郵便",
         "reading": "ゆうびん",
-        "meaning": "mail"
+        "meaning": "mail",
+        "cn": "邮件"
       }
     ]
   },
@@ -7418,17 +8112,20 @@
       {
         "word": "地域",
         "reading": "ちいき",
-        "meaning": "area"
+        "meaning": "area",
+        "cn": "区域"
       },
       {
         "word": "領域",
         "reading": "りょういき",
-        "meaning": "area"
+        "meaning": "area",
+        "cn": "区域"
       },
       {
         "word": "区域",
         "reading": "くいき",
-        "meaning": "area (e.g. in programming languages)"
+        "meaning": "area (e.g. in programming languages)",
+        "cn": "领域（例如编程语言）"
       }
     ]
   },
@@ -7447,17 +8144,20 @@
       {
         "word": "文章",
         "reading": "ぶんしょう",
-        "meaning": "sentence"
+        "meaning": "sentence",
+        "cn": "句子"
       },
       {
         "word": "慌てる",
         "reading": "あわてる",
-        "meaning": "to become confused (disconcerted, disorganized, disorganised)"
+        "meaning": "to become confused (disconcerted, disorganized, disorganised)",
+        "cn": "变得混乱（惊慌失措、杂乱无章、杂乱无章）"
       },
       {
         "word": "憲章",
         "reading": "けんしょう",
-        "meaning": "charter"
+        "meaning": "charter",
+        "cn": "宪章"
       }
     ]
   },
@@ -7480,17 +8180,20 @@
       {
         "word": "著者",
         "reading": "ちょしゃ",
-        "meaning": "author (usu. of a particular book)"
+        "meaning": "author (usu. of a particular book)",
+        "cn": "作者（通常是某本书的作者）"
       },
       {
         "word": "名著",
         "reading": "めいちょ",
-        "meaning": "famous book"
+        "meaning": "famous book",
+        "cn": "名著"
       },
       {
         "word": "著す",
         "reading": "あらわす",
-        "meaning": "to write"
+        "meaning": "to write",
+        "cn": "写"
       }
     ]
   },
@@ -7513,17 +8216,20 @@
       {
         "word": "奥行",
         "reading": "おくゆき",
-        "meaning": "depth"
+        "meaning": "depth",
+        "cn": "深度"
       },
       {
         "word": "奥行き",
         "reading": "おくゆき",
-        "meaning": "depth"
+        "meaning": "depth",
+        "cn": "深度"
       },
       {
         "word": "奥さん",
         "reading": "おくさん",
-        "meaning": "wife"
+        "meaning": "wife",
+        "cn": "妻子"
       }
     ]
   },
@@ -7542,17 +8248,20 @@
       {
         "word": "辛抱",
         "reading": "しんぼう",
-        "meaning": "patience"
+        "meaning": "patience",
+        "cn": "耐心"
       },
       {
         "word": "鉄棒",
         "reading": "てつぼう",
-        "meaning": "horizontal bar (gymnastics)"
+        "meaning": "horizontal bar (gymnastics)",
+        "cn": "单杠）"
       },
       {
         "word": "泥棒",
         "reading": "どろぼう",
-        "meaning": "theft"
+        "meaning": "theft",
+        "cn": "盗窃"
       }
     ]
   },
@@ -7573,17 +8282,20 @@
       {
         "word": "万年筆",
         "reading": "まんねんひつ",
-        "meaning": "fountain pen"
+        "meaning": "fountain pen",
+        "cn": "钢笔"
       },
       {
         "word": "鉛筆",
         "reading": "えんぴつ",
-        "meaning": "pencil"
+        "meaning": "pencil",
+        "cn": "铅笔"
       },
       {
         "word": "筆順",
         "reading": "ひつじゅん",
-        "meaning": "stroke order (esp. of a Chinese character)"
+        "meaning": "stroke order (esp. of a Chinese character)",
+        "cn": "笔画顺序（尤其是汉字的笔画顺序）"
       }
     ]
   },
@@ -7604,17 +8316,20 @@
       {
         "word": "補償",
         "reading": "ほしょう",
-        "meaning": "compensation"
+        "meaning": "compensation",
+        "cn": "赔偿"
       },
       {
         "word": "補強",
         "reading": "ほきょう",
-        "meaning": "reinforcement"
+        "meaning": "reinforcement",
+        "cn": "加强"
       },
       {
         "word": "補足",
         "reading": "ほそく",
-        "meaning": "supplement"
+        "meaning": "supplement",
+        "cn": "补充"
       }
     ]
   },
@@ -7635,17 +8350,20 @@
       {
         "word": "測定",
         "reading": "そくてい",
-        "meaning": "measurement"
+        "meaning": "measurement",
+        "cn": "测量"
       },
       {
         "word": "推測",
         "reading": "すいそく",
-        "meaning": "guess"
+        "meaning": "guess",
+        "cn": "猜测"
       },
       {
         "word": "測量",
         "reading": "そくりょう",
-        "meaning": "measurement"
+        "meaning": "measurement",
+        "cn": "测量"
       }
     ]
   },
@@ -7667,17 +8385,20 @@
       {
         "word": "超特急",
         "reading": "ちょうとっきゅう",
-        "meaning": "super express"
+        "meaning": "super express",
+        "cn": "超级快车"
       },
       {
         "word": "超過",
         "reading": "ちょうか",
-        "meaning": "excess"
+        "meaning": "excess",
+        "cn": "过量的"
       },
       {
         "word": "超越",
         "reading": "ちょうえつ",
-        "meaning": "transcendence"
+        "meaning": "transcendence",
+        "cn": "超越"
       }
     ]
   },
@@ -7698,17 +8419,20 @@
       {
         "word": "喫煙",
         "reading": "きつえん",
-        "meaning": "smoking (tobacco)"
+        "meaning": "smoking (tobacco)",
+        "cn": "吸烟（烟草）"
       },
       {
         "word": "喫茶店",
         "reading": "きっさてん",
-        "meaning": "coffee shop"
+        "meaning": "coffee shop",
+        "cn": "咖啡馆"
       },
       {
         "word": "吸う",
         "reading": "すう",
-        "meaning": "to kiss"
+        "meaning": "to kiss",
+        "cn": "亲吻"
       }
     ]
   },
@@ -7729,17 +8453,20 @@
       {
         "word": "副詞",
         "reading": "ふくし",
-        "meaning": "adverb"
+        "meaning": "adverb",
+        "cn": "副词"
       },
       {
         "word": "名詞",
         "reading": "なことば",
-        "meaning": "noun"
+        "meaning": "noun",
+        "cn": "名词"
       },
       {
         "word": "品詞",
         "reading": "ひんし",
-        "meaning": "part of speech"
+        "meaning": "part of speech",
+        "cn": "词类"
       }
     ]
   },
@@ -7763,17 +8490,20 @@
       {
         "word": "折り畳み",
         "reading": "おりたたみ",
-        "meaning": "folding"
+        "meaning": "folding",
+        "cn": "折叠式的"
       },
       {
         "word": "畳む",
         "reading": "たたむ",
-        "meaning": "to close (a shop, business)"
+        "meaning": "to close (a shop, business)",
+        "cn": "关闭（商店、企业）"
       },
       {
         "word": "四畳半",
         "reading": "よじょうはん",
-        "meaning": "small room esp. for assignations"
+        "meaning": "small room esp. for assignations",
+        "cn": "特别是小房间。用于作业"
       }
     ]
   },
@@ -7794,17 +8524,20 @@
       {
         "word": "短期",
         "reading": "たんき",
-        "meaning": "short-term"
+        "meaning": "short-term",
+        "cn": "短期"
       },
       {
         "word": "短大",
         "reading": "たんだい",
-        "meaning": "junior college"
+        "meaning": "junior college",
+        "cn": "大专"
       },
       {
         "word": "短期大学",
         "reading": "たんきだいがく",
-        "meaning": "junior college"
+        "meaning": "junior college",
+        "cn": "大专"
       }
     ]
   },
@@ -7829,17 +8562,20 @@
       {
         "word": "鈍感",
         "reading": "どんかん",
-        "meaning": "thickheaded"
+        "meaning": "thickheaded",
+        "cn": "笨蛋"
       },
       {
         "word": "鈍い",
         "reading": "のろい",
-        "meaning": "indulgent (esp. to the opposite sex)"
+        "meaning": "indulgent (esp. to the opposite sex)",
+        "cn": "纵容（尤其是对异性）"
       },
       {
         "word": "遅い",
         "reading": "おそい",
-        "meaning": "dull"
+        "meaning": "dull",
+        "cn": "乏味的"
       }
     ]
   },
@@ -7860,17 +8596,20 @@
       {
         "word": "幅広い",
         "reading": "はばひろい",
-        "meaning": "extensive"
+        "meaning": "extensive",
+        "cn": "广泛的"
       },
       {
         "word": "大幅",
         "reading": "おおはば",
-        "meaning": "full-width cloth (approx. 72 cm wide for traditional Japanese clothing; approx. 140 cm wide for Western clothing)"
+        "meaning": "full-width cloth (approx. 72 cm wide for traditional Japanese clothing; approx. 140 cm wide for Western clothing)",
+        "cn": "全幅布料（和服宽约 72 厘米；西服宽约 140 厘米）"
       },
       {
         "word": "小幅",
         "reading": "こはば",
-        "meaning": "single-breadth cloth (approx. 36 cm wide)"
+        "meaning": "single-breadth cloth (approx. 36 cm wide)",
+        "cn": "单幅布（宽约36厘米）"
       }
     ]
   },
@@ -7891,17 +8630,20 @@
       {
         "word": "復讐",
         "reading": "ふくしゅう",
-        "meaning": "revenge"
+        "meaning": "revenge",
+        "cn": "复仇"
       },
       {
         "word": "復習",
         "reading": "ふくしゅう",
-        "meaning": "review (of learned material)"
+        "meaning": "review (of learned material)",
+        "cn": "复习（所学材料）"
       },
       {
         "word": "復帰",
         "reading": "ふっき",
-        "meaning": "carriage return"
+        "meaning": "carriage return",
+        "cn": "回车"
       }
     ]
   },
@@ -7922,17 +8664,20 @@
       {
         "word": "雇主",
         "reading": "こしゅ",
-        "meaning": "employer"
+        "meaning": "employer",
+        "cn": "雇主"
       },
       {
         "word": "雇用",
         "reading": "こよう",
-        "meaning": "employment"
+        "meaning": "employment",
+        "cn": "就业"
       },
       {
         "word": "解雇",
         "reading": "かいこ",
-        "meaning": "dismissal (of an employee)"
+        "meaning": "dismissal (of an employee)",
+        "cn": "解雇（雇员）"
       }
     ]
   },
@@ -7953,17 +8698,20 @@
       {
         "word": "湖畔",
         "reading": "こはん",
-        "meaning": "lake shore"
+        "meaning": "lake shore",
+        "cn": "湖岸"
       },
       {
         "word": "湖沼",
         "reading": "こしょう",
-        "meaning": "lake"
+        "meaning": "lake",
+        "cn": "湖"
       },
       {
         "word": "湖底",
         "reading": "こてい",
-        "meaning": "bottom of a lake"
+        "meaning": "bottom of a lake",
+        "cn": "湖底"
       }
     ]
   },
@@ -7986,17 +8734,20 @@
       {
         "word": "着替える",
         "reading": "きかえる",
-        "meaning": "to change (one's clothes)"
+        "meaning": "to change (one's clothes)",
+        "cn": "改变（某人的衣服）"
       },
       {
         "word": "換気",
         "reading": "かんき",
-        "meaning": "ventilation"
+        "meaning": "ventilation",
+        "cn": "通风"
       },
       {
         "word": "着替え",
         "reading": "きがえ",
-        "meaning": "changing clothes"
+        "meaning": "changing clothes",
+        "cn": "换衣服"
       }
     ]
   },
@@ -8024,17 +8775,20 @@
       {
         "word": "極秘",
         "reading": "ごくひ",
-        "meaning": "absolute secrecy"
+        "meaning": "absolute secrecy",
+        "cn": "绝对保密"
       },
       {
         "word": "取決め",
         "reading": "とりきめ",
-        "meaning": "decision"
+        "meaning": "decision",
+        "cn": "决定"
       },
       {
         "word": "取り決め",
         "reading": "とりきめ",
-        "meaning": "decision"
+        "meaning": "decision",
+        "cn": "决定"
       }
     ]
   },
@@ -8056,17 +8810,20 @@
       {
         "word": "減速",
         "reading": "げんそく",
-        "meaning": "deceleration"
+        "meaning": "deceleration",
+        "cn": "减速"
       },
       {
         "word": "増減",
         "reading": "ぞうげん",
-        "meaning": "increase and decrease"
+        "meaning": "increase and decrease",
+        "cn": "增加和减少"
       },
       {
         "word": "半減",
         "reading": "はんげん",
-        "meaning": "reduction by half"
+        "meaning": "reduction by half",
+        "cn": "减少一半"
       }
     ]
   },
@@ -8087,17 +8844,20 @@
       {
         "word": "中産階級",
         "reading": "ちゅうさんかいきゅう",
-        "meaning": "middle class"
+        "meaning": "middle class",
+        "cn": "中产阶级"
       },
       {
         "word": "二階",
         "reading": "にかい",
-        "meaning": "second floor"
+        "meaning": "second floor",
+        "cn": "二楼"
       },
       {
         "word": "階段",
         "reading": "かいだん",
-        "meaning": "stairs"
+        "meaning": "stairs",
+        "cn": "楼梯"
       }
     ]
   },
@@ -8119,17 +8879,20 @@
       {
         "word": "敬老",
         "reading": "けいろう",
-        "meaning": "respect for the aged"
+        "meaning": "respect for the aged",
+        "cn": "尊重老人"
       },
       {
         "word": "敬意",
         "reading": "けいい",
-        "meaning": "respect"
+        "meaning": "respect",
+        "cn": "尊重"
       },
       {
         "word": "敬具",
         "reading": "けいぐ",
-        "meaning": "yours sincerely"
+        "meaning": "yours sincerely",
+        "cn": "此致"
       }
     ]
   },
@@ -8150,17 +8913,20 @@
       {
         "word": "質量",
         "reading": "しつりょう",
-        "meaning": "mass"
+        "meaning": "mass",
+        "cn": "大量的"
       },
       {
         "word": "多量",
         "reading": "たりょう",
-        "meaning": "large quantity"
+        "meaning": "large quantity",
+        "cn": "大量"
       },
       {
         "word": "測量",
         "reading": "そくりょう",
-        "meaning": "measurement"
+        "meaning": "measurement",
+        "cn": "测量"
       }
     ]
   },
@@ -8182,17 +8948,20 @@
       {
         "word": "脈絡",
         "reading": "みゃくらく",
-        "meaning": "blood vessel"
+        "meaning": "blood vessel",
+        "cn": "血管"
       },
       {
         "word": "連絡",
         "reading": "れんらく",
-        "meaning": "connection (between matters, incidents, etc.)"
+        "meaning": "connection (between matters, incidents, etc.)",
+        "cn": "联系（事物、事件等之间）"
       },
       {
         "word": "絡む",
         "reading": "からむ",
-        "meaning": "to be involved (e.g. of money in a matter)"
+        "meaning": "to be involved (e.g. of money in a matter)",
+        "cn": "参与（例如涉及某件事的金钱）"
       }
     ]
   },
@@ -8215,17 +8984,20 @@
       {
         "word": "帽子",
         "reading": "ぼうし",
-        "meaning": "hat"
+        "meaning": "hat",
+        "cn": "帽子"
       },
       {
         "word": "烏帽子",
         "reading": "えぼし",
-        "meaning": "eboshi"
+        "meaning": "eboshi",
+        "cn": "老板"
       },
       {
         "word": "脱帽",
         "reading": "だつぼう",
-        "meaning": "removing one's hat"
+        "meaning": "removing one's hat",
+        "cn": "摘下帽子"
       }
     ]
   },
@@ -8244,12 +9016,14 @@
       {
         "word": "貿易",
         "reading": "ぼうえき",
-        "meaning": "(foreign) trade"
+        "meaning": "(foreign) trade",
+        "cn": "（外贸"
       },
       {
         "word": "保護貿易",
         "reading": "ほごぼうえき",
-        "meaning": "protective trade"
+        "meaning": "protective trade",
+        "cn": "保护性贸易"
       }
     ]
   },
@@ -8270,17 +9044,20 @@
       {
         "word": "応募",
         "reading": "おうぼ",
-        "meaning": "application"
+        "meaning": "application",
+        "cn": "应用"
       },
       {
         "word": "募る",
         "reading": "つのる",
-        "meaning": "to invite contributions, etc."
+        "meaning": "to invite contributions, etc.",
+        "cn": "邀请捐款等"
       },
       {
         "word": "募集",
         "reading": "ぼしゅう",
-        "meaning": "flotation (of shares, loans, etc.)"
+        "meaning": "flotation (of shares, loans, etc.)",
+        "cn": "（股票、贷款等）发行"
       }
     ]
   },
@@ -8302,17 +9079,20 @@
       {
         "word": "普段着",
         "reading": "ふだんぎ",
-        "meaning": "everyday clothes"
+        "meaning": "everyday clothes",
+        "cn": "便服"
       },
       {
         "word": "普遍",
         "reading": "ふへん",
-        "meaning": "universal"
+        "meaning": "universal",
+        "cn": "普遍的"
       },
       {
         "word": "普及",
         "reading": "ふきゅう",
-        "meaning": "diffusion"
+        "meaning": "diffusion",
+        "cn": "扩散"
       }
     ]
   },
@@ -8333,7 +9113,8 @@
       {
         "word": "森林",
         "reading": "しんりん",
-        "meaning": "forest"
+        "meaning": "forest",
+        "cn": "森林"
       }
     ]
   },
@@ -8358,17 +9139,20 @@
       {
         "word": "燃焼",
         "reading": "ねんしょう",
-        "meaning": "burning"
+        "meaning": "burning",
+        "cn": "燃烧"
       },
       {
         "word": "焼き芋",
         "reading": "やきいも",
-        "meaning": "roasted sweet potato"
+        "meaning": "roasted sweet potato",
+        "cn": "烤红薯"
       },
       {
         "word": "焼芋",
         "reading": "やきいも",
-        "meaning": "roasted sweet potato"
+        "meaning": "roasted sweet potato",
+        "cn": "烤红薯"
       }
     ]
   },
@@ -8393,17 +9177,20 @@
       {
         "word": "多湿",
         "reading": "たしつ",
-        "meaning": "high humidity"
+        "meaning": "high humidity",
+        "cn": "高湿度"
       },
       {
         "word": "湿度",
         "reading": "しつど",
-        "meaning": "level of humidity"
+        "meaning": "level of humidity",
+        "cn": "湿度水平"
       },
       {
         "word": "湿気",
         "reading": "しっき",
-        "meaning": "moisture"
+        "meaning": "moisture",
+        "cn": "水分"
       }
     ]
   },
@@ -8422,17 +9209,20 @@
       {
         "word": "国税",
         "reading": "こくぜい",
-        "meaning": "national tax"
+        "meaning": "national tax",
+        "cn": "国税"
       },
       {
         "word": "納税",
         "reading": "のうぜい",
-        "meaning": "payment of taxes"
+        "meaning": "payment of taxes",
+        "cn": "缴纳税款"
       },
       {
         "word": "脱税",
         "reading": "だつぜい",
-        "meaning": "tax evasion"
+        "meaning": "tax evasion",
+        "cn": "逃税"
       }
     ]
   },
@@ -8451,17 +9241,20 @@
       {
         "word": "筆順",
         "reading": "ひつじゅん",
-        "meaning": "stroke order (esp. of a Chinese character)"
+        "meaning": "stroke order (esp. of a Chinese character)",
+        "cn": "笔画顺序（尤其是汉字的笔画顺序）"
       },
       {
         "word": "順々に",
         "reading": "じゅんじゅんに",
-        "meaning": "in order"
+        "meaning": "in order",
+        "cn": "为了"
       },
       {
         "word": "順番",
         "reading": "じゅんばん",
-        "meaning": "turn (in line)"
+        "meaning": "turn (in line)",
+        "cn": "转弯（排队）"
       }
     ]
   },
@@ -8480,17 +9273,20 @@
       {
         "word": "管制塔",
         "reading": "かんせいとう",
-        "meaning": "control tower"
+        "meaning": "control tower",
+        "cn": "控制塔"
       },
       {
         "word": "仏塔",
         "reading": "ぶっとう",
-        "meaning": "stupa"
+        "meaning": "stupa",
+        "cn": "佛塔"
       },
       {
         "word": "金字塔",
         "reading": "きんじとう",
-        "meaning": "pyramid"
+        "meaning": "pyramid",
+        "cn": "金字塔"
       }
     ]
   },
@@ -8511,17 +9307,20 @@
       {
         "word": "熱湯",
         "reading": "ねっとう",
-        "meaning": "boiling water"
+        "meaning": "boiling water",
+        "cn": "开水"
       },
       {
         "word": "湯飲み",
         "reading": "ゆのみ",
-        "meaning": "teacup"
+        "meaning": "teacup",
+        "cn": "茶碗"
       },
       {
         "word": "銭湯",
         "reading": "せんとう",
-        "meaning": "public bath"
+        "meaning": "public bath",
+        "cn": "公共浴室"
       }
     ]
   },
@@ -8544,17 +9343,20 @@
       {
         "word": "日替り",
         "reading": "ひがわり",
-        "meaning": "changing every day"
+        "meaning": "changing every day",
+        "cn": "每天都在改变"
       },
       {
         "word": "日替わり",
         "reading": "ひがわり",
-        "meaning": "changing every day"
+        "meaning": "changing every day",
+        "cn": "每天都在改变"
       },
       {
         "word": "着替える",
         "reading": "きかえる",
-        "meaning": "to change (one's clothes)"
+        "meaning": "to change (one's clothes)",
+        "cn": "改变（某人的衣服）"
       }
     ]
   },
@@ -8575,17 +9377,20 @@
       {
         "word": "児童",
         "reading": "じどう",
-        "meaning": "children"
+        "meaning": "children",
+        "cn": "孩子们"
       },
       {
         "word": "童話",
         "reading": "どうわ",
-        "meaning": "children's story"
+        "meaning": "children's story",
+        "cn": "儿童故事"
       },
       {
         "word": "童謡",
         "reading": "どうよう",
-        "meaning": "children's song"
+        "meaning": "children's song",
+        "cn": "儿歌"
       }
     ]
   },
@@ -8606,17 +9411,20 @@
       {
         "word": "封筒",
         "reading": "ふうとう",
-        "meaning": "envelope"
+        "meaning": "envelope",
+        "cn": "信封"
       },
       {
         "word": "水筒",
         "reading": "すいとう",
-        "meaning": "canteen"
+        "meaning": "canteen",
+        "cn": "食堂"
       },
       {
         "word": "円筒",
         "reading": "えんとう",
-        "meaning": "cylinder"
+        "meaning": "cylinder",
+        "cn": "圆柱"
       }
     ]
   },
@@ -8637,17 +9445,20 @@
       {
         "word": "台湾",
         "reading": "たいわん",
-        "meaning": "Taiwan"
+        "meaning": "Taiwan",
+        "cn": "台湾"
       },
       {
         "word": "湾岸",
         "reading": "わんがん",
-        "meaning": "gulf coast"
+        "meaning": "gulf coast",
+        "cn": "墨西哥湾沿岸"
       },
       {
         "word": "港湾",
         "reading": "こうわん",
-        "meaning": "harbour"
+        "meaning": "harbour",
+        "cn": "港口"
       }
     ]
   },
@@ -8668,17 +9479,20 @@
       {
         "word": "腕時計",
         "reading": "うでどけい",
-        "meaning": "wristwatch"
+        "meaning": "wristwatch",
+        "cn": "手表"
       },
       {
         "word": "腕前",
         "reading": "うでまえ",
-        "meaning": "ability"
+        "meaning": "ability",
+        "cn": "能力"
       },
       {
         "word": "腕白",
         "reading": "わんぱく",
-        "meaning": "naughty"
+        "meaning": "naughty",
+        "cn": "淘气"
       }
     ]
   },
@@ -8703,17 +9517,20 @@
       {
         "word": "気温",
         "reading": "きおん",
-        "meaning": "(air) temperature"
+        "meaning": "(air) temperature",
+        "cn": "（气温"
       },
       {
         "word": "体温計",
         "reading": "たいおんけい",
-        "meaning": "(clinical) thermometer"
+        "meaning": "(clinical) thermometer",
+        "cn": "（临床）温度计"
       },
       {
         "word": "体温",
         "reading": "たいおん",
-        "meaning": "body temperature"
+        "meaning": "body temperature",
+        "cn": "体温"
       }
     ]
   },
@@ -8735,17 +9552,20 @@
       {
         "word": "抽象的",
         "reading": "ちゅうしょうてき",
-        "meaning": "abstract"
+        "meaning": "abstract",
+        "cn": "抽象的"
       },
       {
         "word": "印象",
         "reading": "いんしょう",
-        "meaning": "impression"
+        "meaning": "impression",
+        "cn": "印象"
       },
       {
         "word": "現象",
         "reading": "げんしょう",
-        "meaning": "phenomenon"
+        "meaning": "phenomenon",
+        "cn": "现象"
       }
     ]
   },
@@ -8767,17 +9587,20 @@
       {
         "word": "公営",
         "reading": "こうえい",
-        "meaning": "public management"
+        "meaning": "public management",
+        "cn": "公共管理"
       },
       {
         "word": "国営",
         "reading": "こくえい",
-        "meaning": "government management"
+        "meaning": "government management",
+        "cn": "政府管理"
       },
       {
         "word": "自営業",
         "reading": "じえいぎょう",
-        "meaning": "independent business"
+        "meaning": "independent business",
+        "cn": "独立经营"
       }
     ]
   },
@@ -8798,17 +9621,20 @@
       {
         "word": "固さ",
         "reading": "かたさ",
-        "meaning": "firmness"
+        "meaning": "firmness",
+        "cn": "坚固度"
       },
       {
         "word": "堅さ",
         "reading": "かたさ",
-        "meaning": "firmness"
+        "meaning": "firmness",
+        "cn": "坚固度"
       },
       {
         "word": "硬さ",
         "reading": "かたさ",
-        "meaning": "firmness"
+        "meaning": "firmness",
+        "cn": "坚固度"
       }
     ]
   },
@@ -8829,17 +9655,20 @@
       {
         "word": "片隅",
         "reading": "かたすみ",
-        "meaning": "corner"
+        "meaning": "corner",
+        "cn": "角落"
       },
       {
         "word": "隅々",
         "reading": "すみずみ",
-        "meaning": "every corner"
+        "meaning": "every corner",
+        "cn": "每个角落"
       },
       {
         "word": "一隅",
         "reading": "いちぐう",
-        "meaning": "corner"
+        "meaning": "corner",
+        "cn": "角落"
       }
     ]
   },
@@ -8861,17 +9690,20 @@
       {
         "word": "雲雀",
         "reading": "ひばり",
-        "meaning": "Mongolian lark (Melanocorypha mongolica)"
+        "meaning": "Mongolian lark (Melanocorypha mongolica)",
+        "cn": "蒙古云雀（Melanocorypha mongolica）"
       },
       {
         "word": "青雲",
         "reading": "せいうん",
-        "meaning": "blue sky"
+        "meaning": "blue sky",
+        "cn": "蓝天"
       },
       {
         "word": "暗雲",
         "reading": "あんうん",
-        "meaning": "dark clouds"
+        "meaning": "dark clouds",
+        "cn": "乌云"
       }
     ]
   },
@@ -8893,17 +9725,20 @@
       {
         "word": "植物園",
         "reading": "しょくぶつえん",
-        "meaning": "botanical garden"
+        "meaning": "botanical garden",
+        "cn": "植物园"
       },
       {
         "word": "田植え",
         "reading": "たうえ",
-        "meaning": "rice planting"
+        "meaning": "rice planting",
+        "cn": "水稻种植"
       },
       {
         "word": "植物",
         "reading": "しょくぶつ",
-        "meaning": "plant"
+        "meaning": "plant",
+        "cn": "植物"
       }
     ]
   },
@@ -8928,17 +9763,20 @@
       {
         "word": "軽傷",
         "reading": "けいしょう",
-        "meaning": "minor injury"
+        "meaning": "minor injury",
+        "cn": "轻伤"
       },
       {
         "word": "歌留多",
         "reading": "かるた",
-        "meaning": "karuta"
+        "meaning": "karuta",
+        "cn": "更好的"
       },
       {
         "word": "軽はずみ",
         "reading": "かるはずみ",
-        "meaning": "thoughtless"
+        "meaning": "thoughtless",
+        "cn": "无思想的"
       }
     ]
   },
@@ -8960,17 +9798,20 @@
       {
         "word": "貯蓄",
         "reading": "ちょちく",
-        "meaning": "savings"
+        "meaning": "savings",
+        "cn": "储蓄"
       },
       {
         "word": "貯金",
         "reading": "ちょきん",
-        "meaning": "accumulated surplus of wins"
+        "meaning": "accumulated surplus of wins",
+        "cn": "累积胜数盈余"
       },
       {
         "word": "蓄える",
         "reading": "たくわえる",
-        "meaning": "to grow (a beard, moustache, etc.)"
+        "meaning": "to grow (a beard, moustache, etc.)",
+        "cn": "生长（胡须、小胡子等）"
       }
     ]
   },
@@ -8993,17 +9834,20 @@
       {
         "word": "装飾",
         "reading": "そうしょく",
-        "meaning": "ornament"
+        "meaning": "ornament",
+        "cn": "装饰品"
       },
       {
         "word": "包装",
         "reading": "ほうそう",
-        "meaning": "packing"
+        "meaning": "packing",
+        "cn": "包装"
       },
       {
         "word": "正装",
         "reading": "せいそう",
-        "meaning": "full dress"
+        "meaning": "full dress",
+        "cn": "礼服"
       }
     ]
   },
@@ -9027,17 +9871,20 @@
       {
         "word": "尊重",
         "reading": "そんちょう",
-        "meaning": "respect"
+        "meaning": "respect",
+        "cn": "尊重"
       },
       {
         "word": "尊敬",
         "reading": "そんけい",
-        "meaning": "respect"
+        "meaning": "respect",
+        "cn": "尊重"
       },
       {
         "word": "尊い",
         "reading": "たっとい",
-        "meaning": "noble"
+        "meaning": "noble",
+        "cn": "高贵"
       }
     ]
   },
@@ -9060,17 +9907,20 @@
       {
         "word": "触れ合う",
         "reading": "ふれあう",
-        "meaning": "to come into contact with"
+        "meaning": "to come into contact with",
+        "cn": "接触到"
       },
       {
         "word": "接触",
         "reading": "せっしょく",
-        "meaning": "touch"
+        "meaning": "touch",
+        "cn": "触碰"
       },
       {
         "word": "触れ合い",
         "reading": "ふれあい",
-        "meaning": "contact"
+        "meaning": "contact",
+        "cn": "接触"
       }
     ]
   },
@@ -9093,17 +9943,20 @@
       {
         "word": "宮殿",
         "reading": "きゅうでん",
-        "meaning": "palace"
+        "meaning": "palace",
+        "cn": "宫殿"
       },
       {
         "word": "殿下",
         "reading": "てんが",
-        "meaning": "your Highness"
+        "meaning": "your Highness",
+        "cn": "殿下"
       },
       {
         "word": "神殿",
         "reading": "しんでん",
-        "meaning": "temple"
+        "meaning": "temple",
+        "cn": "寺庙"
       }
     ]
   },
@@ -9124,17 +9977,20 @@
       {
         "word": "遺跡",
         "reading": "いせき",
-        "meaning": "(archeological) remains"
+        "meaning": "(archeological) remains",
+        "cn": "（考古）遗迹"
       },
       {
         "word": "奇跡",
         "reading": "きせき",
-        "meaning": "miracle"
+        "meaning": "miracle",
+        "cn": "奇迹"
       },
       {
         "word": "途絶える",
         "reading": "とだえる",
-        "meaning": "to stop"
+        "meaning": "to stop",
+        "cn": "停止"
       }
     ]
   },
@@ -9160,17 +10016,20 @@
       {
         "word": "見つめる",
         "reading": "みつめる",
-        "meaning": "to stare (at)"
+        "meaning": "to stare (at)",
+        "cn": "盯着（看）"
       },
       {
         "word": "瓶詰め",
         "reading": "びんづめ",
-        "meaning": "bottled"
+        "meaning": "bottled",
+        "cn": "瓶装"
       },
       {
         "word": "瓶詰",
         "reading": "びんづめ",
-        "meaning": "bottled"
+        "meaning": "bottled",
+        "cn": "瓶装"
       }
     ]
   },
@@ -9189,17 +10048,20 @@
       {
         "word": "監禁",
         "reading": "かんきん",
-        "meaning": "confinement"
+        "meaning": "confinement",
+        "cn": "禁闭"
       },
       {
         "word": "禁句",
         "reading": "きんく",
-        "meaning": "taboo word"
+        "meaning": "taboo word",
+        "cn": "禁忌词"
       },
       {
         "word": "禁欲的",
         "reading": "きんよくてき",
-        "meaning": "abstemious"
+        "meaning": "abstemious",
+        "cn": "节制的"
       }
     ]
   },
@@ -9220,17 +10082,20 @@
       {
         "word": "鉱山",
         "reading": "こうざん",
-        "meaning": "mine (ore)"
+        "meaning": "mine (ore)",
+        "cn": "我（小时）"
       },
       {
         "word": "鉱物",
         "reading": "こうぶつ",
-        "meaning": "mineral"
+        "meaning": "mineral",
+        "cn": "矿物"
       },
       {
         "word": "鉱業",
         "reading": "こうぎょう",
-        "meaning": "mining industry"
+        "meaning": "mining industry",
+        "cn": "矿业"
       }
     ]
   },
@@ -9251,17 +10116,20 @@
       {
         "word": "裏門",
         "reading": "うらもん",
-        "meaning": "back gate"
+        "meaning": "back gate",
+        "cn": "后门"
       },
       {
         "word": "裏切る",
         "reading": "うらぎる",
-        "meaning": "to betray"
+        "meaning": "to betray",
+        "cn": "背叛"
       },
       {
         "word": "裏返す",
         "reading": "うらがえす",
-        "meaning": "to turn inside out"
+        "meaning": "to turn inside out",
+        "cn": "翻过来"
       }
     ]
   },
@@ -9284,17 +10152,20 @@
       {
         "word": "豊作",
         "reading": "ほうさく",
-        "meaning": "abundant harvest"
+        "meaning": "abundant harvest",
+        "cn": "丰收"
       },
       {
         "word": "豊富",
         "reading": "ほうふ",
-        "meaning": "abundant"
+        "meaning": "abundant",
+        "cn": "丰富"
       },
       {
         "word": "豊か",
         "reading": "ゆたか",
-        "meaning": "(well) over"
+        "meaning": "(well) over",
+        "cn": "（好）结束"
       }
     ]
   },
@@ -9317,17 +10188,20 @@
       {
         "word": "零下",
         "reading": "れいか",
-        "meaning": "below zero"
+        "meaning": "below zero",
+        "cn": "零下"
       },
       {
         "word": "零れる",
         "reading": "こぼれる",
-        "meaning": "to escape (of a smile, tear, etc.)"
+        "meaning": "to escape (of a smile, tear, etc.)",
+        "cn": "逃避（微笑、眼泪等）"
       },
       {
         "word": "零時",
         "reading": "れいじ",
-        "meaning": "twelve o'clock"
+        "meaning": "twelve o'clock",
+        "cn": "十二点钟"
       }
     ]
   },
@@ -9346,17 +10220,20 @@
       {
         "word": "農協",
         "reading": "のうきょう",
-        "meaning": "agricultural cooperative"
+        "meaning": "agricultural cooperative",
+        "cn": "农业合作社"
       },
       {
         "word": "農業",
         "reading": "のうぎょう",
-        "meaning": "agriculture"
+        "meaning": "agriculture",
+        "cn": "农业"
       },
       {
         "word": "農林",
         "reading": "のうりん",
-        "meaning": "agriculture and forestry"
+        "meaning": "agriculture and forestry",
+        "cn": "农业和林业"
       }
     ]
   },
@@ -9381,17 +10258,20 @@
       {
         "word": "傾向",
         "reading": "けいこう",
-        "meaning": "tendency"
+        "meaning": "tendency",
+        "cn": "趋势"
       },
       {
         "word": "傾げる",
         "reading": "かしげる",
-        "meaning": "to tilt (esp. head)"
+        "meaning": "to tilt (esp. head)",
+        "cn": "倾斜（尤其是头部）"
       },
       {
         "word": "傾斜",
         "reading": "けいしゃ",
-        "meaning": "inclination"
+        "meaning": "inclination",
+        "cn": "倾角"
       }
     ]
   },
@@ -9415,17 +10295,20 @@
       {
         "word": "群がる",
         "reading": "むらがる",
-        "meaning": "to swarm"
+        "meaning": "to swarm",
+        "cn": "蜂拥而至"
       },
       {
         "word": "群れる",
         "reading": "むれる",
-        "meaning": "to crowd"
+        "meaning": "to crowd",
+        "cn": "人群"
       },
       {
         "word": "群集",
         "reading": "ぐんしゅう",
-        "meaning": "crowd"
+        "meaning": "crowd",
+        "cn": "人群"
       }
     ]
   },
@@ -9448,17 +10331,20 @@
       {
         "word": "雪解け",
         "reading": "ゆきどけ",
-        "meaning": "snow thaw"
+        "meaning": "snow thaw",
+        "cn": "雪融化"
       },
       {
         "word": "溶く",
         "reading": "とく",
-        "meaning": "to dissolve (paint)"
+        "meaning": "to dissolve (paint)",
+        "cn": "溶解（油漆）"
       },
       {
         "word": "溶かす",
         "reading": "とかす",
-        "meaning": "to dissolve"
+        "meaning": "to dissolve",
+        "cn": "溶解"
       }
     ]
   },
@@ -9481,17 +10367,20 @@
       {
         "word": "態勢",
         "reading": "たいせい",
-        "meaning": "attitude"
+        "meaning": "attitude",
+        "cn": "态度"
       },
       {
         "word": "動静",
         "reading": "どうせい",
-        "meaning": "state (of affairs)"
+        "meaning": "state (of affairs)",
+        "cn": "（事态）状态"
       },
       {
         "word": "優勢",
         "reading": "ゆうせい",
-        "meaning": "superiority"
+        "meaning": "superiority",
+        "cn": "优势"
       }
     ]
   },
@@ -9510,17 +10399,20 @@
       {
         "word": "消防署",
         "reading": "しょうぼうしょ",
-        "meaning": "fire station"
+        "meaning": "fire station",
+        "cn": "消防局"
       },
       {
         "word": "署名",
         "reading": "しょめい",
-        "meaning": "signature"
+        "meaning": "signature",
+        "cn": "签名"
       },
       {
         "word": "税務署",
         "reading": "ぜいむしょ",
-        "meaning": "tax office"
+        "meaning": "tax office",
+        "cn": "税务局"
       }
     ]
   },
@@ -9545,17 +10437,20 @@
       {
         "word": "損失",
         "reading": "そんしつ",
-        "meaning": "loss (of assets, profit, etc.)"
+        "meaning": "loss (of assets, profit, etc.)",
+        "cn": "（资产、利润等）损失"
       },
       {
         "word": "破損",
         "reading": "はそん",
-        "meaning": "damage"
+        "meaning": "damage",
+        "cn": "损害"
       },
       {
         "word": "損得",
         "reading": "そんとく",
-        "meaning": "loss and gain"
+        "meaning": "loss and gain",
+        "cn": "损失与收益"
       }
     ]
   },
@@ -9578,17 +10473,20 @@
       {
         "word": "塗る",
         "reading": "ぬる",
-        "meaning": "to paint"
+        "meaning": "to paint",
+        "cn": "画画"
       },
       {
         "word": "塗装",
         "reading": "とそう",
-        "meaning": "coating"
+        "meaning": "coating",
+        "cn": "涂层"
       },
       {
         "word": "塗料",
         "reading": "とりょう",
-        "meaning": "paints"
+        "meaning": "paints",
+        "cn": "油漆"
       }
     ]
   },
@@ -9609,17 +10507,20 @@
       {
         "word": "塩分",
         "reading": "えんぶん",
-        "meaning": "salt"
+        "meaning": "salt",
+        "cn": "盐"
       },
       {
         "word": "塩水",
         "reading": "えんすい",
-        "meaning": "salt water"
+        "meaning": "salt water",
+        "cn": "盐水"
       },
       {
         "word": "塩辛い",
         "reading": "しおからい",
-        "meaning": "salty (taste)"
+        "meaning": "salty (taste)",
+        "cn": "咸（味道）"
       }
     ]
   },
@@ -9640,17 +10541,20 @@
       {
         "word": "腰掛ける",
         "reading": "こしかける",
-        "meaning": "to sit (down)"
+        "meaning": "to sit (down)",
+        "cn": "坐下（坐下）"
       },
       {
         "word": "腰掛",
         "reading": "こしかけ",
-        "meaning": "temporary job while looking for a better job or until one marries"
+        "meaning": "temporary job while looking for a better job or until one marries",
+        "cn": "寻找更好的工作或结婚之前的临时工作"
       },
       {
         "word": "腰掛け",
         "reading": "こしかけ",
-        "meaning": "temporary job while looking for a better job or until one marries"
+        "meaning": "temporary job while looking for a better job or until one marries",
+        "cn": "寻找更好的工作或结婚之前的临时工作"
       }
     ]
   },
@@ -9672,17 +10576,20 @@
       {
         "word": "預かり所",
         "reading": "あずかりしょ",
-        "meaning": "cloakroom"
+        "meaning": "cloakroom",
+        "cn": "衣帽间"
       },
       {
         "word": "預金",
         "reading": "よきん",
-        "meaning": "deposit"
+        "meaning": "deposit",
+        "cn": "订金"
       },
       {
         "word": "予防",
         "reading": "よぼう",
-        "meaning": "prevention"
+        "meaning": "prevention",
+        "cn": "预防"
       }
     ]
   },
@@ -9705,17 +10612,20 @@
       {
         "word": "照明",
         "reading": "しょうめい",
-        "meaning": "illumination"
+        "meaning": "illumination",
+        "cn": "照明"
       },
       {
         "word": "対照",
         "reading": "たいしょう",
-        "meaning": "contrast"
+        "meaning": "contrast",
+        "cn": "对比"
       },
       {
         "word": "照会",
         "reading": "しょうかい",
-        "meaning": "inquiry"
+        "meaning": "inquiry",
+        "cn": "询问"
       }
     ]
   },
@@ -9739,17 +10649,20 @@
       {
         "word": "蒸かす",
         "reading": "ふかす",
-        "meaning": "to steam (food)"
+        "meaning": "to steam (food)",
+        "cn": "蒸（食物）"
       },
       {
         "word": "蒸し暑い",
         "reading": "むしあつい",
-        "meaning": "humid"
+        "meaning": "humid",
+        "cn": "湿"
       },
       {
         "word": "水蒸気",
         "reading": "すいじょうき",
-        "meaning": "water vapour"
+        "meaning": "water vapour",
+        "cn": "水蒸气"
       }
     ]
   },
@@ -9770,17 +10683,20 @@
       {
         "word": "製鉄",
         "reading": "せいてつ",
-        "meaning": "iron manufacture"
+        "meaning": "iron manufacture",
+        "cn": "钢铁制造"
       },
       {
         "word": "私鉄",
         "reading": "してつ",
-        "meaning": "private railway"
+        "meaning": "private railway",
+        "cn": "私营铁路"
       },
       {
         "word": "鉄橋",
         "reading": "てっきょう",
-        "meaning": "railway bridge"
+        "meaning": "railway bridge",
+        "cn": "铁路桥"
       }
     ]
   },
@@ -9806,17 +10722,20 @@
       {
         "word": "準急",
         "reading": "じゅんきゅう",
-        "meaning": "semi-express train"
+        "meaning": "semi-express train",
+        "cn": "半快车"
       },
       {
         "word": "標準",
         "reading": "ひょうじゅん",
-        "meaning": "standard"
+        "meaning": "standard",
+        "cn": "标准"
       },
       {
         "word": "準備",
         "reading": "じゅんび",
-        "meaning": "preparation"
+        "meaning": "preparation",
+        "cn": "准备"
       }
     ]
   },
@@ -9837,17 +10756,20 @@
       {
         "word": "耳鼻科",
         "reading": "じびか",
-        "meaning": "otolaryngology"
+        "meaning": "otolaryngology",
+        "cn": "耳鼻喉科"
       },
       {
         "word": "鼻紙",
         "reading": "はながみ",
-        "meaning": "tissue paper"
+        "meaning": "tissue paper",
+        "cn": "棉纸"
       },
       {
         "word": "鼻息",
         "reading": "はないき",
-        "meaning": "nasal breathing"
+        "meaning": "nasal breathing",
+        "cn": "鼻呼吸"
       }
     ]
   },
@@ -9866,17 +10788,20 @@
       {
         "word": "高層",
         "reading": "こうそう",
-        "meaning": "high (altitude)"
+        "meaning": "high (altitude)",
+        "cn": "高空）"
       },
       {
         "word": "大層",
         "reading": "たいそう",
-        "meaning": "exaggerated"
+        "meaning": "exaggerated",
+        "cn": "夸张的"
       },
       {
         "word": "一層",
         "reading": "いっそう",
-        "meaning": "lowest floor (of a building)"
+        "meaning": "lowest floor (of a building)",
+        "cn": "（建筑物的）最低层"
       }
     ]
   },
@@ -9898,17 +10823,20 @@
       {
         "word": "水滴",
         "reading": "すいてき",
-        "meaning": "drop of water"
+        "meaning": "drop of water",
+        "cn": "一滴水"
       },
       {
         "word": "点滴",
         "reading": "てんてき",
-        "meaning": "raindrops"
+        "meaning": "raindrops",
+        "cn": "雨滴"
       },
       {
         "word": "一滴",
         "reading": "いってき",
-        "meaning": "one drop (of fluid)"
+        "meaning": "one drop (of fluid)",
+        "cn": "一滴（液体）"
       }
     ]
   },
@@ -9927,17 +10855,20 @@
       {
         "word": "複合",
         "reading": "ふくごう",
-        "meaning": "composite"
+        "meaning": "composite",
+        "cn": "合成的"
       },
       {
         "word": "複雑",
         "reading": "ふくざつ",
-        "meaning": "complex"
+        "meaning": "complex",
+        "cn": "复杂的"
       },
       {
         "word": "複写",
         "reading": "ふくしゃ",
-        "meaning": "copying"
+        "meaning": "copying",
+        "cn": "复制"
       }
     ]
   },
@@ -9958,17 +10889,20 @@
       {
         "word": "血管",
         "reading": "けっかん",
-        "meaning": "blood vessel"
+        "meaning": "blood vessel",
+        "cn": "血管"
       },
       {
         "word": "管理",
         "reading": "かんり",
-        "meaning": "control"
+        "meaning": "control",
+        "cn": "控制"
       },
       {
         "word": "管轄",
         "reading": "かんかつ",
-        "meaning": "jurisdiction"
+        "meaning": "jurisdiction",
+        "cn": "管辖权"
       }
     ]
   },
@@ -9990,17 +10924,20 @@
       {
         "word": "国境",
         "reading": "くにざかい",
-        "meaning": "border (between countries)"
+        "meaning": "border (between countries)",
+        "cn": "边界（国家之间）"
       },
       {
         "word": "環境",
         "reading": "かんきょう",
-        "meaning": "environment"
+        "meaning": "environment",
+        "cn": "环境"
       },
       {
         "word": "逆境",
         "reading": "ぎゃっきょう",
-        "meaning": "adverse circumstances"
+        "meaning": "adverse circumstances",
+        "cn": "不利的情况"
       }
     ]
   },
@@ -10020,17 +10957,20 @@
       {
         "word": "歴史",
         "reading": "れきし",
-        "meaning": "history"
+        "meaning": "history",
+        "cn": "历史"
       },
       {
         "word": "職歴",
         "reading": "しょくれき",
-        "meaning": "work experience"
+        "meaning": "work experience",
+        "cn": "工作经验"
       },
       {
         "word": "学歴",
         "reading": "がくれき",
-        "meaning": "academic background"
+        "meaning": "academic background",
+        "cn": "学术背景"
       }
     ]
   },
@@ -10052,17 +10992,20 @@
       {
         "word": "洗練",
         "reading": "せんれん",
-        "meaning": "refinement"
+        "meaning": "refinement",
+        "cn": "细化"
       },
       {
         "word": "訓練",
         "reading": "くんれん",
-        "meaning": "training"
+        "meaning": "training",
+        "cn": "训练"
       },
       {
         "word": "未練",
         "reading": "みれん",
-        "meaning": "lingering attachment"
+        "meaning": "lingering attachment",
+        "cn": "挥之不去的依恋"
       }
     ]
   },
@@ -10083,17 +11026,20 @@
       {
         "word": "領事館",
         "reading": "りょうじかん",
-        "meaning": "consulate"
+        "meaning": "consulate",
+        "cn": "领事馆"
       },
       {
         "word": "領収書",
         "reading": "りょうしゅうしょ",
-        "meaning": "formal receipt (of payment; oft. hand-written)"
+        "meaning": "formal receipt (of payment; oft. hand-written)",
+        "cn": "正式收据（付款；通常是手写的）"
       },
       {
         "word": "領空",
         "reading": "りょうくう",
-        "meaning": "territorial airspace"
+        "meaning": "territorial airspace",
+        "cn": "领空"
       }
     ]
   },
@@ -10115,17 +11061,20 @@
       {
         "word": "緑色",
         "reading": "みどりいろ",
-        "meaning": "green"
+        "meaning": "green",
+        "cn": "绿色的"
       },
       {
         "word": "新緑",
         "reading": "しんりょく",
-        "meaning": "fresh verdure"
+        "meaning": "fresh verdure",
+        "cn": "鲜翠"
       },
       {
         "word": "緑茶",
         "reading": "りょくちゃ",
-        "meaning": "green tea"
+        "meaning": "green tea",
+        "cn": "绿茶"
       }
     ]
   },
@@ -10146,17 +11095,20 @@
       {
         "word": "木綿",
         "reading": "きわた",
-        "meaning": "cotton (material)"
+        "meaning": "cotton (material)",
+        "cn": "布料）"
       },
       {
         "word": "綿密",
         "reading": "めんみつ",
-        "meaning": "minute"
+        "meaning": "minute",
+        "cn": "分钟"
       },
       {
         "word": "石綿",
         "reading": "いしわた",
-        "meaning": "asbestos"
+        "meaning": "asbestos",
+        "cn": "石棉"
       }
     ]
   },
@@ -10177,17 +11129,20 @@
       {
         "word": "足し算",
         "reading": "たしざん",
-        "meaning": "addition"
+        "meaning": "addition",
+        "cn": "添加"
       },
       {
         "word": "割り算",
         "reading": "わりざん",
-        "meaning": "division"
+        "meaning": "division",
+        "cn": "分配"
       },
       {
         "word": "掛け算",
         "reading": "かけざん",
-        "meaning": "multiplication"
+        "meaning": "multiplication",
+        "cn": "乘法"
       }
     ]
   },
@@ -10208,17 +11163,20 @@
       {
         "word": "銅像",
         "reading": "どうぞう",
-        "meaning": "bronze statue"
+        "meaning": "bronze statue",
+        "cn": "青铜雕像"
       },
       {
         "word": "銅貨",
         "reading": "どうか",
-        "meaning": "copper coin"
+        "meaning": "copper coin",
+        "cn": "铜币"
       },
       {
         "word": "銅鐸",
         "reading": "どうたく",
-        "meaning": "bell-shaped bronze vessel of Yayoi period"
+        "meaning": "bell-shaped bronze vessel of Yayoi period",
+        "cn": "弥生时代钟形青铜器"
       }
     ]
   },
@@ -10237,17 +11195,20 @@
       {
         "word": "銅像",
         "reading": "どうぞう",
-        "meaning": "bronze statue"
+        "meaning": "bronze statue",
+        "cn": "青铜雕像"
       },
       {
         "word": "現像",
         "reading": "げんぞう",
-        "meaning": "development (of film)"
+        "meaning": "development (of film)",
+        "cn": "(电影的)发展"
       },
       {
         "word": "偶像",
         "reading": "ぐうぞう",
-        "meaning": "image"
+        "meaning": "image",
+        "cn": "图像"
       }
     ]
   },
@@ -10268,17 +11229,20 @@
       {
         "word": "踊り",
         "reading": "おどり",
-        "meaning": "dance"
+        "meaning": "dance",
+        "cn": "舞蹈"
       },
       {
         "word": "踊る",
         "reading": "おどる",
-        "meaning": "to dance (orig. a hopping dance)"
+        "meaning": "to dance (orig. a hopping dance)",
+        "cn": "跳舞（原意：跳跃的舞蹈）"
       },
       {
         "word": "盆踊り",
         "reading": "ぼんおどり",
-        "meaning": "Bon Festival dance"
+        "meaning": "Bon Festival dance",
+        "cn": "盂兰盆节舞蹈"
       }
     ]
   },
@@ -10300,17 +11264,20 @@
       {
         "word": "漁師",
         "reading": "りょうし",
-        "meaning": "fisherman"
+        "meaning": "fisherman",
+        "cn": "渔夫"
       },
       {
         "word": "漁船",
         "reading": "ぎょせん",
-        "meaning": "fishing boat"
+        "meaning": "fishing boat",
+        "cn": "渔船"
       },
       {
         "word": "漁村",
         "reading": "ぎょそん",
-        "meaning": "fishing village"
+        "meaning": "fishing village",
+        "cn": "渔村"
       }
     ]
   },
@@ -10334,17 +11301,20 @@
       {
         "word": "憎しみ",
         "reading": "にくしみ",
-        "meaning": "hatred"
+        "meaning": "hatred",
+        "cn": "仇恨"
       },
       {
         "word": "憎む",
         "reading": "にくむ",
-        "meaning": "to hate"
+        "meaning": "to hate",
+        "cn": "讨厌"
       },
       {
         "word": "生憎",
         "reading": "あいにく",
-        "meaning": "unfortunately"
+        "meaning": "unfortunately",
+        "cn": "很遗憾"
       }
     ]
   },
@@ -10363,17 +11333,20 @@
       {
         "word": "日誌",
         "reading": "にっし",
-        "meaning": "journal"
+        "meaning": "journal",
+        "cn": "杂志"
       },
       {
         "word": "週刊誌",
         "reading": "しゅうかんし",
-        "meaning": "weekly publication"
+        "meaning": "weekly publication",
+        "cn": "周刊"
       },
       {
         "word": "雑誌",
         "reading": "ざっし",
-        "meaning": "journal"
+        "meaning": "journal",
+        "cn": "杂志"
       }
     ]
   },
@@ -10396,17 +11369,20 @@
       {
         "word": "総会",
         "reading": "そうかい",
-        "meaning": "general meeting"
+        "meaning": "general meeting",
+        "cn": "大会"
       },
       {
         "word": "総論",
         "reading": "そうろん",
-        "meaning": "general remarks"
+        "meaning": "general remarks",
+        "cn": "一般性评论"
       },
       {
         "word": "総理大臣",
         "reading": "そうりだいじん",
-        "meaning": "prime minister (as the head of a cabinet government)"
+        "meaning": "prime minister (as the head of a cabinet government)",
+        "cn": "首相（作为内阁政府首脑）"
       }
     ]
   },
@@ -10429,17 +11405,20 @@
       {
         "word": "暴風雨",
         "reading": "あらし",
-        "meaning": "rainstorm"
+        "meaning": "rainstorm",
+        "cn": "暴雨"
       },
       {
         "word": "暴力",
         "reading": "ぼうりょく",
-        "meaning": "violence"
+        "meaning": "violence",
+        "cn": "暴力"
       },
       {
         "word": "暴露",
         "reading": "ばくろ",
-        "meaning": "disclosure"
+        "meaning": "disclosure",
+        "cn": "披露"
       }
     ]
   },
@@ -10461,17 +11440,20 @@
       {
         "word": "編集",
         "reading": "へんしゅう",
-        "meaning": "editing"
+        "meaning": "editing",
+        "cn": "编辑"
       },
       {
         "word": "編物",
         "reading": "あみもの",
-        "meaning": "knitting"
+        "meaning": "knitting",
+        "cn": "针织"
       },
       {
         "word": "編み物",
         "reading": "あみもの",
-        "meaning": "knitting"
+        "meaning": "knitting",
+        "cn": "针织"
       }
     ]
   },
@@ -10492,17 +11474,20 @@
       {
         "word": "半導体",
         "reading": "はんどうたい",
-        "meaning": "semiconductor"
+        "meaning": "semiconductor",
+        "cn": "半导体"
       },
       {
         "word": "誘導",
         "reading": "ゆうどう",
-        "meaning": "guidance"
+        "meaning": "guidance",
+        "cn": "指导"
       },
       {
         "word": "指導",
         "reading": "しどう",
-        "meaning": "shido (disciplinary action for a minor infringement of the rules of judo)"
+        "meaning": "shido (disciplinary action for a minor infringement of the rules of judo)",
+        "cn": "Shido（轻微违反柔道规则的纪律处分）"
       }
     ]
   },
@@ -10523,17 +11508,20 @@
       {
         "word": "皮膚",
         "reading": "ひふ",
-        "meaning": "skin"
+        "meaning": "skin",
+        "cn": "皮肤"
       },
       {
         "word": "肌着",
         "reading": "はだぎ",
-        "meaning": "underwear"
+        "meaning": "underwear",
+        "cn": "内衣"
       },
       {
         "word": "肌色",
         "reading": "はだいろ",
-        "meaning": "(one's) skin color"
+        "meaning": "(one's) skin color",
+        "cn": "（某人的）肤色"
       }
     ]
   },
@@ -10552,17 +11540,20 @@
       {
         "word": "喜劇",
         "reading": "きげき",
-        "meaning": "comedy"
+        "meaning": "comedy",
+        "cn": "喜剧"
       },
       {
         "word": "劇場",
         "reading": "げきじょう",
-        "meaning": "theatre"
+        "meaning": "theatre",
+        "cn": "剧院"
       },
       {
         "word": "演劇",
         "reading": "えんげき",
-        "meaning": "drama"
+        "meaning": "drama",
+        "cn": "戏剧"
       }
     ]
   },
@@ -10581,17 +11572,20 @@
       {
         "word": "課税",
         "reading": "かぜい",
-        "meaning": "taxation"
+        "meaning": "taxation",
+        "cn": "税收"
       },
       {
         "word": "課程",
         "reading": "かてい",
-        "meaning": "course"
+        "meaning": "course",
+        "cn": "课程"
       },
       {
         "word": "課長",
         "reading": "かちょう",
-        "meaning": "section manager"
+        "meaning": "section manager",
+        "cn": "部门经理"
       }
     ]
   },
@@ -10612,17 +11606,20 @@
       {
         "word": "指輪",
         "reading": "ゆびわ",
-        "meaning": "(finger) ring"
+        "meaning": "(finger) ring",
+        "cn": "（手指）戒指"
       },
       {
         "word": "車輪",
         "reading": "しゃりん",
-        "meaning": "(vehicle) wheel"
+        "meaning": "(vehicle) wheel",
+        "cn": "（车辆）轮子"
       },
       {
         "word": "輪ゴム",
         "reading": "わゴム",
-        "meaning": "rubber band"
+        "meaning": "rubber band",
+        "cn": "橡皮筋"
       }
     ]
   },
@@ -10643,17 +11640,20 @@
       {
         "word": "鋭い",
         "reading": "するどい",
-        "meaning": "sharp (knife, claws, etc.)"
+        "meaning": "sharp (knife, claws, etc.)",
+        "cn": "锋利的（刀、爪子等）"
       },
       {
         "word": "気鋭",
         "reading": "きえい",
-        "meaning": "spirited"
+        "meaning": "spirited",
+        "cn": "精神抖擞的"
       },
       {
         "word": "精鋭",
         "reading": "せいえい",
-        "meaning": "elite"
+        "meaning": "elite",
+        "cn": "精英"
       }
     ]
   },
@@ -10674,17 +11674,20 @@
       {
         "word": "鑑賞",
         "reading": "かんしょう",
-        "meaning": "appreciation (of art, music, poetry, etc.)"
+        "meaning": "appreciation (of art, music, poetry, etc.)",
+        "cn": "欣赏（艺术、音乐、诗歌等）"
       },
       {
         "word": "賞罰",
         "reading": "しょうばつ",
-        "meaning": "reward and punishment"
+        "meaning": "reward and punishment",
+        "cn": "奖惩"
       },
       {
         "word": "賞品",
         "reading": "しょうひん",
-        "meaning": "prize"
+        "meaning": "prize",
+        "cn": "奖"
       }
     ]
   },
@@ -10705,17 +11708,20 @@
       {
         "word": "曲線",
         "reading": "きょくせん",
-        "meaning": "curve"
+        "meaning": "curve",
+        "cn": "曲线"
       },
       {
         "word": "水平線",
         "reading": "すいへいせん",
-        "meaning": "horizon (related to bodies of water)"
+        "meaning": "horizon (related to bodies of water)",
+        "cn": "地平线（与水体有关）"
       },
       {
         "word": "地平線",
         "reading": "ちへいせん",
-        "meaning": "horizon (related to land)"
+        "meaning": "horizon (related to land)",
+        "cn": "地平线（与土地有关）"
       }
     ]
   },
@@ -10734,17 +11740,20 @@
       {
         "word": "数億年",
         "reading": "すうおくねん",
-        "meaning": "several hundred million years"
+        "meaning": "several hundred million years",
+        "cn": "几亿年"
       },
       {
         "word": "十億",
         "reading": "じゅうおく",
-        "meaning": "1,000,000,000"
+        "meaning": "1,000,000,000",
+        "cn": "1,000,000,000"
       },
       {
         "word": "百億",
         "reading": "ひゃくおく",
-        "meaning": "10,000,000,000"
+        "meaning": "10,000,000,000",
+        "cn": "10,000,000,000"
       }
     ]
   },
@@ -10768,17 +11777,20 @@
       {
         "word": "大蔵",
         "reading": "おおくら",
-        "meaning": "Ministry of Finance"
+        "meaning": "Ministry of Finance",
+        "cn": "财政部"
       },
       {
         "word": "冷蔵",
         "reading": "れいぞう",
-        "meaning": "cold storage"
+        "meaning": "cold storage",
+        "cn": "冷库"
       },
       {
         "word": "冷蔵庫",
         "reading": "れいぞうこ",
-        "meaning": "refrigerator"
+        "meaning": "refrigerator",
+        "cn": "冰箱"
       }
     ]
   },
@@ -10802,17 +11814,20 @@
       {
         "word": "地震",
         "reading": "じしん",
-        "meaning": "earthquake"
+        "meaning": "earthquake",
+        "cn": "地震"
       },
       {
         "word": "震度",
         "reading": "しんど",
-        "meaning": "seismic intensity"
+        "meaning": "seismic intensity",
+        "cn": "地震烈度"
       },
       {
         "word": "震える",
         "reading": "ふるえる",
-        "meaning": "to shiver"
+        "meaning": "to shiver",
+        "cn": "发抖"
       }
     ]
   },
@@ -10833,17 +11848,20 @@
       {
         "word": "諸国",
         "reading": "しょこく",
-        "meaning": "various countries"
+        "meaning": "various countries",
+        "cn": "各国"
       },
       {
         "word": "諸君",
         "reading": "しょくん",
-        "meaning": "you (people)"
+        "meaning": "you (people)",
+        "cn": "你（人）"
       },
       {
         "word": "諸般",
         "reading": "しょはん",
-        "meaning": "various"
+        "meaning": "various",
+        "cn": "各种各样的"
       }
     ]
   },
@@ -10862,17 +11880,20 @@
       {
         "word": "駐車",
         "reading": "ちゅうしゃ",
-        "meaning": "parking (a vehicle)"
+        "meaning": "parking (a vehicle)",
+        "cn": "停车（车辆）"
       },
       {
         "word": "駐車場",
         "reading": "ちゅうしゃじょう",
-        "meaning": "parking lot"
+        "meaning": "parking lot",
+        "cn": "停车场"
       },
       {
         "word": "止まる",
         "reading": "とどまる",
-        "meaning": "to be limited to"
+        "meaning": "to be limited to",
+        "cn": "限于"
       }
     ]
   },
@@ -10901,17 +11922,20 @@
       {
         "word": "薄着",
         "reading": "うすぎ",
-        "meaning": "being lightly dressed"
+        "meaning": "being lightly dressed",
+        "cn": "穿着轻便"
       },
       {
         "word": "薄まる",
         "reading": "うすまる",
-        "meaning": "to become weak"
+        "meaning": "to become weak",
+        "cn": "变得软弱"
       },
       {
         "word": "薄暗い",
         "reading": "うすぐらい",
-        "meaning": "dim"
+        "meaning": "dim",
+        "cn": "暗淡"
       }
     ]
   },
@@ -10933,17 +11957,20 @@
       {
         "word": "録音",
         "reading": "ろくおん",
-        "meaning": "(audio) recording"
+        "meaning": "(audio) recording",
+        "cn": "（音频）录音"
       },
       {
         "word": "録画",
         "reading": "ろくが",
-        "meaning": "(video) recording"
+        "meaning": "(video) recording",
+        "cn": "（视频）录音"
       },
       {
         "word": "付録",
         "reading": "ふろく",
-        "meaning": "appendix"
+        "meaning": "appendix",
+        "cn": "附录"
       }
     ]
   },
@@ -10965,17 +11992,20 @@
       {
         "word": "歯磨き",
         "reading": "はみがき",
-        "meaning": "dental brushing"
+        "meaning": "dental brushing",
+        "cn": "刷牙"
       },
       {
         "word": "擦る",
         "reading": "する",
-        "meaning": "to lose (e.g. a match)"
+        "meaning": "to lose (e.g. a match)",
+        "cn": "输掉（例如一场比赛）"
       },
       {
         "word": "磨く",
         "reading": "みがく",
-        "meaning": "to refine (a skill, etc.)"
+        "meaning": "to refine (a skill, etc.)",
+        "cn": "精炼（技能等）"
       }
     ]
   },
@@ -10996,17 +12026,20 @@
       {
         "word": "濃縮",
         "reading": "のうしゅく",
-        "meaning": "concentration (e.g. of a solution)"
+        "meaning": "concentration (e.g. of a solution)",
+        "cn": "浓度（例如溶液的浓度）"
       },
       {
         "word": "濃厚",
         "reading": "のうこう",
-        "meaning": "passionate"
+        "meaning": "passionate",
+        "cn": "热情的"
       },
       {
         "word": "濃い",
         "reading": "こい",
-        "meaning": "strong (flavour, smell, etc.)"
+        "meaning": "strong (flavour, smell, etc.)",
+        "cn": "浓烈的（味道、气味等）"
       }
     ]
   },
@@ -11027,17 +12060,20 @@
       {
         "word": "鉄橋",
         "reading": "てっきょう",
-        "meaning": "railway bridge"
+        "meaning": "railway bridge",
+        "cn": "铁路桥"
       },
       {
         "word": "桟橋",
         "reading": "さんきょう",
-        "meaning": "wharf"
+        "meaning": "wharf",
+        "cn": "码头"
       },
       {
         "word": "陸橋",
         "reading": "りくきょう",
-        "meaning": "land bridge (biogeography)"
+        "meaning": "land bridge (biogeography)",
+        "cn": "陆桥（生物地理学）"
       }
     ]
   },
@@ -11060,17 +12096,20 @@
       {
         "word": "燃料",
         "reading": "ねんりょう",
-        "meaning": "fuel"
+        "meaning": "fuel",
+        "cn": "燃料"
       },
       {
         "word": "燃焼",
         "reading": "ねんしょう",
-        "meaning": "burning"
+        "meaning": "burning",
+        "cn": "燃烧"
       },
       {
         "word": "燃費",
         "reading": "ねんぴ",
-        "meaning": "fuel consumption"
+        "meaning": "fuel consumption",
+        "cn": "油耗"
       }
     ]
   },
@@ -11090,17 +12129,20 @@
       {
         "word": "運輸",
         "reading": "うんゆ",
-        "meaning": "transportation"
+        "meaning": "transportation",
+        "cn": "运输"
       },
       {
         "word": "密輸",
         "reading": "みつゆ",
-        "meaning": "smuggling"
+        "meaning": "smuggling",
+        "cn": "走私"
       },
       {
         "word": "輸送",
         "reading": "ゆそう",
-        "meaning": "transport"
+        "meaning": "transport",
+        "cn": "运输"
       }
     ]
   },
@@ -11121,17 +12163,20 @@
       {
         "word": "曇り",
         "reading": "くもり",
-        "meaning": "cloudiness"
+        "meaning": "cloudiness",
+        "cn": "浑浊"
       },
       {
         "word": "曇る",
         "reading": "くもる",
-        "meaning": "to look slightly downward (of a noh mask; indicating sadness, grief, etc.)"
+        "meaning": "to look slightly downward (of a noh mask; indicating sadness, grief, etc.)",
+        "cn": "稍微向下看（能剧面具；表示悲伤、悲伤等）"
       },
       {
         "word": "薄曇り",
         "reading": "うすぐもり",
-        "meaning": "slightly cloudy"
+        "meaning": "slightly cloudy",
+        "cn": "轻微多云"
       }
     ]
   },
@@ -11152,17 +12197,20 @@
       {
         "word": "悪賢い",
         "reading": "わるがしこい",
-        "meaning": "cunning"
+        "meaning": "cunning",
+        "cn": "狡猾"
       },
       {
         "word": "賢明",
         "reading": "けんめい",
-        "meaning": "wise"
+        "meaning": "wise",
+        "cn": "明智的"
       },
       {
         "word": "賢い",
         "reading": "かしこい",
-        "meaning": "well-behaved (esp. children and pets)"
+        "meaning": "well-behaved (esp. children and pets)",
+        "cn": "表现良好（尤其是儿童和宠物）"
       }
     ]
   },
@@ -11183,17 +12231,20 @@
       {
         "word": "建築",
         "reading": "けんちく",
-        "meaning": "construction"
+        "meaning": "construction",
+        "cn": "建造"
       },
       {
         "word": "新築",
         "reading": "しんちく",
-        "meaning": "new building"
+        "meaning": "new building",
+        "cn": "新大楼"
       },
       {
         "word": "改築",
         "reading": "かいちく",
-        "meaning": "structural alteration (of a building)"
+        "meaning": "structural alteration (of a building)",
+        "cn": "（建筑物的）结构改造"
       }
     ]
   },
@@ -11212,17 +12263,20 @@
       {
         "word": "成績",
         "reading": "せいせき",
-        "meaning": "results"
+        "meaning": "results",
+        "cn": "结果"
       },
       {
         "word": "業績",
         "reading": "ぎょうせき",
-        "meaning": "achievement"
+        "meaning": "achievement",
+        "cn": "成就"
       },
       {
         "word": "実績",
         "reading": "じっせき",
-        "meaning": "achievements"
+        "meaning": "achievements",
+        "cn": "成就"
       }
     ]
   },
@@ -11241,17 +12295,20 @@
       {
         "word": "休講",
         "reading": "きゅうこう",
-        "meaning": "cancellation (of a lecture, class, etc.)"
+        "meaning": "cancellation (of a lecture, class, etc.)",
+        "cn": "取消（讲座、课程等）"
       },
       {
         "word": "講義",
         "reading": "こうぎ",
-        "meaning": "lecture"
+        "meaning": "lecture",
+        "cn": "演讲"
       },
       {
         "word": "講堂",
         "reading": "こうどう",
-        "meaning": "auditorium"
+        "meaning": "auditorium",
+        "cn": "礼堂"
       }
     ]
   },
@@ -11270,17 +12327,20 @@
       {
         "word": "療養所",
         "reading": "りょうようしょ",
-        "meaning": "sanatorium"
+        "meaning": "sanatorium",
+        "cn": "疗养院"
       },
       {
         "word": "診療",
         "reading": "しんりょう",
-        "meaning": "diagnosis and treatment"
+        "meaning": "diagnosis and treatment",
+        "cn": "诊断和治疗"
       },
       {
         "word": "医療",
         "reading": "いりょう",
-        "meaning": "medical care"
+        "meaning": "medical care",
+        "cn": "医疗保健"
       }
     ]
   },
@@ -11302,17 +12362,20 @@
       {
         "word": "高齢",
         "reading": "こうれい",
-        "meaning": "advanced age"
+        "meaning": "advanced age",
+        "cn": "高龄"
       },
       {
         "word": "年齢",
         "reading": "ねんれい",
-        "meaning": "age"
+        "meaning": "age",
+        "cn": "年龄"
       },
       {
         "word": "適齢期",
         "reading": "てきれいき",
-        "meaning": "suitable age (esp. for marriage)"
+        "meaning": "suitable age (esp. for marriage)",
+        "cn": "适合年龄（尤其是结婚年龄）"
       }
     ]
   },
@@ -11333,17 +12396,20 @@
       {
         "word": "乾燥",
         "reading": "かんそう",
-        "meaning": "insipidity"
+        "meaning": "insipidity",
+        "cn": "平淡"
       },
       {
         "word": "乾燥機",
         "reading": "かんそうき",
-        "meaning": "drying machine"
+        "meaning": "drying machine",
+        "cn": "烘干机"
       },
       {
         "word": "焦燥",
         "reading": "しょうそう",
-        "meaning": "impatience"
+        "meaning": "impatience",
+        "cn": "不耐烦"
       }
     ]
   },
@@ -11365,17 +12431,20 @@
       {
         "word": "洗濯機",
         "reading": "せんたくき",
-        "meaning": "washing machine"
+        "meaning": "washing machine",
+        "cn": "洗衣机"
       },
       {
         "word": "洗濯",
         "reading": "せんたく",
-        "meaning": "relaxing"
+        "meaning": "relaxing",
+        "cn": "放松"
       },
       {
         "word": "洗濯物",
         "reading": "せんたくもの",
-        "meaning": "laundry"
+        "meaning": "laundry",
+        "cn": "洗衣店"
       }
     ]
   },
@@ -11396,17 +12465,20 @@
       {
         "word": "金額",
         "reading": "きんがく",
-        "meaning": "amount of money"
+        "meaning": "amount of money",
+        "cn": "金额"
       },
       {
         "word": "税額",
         "reading": "ぜいがく",
-        "meaning": "amount of tax"
+        "meaning": "amount of tax",
+        "cn": "税额"
       },
       {
         "word": "増額",
         "reading": "ぞうがく",
-        "meaning": "increase (in an amount of money)"
+        "meaning": "increase (in an amount of money)",
+        "cn": "增加（金额）"
       }
     ]
   },
@@ -11429,17 +12501,20 @@
       {
         "word": "簡易",
         "reading": "かんい",
-        "meaning": "simplicity"
+        "meaning": "simplicity",
+        "cn": "简单"
       },
       {
         "word": "簡単",
         "reading": "かんたん",
-        "meaning": "brief"
+        "meaning": "brief",
+        "cn": "简短的"
       },
       {
         "word": "簡易保険",
         "reading": "かんいほけん",
-        "meaning": "postal life insurance"
+        "meaning": "postal life insurance",
+        "cn": "邮政人寿保险"
       }
     ]
   },
@@ -11461,17 +12536,20 @@
       {
         "word": "贈与",
         "reading": "ぞうよ",
-        "meaning": "donation"
+        "meaning": "donation",
+        "cn": "捐款"
       },
       {
         "word": "贈物",
         "reading": "おくりもの",
-        "meaning": "present"
+        "meaning": "present",
+        "cn": "展示"
       },
       {
         "word": "贈り物",
         "reading": "おくりもの",
-        "meaning": "present"
+        "meaning": "present",
+        "cn": "展示"
       }
     ]
   },
@@ -11492,17 +12570,20 @@
       {
         "word": "爆撃",
         "reading": "ばくげき",
-        "meaning": "bombing (raid)"
+        "meaning": "bombing (raid)",
+        "cn": "轰炸（袭击）"
       },
       {
         "word": "水爆",
         "reading": "すいばく",
-        "meaning": "hydrogen bomb"
+        "meaning": "hydrogen bomb",
+        "cn": "氢弹"
       },
       {
         "word": "原爆",
         "reading": "げんばく",
-        "meaning": "atomic bomb"
+        "meaning": "atomic bomb",
+        "cn": "原子弹"
       }
     ]
   },
@@ -11523,17 +12604,20 @@
       {
         "word": "肝臓",
         "reading": "かんぞう",
-        "meaning": "liver"
+        "meaning": "liver",
+        "cn": "肝"
       },
       {
         "word": "内臓",
         "reading": "ないぞう",
-        "meaning": "internal organs"
+        "meaning": "internal organs",
+        "cn": "内脏器官"
       },
       {
         "word": "心臓",
         "reading": "しんぞう",
-        "meaning": "heart"
+        "meaning": "heart",
+        "cn": "心"
       }
     ]
   },
@@ -11552,17 +12636,20 @@
       {
         "word": "入籍",
         "reading": "にゅうせき",
-        "meaning": "registering (a marriage, etc.) in the family register"
+        "meaning": "registering (a marriage, etc.) in the family register",
+        "cn": "户籍登记（结婚等）"
       },
       {
         "word": "書籍",
         "reading": "しょじゃく",
-        "meaning": "book"
+        "meaning": "book",
+        "cn": "书"
       },
       {
         "word": "在籍",
         "reading": "ざいせき",
-        "meaning": "being enrolled (at a school)"
+        "meaning": "being enrolled (at a school)",
+        "cn": "正在（在学校）注册"
       }
     ]
   },
@@ -11586,17 +12673,20 @@
       {
         "word": "競馬",
         "reading": "けいば",
-        "meaning": "horse racing"
+        "meaning": "horse racing",
+        "cn": "赛马"
       },
       {
         "word": "競技",
         "reading": "きょうぎ",
-        "meaning": "game"
+        "meaning": "game",
+        "cn": "游戏"
       },
       {
         "word": "競う",
         "reading": "きそう",
-        "meaning": "to compete"
+        "meaning": "to compete",
+        "cn": "竞争"
       }
     ]
   }
