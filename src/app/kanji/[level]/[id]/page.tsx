@@ -99,7 +99,7 @@ export default async function KanjiDetailPage({
                       {ex.word}
                     </p>
                     <p className="text-sm text-zinc-500 dark:text-zinc-400">
-                      {ex.cn || ex.meaning}
+                      {ex.cn ? `${ex.cn} · ${ex.meaning}` : ex.meaning}
                     </p>
                   </div>
                   <span className="shrink-0 rounded-md bg-zinc-200/60 px-2 py-0.5 text-xs font-mono text-zinc-500 dark:bg-zinc-700/60 dark:text-zinc-400">
