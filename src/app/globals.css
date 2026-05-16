@@ -7,4 +7,15 @@
 
 body {
   font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+  background-image: url('/sakura-bg.svg');
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: clamp(400px, 70vw, 900px);
+  background-attachment: fixed;
+}
+
+/* Ensure content stays above the background */
+main {
+  position: relative;
+  z-index: 1;
 }
