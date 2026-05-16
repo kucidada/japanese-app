@@ -1,0 +1,1347 @@
+[
+  {
+    "id": "n1-zaru-wo-enai",
+    "level": "N1",
+    "pattern": "〜ざるを得ない",
+    "meaning": "不得不〜",
+    "usage": "V（ない形）+ ざるを得ない（する→せざるを得ない）",
+    "explanation": "用来除此之外别无选择，虽然不情愿但不得不做。是正式的书面表达方式。比「〜なければならない」更强调无奈和被迫的语气。",
+    "colloquial": "口语用「〜しないわけにはいかない」或「〜するしかない」",
+    "examples": [
+      {
+        "jp": "台風のため、試合は中止せざるを得ません。",
+        "cn": "由于台风，不得不中止比赛。",
+        "jpFuri": "<ruby>台風<rp>(</rp><rt>たいふう</rt><rp>)</rp></ruby>のため、<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>は<ruby>中止<rp>(</rp><rt>ちゅうし</rt><rp>)</rp></ruby>せざるを<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>ません。",
+        "en": "Due to the typhoon, the match has to be canceled."
+      },
+      {
+        "jp": "証拠がある以上、認めざるを得ない。",
+        "cn": "既然有证据，不得不承认。",
+        "jpFuri": "<ruby>証拠<rp>(</rp><rt>しょうこ</rt><rp>)</rp></ruby>がある<ruby>以上<rp>(</rp><rt>いじょう</rt><rp>)</rp></ruby>、<ruby>認<rp>(</rp><rt>みと</rt><rp>)</rp></ruby>めざるを<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>ない。",
+        "en": "Given the evidence, I have no choice but to admit it."
+      },
+      {
+        "jp": "予算が足りないので、計画を見直さざるを得ない。",
+        "cn": "因为预算不够，不得不重新审视计划。",
+        "jpFuri": "<ruby>予算<rp>(</rp><rt>よさん</rt><rp>)</rp></ruby>が<ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>りないので、<ruby>計画<rp>(</rp><rt>けいかく</rt><rp>)</rp></ruby>を<ruby>見直<rp>(</rp><rt>みなお</rt><rp>)</rp></ruby>さざるを<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>ない。",
+        "en": "Due to a lack of budget, we have no choice but to revise our plans."
+      },
+      {
+        "jp": "残念だが、中止せざるを得ない。",
+        "cn": "很遗憾，不得不中止。",
+        "jpFuri": "<ruby>残念<rp>(</rp><rt>ざんねん</rt><rp>)</rp></ruby>だが、<ruby>中止<rp>(</rp><rt>ちゅうし</rt><rp>)</rp></ruby>せざるを<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>ない。",
+        "en": "Unfortunately, we have no choice but to cancel."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-nakereba-naranai",
+        "relation": "〜なければならない（义务）"
+      },
+      {
+        "id": "n3-wake-ni-wa-ikanai",
+        "relation": "〜わけにはいかない"
+      }
+    ],
+    "repeatIn": [],
+    "category": "義務・必然"
+  },
+  {
+    "id": "n1-sura",
+    "level": "N1",
+    "pattern": "〜すら",
+    "meaning": "连〜都〜（连…都…）",
+    "usage": "N + すら／N + ですら",
+    "explanation": "用来极端例子的提示，比「〜さえ」语气更强，更具书面性。常用于否定句或用来意外、惊讶的语境。「ですら」用于名词+だ的场合。",
+    "colloquial": "口语用「〜さえ」或「〜まで」",
+    "examples": [
+      {
+        "jp": "そんなことは子供すら知っている。",
+        "cn": "那种事连小孩都知道。",
+        "jpFuri": "そんなことは<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>すら<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っている。",
+        "en": "Even children know this."
+      },
+      {
+        "jp": "忙しくて、トイレに行く時間すらない。",
+        "cn": "忙得连去厕所的时间都没有。",
+        "jpFuri": "<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しくて、トイレに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>すらない。",
+        "en": "I'm so busy that I don't even have time to go to the bathroom."
+      },
+      {
+        "jp": "名前すら覚えてもらえなかった。",
+        "cn": "连名字都没被人记住。",
+        "jpFuri": "<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>すら<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えてもらえなかった。",
+        "en": "I couldn't even remember his name."
+      },
+      {
+        "jp": "名前すら書けないなんて。",
+        "cn": "连名字都不会写。",
+        "jpFuri": "<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>すら<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けないなんて。",
+        "en": "I can't even write my name."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-sae",
+        "relation": "〜さえ（类似用法）"
+      },
+      {
+        "id": "n1-dani",
+        "relation": "〜だに（更书面）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "強調"
+  },
+  {
+    "id": "n1-dani",
+    "level": "N1",
+    "pattern": "〜だに",
+    "meaning": "连〜都〜（极书面的强调）",
+    "usage": "V（辞書形）+ だに／N + だに",
+    "explanation": "极其正式的书面表达，用来「连〜都〜」。常与「想像する」「考える」「思う」等认知动词搭配使用。比「すら」「さえ」语气更强硬、更文言。",
+    "colloquial": "口语中基本不用；用「〜さえ〜ない」",
+    "examples": [
+      {
+        "jp": "想像だにしなかった結果だ。",
+        "cn": "连想都没想过的结果。",
+        "jpFuri": "<ruby>想像<rp>(</rp><rt>そうぞう</rt><rp>)</rp></ruby>だにしなかった<ruby>結果<rp>(</rp><rt>けっか</rt><rp>)</rp></ruby>だ。",
+        "en": "This is a result I never imagined."
+      },
+      {
+        "jp": "夢にだに見ない。",
+        "cn": "连梦里都不会见到。",
+        "jpFuri": "<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>にだに<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ない。",
+        "en": "I don't see anything in my dreams."
+      },
+      {
+        "jp": "考えるだに恐ろしい。",
+        "cn": "连想想都觉得可怕。",
+        "jpFuri": "<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えるだに<ruby>恐<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>ろしい。",
+        "en": "It's terrifying to think about."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-sura",
+        "relation": "〜すら"
+      },
+      {
+        "id": "n5-sae",
+        "relation": "〜さえ"
+      }
+    ],
+    "repeatIn": [],
+    "category": "強調"
+  },
+  {
+    "id": "n1-wo-woite",
+    "level": "N1",
+    "pattern": "〜をおいて",
+    "meaning": "除了〜之外（没有）",
+    "usage": "N + をおいて",
+    "explanation": "用来「除了〜之外再也没有更适合的人或事物」。常与否定搭配使用，如「〜をおいて他にない」。是非常正式的书面表达。",
+    "colloquial": "口语用「〜以外にない」或「〜のほかにない」",
+    "examples": [
+      {
+        "jp": "彼をおいて、この仕事を任せられる人はいない。",
+        "cn": "除了他之外，没有人能胜任这项工作。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>をおいて、この<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>を<ruby>任<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>せられる<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>はいない。",
+        "en": "There is no one else to whom I can entrust this task to him."
+      },
+      {
+        "jp": "この問題を解決できる方法をおいて、他にない。",
+        "cn": "除了这个方法，没有其他解决办法。",
+        "jpFuri": "この<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>を<ruby>解決<rp>(</rp><rt>かいけつ</rt><rp>)</rp></ruby>できる<ruby>方法<rp>(</rp><rt>ほうほう</rt><rp>)</rp></ruby>をおいて、<ruby>他<rp>(</rp><rt>た</rt><rp>)</rp></ruby>にない。",
+        "en": "There is no other way to solve this problem."
+      }
+    ],
+    "related": [
+      {
+        "id": "n2-ni-kagiri",
+        "relation": "〜に限り（限定）"
+      },
+      {
+        "id": "n3-dake-de-naku",
+        "relation": "〜だけでなく"
+      }
+    ],
+    "repeatIn": [],
+    "category": "限定・除外"
+  },
+  {
+    "id": "n1-wo-yosoni",
+    "level": "N1",
+    "pattern": "〜をよそに",
+    "meaning": "不顾〜／对〜置之不理",
+    "usage": "N + をよそに",
+    "explanation": "用来无视他人的担心、反对或期待，我行我素地做某事。多用于批评性或描述性语境，带有负面评价色彩。",
+    "colloquial": "口语用「〜を無視して」或「〜かまわず」",
+    "examples": [
+      {
+        "jp": "住民の反対をよそに、工事は強行された。",
+        "cn": "不顾居民的反对，工程被强行推进了。",
+        "jpFuri": "<ruby>住民<rp>(</rp><rt>じゅうみん</rt><rp>)</rp></ruby>の<ruby>反対<rp>(</rp><rt>はんたい</rt><rp>)</rp></ruby>をよそに、<ruby>工事<rp>(</rp><rt>こうじ</rt><rp>)</rp></ruby>は<ruby>強行<rp>(</rp><rt>きょうこう</rt><rp>)</rp></ruby>された。",
+        "en": "The construction work was carried out despite residents' opposition."
+      },
+      {
+        "jp": "周囲の心配をよそに、彼は冒険に出発した。",
+        "cn": "不顾周围人的担心，他出发去冒险了。",
+        "jpFuri": "<ruby>周囲<rp>(</rp><rt>しゅうい</rt><rp>)</rp></ruby>の<ruby>心配<rp>(</rp><rt>しんぱい</rt><rp>)</rp></ruby>をよそに、<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>冒険<rp>(</rp><rt>ぼうけん</rt><rp>)</rp></ruby>に<ruby>出発<rp>(</rp><rt>しゅっぱつ</rt><rp>)</rp></ruby>した。",
+        "en": "Despite the concerns of those around him, he set out on an adventure."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-wo-mono-mo-tosezu",
+        "relation": "〜をものともせず（类似）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "無視・反対"
+  },
+  {
+    "id": "n1-wo-mono-mo-tosezu",
+    "level": "N1",
+    "pattern": "〜をものともせず",
+    "meaning": "不顾〜／不把〜放在眼里",
+    "usage": "N + をものともせず",
+    "explanation": "用来不把困难、障碍等当回事，勇敢地做某事。带有赞扬的语气。与「〜をよそに」相比，更侧重积极正面的意味。",
+    "colloquial": "口语用「〜にも負けず」或「〜を気にせず」",
+    "examples": [
+      {
+        "jp": "彼は周囲の反対をものともせず、夢を追い続けた。",
+        "cn": "他不顾周围的反对，继续追逐梦想。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>周囲<rp>(</rp><rt>しゅうい</rt><rp>)</rp></ruby>の<ruby>反対<rp>(</rp><rt>はんたい</rt><rp>)</rp></ruby>をものともせず、<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>を<ruby>追<rp>(</rp><rt>お</rt><rp>)</rp></ruby>い<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けた。",
+        "en": "He continued to pursue his dreams despite the opposition from those around him."
+      },
+      {
+        "jp": "雨風をものともせず、工事は続けられた。",
+        "cn": "不顾风雨，工程继续进行。",
+        "jpFuri": "<ruby>雨風<rp>(</rp><rt>あめかぜ</rt><rp>)</rp></ruby>をものともせず、<ruby>工事<rp>(</rp><rt>こうじ</rt><rp>)</rp></ruby>は<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けられた。",
+        "en": "Construction continued despite the rain and wind."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-wo-yosoni",
+        "relation": "〜をよそに（类似但偏负面）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "無視・克服"
+  },
+  {
+    "id": "n1-wo-kirikake-ni",
+    "level": "N1",
+    "pattern": "〜を皮切りに",
+    "meaning": "以〜为开端／从〜开始",
+    "usage": "N + を皮切りに（して）／を皮切りとして",
+    "explanation": "用来以某事为开端，之后同类活动接连不断。强调一系列连续发生的事件。用于新闻报导、评论等正式场合。",
+    "colloquial": "口语用「〜を始めとして」或「〜から始まって」",
+    "examples": [
+      {
+        "jp": "東京公演を皮切りに、全国ツアーが始まる。",
+        "cn": "以东京演出为开端，全国巡演即将开始。",
+        "jpFuri": "<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby><ruby>公演<rp>(</rp><rt>こうえん</rt><rp>)</rp></ruby>を<ruby>皮切<rp>(</rp><rt>かわき</rt><rp>)</rp></ruby>りに、<ruby>全国<rp>(</rp><rt>ぜんこく</rt><rp>)</rp></ruby>ツアーが<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>まる。",
+        "en": "Starting with the Tokyo performance, the nationwide tour will begin."
+      },
+      {
+        "jp": "彼の言葉を皮切りに、次々と意見が出された。",
+        "cn": "以他的话为开端，意见一个接一个地被提出来。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>を<ruby>皮切<rp>(</rp><rt>かわき</rt><rp>)</rp></ruby>りに、<ruby>次々<rp>(</rp><rt>つぎつぎ</rt><rp>)</rp></ruby>と<ruby>意見<rp>(</rp><rt>いけん</rt><rp>)</rp></ruby>が<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>された。",
+        "en": "Starting with his words, opinions were expressed one after another."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-wo-hajime",
+        "relation": "〜を始め（代表例）"
+      },
+      {
+        "id": "n4-te-kara",
+        "relation": "〜てから"
+      }
+    ],
+    "repeatIn": [],
+    "category": "開始・順序"
+  },
+  {
+    "id": "n1-wo-hajime",
+    "level": "N1",
+    "pattern": "〜を始め（として）",
+    "meaning": "以〜为首／〜以及",
+    "usage": "N + を始め（として）／を始めとする",
+    "explanation": "用来举出代表性例子，暗示还有其他同类事物。相当于中文的「以〜为首」「〜以及…」。",
+    "colloquial": "口语用「〜とか」或「〜なんか」",
+    "examples": [
+      {
+        "jp": "社長を始め、社員一同感謝しております。",
+        "cn": "以社长为首，全体员工深表感谢。",
+        "jpFuri": "<ruby>社長<rp>(</rp><rt>しゃちょう</rt><rp>)</rp></ruby>を<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>め、<ruby>社員<rp>(</rp><rt>しゃいん</rt><rp>)</rp></ruby><ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>同<rp>(</rp><rt>どう</rt><rp>)</rp></ruby><ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>しております。",
+        "en": "I would like to express my gratitude to all the employees, including the president."
+      },
+      {
+        "jp": "英語を始め、さまざまな外国語が教えられている。",
+        "cn": "以英语为首，教授多种外语。",
+        "jpFuri": "<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>を<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>め、さまざまな<ruby>外国<rp>(</rp><rt>がいこく</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>が<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えられている。",
+        "en": "Various foreign languages ​​are taught, including English."
+      },
+      {
+        "jp": "社長を始め、社員全員が参加した。",
+        "cn": "以社长为始，全体员工都参加了。",
+        "jpFuri": "<ruby>社長<rp>(</rp><rt>しゃちょう</rt><rp>)</rp></ruby>を<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>め、<ruby>社員<rp>(</rp><rt>しゃいん</rt><rp>)</rp></ruby><ruby>全員<rp>(</rp><rt>ぜんいん</rt><rp>)</rp></ruby>が<ruby>参加<rp>(</rp><rt>さんか</rt><rp>)</rp></ruby>した。",
+        "en": "All employees, including the president, participated."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-wo-kirikake-ni",
+        "relation": "〜を皮切りに"
+      },
+      {
+        "id": "n3-dake-de-naku",
+        "relation": "〜だけでなく"
+      }
+    ],
+    "repeatIn": [],
+    "category": "例示"
+  },
+  {
+    "id": "n1-ni-itatte-wa",
+    "level": "N1",
+    "pattern": "〜に至って（は）／〜に至るまで",
+    "meaning": "至于〜／到〜为止（甚至包括〜）",
+    "usage": "V（辞書形）+ に至って（は）／N + に至るまで",
+    "explanation": "有两种用法：①「〜に至って(は)」用来事态发展到某个严重阶段；②「〜に至るまで」用来范围广，甚至包括细微之处。",
+    "colloquial": "口语用「〜になって（は）」或「〜まで」",
+    "examples": [
+      {
+        "jp": "辞任に至っては、もはや避けられない。",
+        "cn": "至于辞职，已经不可避免了。",
+        "jpFuri": "<ruby>辞任<rp>(</rp><rt>じにん</rt><rp>)</rp></ruby>に<ruby>至<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>っては、もはや<ruby>避<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>けられない。",
+        "en": "Resignation is now inevitable."
+      },
+      {
+        "jp": "細部に至るまで丁寧にチェックした。",
+        "cn": "连细节都仔细检查了。",
+        "jpFuri": "<ruby>細部<rp>(</rp><rt>さいぶ</rt><rp>)</rp></ruby>に<ruby>至<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>るまで<ruby>丁寧<rp>(</rp><rt>ていねい</rt><rp>)</rp></ruby>にチェックした。",
+        "en": "We carefully checked every detail."
+      },
+      {
+        "jp": "発売に至るまでの経緯を説明する。",
+        "cn": "说明从开始到发售的经过。",
+        "jpFuri": "<ruby>発売<rp>(</rp><rt>はつばい</rt><rp>)</rp></ruby>に<ruby>至<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>るまでの<ruby>経緯<rp>(</rp><rt>けいい</rt><rp>)</rp></ruby>を<ruby>説明<rp>(</rp><rt>せつめい</rt><rp>)</rp></ruby>する。",
+        "en": "I will explain the process leading up to its release."
+      }
+    ],
+    "related": [
+      {
+        "id": "n2-ni-itaru-made",
+        "relation": "〜に至るまで（N2 範囲極限）"
+      },
+      {
+        "id": "n4-te-kara",
+        "relation": "〜てから"
+      }
+    ],
+    "repeatIn": [],
+    "category": "範囲・程度"
+  },
+  {
+    "id": "n1-wo-motte",
+    "level": "N1",
+    "pattern": "〜をもって",
+    "meaning": "以〜／通过〜（正式）",
+    "usage": "N + をもって",
+    "explanation": "极其正式的书面表达，相当于「以〜」「通过〜」。用法多样：①用来手段方法；②用来时间界限（「〜をもって終了する」）；③用来原因理由（「〜をもって〜とする」）。",
+    "colloquial": "口语用「〜で」或「〜を持って」",
+    "examples": [
+      {
+        "jp": "以上をもって、会議を終了します。",
+        "cn": "以上，会议到此结束。",
+        "jpFuri": "<ruby>以上<rp>(</rp><rt>いじょう</rt><rp>)</rp></ruby>をもって、<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>を<ruby>終了<rp>(</rp><rt>しゅうりょう</rt><rp>)</rp></ruby>します。",
+        "en": "With this, the meeting ends."
+      },
+      {
+        "jp": "書面をもってお知らせいたします。",
+        "cn": "以书面形式通知。",
+        "jpFuri": "<ruby>書面<rp>(</rp><rt>しょめん</rt><rp>)</rp></ruby>をもってお<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らせいたします。",
+        "en": "We will notify you in writing."
+      },
+      {
+        "jp": "本日をもって、営業を終了いたします。",
+        "cn": "到今天为止，结束营业。",
+        "jpFuri": "<ruby>本日<rp>(</rp><rt>ほんじつ</rt><rp>)</rp></ruby>をもって、<ruby>営業<rp>(</rp><rt>えいぎょう</rt><rp>)</rp></ruby>を<ruby>終了<rp>(</rp><rt>しゅうりょう</rt><rp>)</rp></ruby>いたします。",
+        "en": "We will close our business as of today."
+      }
+    ],
+    "related": [
+      {
+        "id": "n2-ni-kagiri",
+        "relation": "〜に限り（时间限制）"
+      },
+      {
+        "id": "n3-yotte",
+        "relation": "〜によって（手段）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "手段・方法"
+  },
+  {
+    "id": "n1-tarumono",
+    "level": "N1",
+    "pattern": "〜たるもの",
+    "meaning": "作为〜（的人）／身为〜",
+    "usage": "N + たるもの（「とする」的文言形式）",
+    "explanation": "用来身份、地位、资格，「作为～的人应该…」。常与「べき」「なければならない」「はず」等呼应使用。非常正式、文雅的表达。",
+    "colloquial": "口语用「〜である以上」或「〜として」",
+    "examples": [
+      {
+        "jp": "教師たるもの、常に学び続けるべきだ。",
+        "cn": "作为教师，应该不断学习。",
+        "jpFuri": "<ruby>教師<rp>(</rp><rt>きょうし</rt><rp>)</rp></ruby>たるもの、<ruby>常<rp>(</rp><rt>つね</rt><rp>)</rp></ruby>に<ruby>学<rp>(</rp><rt>まな</rt><rp>)</rp></ruby>び<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けるべきだ。",
+        "en": "As a teacher, you should always keep learning."
+      },
+      {
+        "jp": "社会人たるもの、約束は守るべきだ。",
+        "cn": "作为社会人士，应该遵守约定。",
+        "jpFuri": "<ruby>社会<rp>(</rp><rt>しゃかい</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>たるもの、<ruby>約束<rp>(</rp><rt>やくそく</rt><rp>)</rp></ruby>は<ruby>守<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>るべきだ。",
+        "en": "As a member of society, you should keep your promises."
+      },
+      {
+        "jp": "教師たるもの、模範を示すべきだ。",
+        "cn": "身为教师，应该以身作则。",
+        "jpFuri": "<ruby>教師<rp>(</rp><rt>きょうし</rt><rp>)</rp></ruby>たるもの、<ruby>模範<rp>(</rp><rt>もはん</rt><rp>)</rp></ruby>を<ruby>示<rp>(</rp><rt>しめ</rt><rp>)</rp></ruby>すべきだ。",
+        "en": "As a teacher, you should lead by example."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-beki",
+        "relation": "〜べき（义务）"
+      },
+      {
+        "id": "n2-ni-kagiri",
+        "relation": "〜に限って（偏偏）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "資格・立場"
+  },
+  {
+    "id": "n1-nakushite-wa",
+    "level": "N1",
+    "pattern": "〜なくしては",
+    "meaning": "没有〜的话（就无法）",
+    "usage": "N + なくしては",
+    "explanation": "用来条件，「如果没有〜的话」。常与否定表达呼应，相当于「〜がなければ〜ない」。比「〜なしでは」更加正式。",
+    "colloquial": "口语用「〜がなかったら」或「〜なしじゃ」",
+    "examples": [
+      {
+        "jp": "彼の協力なくしては、成功はなかった。",
+        "cn": "没有他的协助，就不会有成功。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>協力<rp>(</rp><rt>きょうりょく</rt><rp>)</rp></ruby>なくしては、<ruby>成功<rp>(</rp><rt>せいこう</rt><rp>)</rp></ruby>はなかった。",
+        "en": "Without his cooperation, we would not have succeeded."
+      },
+      {
+        "jp": "努力なくしては、夢は実現しない。",
+        "cn": "不努力的话，梦想就不会实现。",
+        "jpFuri": "<ruby>努力<rp>(</rp><rt>どりょく</rt><rp>)</rp></ruby>なくしては、<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>は<ruby>実現<rp>(</rp><rt>じつげん</rt><rp>)</rp></ruby>しない。",
+        "en": "Without effort, dreams will not come true."
+      },
+      {
+        "jp": "努力なくしては成功はない。",
+        "cn": "没有努力就没有成功。",
+        "jpFuri": "<ruby>努力<rp>(</rp><rt>どりょく</rt><rp>)</rp></ruby>なくしては<ruby>成功<rp>(</rp><rt>せいこう</rt><rp>)</rp></ruby>はない。",
+        "en": "There is no success without effort."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-atte-no",
+        "relation": "〜あっての"
+      },
+      {
+        "id": "n3-naka-to-shite-wa",
+        "relation": "〜なしには（N3）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "条件"
+  },
+  {
+    "id": "n1-atte-no",
+    "level": "N1",
+    "pattern": "〜あっての",
+    "meaning": "有〜才有〜／正因为有〜",
+    "usage": "N + あっての N",
+    "explanation": "用来前者是后者的前提条件，「没有前者就没有后者」。强调不可或缺的关系。常用于名言警句式的表达。",
+    "colloquial": "口语用「〜があってこそ」",
+    "examples": [
+      {
+        "jp": "命あっての物種。",
+        "cn": "留得青山在，不怕没柴烧。",
+        "jpFuri": "<ruby>命<rp>(</rp><rt>いのち</rt><rp>)</rp></ruby>あっての<ruby>物種<rp>(</rp><rt>ものだね</rt><rp>)</rp></ruby>。",
+        "en": "A species that has life."
+      },
+      {
+        "jp": "社員あっての会社だ。",
+        "cn": "有员工才有公司。",
+        "jpFuri": "<ruby>社員<rp>(</rp><rt>しゃいん</rt><rp>)</rp></ruby>あっての<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>だ。",
+        "en": "A company depends on its employees."
+      },
+      {
+        "jp": "平和あっての幸せな生活だ。",
+        "cn": "有了和平才有幸福的生活。",
+        "jpFuri": "<ruby>平和<rp>(</rp><rt>へいわ</rt><rp>)</rp></ruby>あっての<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せな<ruby>生活<rp>(</rp><rt>せいかつ</rt><rp>)</rp></ruby>だ。",
+        "en": "A happy life with peace."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-nakushite-wa",
+        "relation": "〜なくしては"
+      },
+      {
+        "id": "n3-naka-to-shite-wa",
+        "relation": "〜なしには〜ない"
+      }
+    ],
+    "repeatIn": [],
+    "category": "条件・前提"
+  },
+  {
+    "id": "n1-kiwamaru",
+    "level": "N1",
+    "pattern": "〜極まる／〜の極み",
+    "meaning": "极其〜／〜之极",
+    "usage": "ナA（語幹）+ 極まる／N + の極み",
+    "explanation": "用来程度极高，达到极限。多用于负面或夸张的表达。「〜極まる」直接形容状态，「〜の極み」是名词形式。非常正式的书面表达。",
+    "colloquial": "口语用「すごく〜」或「〜すぎる」",
+    "examples": [
+      {
+        "jp": "その態度は失礼極まる。",
+        "cn": "那种态度极其无礼。",
+        "jpFuri": "その<ruby>態度<rp>(</rp><rt>たいど</rt><rp>)</rp></ruby>は<ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby><ruby>極<rp>(</rp><rt>きわ</rt><rp>)</rp></ruby>まる。",
+        "en": "That attitude is extremely disrespectful."
+      },
+      {
+        "jp": "感激の極みです。",
+        "cn": "感激之至。",
+        "jpFuri": "<ruby>感激<rp>(</rp><rt>かんげき</rt><rp>)</rp></ruby>の<ruby>極<rp>(</rp><rt>きわ</rt><rp>)</rp></ruby>みです。",
+        "en": "I am extremely impressed."
+      },
+      {
+        "jp": "不愉快極まる話だ。",
+        "cn": "极其令人不快的话题。",
+        "jpFuri": "<ruby>不愉快<rp>(</rp><rt>ふゆかい</rt><rp>)</rp></ruby><ruby>極<rp>(</rp><rt>きわ</rt><rp>)</rp></ruby>まる<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>だ。",
+        "en": "This is an extremely unpleasant story."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-taihen",
+        "relation": "程度副词"
+      },
+      {
+        "id": "n3-beki",
+        "relation": "〜べき（评价）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "程度・強調"
+  },
+  {
+    "id": "n1-wo-kini-oboe-nai",
+    "level": "N1",
+    "pattern": "〜を禁じ得ない",
+    "meaning": "不禁〜／忍不住〜",
+    "usage": "N（感情名詞）+ を禁じ得ない",
+    "explanation": "用来无法抑制某种感情。常与「怒り」「同情」「笑い」「涙」等感情名词搭配。是正式的书面表达。",
+    "colloquial": "口语用「〜が止まらない」或「〜ずにはいられない」",
+    "examples": [
+      {
+        "jp": "彼の行動には怒りを禁じ得ない。",
+        "cn": "对他的行为不禁感到愤怒。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby>には<ruby>怒<rp>(</rp><rt>いか</rt><rp>)</rp></ruby>りを<ruby>禁<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>じ<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>ない。",
+        "en": "I can't help but feel angry at his actions."
+      },
+      {
+        "jp": "被災者の話に涙を禁じ得なかった。",
+        "cn": "听到受灾者的话不禁流泪。",
+        "jpFuri": "<ruby>被災<rp>(</rp><rt>ひさい</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>の<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>に<ruby>涙<rp>(</rp><rt>なみだ</rt><rp>)</rp></ruby>を<ruby>禁<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>じ<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>なかった。",
+        "en": "I couldn't help but cry when I heard the stories of the disaster victims."
+      },
+      {
+        "jp": "その知らせに驚きを禁じ得なかった。",
+        "cn": "听到那个消息不禁感到惊讶。",
+        "jpFuri": "その<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らせに<ruby>驚<rp>(</rp><rt>おどろ</rt><rp>)</rp></ruby>きを<ruby>禁<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>じ<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>なかった。",
+        "en": "I couldn't help but be surprised by the news."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-nai-de-wa-irarenai",
+        "relation": "〜ずにはいられない"
+      },
+      {
+        "id": "n4-te-ikara",
+        "relation": "〜てから"
+      }
+    ],
+    "repeatIn": [],
+    "category": "感情"
+  },
+  {
+    "id": "n1-ya-naya",
+    "level": "N1",
+    "pattern": "〜や／〜や否や",
+    "meaning": "刚〜就〜／一〜就〜",
+    "usage": "V（辞書形）+ や／や否や",
+    "explanation": "用来前一动作刚发生，紧接着就发生了后一动作。主要用于书面语及叙事文中。后项通常用过去时，且不能用意志、命令等形式。",
+    "colloquial": "口语用「〜たとたん」或「〜するといきなり」",
+    "examples": [
+      {
+        "jp": "彼は家に帰るや、ソファに倒れ込んだ。",
+        "cn": "他一回到家，就倒在了沙发上。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>に<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>るや、ソファに<ruby>倒<rp>(</rp><rt>たお</rt><rp>)</rp></ruby>れ<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>んだ。",
+        "en": "When he got home, he collapsed on the couch."
+      },
+      {
+        "jp": "ベルが鳴るや否や、子供たちは教室を飛び出した。",
+        "cn": "铃声一响，孩子们就冲出了教室。",
+        "jpFuri": "ベルが<ruby>鳴<rp>(</rp><rt>な</rt><rp>)</rp></ruby>るや<ruby>否<rp>(</rp><rt>いな</rt><rp>)</rp></ruby>や、<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちは<ruby>教室<rp>(</rp><rt>きょうしつ</rt><rp>)</rp></ruby>を<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>び<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>した。",
+        "en": "As soon as the bell rang, the children ran out of the classroom."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-totan",
+        "relation": "〜たとたん（瞬间）"
+      },
+      {
+        "id": "n1-nari",
+        "relation": "〜なり"
+      },
+      {
+        "id": "n1-ga-hayai-ka",
+        "relation": "〜が早いか"
+      }
+    ],
+    "repeatIn": [],
+    "category": "同時・即時"
+  },
+  {
+    "id": "n1-nari",
+    "level": "N1",
+    "pattern": "〜なり",
+    "meaning": "刚〜就〜（紧接发生）",
+    "usage": "V（た形）+ なり",
+    "explanation": "用来前一个动作刚完成，紧接着发生下一动作。强调几乎同时发生。后面必须接过去时，且后续动作多为意外的、打破常规的事情。",
+    "colloquial": "口语用「〜たとたん」或「〜するといきなり」",
+    "examples": [
+      {
+        "jp": "彼は立ち上がるなり、部屋を飛び出した。",
+        "cn": "他刚站起来就冲出了房间。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>ち<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がるなり、<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>を<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>び<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>した。",
+        "en": "He stood up and ran out of the room."
+      },
+      {
+        "jp": "話を聞くなり、彼女は泣き出した。",
+        "cn": "一听到这个消息，她就哭了起来。",
+        "jpFuri": "<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>を<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>くなり、<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>泣<rp>(</rp><rt>な</rt><rp>)</rp></ruby>き<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>した。",
+        "en": "As soon as she heard the story, she started crying."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-ya-naya",
+        "relation": "〜や／や否や"
+      },
+      {
+        "id": "n1-ga-hayai-ka",
+        "relation": "〜が早いか"
+      },
+      {
+        "id": "n3-totan",
+        "relation": "〜たとたん"
+      }
+    ],
+    "repeatIn": [],
+    "category": "同時・即時"
+  },
+  {
+    "id": "n1-ga-hayai-ka",
+    "level": "N1",
+    "pattern": "〜が早いか",
+    "meaning": "刚〜就〜（几乎同时）",
+    "usage": "V（辞書形）+ が早いか",
+    "explanation": "用来前一动作几乎还没做完就发生了后一动作。强调动作转换之快。常用于书面语，描述人物动作或事态变化。",
+    "colloquial": "口语用「〜するとすぐに」",
+    "examples": [
+      {
+        "jp": "電車が止まるが早いか、彼は飛び乗った。",
+        "cn": "电车刚停稳他就跳了上去。",
+        "jpFuri": "<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>が<ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>まるが<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>いか、<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>び<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>った。",
+        "en": "As soon as the train stopped, he jumped on board."
+      },
+      {
+        "jp": "目を閉じるが早いか、眠りに落ちていた。",
+        "cn": "刚闭上眼睛就睡着了。",
+        "jpFuri": "<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>を<ruby>閉<rp>(</rp><rt>と</rt><rp>)</rp></ruby>じるが<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>いか、<ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>りに<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ちていた。",
+        "en": "I closed my eyes, but I fell asleep too soon."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-ya-naya",
+        "relation": "〜や／や否や"
+      },
+      {
+        "id": "n1-nari",
+        "relation": "〜なり"
+      }
+    ],
+    "repeatIn": [],
+    "category": "同時・即時"
+  },
+  {
+    "id": "n1-gotoki",
+    "level": "N1",
+    "pattern": "〜ごとき／〜ごとく",
+    "meaning": "像〜一样／如〜（文言比喻）",
+    "usage": "N（の）+ ごとき／V（辞書形/た形）+ がごとき",
+    "explanation": "文言表达，相当于现代日语的「〜ような」「〜ように」。常用于书面语、惯用语、谚语中。可以用来举例或比喻。「ごとき」修饰名词，「ごとく」修饰动词和形容词。",
+    "colloquial": "口语用「〜みたいな」或「〜のような」",
+    "examples": [
+      {
+        "jp": "彼は風のごとく現れ、去っていった。",
+        "cn": "他如风一般出现，又离去了。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>のごとく<ruby>現<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>れ、<ruby>去<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>っていった。",
+        "en": "He came and went like the wind."
+      },
+      {
+        "jp": "そんなごときことで諦めるな。",
+        "cn": "不要因为那种小事放弃。",
+        "jpFuri": "そんなごときことで<ruby>諦<rp>(</rp><rt>あきら</rt><rp>)</rp></ruby>めるな。",
+        "en": "Don't give up because of something like that."
+      },
+      {
+        "jp": "前述のごとく、方針を変更いたします。",
+        "cn": "如前所述，我们将变更方针。",
+        "jpFuri": "<ruby>前述<rp>(</rp><rt>ぜんじゅつ</rt><rp>)</rp></ruby>のごとく、<ruby>方針<rp>(</rp><rt>ほうしん</rt><rp>)</rp></ruby>を<ruby>変更<rp>(</rp><rt>へんこう</rt><rp>)</rp></ruby>いたします。",
+        "en": "As mentioned above, we will change our policy."
+      },
+      {
+        "jp": "彼のごとき人間に負けたくない。",
+        "cn": "不想输给他那样的人。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>のごとき<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>に<ruby>負<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>けたくない。",
+        "en": "I don't want to lose to someone like him."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-you-da",
+        "relation": "〜ようだ（比況）"
+      },
+      {
+        "id": "n3-mitai",
+        "relation": "〜みたいだ"
+      }
+    ],
+    "repeatIn": [],
+    "category": "比況・例示"
+  },
+  {
+    "id": "n1-to-aimatte",
+    "level": "N1",
+    "pattern": "〜と相まって",
+    "meaning": "与〜相结合／加上〜",
+    "usage": "N + と相まって",
+    "explanation": "用来两个要素互相作用、互相影响，产生了更好的效果。常用于好的结果。是非常正式的书面语。",
+    "colloquial": "口语用「〜もあいまって」或「〜と一緒になって」",
+    "examples": [
+      {
+        "jp": "美しい景色と相まって、最高の旅行になった。",
+        "cn": "加上美丽的景色，成了最棒的旅行。",
+        "jpFuri": "<ruby>美<rp>(</rp><rt>うつく</rt><rp>)</rp></ruby>しい<ruby>景色<rp>(</rp><rt>けしき</rt><rp>)</rp></ruby>と<ruby>相<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>まって、<ruby>最高<rp>(</rp><rt>さいこう</rt><rp>)</rp></ruby>の<ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>になった。",
+        "en": "Combined with the beautiful scenery, it was a great trip."
+      },
+      {
+        "jp": "彼の才能と努力とが相まって、成功を収めた。",
+        "cn": "他的才能和努力相结合，取得了成功。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>才能<rp>(</rp><rt>さいのう</rt><rp>)</rp></ruby>と<ruby>努力<rp>(</rp><rt>どりょく</rt><rp>)</rp></ruby>とが<ruby>相<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>まって、<ruby>成功<rp>(</rp><rt>せいこう</rt><rp>)</rp></ruby>を<ruby>収<rp>(</rp><rt>おさ</rt><rp>)</rp></ruby>めた。",
+        "en": "His talent and hard work combined to bring him success."
+      },
+      {
+        "jp": "好天と相まって、イベントは大成功だった。",
+        "cn": "加上好天气，活动非常成功。",
+        "jpFuri": "<ruby>好天<rp>(</rp><rt>こうてん</rt><rp>)</rp></ruby>と<ruby>相<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>まって、イベントは<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>成功<rp>(</rp><rt>せいこう</rt><rp>)</rp></ruby>だった。",
+        "en": "Coupled with the good weather, the event was a huge success."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-yotte",
+        "relation": "〜によって（原因）"
+      },
+      {
+        "id": "n3-ni-tsurete",
+        "relation": "〜につれて"
+      }
+    ],
+    "repeatIn": [],
+    "category": "並立・相互作用"
+  },
+  {
+    "id": "n1-mamire",
+    "level": "N1",
+    "pattern": "〜まみれ",
+    "meaning": "沾满〜／满是〜",
+    "usage": "N + まみれ",
+    "explanation": "用来表面沾满了脏东西。只用于物理性的污渍，如血迹、泥巴、灰尘等。不能用于抽象的心理状态或感情。",
+    "colloquial": "口语用「〜だらけ」也可通用但「まみれ」更强调表面覆盖",
+    "examples": [
+      {
+        "jp": "彼は汗まみれで走ってきた。",
+        "cn": "他满身大汗地跑来了。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>汗<rp>(</rp><rt>あせ</rt><rp>)</rp></ruby>まみれで<ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>ってきた。",
+        "en": "He came running covered in sweat."
+      },
+      {
+        "jp": "血まみれの手でドアを開けた。",
+        "cn": "用沾满血的手打开了门。",
+        "jpFuri": "<ruby>血<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>まみれの<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>でドアを<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けた。",
+        "en": "I opened the door with a bloody hand."
+      },
+      {
+        "jp": "子どもが泥まみれになって遊んでいる。",
+        "cn": "孩子满身是泥地玩着。",
+        "jpFuri": "<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>どもが<ruby>泥<rp>(</rp><rt>どろ</rt><rp>)</rp></ruby>まみれになって<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>んでいる。",
+        "en": "Children are playing and covered in mud."
+      },
+      {
+        "jp": "汗まみれで働いた。",
+        "cn": "浑身是汗地工作了。",
+        "jpFuri": "<ruby>汗<rp>(</rp><rt>あせ</rt><rp>)</rp></ruby>まみれで<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>いた。",
+        "en": "I worked covered in sweat."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-darake",
+        "relation": "〜だらけ（N4）"
+      },
+      {
+        "id": "n1-zukume",
+        "relation": "〜ずくめ"
+      }
+    ],
+    "repeatIn": [],
+    "category": "状態・様子"
+  },
+  {
+    "id": "n1-zukume",
+    "level": "N1",
+    "pattern": "〜ずくめ",
+    "meaning": "全是〜／清一色的〜",
+    "usage": "N + ずくめ",
+    "explanation": "用来周围全是某种事物或状态。与「まみれ」「だらけ」不同，「ずくめ」多用于抽象事物，且常用于积极场合（如好事情接连发生）。「黒ずくめ」「いいことずくめ」等。",
+    "colloquial": "口语用「〜ばかり」或「〜だらけ」",
+    "examples": [
+      {
+        "jp": "今日はいいことずくめの一日だった。",
+        "cn": "今天是好事连连的一天。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>はいいことずくめの<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>だった。",
+        "en": "Today was a day full of good things."
+      },
+      {
+        "jp": "彼は黒ずくめの服装で現れた。",
+        "cn": "他一身黑衣出现了。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>黒<rp>(</rp><rt>くろ</rt><rp>)</rp></ruby>ずくめの<ruby>服装<rp>(</rp><rt>ふくそう</rt><rp>)</rp></ruby>で<ruby>現<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>れた。",
+        "en": "He appeared dressed in all black."
+      },
+      {
+        "jp": "この店は老舗ずくめで、どこも歴史がある。",
+        "cn": "这家店全是老字号，每家都有历史。",
+        "jpFuri": "この<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>は<ruby>老舗<rp>(</rp><rt>しにせ</rt><rp>)</rp></ruby>ずくめで、どこも<ruby>歴史<rp>(</rp><rt>れきし</rt><rp>)</rp></ruby>がある。",
+        "en": "This store is full of long-established stores, and everything has a history."
+      },
+      {
+        "jp": "今日はいいことずくめの一日だった。",
+        "cn": "今天是净是好事的一天。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>はいいことずくめの<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>だった。",
+        "en": "Today was a day full of good things."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-mamire",
+        "relation": "〜まみれ"
+      },
+      {
+        "id": "n4-darake",
+        "relation": "〜だらけ"
+      }
+    ],
+    "repeatIn": [],
+    "category": "状態・様子"
+  },
+  {
+    "id": "n1-narade-wa",
+    "level": "N1",
+    "pattern": "〜ならでは",
+    "meaning": "只有〜才能／独一无二的",
+    "usage": "N + ならでは（の）／ならでは〜ない",
+    "explanation": "用来「若不是～就无法做到」，强调某事物或某人独有的特质、魅力。肯定形式「〜ならではの〜」意为「只有〜才有的〜」，否定形式「〜ならでは〜ない」意为「不是〜的话就做不到」。",
+    "colloquial": "口语用「〜じゃなきゃ／でなければ」",
+    "examples": [
+      {
+        "jp": "ここならではの味わいだ。",
+        "cn": "这里独有的风味。",
+        "jpFuri": "ここならではの<ruby>味<rp>(</rp><rt>あじ</rt><rp>)</rp></ruby>わいだ。",
+        "en": "It's a taste that can only be found here."
+      },
+      {
+        "jp": "職人ならではの技術だ。",
+        "cn": "只有工匠才有的技艺。",
+        "jpFuri": "<ruby>職人<rp>(</rp><rt>しょくにん</rt><rp>)</rp></ruby>ならではの<ruby>技術<rp>(</rp><rt>ぎじゅつ</rt><rp>)</rp></ruby>だ。",
+        "en": "This is a technique unique to craftsmen."
+      },
+      {
+        "jp": "彼ならではできない仕事だ。",
+        "cn": "这是只有他才能做的工作。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>ならではできない<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>だ。",
+        "en": "It's a job only he can do."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-wo-woite",
+        "relation": "〜をおいて"
+      },
+      {
+        "id": "n3-dake-aru",
+        "relation": "〜だけあって（N3）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "限定・特質"
+  },
+  {
+    "id": "n1-bekarazu",
+    "level": "N1",
+    "pattern": "〜べからず／〜べからざる",
+    "meaning": "不可〜／不准〜（严厉禁止）",
+    "usage": "V（辞書形）+ べからず（終止）／べからざる（連体）",
+    "explanation": "文言否定命令形，用来「不可以〜」「不准〜」。多用于告示牌、注意事项等书面表达。「べからざる」后续名词，用来「不可～的」。比「〜てはいけない」语气更强硬。",
+    "colloquial": "口语用「〜してはいけない」或「〜するな」",
+    "examples": [
+      {
+        "jp": "芝生に入るべからず。",
+        "cn": "禁止进入草坪。",
+        "jpFuri": "<ruby>芝生<rp>(</rp><rt>しばふ</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>るべからず。",
+        "en": "Don't go on the lawn."
+      },
+      {
+        "jp": "タバコを吸うべからず。",
+        "cn": "禁止吸烟。",
+        "jpFuri": "タバコを<ruby>吸<rp>(</rp><rt>す</rt><rp>)</rp></ruby>うべからず。",
+        "en": "You shouldn't smoke."
+      },
+      {
+        "jp": "それは許すべからざる行為だ。",
+        "cn": "那是不可原谅的行为。",
+        "jpFuri": "それは<ruby>許<rp>(</rp><rt>ゆる</rt><rp>)</rp></ruby>すべからざる<ruby>行為<rp>(</rp><rt>こうい</rt><rp>)</rp></ruby>だ。",
+        "en": "That is an act that cannot be tolerated."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-te-wa-ikenai",
+        "relation": "〜てはいけない（N4）"
+      },
+      {
+        "id": "n1-majiki",
+        "relation": "〜まじき"
+      }
+    ],
+    "repeatIn": [],
+    "category": "禁止"
+  },
+  {
+    "id": "n1-majiki",
+    "level": "N1",
+    "pattern": "〜まじき",
+    "meaning": "不该〜／作为〜不应该",
+    "usage": "V（辞書形）+ まじき + N",
+    "explanation": "用来「作为～不应该有的行为」。用于谴责某人做了不符合其身份、地位的事情。常与「〜として」「〜たるもの」搭配。",
+    "colloquial": "口语用「〜してはいけない」或「〜べきではない」",
+    "examples": [
+      {
+        "jp": "医者としてあるまじき行為だ。",
+        "cn": "作为医生不该有的行为。",
+        "jpFuri": "<ruby>医者<rp>(</rp><rt>いしゃ</rt><rp>)</rp></ruby>としてあるまじき<ruby>行為<rp>(</rp><rt>こうい</rt><rp>)</rp></ruby>だ。",
+        "en": "This is an unbelievable act for a doctor."
+      },
+      {
+        "jp": "教師にあるまじき発言だ。",
+        "cn": "作为老师不该有的发言。",
+        "jpFuri": "<ruby>教師<rp>(</rp><rt>きょうし</rt><rp>)</rp></ruby>にあるまじき<ruby>発言<rp>(</rp><rt>はつげん</rt><rp>)</rp></ruby>だ。",
+        "en": "That's a statement you wouldn't expect from a teacher."
+      },
+      {
+        "jp": "それは人道に反する許すまじき行為だ。",
+        "cn": "那是违反人道的不可原谅的行为。",
+        "jpFuri": "それは<ruby>人道<rp>(</rp><rt>じんどう</rt><rp>)</rp></ruby>に<ruby>反<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>する<ruby>許<rp>(</rp><rt>ゆる</rt><rp>)</rp></ruby>すまじき<ruby>行為<rp>(</rp><rt>こうい</rt><rp>)</rp></ruby>だ。",
+        "en": "That is an unforgivable act that is against humanity."
+      },
+      {
+        "jp": "彼の行為は教師にあるまじきものだ。",
+        "cn": "他的行为是作为教师不该有的。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>行為<rp>(</rp><rt>こうい</rt><rp>)</rp></ruby>は<ruby>教師<rp>(</rp><rt>きょうし</rt><rp>)</rp></ruby>にあるまじきものだ。",
+        "en": "His behavior is like that of a teacher."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-bekarazu",
+        "relation": "〜べからず（禁止）"
+      },
+      {
+        "id": "n4-te-wa-ikenai",
+        "relation": "〜てはいけない"
+      }
+    ],
+    "repeatIn": [],
+    "category": "禁止・非難"
+  },
+  {
+    "id": "n1-ni-taru",
+    "level": "N1",
+    "pattern": "〜に足る",
+    "meaning": "值得〜／足以〜",
+    "usage": "V（辞書形）+ に足る／N + に足る",
+    "explanation": "用来具有充分的价值、能力或资格做某事。常与「信頼」「評価」「推薦」等抽象名词搭配使用。正式的书面语。",
+    "colloquial": "口语用「〜する価値がある」或「〜に値する」",
+    "examples": [
+      {
+        "jp": "信頼に足る人物を探している。",
+        "cn": "正在寻找值得信赖的人。",
+        "jpFuri": "<ruby>信頼<rp>(</rp><rt>しんらい</rt><rp>)</rp></ruby>に<ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>る<ruby>人物<rp>(</rp><rt>じんぶつ</rt><rp>)</rp></ruby>を<ruby>探<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>している。",
+        "en": "I'm looking for someone I can trust."
+      },
+      {
+        "jp": "彼の業績は高く評価するに足る。",
+        "cn": "他的业绩值得高度评价。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>業績<rp>(</rp><rt>ぎょうせき</rt><rp>)</rp></ruby>は<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>く<ruby>評価<rp>(</rp><rt>ひょうか</rt><rp>)</rp></ruby>するに<ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>る。",
+        "en": "His achievements are worthy of high praise."
+      },
+      {
+        "jp": "この作品は見るに足る。",
+        "cn": "这部作品值得一看。",
+        "jpFuri": "この<ruby>作品<rp>(</rp><rt>さくひん</rt><rp>)</rp></ruby>は<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>るに<ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>る。",
+        "en": "This work is worth watching."
+      },
+      {
+        "jp": "信頼に足る人物です。",
+        "cn": "是值得信赖的人。",
+        "jpFuri": "<ruby>信頼<rp>(</rp><rt>しんらい</rt><rp>)</rp></ruby>に<ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>る<ruby>人物<rp>(</rp><rt>じんぶつ</rt><rp>)</rp></ruby>です。",
+        "en": "He is a trustworthy person."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-beki",
+        "relation": "〜べき（当然）"
+      },
+      {
+        "id": "n3-kachi-ga-aru",
+        "relation": "価値がある"
+      }
+    ],
+    "repeatIn": [],
+    "category": "評価・価値"
+  },
+  {
+    "id": "n1-ka-no-you-da",
+    "level": "N1",
+    "pattern": "〜かのようだ",
+    "meaning": "好像〜一样／宛如",
+    "usage": "V（普通形）/ イA / ナA + かのようだ",
+    "explanation": "比「〜ようだ」更具文学色彩，用来实际并非如此但看起来很像。用于夸张或比喻，语气更强。",
+    "colloquial": "口语用「〜みたいだ」或「〜みたいな感じ」",
+    "examples": [
+      {
+        "jp": "彼は何も知らなかったかのように振る舞った。",
+        "cn": "他装作好像什么都不知道。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>も<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らなかったかのように<ruby>振<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>る<ruby>舞<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>った。",
+        "en": "He acted like he didn't know anything."
+      },
+      {
+        "jp": "まるで夢を見ているかのようだ。",
+        "cn": "简直像是在做梦一样。",
+        "jpFuri": "まるで<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ているかのようだ。",
+        "en": "It's like I'm dreaming."
+      },
+      {
+        "jp": "時が止まったかのように感じた。",
+        "cn": "感觉时间仿佛停止了。",
+        "jpFuri": "<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>が<ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>まったかのように<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じた。",
+        "en": "It felt as if time had stopped."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-mitai",
+        "relation": "〜みたいだ（N3）"
+      },
+      {
+        "id": "n3-you-da",
+        "relation": "〜ようだ（N3）"
+      },
+      {
+        "id": "n1-gotoki",
+        "relation": "〜ごとき（文言）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "比況・例示"
+  },
+  {
+    "id": "n1-ni-hokanaranai",
+    "level": "N1",
+    "pattern": "〜にほかならない",
+    "meaning": "无非是〜／正是〜",
+    "usage": "N + にほかならない",
+    "explanation": "用来强烈的断定，「不是别的，正是～」「无非是～」。用于强调原因、本质、身份等。非常正式的书面表达。",
+    "colloquial": "口语用「〜以外の何ものでもない」或「まさに〜だ」",
+    "examples": [
+      {
+        "jp": "彼の成功は努力の結果にほかならない。",
+        "cn": "他的成功正是努力的结果。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>成功<rp>(</rp><rt>せいこう</rt><rp>)</rp></ruby>は<ruby>努力<rp>(</rp><rt>どりょく</rt><rp>)</rp></ruby>の<ruby>結果<rp>(</rp><rt>けっか</rt><rp>)</rp></ruby>にほかならない。",
+        "en": "His success is the result of hard work."
+      },
+      {
+        "jp": "今回の事故は管理ミスにほかならない。",
+        "cn": "这次的事故无非是管理失误。",
+        "jpFuri": "<ruby>今回<rp>(</rp><rt>こんかい</rt><rp>)</rp></ruby>の<ruby>事故<rp>(</rp><rt>じこ</rt><rp>)</rp></ruby>は<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>ミスにほかならない。",
+        "en": "This accident was nothing but a management error."
+      },
+      {
+        "jp": "それは愛情の裏返しにほかならない。",
+        "cn": "那无非是爱的反面表现。",
+        "jpFuri": "それは<ruby>愛情<rp>(</rp><rt>あいじょう</rt><rp>)</rp></ruby>の<ruby>裏返<rp>(</rp><rt>うらがえ</rt><rp>)</rp></ruby>しにほかならない。",
+        "en": "It is nothing but the opposite of love."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-dake",
+        "relation": "〜だけ（限定）"
+      },
+      {
+        "id": "n2-dake-no-koto",
+        "relation": "〜だけのことはある"
+      }
+    ],
+    "repeatIn": [],
+    "category": "断定・強調"
+  },
+  {
+    "id": "n1-sora-kara",
+    "level": "N1",
+    "pattern": "〜そばから",
+    "meaning": "刚〜就〜（又〜了）",
+    "usage": "V（た形/辞書形）+ そばから",
+    "explanation": "用来刚做完某事前一个结果就被破坏了或重来，带有「白费力气」「徒劳」的感觉。常用于负面场景，比如刚打扫完就又脏了。",
+    "colloquial": "口语用「〜てもすぐに」或「〜たと思ったらもう」",
+    "examples": [
+      {
+        "jp": "掃除するそばから、子供が散らかす。",
+        "cn": "刚打扫完，孩子就又弄乱了。",
+        "jpFuri": "<ruby>掃除<rp>(</rp><rt>そうじ</rt><rp>)</rp></ruby>するそばから、<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>が<ruby>散<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>らかす。",
+        "en": "A child makes a mess while cleaning."
+      },
+      {
+        "jp": "覚えるそばから忘れていく。",
+        "cn": "刚记住就忘了。",
+        "jpFuri": "<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えるそばから<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れていく。",
+        "en": "As soon as I remember, I forget."
+      },
+      {
+        "jp": "直すそばから壊れる。",
+        "cn": "刚修好就坏了。",
+        "jpFuri": "<ruby>直<rp>(</rp><rt>なお</rt><rp>)</rp></ruby>すそばから<ruby>壊<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>れる。",
+        "en": "It breaks before I can fix it."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-ya-naya",
+        "relation": "〜や否や（同时）"
+      },
+      {
+        "id": "n1-ta-ga-saigo",
+        "relation": "〜たが最後（一旦）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "同時・反復"
+  },
+  {
+    "id": "n1-ta-ga-saigo",
+    "level": "N1",
+    "pattern": "〜たが最後",
+    "meaning": "一旦〜就（完了）",
+    "usage": "V（た形）+ が最後",
+    "explanation": "用来一旦发生前项事情，就会产生严重后果或不可逆转的结果。常与「〜もう終わりだ」「〜大変だ」等搭配，用于负面语境。",
+    "colloquial": "口语用「〜したら最後」或「〜したが最後」",
+    "examples": [
+      {
+        "jp": "あのゲームを始めたが最後、やめられなくなる。",
+        "cn": "一旦开始玩那个游戏，就停不下来了。",
+        "jpFuri": "あのゲームを<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めたが<ruby>最後<rp>(</rp><rt>さいご</rt><rp>)</rp></ruby>、やめられなくなる。",
+        "en": "I started playing that game and by the end, I couldn't stop."
+      },
+      {
+        "jp": "彼に頼んだが最後、ずっと頼まれることになる。",
+        "cn": "一旦求他一次，以后就会被一直求。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>に<ruby>頼<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>んだが<ruby>最後<rp>(</rp><rt>さいご</rt><rp>)</rp></ruby>、ずっと<ruby>頼<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>まれることになる。",
+        "en": "I asked him, but in the end, he kept asking me."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-sora-kara",
+        "relation": "〜そばから"
+      },
+      {
+        "id": "n3-totan",
+        "relation": "〜たとたん（瞬间）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "条件・結果"
+  },
+  {
+    "id": "n1-totei",
+    "level": "N1",
+    "pattern": "〜とて／〜としたって",
+    "meaning": "即使〜也〜／就算〜",
+    "usage": "N（だ）+ とて／V（普通形）+ とて",
+    "explanation": "用来让步，「即使〜也〜」「就算〜」。比「〜ても」更正式，常用于书面或郑重会话中。「としたって」是更口语化的形式。",
+    "colloquial": "口语用「〜だって」或「〜にしても」",
+    "examples": [
+      {
+        "jp": "私とて、最初からできたわけではない。",
+        "cn": "就算是我，也不是一开始就会的。",
+        "jpFuri": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>とて、<ruby>最初<rp>(</rp><rt>さいしょ</rt><rp>)</rp></ruby>からできたわけではない。",
+        "en": "I wasn't able to do it from the beginning."
+      },
+      {
+        "jp": "金持ちとて、悩みはある。",
+        "cn": "即使是富人，也有烦恼。",
+        "jpFuri": "<ruby>金持<rp>(</rp><rt>かねも</rt><rp>)</rp></ruby>ちとて、<ruby>悩<rp>(</rp><rt>なや</rt><rp>)</rp></ruby>みはある。",
+        "en": "Even if you are rich, you have problems."
+      },
+      {
+        "jp": "急いだとしても、間に合わないだろう。",
+        "cn": "就算赶时间，也来不及吧。",
+        "jpFuri": "<ruby>急<rp>(</rp><rt>いそ</rt><rp>)</rp></ruby>いだとしても、<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>に<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わないだろう。",
+        "en": "Even if you hurry, you won't make it in time."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-te-mo",
+        "relation": "〜ても（N4 条件）"
+      },
+      {
+        "id": "n2-ni-shiro",
+        "relation": "〜にしろ（N2 譲歩）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "譲歩"
+  },
+  {
+    "id": "n1-ni-oshite",
+    "level": "N1",
+    "pattern": "〜を押して／〜を押し切って",
+    "meaning": "不顾〜／强行〜",
+    "usage": "N + を押して／押し切って",
+    "explanation": "用来克服反对、困难等阻力强行做某事。「押して」比「押し切って」语气稍弱。常与「反対」「困難」「風邪」等搭配。",
+    "colloquial": "口语用「〜を無理して」或「〜がんばって」",
+    "examples": [
+      {
+        "jp": "彼は反対を押して、留学した。",
+        "cn": "他不顾反对，强行去留学了。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>反対<rp>(</rp><rt>はんたい</rt><rp>)</rp></ruby>を<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>して、<ruby>留学<rp>(</rp><rt>りゅうがく</rt><rp>)</rp></ruby>した。",
+        "en": "He went against the grain and studied abroad."
+      },
+      {
+        "jp": "風邪を押して、会議に出席した。",
+        "cn": "不顾感冒，出席了会议。",
+        "jpFuri": "<ruby>風邪<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>を<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>して、<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>に<ruby>出席<rp>(</rp><rt>しゅっせき</rt><rp>)</rp></ruby>した。",
+        "en": "I attended the meeting despite my cold."
+      },
+      {
+        "jp": "周囲の妨害を押し切って、成功した。",
+        "cn": "不顾周围人的阻挠，成功了。",
+        "jpFuri": "<ruby>周囲<rp>(</rp><rt>しゅうい</rt><rp>)</rp></ruby>の<ruby>妨害<rp>(</rp><rt>ぼうがい</rt><rp>)</rp></ruby>を<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>し<ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>って、<ruby>成功<rp>(</rp><rt>せいこう</rt><rp>)</rp></ruby>した。",
+        "en": "He succeeded despite the obstacles around him."
+      }
+    ],
+    "related": [
+      {
+        "id": "n1-wo-yosoni",
+        "relation": "〜をよそに（无视）"
+      },
+      {
+        "id": "n1-wo-mono-mo-tosezu",
+        "relation": "〜をものともせず"
+      }
+    ],
+    "repeatIn": [],
+    "category": "無視・克服"
+  },
+  {
+    "id": "n1-ni-mashite",
+    "level": "N1",
+    "pattern": "〜に増して",
+    "meaning": "比〜更／胜过〜",
+    "usage": "N + に増して",
+    "explanation": "用来程度比以前更甚，「比～更～」。常用于「以前に増して」「当初に増して」等惯用搭配中也可以后续「ますます」增强语气。",
+    "colloquial": "口语用「〜より」或「〜以上に」",
+    "examples": [
+      {
+        "jp": "彼は以前に増して、やる気が出てきた。",
+        "cn": "他比以前更有干劲了。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>以前<rp>(</rp><rt>いぜん</rt><rp>)</rp></ruby>に<ruby>増<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>して、やる<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>が<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>てきた。",
+        "en": "He is more motivated than ever."
+      },
+      {
+        "jp": "雨は夜に増して激しくなった。",
+        "cn": "雨到了晚上更大了。",
+        "jpFuri": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>は<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>に<ruby>増<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>して<ruby>激<rp>(</rp><rt>はげ</rt><rp>)</rp></ruby>しくなった。",
+        "en": "The rain became heavier during the night."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-yori",
+        "relation": "〜より（N5 比较）"
+      },
+      {
+        "id": "n5-ho-ga",
+        "relation": "〜のほうが（N5 比较）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "比較"
+  }
+]

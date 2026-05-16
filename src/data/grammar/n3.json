@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "n3-you-da",
+    "level": "N3",
+    "pattern": "〜ようだ／〜みたいだ（比況）",
+    "meaning": "像〜一样／宛如〜",
+    "usage": "N + の + ようだ（比況）／V（辞書形）+ ようだ",
+    "explanation": "比況「ようだ」用来比喻（像…一样）。比N4的比喻用法更延伸：①例示（〜ような/みたいな→像…那样的）②不确定的推测。みたいだ更口语化。",
+    "colloquial": "「〜みたい」比「〜よう」更常出现在日常对话中",
+    "examples": [
+      {
+        "jp": "彼はまるで太陽のような人だ。",
+        "cn": "他像太阳一样的人。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はまるで<ruby>太陽<rp>(</rp><rt>たいよう</rt><rp>)</rp></ruby>のような<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>だ。",
+        "en": "He's like the sun."
+      },
+      {
+        "jp": "テレビで見たような料理を作ってみたい。",
+        "cn": "想做像电视上看到的那种料理。",
+        "jpFuri": "テレビで<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たような<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>を<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ってみたい。",
+        "en": "I want to make dishes like the ones I see on TV."
+      },
+      {
+        "jp": "この味、どこかで食べたみたい。",
+        "cn": "这个味道好像在哪儿吃过。",
+        "jpFuri": "この<ruby>味<rp>(</rp><rt>あじ</rt><rp>)</rp></ruby>、どこかで<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたみたい。",
+        "en": "It tastes like I've had it somewhere."
+      },
+      {
+        "jp": "この作品は本物のように見える。",
+        "cn": "这个作品看起来像真的一样。",
+        "jpFuri": "この<ruby>作品<rp>(</rp><rt>さくひん</rt><rp>)</rp></ruby>は<ruby>本物<rp>(</rp><rt>ほんもの</rt><rp>)</rp></ruby>のように<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>える。",
+        "en": "This piece looks like the real thing."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-you-da",
+        "relation": "N4初次出现"
+      },
+      {
+        "id": "n3-rasii-advanced",
+        "relation": "〜らしい（典型特征）对比"
+      }
+    ],
+    "repeatIn": [],
+    "category": "比喻"
+  },
+  {
+    "id": "n3-advanced-shieki-ukemi",
+    "level": "N3",
+    "pattern": "（使役+受身）させられる",
+    "meaning": "被迫〜",
+    "usage": "V（ない形）+ させられる",
+    "explanation": "N4使役受身的进一步运用。除了用来「被迫做某事」外，还包含说话人的痛苦、无奈的感情。一类动词（う段结尾）口语中常见「〜される」形（行かされる）。",
+    "colloquial": "「やらされる」→「やらされるんだよね」（抱怨语气）",
+    "examples": [
+      {
+        "jp": "毎朝早く起こさせられています。",
+        "cn": "每天早上被迫早起。",
+        "jpFuri": "<ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby><ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>こさせられています。",
+        "en": "I am made to wake up early every morning."
+      },
+      {
+        "jp": "あまりやりたくない仕事をやらされた。",
+        "cn": "被逼做了不太想做的工作。",
+        "jpFuri": "あまりやりたくない<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>をやらされた。",
+        "en": "I was forced to do a job that I didn't really want to do."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-shieki-ukemi",
+        "relation": "N4使役受身"
+      },
+      {
+        "id": "n4-shieki",
+        "relation": "使役"
+      },
+      {
+        "id": "n4-ukemi",
+        "relation": "受身"
+      }
+    ],
+    "repeatIn": [],
+    "category": "语态"
+  },
+  {
+    "id": "n3-extra-noun",
+    "level": "N3",
+    "pattern": "〜っぽい",
+    "meaning": "像〜／容易〜／有点〜",
+    "usage": "V（ます形）+ っぽい／N + っぽい／イ形（〜い）+ っぽい",
+    "explanation": "用来「有那种倾向/感觉」。「子供っぽい」（孩子气）、「忘れっぽい」（健忘）。比「〜やすい」更侧重感觉／性格倾向。",
+    "colloquial": "口语极常用！年轻人非常喜欢用「〜っぽい」",
+    "examples": [
+      {
+        "jp": "彼はまだ子供っぽいです。",
+        "cn": "他还挺孩子气的。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はまだ<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>っぽいです。",
+        "en": "He's still childish."
+      },
+      {
+        "jp": "最近、疲れっぽいんだよね。",
+        "cn": "最近很容易累。",
+        "jpFuri": "<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>、<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れっぽいんだよね。",
+        "en": "I've been feeling tired lately."
+      },
+      {
+        "jp": "彼女は男っぽい性格だ。",
+        "cn": "她性格像男生。",
+        "jpFuri": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>っぽい<ruby>性格<rp>(</rp><rt>せいかく</rt><rp>)</rp></ruby>だ。",
+        "en": "She has a masculine personality."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-yasui-nikui",
+        "relation": "〜やすい／〜にくい（难易）"
+      },
+      {
+        "id": "n3-gachi",
+        "relation": "〜がち（倾向）对比"
+      }
+    ],
+    "repeatIn": [],
+    "category": "倾向"
+  },
+  {
+    "id": "n3-gachi",
+    "level": "N3",
+    "pattern": "〜がち",
+    "meaning": "容易／往往／倾向于",
+    "usage": "V（ます形）+ がち／N + がち",
+    "explanation": "用来容易陷入某种负面倾向。「有…的倾向」。主要用于不好的事情（病気がち→体弱多病）。与「っぽい」区别：がち侧重习惯性/倾向性；っぽい侧重感觉上像。",
+    "colloquial": "「〜がち」多见于书面语，口语中用「〜がちだね」也常见",
+    "examples": [
+      {
+        "jp": "最近、外食がちです。",
+        "cn": "最近总是在外面吃。",
+        "jpFuri": "<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>、<ruby>外食<rp>(</rp><rt>がいしょく</rt><rp>)</rp></ruby>がちです。",
+        "en": "I tend to eat out lately."
+      },
+      {
+        "jp": "彼は遅刻しがちです。",
+        "cn": "他经常迟到。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>遅刻<rp>(</rp><rt>ちこく</rt><rp>)</rp></ruby>しがちです。",
+        "en": "He tends to be late."
+      },
+      {
+        "jp": "冬は家にこもりがちになる。",
+        "cn": "冬天容易宅在家里。",
+        "jpFuri": "<ruby>冬<rp>(</rp><rt>ふゆ</rt><rp>)</rp></ruby>は<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>にこもりがちになる。",
+        "en": "In winter, I tend to stay cooped up at home."
+      },
+      {
+        "jp": "最近、忘れがちです。",
+        "cn": "最近容易忘事。",
+        "jpFuri": "<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>、<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れがちです。",
+        "en": "I tend to forget things lately."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-extra-noun",
+        "relation": "〜っぽい对比"
+      }
+    ],
+    "repeatIn": [],
+    "category": "倾向"
+  },
+  {
+    "id": "n3-totou",
+    "level": "N3",
+    "pattern": "〜つつ（同時動作／逆接）",
+    "meaning": "一边～一边～／虽然～",
+    "usage": "V（ます形）+ つつ",
+    "explanation": "「つつ」是比「ながら」更书面化的表达。用法一：同时进行两个动作（ながら的正式版）；用法二：转折「〜つつも」用来虽然做某事却（同时有矛盾的状态）。",
+    "colloquial": "多见于书面语，口语中不太使用",
+    "examples": [
+      {
+        "jp": "問題の解決策を考えつつ、報告書を作成した。",
+        "cn": "一边思考解决方案，一边写了报告。",
+        "jpFuri": "<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>の<ruby>解決<rp>(</rp><rt>かいけつ</rt><rp>)</rp></ruby><ruby>策<rp>(</rp><rt>さく</rt><rp>)</rp></ruby>を<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えつつ、<ruby>報告<rp>(</rp><rt>ほうこく</rt><rp>)</rp></ruby><ruby>書<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby>を<ruby>作成<rp>(</rp><rt>さくせい</rt><rp>)</rp></ruby>した。",
+        "en": "I created a report while thinking about solutions to the problem."
+      },
+      {
+        "jp": "健康に悪いと知りつつも、タバコをやめられない。",
+        "cn": "明知道对健康有害却戒不了烟。",
+        "jpFuri": "<ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby>に<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>いと<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>りつつも、タバコをやめられない。",
+        "en": "I can't quit smoking even though I know it's bad for my health."
+      },
+      {
+        "jp": "そう言いつつも、彼は本当は優しい人だ。",
+        "cn": "他虽然那么说，其实是个温柔的人。",
+        "jpFuri": "そう<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いつつも、<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>は<ruby>優<rp>(</rp><rt>やさ</rt><rp>)</rp></ruby>しい<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>だ。",
+        "en": "Even though he says that, he is actually a kind person."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-nagara",
+        "relation": "〜ながら（同时动作）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "接续"
+  },
+  {
+    "id": "n3-tsutsu-aru",
+    "level": "N3",
+    "pattern": "〜つつある",
+    "meaning": "正在〜（渐变）",
+    "usage": "V（ます形）+ つつある",
+    "explanation": "用来正在进行中的状态变化。书面语，常用于新闻、报道等。比「〜ている」更正式，强调「逐步变化中」。",
+    "colloquial": "多见于新闻报道等书面语",
+    "examples": [
+      {
+        "jp": "日本の人口は減少しつつある。",
+        "cn": "日本人口正在减少。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>の<ruby>人口<rp>(</rp><rt>じんこう</rt><rp>)</rp></ruby>は<ruby>減少<rp>(</rp><rt>げんしょう</rt><rp>)</rp></ruby>しつつある。",
+        "en": "Japan's population is decreasing."
+      },
+      {
+        "jp": "新しい技術が開発されつつある。",
+        "cn": "新技术正在被开发。",
+        "jpFuri": "<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい<ruby>技術<rp>(</rp><rt>ぎじゅつ</rt><rp>)</rp></ruby>が<ruby>開発<rp>(</rp><rt>かいはつ</rt><rp>)</rp></ruby>されつつある。",
+        "en": "New technologies are being developed."
+      },
+      {
+        "jp": "景気は回復しつつある。",
+        "cn": "经济正在复苏。",
+        "jpFuri": "<ruby>景気<rp>(</rp><rt>けいき</rt><rp>)</rp></ruby>は<ruby>回復<rp>(</rp><rt>かいふく</rt><rp>)</rp></ruby>しつつある。",
+        "en": "The economy is recovering."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-iru",
+        "relation": "〜ている（口语版）"
+      },
+      {
+        "id": "n4-te-iku",
+        "relation": "〜ていく（变化）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "变化"
+  },
+  {
+    "id": "n3-kata",
+    "level": "N3",
+    "pattern": "〜方（かた）",
+    "meaning": "〜方法／〜方式",
+    "usage": "V（ます形）+ 方（かた）",
+    "explanation": "用来做某事的方法。将动词变为ます形去掉ます（ます形）后加「方」。如：食べ方（吃法）、書き方（写法）、やり方（做法）。",
+    "colloquial": "口语中极常用「やり方」「使い方」「考え方」等",
+    "examples": [
+      {
+        "jp": "この漢字の書き方を教えてください。",
+        "cn": "请教我这个汉字的写法。",
+        "jpFuri": "この<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>の<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>き<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>を<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてください。",
+        "en": "Please tell me how to write this kanji."
+      },
+      {
+        "jp": "パソコンの使い方がわからない。",
+        "cn": "不知道电脑的用法。",
+        "jpFuri": "パソコンの<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>がわからない。",
+        "en": "I don't know how to use a computer."
+      },
+      {
+        "jp": "考え方が違うんだよね。",
+        "cn": "想法不同啊。",
+        "jpFuri": "<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>え<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>が<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>うんだよね。",
+        "en": "You have a different way of thinking."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-masu",
+        "relation": "ます形"
+      }
+    ],
+    "repeatIn": [],
+    "category": "方法"
+  },
+  {
+    "id": "n3-baai",
+    "level": "N3",
+    "pattern": "〜場合",
+    "meaning": "〜的情况／〜场合",
+    "usage": "V（辞書形/た形）+ 場合／N + の場合",
+    "explanation": "用来「在…情况下」。比「〜とき」更正式，常用于条件或假设场景。常出现在指示、说明文中。",
+    "colloquial": "口语中用「とき」更多",
+    "examples": [
+      {
+        "jp": "火災の場合、すぐに避難してください。",
+        "cn": "发生火灾时，请立即避难。",
+        "jpFuri": "<ruby>火災<rp>(</rp><rt>かさい</rt><rp>)</rp></ruby>の<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>、すぐに<ruby>避難<rp>(</rp><rt>ひなん</rt><rp>)</rp></ruby>してください。",
+        "en": "In case of fire, evacuate immediately."
+      },
+      {
+        "jp": "ご不明な点がある場合、お問い合わせください。",
+        "cn": "有不明白的地方请咨询。",
+        "jpFuri": "ご<ruby>不明<rp>(</rp><rt>ふめい</rt><rp>)</rp></ruby>な<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>がある<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>、お<ruby>問<rp>(</rp><rt>と</rt><rp>)</rp></ruby>い<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わせください。",
+        "en": "If you have any questions, please contact us."
+      },
+      {
+        "jp": "雨の場合、試合は中止です。",
+        "cn": "下雨的情况，比赛取消。",
+        "jpFuri": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>の<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>、<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>は<ruby>中止<rp>(</rp><rt>ちゅうし</rt><rp>)</rp></ruby>です。",
+        "en": "In case of rain, the game will be canceled."
+      },
+      {
+        "jp": "忘れた場合は、もう一度お願いします。",
+        "cn": "如果忘了的话，请再问一次。",
+        "jpFuri": "<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れた<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>は、もう<ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby>お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+        "en": "If you forgot, please try again."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-toki",
+        "relation": "〜時（口语版）"
+      },
+      {
+        "id": "n3-sai",
+        "relation": "〜際（更正式的場合）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "条件"
+  },
+  {
+    "id": "n3-sai",
+    "level": "N3",
+    "pattern": "〜際",
+    "meaning": "〜之际／〜时候（正式）",
+    "usage": "V（辞書形/た形）+ 際（さい）／N + の際",
+    "explanation": "「際」是比「とき」「場合」更正式的书面语，意为「在…之际」。常用于商务场合、通知、说明等。",
+    "colloquial": "口语中不用，是书面/正式用语",
+    "examples": [
+      {
+        "jp": "ご来店の際は、マスクの着用をお願いします。",
+        "cn": "来店时请佩戴口罩。",
+        "jpFuri": "ご<ruby>来店<rp>(</rp><rt>らいてん</rt><rp>)</rp></ruby>の<ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>は、マスクの<ruby>着用<rp>(</rp><rt>ちゃくよう</rt><rp>)</rp></ruby>をお<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+        "en": "Please wear a mask when you visit."
+      },
+      {
+        "jp": "資料をご確認の際、誤りがあればご連絡ください。",
+        "cn": "确认资料时如发现错误请联系我们。",
+        "jpFuri": "<ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby>をご<ruby>確認<rp>(</rp><rt>かくにん</rt><rp>)</rp></ruby>の<ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>、<ruby>誤<rp>(</rp><rt>あやま</rt><rp>)</rp></ruby>りがあればご<ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby>ください。",
+        "en": "Please check the materials and let us know if you find any errors."
+      },
+      {
+        "jp": "帰国の際、お世話になりました。",
+        "cn": "回国之际，承蒙关照了。",
+        "jpFuri": "<ruby>帰国<rp>(</rp><rt>きこく</rt><rp>)</rp></ruby>の<ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>、お<ruby>世話<rp>(</rp><rt>せわ</rt><rp>)</rp></ruby>になりました。",
+        "en": "Thank you for taking care of me when I returned to Japan."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-baai",
+        "relation": "〜場合"
+      },
+      {
+        "id": "n5-toki",
+        "relation": "〜時"
+      }
+    ],
+    "repeatIn": [],
+    "category": "时间"
+  },
+  {
+    "id": "n3-ni-totte",
+    "level": "N3",
+    "pattern": "〜にとって",
+    "meaning": "对于〜来说",
+    "usage": "N + にとって",
+    "explanation": "用来从某个立场或角度来评价。「对于…来说」。后续多接评价性表达（重要だ、難しい、必要だ等）。",
+    "colloquial": "「〜にとって」→「〜に取っては」（口语强调对比）",
+    "examples": [
+      {
+        "jp": "私にとって、家族は一番大切です。",
+        "cn": "对我来说，家庭最重要。",
+        "jpFuri": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>にとって、<ruby>家族<rp>(</rp><rt>かぞく</rt><rp>)</rp></ruby>は<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>です。",
+        "en": "For me, family is the most important thing."
+      },
+      {
+        "jp": "学生にとって、勉強は一番大事だ。",
+        "cn": "对学生来说，学习最重要。",
+        "jpFuri": "<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>にとって、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>は<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>大事<rp>(</rp><rt>だいじ</rt><rp>)</rp></ruby>だ。",
+        "en": "For students, studying is the most important thing."
+      },
+      {
+        "jp": "初心者にとって、この本は難しすぎる。",
+        "cn": "对于初学者来说，这本书太难了。",
+        "jpFuri": "<ruby>初心者<rp>(</rp><rt>しょしんしゃ</rt><rp>)</rp></ruby>にとって、この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>は<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しすぎる。",
+        "en": "This book is too difficult for beginners."
+      },
+      {
+        "jp": "健康にとって、運動は大切です。",
+        "cn": "对健康来说，运动很重要。",
+        "jpFuri": "<ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby>にとって、<ruby>運動<rp>(</rp><rt>うんどう</rt><rp>)</rp></ruby>は<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>です。",
+        "en": "Exercise is important for health."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-ni-shite-wa",
+        "relation": "〜にしては（作为…来说）对比"
+      },
+      {
+        "id": "n3-ni-tai-shi",
+        "relation": "〜に対して（对/针对）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "立场评价"
+  },
+  {
+    "id": "n3-ni-shite-wa",
+    "level": "N3",
+    "pattern": "〜にしては",
+    "meaning": "作为～（却）／对～来说（出乎意料）",
+    "usage": "N + にしては",
+    "explanation": "用来实际状态与基于某种标准或身份做出的预想不符。「作为…来说（却…)」。含有出乎意料或评价的感觉。与「にとって」区别：にしては含有比较/反差。",
+    "colloquial": "口语中「〜にしちゃあ」也可以说",
+    "examples": [
+      {
+        "jp": "日本人にしては、英語がとても上手だ。",
+        "cn": "作为日本人来说英语非常好。",
+        "jpFuri": "<ruby>日本人<rp>(</rp><rt>にっぽんじん</rt><rp>)</rp></ruby>にしては、<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>がとても<ruby>上手<rp>(</rp><rt>じょうず</rt><rp>)</rp></ruby>だ。",
+        "en": "For a Japanese person, his English is very good."
+      },
+      {
+        "jp": "初心者にしては、よくできている。",
+        "cn": "作为初学者来说，做得相当好了。",
+        "jpFuri": "<ruby>初心者<rp>(</rp><rt>しょしんしゃ</rt><rp>)</rp></ruby>にしては、よくできている。",
+        "en": "For a beginner, it's well done."
+      },
+      {
+        "jp": "新入社員にしては、落ち着いている。",
+        "cn": "作为新员工来说很沉稳。",
+        "jpFuri": "<ruby>新入<rp>(</rp><rt>しんにゅう</rt><rp>)</rp></ruby><ruby>社員<rp>(</rp><rt>しゃいん</rt><rp>)</rp></ruby>にしては、<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ち<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>いている。",
+        "en": "For a new employee, he seems calm."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-ni-totte",
+        "relation": "〜にとって（对…来说）对比"
+      }
+    ],
+    "repeatIn": [],
+    "category": "评价"
+  },
+  {
+    "id": "n3-ni-tai-shi",
+    "level": "N3",
+    "pattern": "〜に対して",
+    "meaning": "对～／面向～／与～相反",
+    "usage": "N + に対して",
+    "explanation": "用来动作针对的对象或对比关系。「对～」「针对～」「而与～相反」。可以接在部分动词后（〜に対し）。",
+    "colloquial": "口语中「〜に対して」→「〜に対しては」「〜に比べて」替换",
+    "examples": [
+      {
+        "jp": "お客様に対しては、丁寧に応対してください。",
+        "cn": "对客人请礼貌应对。",
+        "jpFuri": "お<ruby>客様<rp>(</rp><rt>きゃくさま</rt><rp>)</rp></ruby>に<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>しては、<ruby>丁寧<rp>(</rp><rt>ていねい</rt><rp>)</rp></ruby>に<ruby>応対<rp>(</rp><rt>おうたい</rt><rp>)</rp></ruby>してください。",
+        "en": "Please respond courteously to customers."
+      },
+      {
+        "jp": "兄は活発なのに対して、弟はおとなしい。",
+        "cn": "哥哥很活泼，而弟弟却很文静。",
+        "jpFuri": "<ruby>兄<rp>(</rp><rt>あに</rt><rp>)</rp></ruby>は<ruby>活発<rp>(</rp><rt>かっぱつ</rt><rp>)</rp></ruby>なのに<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して、<ruby>弟<rp>(</rp><rt>おとうと</rt><rp>)</rp></ruby>はおとなしい。",
+        "en": "The older brother is active, while the younger brother is quiet."
+      },
+      {
+        "jp": "質問に対して答えました。",
+        "cn": "对问题做出了回答。",
+        "jpFuri": "<ruby>質問<rp>(</rp><rt>しつもん</rt><rp>)</rp></ruby>に<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して<ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えました。",
+        "en": "I answered your question."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-ni-totte",
+        "relation": "〜にとって"
+      },
+      {
+        "id": "n3-ni-yotte",
+        "relation": "〜によって（根据）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "对象对比"
+  },
+  {
+    "id": "n3-ni-yotte",
+    "level": "N3",
+    "pattern": "〜によって（受け身／原因／手段）",
+    "meaning": "根据〜／由于〜／通过〜",
+    "usage": "N + によって",
+    "explanation": "「によって」有多种用法：①被动句的动作主体（〜によって書かれた）②原因（〜によって引き起こされる）③方式手段（〜によって解決する）④差异（〜によって異なる）。",
+    "colloquial": "口语中说「〜で」或「〜によっては」",
+    "examples": [
+      {
+        "jp": "この小説は夏目漱石によって書かれた。",
+        "cn": "这本小说是夏目漱石写的。",
+        "jpFuri": "この<ruby>小説<rp>(</rp><rt>しょうせつ</rt><rp>)</rp></ruby>は<ruby>夏目<rp>(</rp><rt>なつめ</rt><rp>)</rp></ruby><ruby>漱石<rp>(</rp><rt>そうせき</rt><rp>)</rp></ruby>によって<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>かれた。",
+        "en": "This novel was written by Natsume Soseki."
+      },
+      {
+        "jp": "地震によって多くの家が壊れた。",
+        "cn": "由于地震很多房屋倒塌了。",
+        "jpFuri": "<ruby>地震<rp>(</rp><rt>じしん</rt><rp>)</rp></ruby>によって<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>くの<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>が<ruby>壊<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>れた。",
+        "en": "Many houses were destroyed by the earthquake."
+      },
+      {
+        "jp": "国によって習慣が違う。",
+        "cn": "国家不同习惯也不同。",
+        "jpFuri": "<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>によって<ruby>習慣<rp>(</rp><rt>しゅうかん</rt><rp>)</rp></ruby>が<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>う。",
+        "en": "Customs differ depending on the country."
+      },
+      {
+        "jp": "努力によって結果が変わる。",
+        "cn": "结果因努力程度而改变。",
+        "jpFuri": "<ruby>努力<rp>(</rp><rt>どりょく</rt><rp>)</rp></ruby>によって<ruby>結果<rp>(</rp><rt>けっか</rt><rp>)</rp></ruby>が<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わる。",
+        "en": "Results change with effort."
+      },
+      {
+        "jp": "人によって考え方が違います。",
+        "cn": "想法因人而异。",
+        "jpFuri": "<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>によって<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>え<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>が<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>います。",
+        "en": "People have different ways of thinking."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-ni-tai-shi",
+        "relation": "〜に対して"
+      },
+      {
+        "id": "n4-ukemi",
+        "relation": "被动句"
+      },
+      {
+        "id": "n5-kara",
+        "relation": "〜から（原因）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "根据原因"
+  },
+  {
+    "id": "n3-ni-tsuite",
+    "level": "N3",
+    "pattern": "〜について",
+    "meaning": "关于〜",
+    "usage": "N + について",
+    "explanation": "用来动作涉及的对象、主题或内容。「关于～」「就～」。比「〜のことで」更正式。常与「話す」「考える」「聞く」等动词搭配。",
+    "colloquial": "口语中「〜のこと」也能表达类似意思",
+    "examples": [
+      {
+        "jp": "日本の文化について勉強しています。",
+        "cn": "在学习日本文化。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>の<ruby>文化<rp>(</rp><rt>ぶんか</rt><rp>)</rp></ruby>について<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しています。",
+        "en": "I'm studying Japanese culture."
+      },
+      {
+        "jp": "その件について、もう一度話し合いましょう。",
+        "cn": "关于那件事，再商量一下吧。",
+        "jpFuri": "その<ruby>件<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>について、もう<ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby><ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>し<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いましょう。",
+        "en": "Let's discuss the matter again."
+      },
+      {
+        "jp": "彼について何か知っていますか。",
+        "cn": "你知道关于他的什么吗？",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>について<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>か<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っていますか。",
+        "en": "Do you know anything about him?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-ni-tai-shi",
+        "relation": "〜に対して"
+      },
+      {
+        "id": "n3-ni-kanshite",
+        "relation": "〜に関して（关于/书面语）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "话题"
+  },
+  {
+    "id": "n3-ni-kanshite",
+    "level": "N3",
+    "pattern": "〜に関して",
+    "meaning": "关于〜（正式）",
+    "usage": "N + に関して",
+    "explanation": "比「〜について」更正式的书面表达，意为「关于～」。在商务文书、论文等正式场合使用。",
+    "colloquial": "口语中几乎不用",
+    "examples": [
+      {
+        "jp": "この問題に関して、ご意見をお聞かせください。",
+        "cn": "关于这个问题请告诉我您的意见。",
+        "jpFuri": "この<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>に<ruby>関<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>して、ご<ruby>意見<rp>(</rp><rt>いけん</rt><rp>)</rp></ruby>をお<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>かせください。",
+        "en": "Please let us know your opinion regarding this issue."
+      },
+      {
+        "jp": "契約に関しては、弁護士に相談してください。",
+        "cn": "关于合同请咨询律师。",
+        "jpFuri": "<ruby>契約<rp>(</rp><rt>けいやく</rt><rp>)</rp></ruby>に<ruby>関<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>しては、<ruby>弁護士<rp>(</rp><rt>べんごし</rt><rp>)</rp></ruby>に<ruby>相談<rp>(</rp><rt>そうだん</rt><rp>)</rp></ruby>してください。",
+        "en": "Please consult a lawyer regarding contracts."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-ni-tsuite",
+        "relation": "〜について（口语版）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "话题"
+  },
+  {
+    "id": "n3-ni-yori",
+    "level": "N3",
+    "pattern": "〜による／〜により",
+    "meaning": "由～造成／通过～",
+    "usage": "N + による／N + により",
+    "explanation": "「〜に よる」是「〜によって」的修饰名词形（修饰名词）。「〜により」是书面语的中顿形（用于句中停顿）。",
+    "colloquial": "口语中用「〜の」「〜で」替代",
+    "examples": [
+      {
+        "jp": "地震による被害が大きかった。",
+        "cn": "地震造成的灾害很严重。",
+        "jpFuri": "<ruby>地震<rp>(</rp><rt>じしん</rt><rp>)</rp></ruby>による<ruby>被害<rp>(</rp><rt>ひがい</rt><rp>)</rp></ruby>が<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きかった。",
+        "en": "The earthquake caused great damage."
+      },
+      {
+        "jp": "インターネットによる情報収集が一般的になった。",
+        "cn": "通过互联网收集信息变得普遍了。",
+        "jpFuri": "インターネットによる<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>収集<rp>(</rp><rt>しゅうしゅう</rt><rp>)</rp></ruby>が<ruby>一般<rp>(</rp><rt>いっぱん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>になった。",
+        "en": "Gathering information via the Internet has become commonplace."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-ni-yotte",
+        "relation": "〜によって"
+      }
+    ],
+    "repeatIn": [],
+    "category": "根据"
+  },
+  {
+    "id": "n3-dake-de-naku",
+    "level": "N3",
+    "pattern": "〜だけでなく〜も",
+    "meaning": "不仅〜而且〜",
+    "usage": "N + だけでなく + N + も",
+    "explanation": "用来「不仅…而且…」。比「〜も〜も」强调范围广。类似的还有「〜ばかりでなく」「〜のみならず」（更正式）。",
+    "colloquial": "「〜だけじゃなくて」是口语常用形",
+    "examples": [
+      {
+        "jp": "彼は英語だけでなく、日本語も話せる。",
+        "cn": "他不仅会说英语，还会说日语。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>だけでなく、<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>も<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せる。",
+        "en": "He can speak not only English but also Japanese."
+      },
+      {
+        "jp": "日本だけでなく、中国でも人気がある。",
+        "cn": "不仅在日本，在中国也有人气。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>だけでなく、<ruby>中国<rp>(</rp><rt>ちゅうごく</rt><rp>)</rp></ruby>でも<ruby>人気<rp>(</rp><rt>にんき</rt><rp>)</rp></ruby>がある。",
+        "en": "It is popular not only in Japan but also in China."
+      },
+      {
+        "jp": "見た目だけじゃなくて、中身も大事だ。",
+        "cn": "不仅外表，内在也很重要。",
+        "jpFuri": "<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>た<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>だけじゃなくて、<ruby>中身<rp>(</rp><rt>なかみ</rt><rp>)</rp></ruby>も<ruby>大事<rp>(</rp><rt>だいじ</rt><rp>)</rp></ruby>だ。",
+        "en": "It's not just the appearance that matters, but the inside as well."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-dake",
+        "relation": "〜だけ（N5）"
+      },
+      {
+        "id": "n3-bakarika",
+        "relation": "〜ばかりか（不仅）"
+      },
+      {
+        "id": "n2-nominarazu",
+        "relation": "〜のみならず（书面语）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "并列"
+  },
+  {
+    "id": "n3-kke",
+    "level": "N3",
+    "pattern": "〜っけ（回忆确认）",
+    "meaning": "是不是～来着？",
+    "usage": "文（简体/た形）+ っけ",
+    "explanation": "用于回想或确认已经忘记的事情。「是～来着？」。常与「そういえば」一起使用。女性也常说「〜んだっけ」。",
+    "colloquial": "纯口语表达，书面语不用",
+    "examples": [
+      {
+        "jp": "明日の会議、何時からだっけ？",
+        "cn": "明天的会议几点来着？",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>の<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>、<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>からだっけ？",
+        "en": "What time does the meeting start tomorrow?"
+      },
+      {
+        "jp": "彼の名前、山田さんだっけ？",
+        "cn": "他的名字是山田来着？",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>、<ruby>山田<rp>(</rp><rt>やまだ</rt><rp>)</rp></ruby>さんだっけ？",
+        "en": "Is his name Yamada-san?"
+      },
+      {
+        "jp": "そういえば、あの映画、面白かったっけ？",
+        "cn": "说起来，那部电影好看吗来着？",
+        "jpFuri": "そういえば、あの<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>、<ruby>面白<rp>(</rp><rt>おもしろ</rt><rp>)</rp></ruby>かったっけ？",
+        "en": "Come to think of it, was that movie interesting?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-kashira-kana",
+        "relation": "〜かな（不确定）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "口语"
+  },
+  {
+    "id": "n3-shiro",
+    "level": "N3",
+    "pattern": "〜しろ／〜せよ（命令书面语）",
+    "meaning": "要～／必须～（书面命令）",
+    "usage": "V（辞書形）+ べし／V命令形",
+    "explanation": "「〜べし」是书面语中的「应该」「必须」。用于规则、标语、格言等。变形：基本形＋べし（五段/一段统一）、する→すべし（也常说「〜するべし」）。",
+    "colloquial": "口语中不常用",
+    "examples": [
+      {
+        "jp": "本日は雨天につき、試合は中止すべし。",
+        "cn": "今日雨天，比赛应取消。",
+        "jpFuri": "<ruby>本日<rp>(</rp><rt>ほんじつ</rt><rp>)</rp></ruby>は<ruby>雨天<rp>(</rp><rt>うてん</rt><rp>)</rp></ruby>につき、<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>は<ruby>中止<rp>(</rp><rt>ちゅうし</rt><rp>)</rp></ruby>すべし。",
+        "en": "Due to rainy weather today, the game has to be canceled."
+      },
+      {
+        "jp": "学生は勉強すべし。",
+        "cn": "学生应该学习。",
+        "jpFuri": "<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>は<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>すべし。",
+        "en": "Students should study."
+      },
+      {
+        "jp": "このボタンを押すべし。",
+        "cn": "请按此按钮。",
+        "jpFuri": "このボタンを<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>すべし。",
+        "en": "You should press this button."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-nai-to-ikenai",
+        "relation": "〜ないといけない（必须）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "义务"
+  },
+  {
+    "id": "n3-beki",
+    "level": "N3",
+    "pattern": "〜べき",
+    "meaning": "应该～",
+    "usage": "V（辞書形）+ べき（だ）",
+    "explanation": "「べき」用来「应该（做）」，强调道德上的义务或理想的做法。否定「〜べきではない」（不应该）。する→すべき（也常说「するべき」）。",
+    "colloquial": "口语中「〜べき」「〜べきじゃない」也常用",
+    "examples": [
+      {
+        "jp": "もっと勉強すべきだ。",
+        "cn": "应该更努力学习。",
+        "jpFuri": "もっと<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>すべきだ。",
+        "en": "I should study more."
+      },
+      {
+        "jp": "そう言うべきではなかった。",
+        "cn": "不应该那么说的。",
+        "jpFuri": "そう<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うべきではなかった。",
+        "en": "I shouldn't have said that."
+      },
+      {
+        "jp": "親に敬意を払うべきです。",
+        "cn": "应该对父母表示敬意。",
+        "jpFuri": "<ruby>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>に<ruby>敬意<rp>(</rp><rt>けいい</rt><rp>)</rp></ruby>を<ruby>払<rp>(</rp><rt>はら</rt><rp>)</rp></ruby>うべきです。",
+        "en": "You should respect your parents."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-shiro",
+        "relation": "〜べし（书面命令）"
+      },
+      {
+        "id": "n5-nai-to-ikenai",
+        "relation": "〜なければならない（必须）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "义务"
+  },
+  {
+    "id": "n3-hazu-n3",
+    "level": "N3",
+    "pattern": "〜はずがない",
+    "meaning": "不可能〜",
+    "usage": "V（辞書形/た形）+ はずがない",
+    "explanation": "「はずがない」是完全否定，「不可能～」「绝对不会～」。比「〜わけがない」语气稍弱，但都是强烈的否定推测。",
+    "colloquial": "「〜はずない」「〜わけない」口语都可以用",
+    "examples": [
+      {
+        "jp": "あの優しい彼がそんなことをするはずがない。",
+        "cn": "那么温柔的他不可能做那种事。",
+        "jpFuri": "あの<ruby>優<rp>(</rp><rt>やさ</rt><rp>)</rp></ruby>しい<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>がそんなことをするはずがない。",
+        "en": "There's no way this kind guy would do something like that."
+      },
+      {
+        "jp": "こんなに難しい問題、子供に解けるはずがない。",
+        "cn": "这么难的问题，孩子不可能解出来。",
+        "jpFuri": "こんなに<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しい<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>、<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>に<ruby>解<rp>(</rp><rt>と</rt><rp>)</rp></ruby>けるはずがない。",
+        "en": "There's no way a child could solve such a difficult problem."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-hazu",
+        "relation": "〜はず（按理说）"
+      },
+      {
+        "id": "n4-wake",
+        "relation": "〜わけ（道理）"
+      },
+      {
+        "id": "n3-wake-ni-wa-ikanai",
+        "relation": "〜わけにはいかない（不能）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "否定推测"
+  },
+  {
+    "id": "n3-wake-ni-wa-ikanai",
+    "level": "N3",
+    "pattern": "〜わけにはいかない",
+    "meaning": "不能〜（受到约束）",
+    "usage": "V（辞書形）+ わけにはいかない",
+    "explanation": "用来受到社会规范、责任、常识等的约束而不能做某事。「不能～」「不能（因为〜就不做）」。否定「〜ないわけにはいかない」用来「不得不做」。",
+    "colloquial": "口语中「わけに（は）いかない」→「わけにいかないよ」",
+    "examples": [
+      {
+        "jp": "大事な会議だから、休むわけにはいかない。",
+        "cn": "因为是重要的会议，不能请假。",
+        "jpFuri": "<ruby>大事<rp>(</rp><rt>だいじ</rt><rp>)</rp></ruby>な<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>だから、<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>むわけにはいかない。",
+        "en": "It's an important meeting, so I can't afford to miss it."
+      },
+      {
+        "jp": "彼の誘いを断るわけにはいかない。",
+        "cn": "不能拒绝他的邀请。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>誘<rp>(</rp><rt>さそ</rt><rp>)</rp></ruby>いを<ruby>断<rp>(</rp><rt>ことわ</rt><rp>)</rp></ruby>るわけにはいかない。",
+        "en": "I can't refuse his invitation."
+      },
+      {
+        "jp": "行かないわけにはいかない。",
+        "cn": "不得不去。",
+        "jpFuri": "<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かないわけにはいかない。",
+        "en": "I have no choice but to go."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-wake",
+        "relation": "〜わけ（道理）"
+      },
+      {
+        "id": "n4-nakereba-naranai",
+        "relation": "〜なければならない（必须）"
+      },
+      {
+        "id": "n5-te-wa-ikenai",
+        "relation": "〜てはいけない（禁止）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "义务禁止"
+  },
+  {
+    "id": "n3-ni-tsure",
+    "level": "N3",
+    "pattern": "〜につれて",
+    "meaning": "随着〜",
+    "usage": "V（辞書形）+ につれて",
+    "explanation": "用来随着前项的变化，后项也相应地发生变化。「随着…越来越…」。前后项是比例变化关系。与「に伴（したが）って」「と共に」类似。",
+    "colloquial": "口语中「〜につれて」→「〜につれ」（省略て）",
+    "examples": [
+      {
+        "jp": "日本語の勉強が進むにつれて、日本への理解も深まった。",
+        "cn": "随着日语学习的进步，对日本的理解也加深了。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>の<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>が<ruby>進<rp>(</rp><rt>すす</rt><rp>)</rp></ruby>むにつれて、<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>への<ruby>理解<rp>(</rp><rt>りかい</rt><rp>)</rp></ruby>も<ruby>深<rp>(</rp><rt>ふか</rt><rp>)</rp></ruby>まった。",
+        "en": "As I progressed in studying Japanese, my understanding of Japan also deepened."
+      },
+      {
+        "jp": "年を取るにつれて、体力が落ちる。",
+        "cn": "随着年龄增长，体力下降。",
+        "jpFuri": "<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>を<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>るにつれて、<ruby>体力<rp>(</rp><rt>たいりょく</rt><rp>)</rp></ruby>が<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ちる。",
+        "en": "As we get older, our physical strength declines."
+      },
+      {
+        "jp": "技術が発展するにつれ、生活は便利になった。",
+        "cn": "随着技术发展，生活变得方便了。",
+        "jpFuri": "<ruby>技術<rp>(</rp><rt>ぎじゅつ</rt><rp>)</rp></ruby>が<ruby>発展<rp>(</rp><rt>はってん</rt><rp>)</rp></ruby>するにつれ、<ruby>生活<rp>(</rp><rt>せいかつ</rt><rp>)</rp></ruby>は<ruby>便利<rp>(</rp><rt>べんり</rt><rp>)</rp></ruby>になった。",
+        "en": "As technology develops, life becomes more convenient."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-ni-shitagatte",
+        "relation": "〜に従って（伴随）"
+      },
+      {
+        "id": "n3-tomo-ni",
+        "relation": "〜と共に（随着/与～一起）"
+      },
+      {
+        "id": "n3-ni-tomonatte",
+        "relation": "〜に伴って（伴随着）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "伴随"
+  },
+  {
+    "id": "n3-ni-shitagatte",
+    "level": "N3",
+    "pattern": "〜に従って",
+    "meaning": "按照〜／随着〜",
+    "usage": "N + に従って／V（辞書形）+ に従って",
+    "explanation": "双重含义：①按照规则、指示、习惯（指示に従って）②随着前项变化后项也变化（与につれて类似，但更强调伴随）。",
+    "colloquial": "口语中用「〜に従って」→「に従って」都OK但多用于书面",
+    "examples": [
+      {
+        "jp": "説明書に従って操作してください。",
+        "cn": "请按照说明书操作。",
+        "jpFuri": "<ruby>説明<rp>(</rp><rt>せつめい</rt><rp>)</rp></ruby><ruby>書<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby>に<ruby>従<rp>(</rp><rt>したが</rt><rp>)</rp></ruby>って<ruby>操作<rp>(</rp><rt>そうさ</rt><rp>)</rp></ruby>してください。",
+        "en": "Please operate according to the instructions."
+      },
+      {
+        "jp": "経済が発展するに従って、環境問題も深刻になった。",
+        "cn": "随着经济发展，环境问题也变得严重了。",
+        "jpFuri": "<ruby>経済<rp>(</rp><rt>けいざい</rt><rp>)</rp></ruby>が<ruby>発展<rp>(</rp><rt>はってん</rt><rp>)</rp></ruby>するに<ruby>従<rp>(</rp><rt>したが</rt><rp>)</rp></ruby>って、<ruby>環境<rp>(</rp><rt>かんきょう</rt><rp>)</rp></ruby><ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>も<ruby>深刻<rp>(</rp><rt>しんこく</rt><rp>)</rp></ruby>になった。",
+        "en": "As the economy developed, environmental problems also became more serious."
+      },
+      {
+        "jp": "値段が上がるに従って、需要が減ります。",
+        "cn": "随着价格上涨，需求减少。",
+        "jpFuri": "<ruby>値段<rp>(</rp><rt>ねだん</rt><rp>)</rp></ruby>が<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がるに<ruby>従<rp>(</rp><rt>したが</rt><rp>)</rp></ruby>って、<ruby>需要<rp>(</rp><rt>じゅよう</rt><rp>)</rp></ruby>が<ruby>減<rp>(</rp><rt>へ</rt><rp>)</rp></ruby>ります。",
+        "en": "As price increases, demand decreases."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-ni-tsure",
+        "relation": "〜につれて"
+      },
+      {
+        "id": "n3-tomo-ni",
+        "relation": "〜と共に"
+      }
+    ],
+    "repeatIn": [],
+    "category": "伴随"
+  },
+  {
+    "id": "n3-ippo-de",
+    "level": "N3",
+    "pattern": "〜一方で",
+    "meaning": "一方面～另一方面～",
+    "usage": "V（辞書形）+ 一方で／N + である + 一方で",
+    "explanation": "用来并列对比，「一方面…另一方面…」。也可以省略「で」用「〜一方」。",
+    "colloquial": "口语也常用「〜一方（で）」「その一方で」",
+    "examples": [
+      {
+        "jp": "仕事が忙しい一方で、プライベートも充実している。",
+        "cn": "一方面工作很忙，另一方面私人生活也很充实。",
+        "jpFuri": "<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>が<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しい<ruby>一方<rp>(</rp><rt>いっぽう</rt><rp>)</rp></ruby>で、プライベートも<ruby>充実<rp>(</rp><rt>じゅうじつ</rt><rp>)</rp></ruby>している。",
+        "en": "Although she is busy with work, she also has a fulfilling private life."
+      },
+      {
+        "jp": "彼は厳しい一方で、とても優しいところもある。",
+        "cn": "他很严厉，但也有很温柔的一面。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>厳<rp>(</rp><rt>きび</rt><rp>)</rp></ruby>しい<ruby>一方<rp>(</rp><rt>いっぽう</rt><rp>)</rp></ruby>で、とても<ruby>優<rp>(</rp><rt>やさ</rt><rp>)</rp></ruby>しいところもある。",
+        "en": "Although he is strict, he is also very kind."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ga-conjunction",
+        "relation": "〜が（转折）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "对比"
+  },
+  {
+    "id": "n3-bakarika",
+    "level": "N3",
+    "pattern": "〜ばかりか",
+    "meaning": "别说～就连～也",
+    "usage": "V（辞書形/た形）+ ばかりか／N + ばかりか",
+    "explanation": "「ばかりか」用来「不仅仅…而且…」比「だけでなく」语气更强，含有强调递进的含义。",
+    "colloquial": "口语中用「〜だけじゃなくて」「〜ばかりじゃなくて」",
+    "examples": [
+      {
+        "jp": "彼は英語ばかりか、中国語も話せる。",
+        "cn": "他不仅会说英语，还会说中文。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>ばかりか、<ruby>中国<rp>(</rp><rt>ちゅうごく</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>も<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せる。",
+        "en": "He can speak not only English but also Chinese."
+      },
+      {
+        "jp": "成績が上がったばかりか、友達も増えた。",
+        "cn": "不仅成绩提高了，朋友也变多了。",
+        "jpFuri": "<ruby>成績<rp>(</rp><rt>せいせき</rt><rp>)</rp></ruby>が<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がったばかりか、<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>も<ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>えた。",
+        "en": "Not only did my grades improve, but I also made more friends."
+      },
+      {
+        "jp": "その映画は面白いばかりか、感動もした。",
+        "cn": "那部电影不仅有趣，还很感人。",
+        "jpFuri": "その<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>は<ruby>面白<rp>(</rp><rt>おもしろ</rt><rp>)</rp></ruby>いばかりか、<ruby>感動<rp>(</rp><rt>かんどう</rt><rp>)</rp></ruby>もした。",
+        "en": "The movie was not only interesting, but also moving."
+      }
+    ],
+    "related": [
+      {
+        "id": "n3-dake-de-naku",
+        "relation": "〜だけでなく"
+      },
+      {
+        "id": "n2-nominarazu",
+        "relation": "〜のみならず（更正式）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "递进"
+  },
+  {
+    "id": "n3-temo-sugita",
+    "level": "N3",
+    "pattern": "〜ては〜ては／〜では〜では",
+    "meaning": "又～又～（反反复复）",
+    "usage": "Vては + Vては",
+    "explanation": "用来动作的反复交替，「做了又做」「反反复复」。「たり〜たり」也可以用来动作交替但ては〜ては更强调重复性。也用于「困った時は図書館では、カフェでは…」的举例。",
+    "colloquial": "口语中「〜ては」→「〜ちゃ」缩略（行っては→行っちゃ）",
+    "examples": [
+      {
+        "jp": "雨が降っては止み、降っては止んでいる。",
+        "cn": "雨下了又停，停了又下。",
+        "jpFuri": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っては<ruby>止<rp>(</rp><rt>や</rt><rp>)</rp></ruby>み、<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っては<ruby>止<rp>(</rp><rt>や</rt><rp>)</rp></ruby>んでいる。",
+        "en": "It's raining and stopping, raining and stopping."
+      },
+      {
+        "jp": "食べては寝、寝ては食べる生活をしている。",
+        "cn": "过着吃了睡，睡了吃的生活。",
+        "jpFuri": "<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べては<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>、<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ては<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる<ruby>生活<rp>(</rp><rt>せいかつ</rt><rp>)</rp></ruby>をしている。",
+        "en": "I live a life of eating and sleeping, sleeping and eating."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-tari-tari",
+        "relation": "〜たり〜たり"
+      }
+    ],
+    "repeatIn": [],
+    "category": "反复"
+  },
+  {
+    "id": "n3-yara-yara",
+    "level": "N3",
+    "pattern": "〜やら〜やら",
+    "meaning": "又～又～（列举）",
+    "usage": "N + やら + N + やら",
+    "explanation": "用于列举事物，带有「等等」「之类」的语气。比「〜や〜」更口语化，也带有说话人觉得「烦」「多」的感觉。",
+    "colloquial": "口语中「〜やら〜やら」常带抱怨",
+    "examples": [
+      {
+        "jp": "仕事やら家事やらで忙しい。",
+        "cn": "又是工作又是家务忙死了。",
+        "jpFuri": "<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>やら<ruby>家事<rp>(</rp><rt>かじ</rt><rp>)</rp></ruby>やらで<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しい。",
+        "en": "I'm busy with work and housework."
+      },
+      {
+        "jp": "お金がないやら時間がないやらで大変だ。",
+        "cn": "又没钱又没时间的太难受了。",
+        "jpFuri": "お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>がないやら<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がないやらで<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>だ。",
+        "en": "It's tough when you don't have money or time."
+      },
+      {
+        "jp": "本やらノートやらが机の上に散らかっている。",
+        "cn": "书啊笔记本啊什么的散在桌子上。",
+        "jpFuri": "<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>やらノートやらが<ruby>机<rp>(</rp><rt>つくえ</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>に<ruby>散<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>らかっている。",
+        "en": "Books and notebooks are scattered on the desk."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ka-ya-to",
+        "relation": "〜や（举例列举）"
+      },
+      {
+        "id": "n5-tari-tari",
+        "relation": "〜たり〜たり"
+      }
+    ],
+    "repeatIn": [],
+    "category": "列举"
+  }
+]

@@ -1,0 +1,4624 @@
+[
+  {
+    "id": "n5-hai-ji",
+    "level": "N5",
+    "pattern": "〜は〜です",
+    "meaning": "〜是〜",
+    "usage": "N1 は N2 です",
+    "explanation": "日语中最基本的基本句型，用来「A是B」。は是话题标记，です是礼貌说法。口语中可以说「〜は〜だ」。",
+    "colloquial": "〜は〜だ（简体）、〜は〜っす（较随意）",
+    "examples": [
+      {
+        "jp": "私は日本人です。",
+        "cn": "我是日本人。",
+        "jpFuri": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>日本人<rp>(</rp><rt>にっぽんじん</rt><rp>)</rp></ruby>です。",
+        "en": "I'm Japanese."
+      },
+      {
+        "jp": "これは本です。",
+        "cn": "这是书。",
+        "jpFuri": "これは<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>です。",
+        "en": "This is a book."
+      },
+      {
+        "jp": "彼は学生です。",
+        "cn": "他是学生。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>です。",
+        "en": "he is a student"
+      },
+      {
+        "jp": "明日は日曜日です。",
+        "cn": "明天是星期天。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>です。",
+        "en": "Tomorrow is Sunday."
+      },
+      {
+        "jp": "俺は学生だ。",
+        "cn": "我是学生（朋友间说法）。",
+        "jpFuri": "<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>は<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>だ。",
+        "en": "I'm a student."
+      },
+      {
+        "jp": "これは私の本です。",
+        "cn": "这是我的书。",
+        "jpFuri": "これは<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>です。",
+        "en": "This is my book."
+      },
+      {
+        "jp": "彼は先生ではありません。",
+        "cn": "他不是老师。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>ではありません。",
+        "en": "he is not a teacher."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-hai-jya-nai",
+        "relation": "否定形式"
+      },
+      {
+        "id": "n5-hai-desuka",
+        "relation": "疑问形式"
+      },
+      {
+        "id": "n5-wa-mo",
+        "relation": "助词も的用法"
+      }
+    ],
+    "repeatIn": [],
+    "category": "判断句"
+  },
+  {
+    "id": "n5-hai-jya-nai",
+    "level": "N5",
+    "pattern": "〜は〜じゃありません／ではありません",
+    "meaning": "〜不是〜",
+    "usage": "N1 は N2 じゃありません / ではありません",
+    "explanation": "基本句型的否定形式。「じゃありません」是口语中常用的缩略形式，「ではありません」更正式。普通体否定是「〜ではない」。",
+    "colloquial": "〜じゃない（简体）、〜ではない（书面简体）",
+    "examples": [
+      {
+        "jp": "私は学生ではありません。",
+        "cn": "我不是学生。",
+        "jpFuri": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>ではありません。",
+        "en": "I'm not a student."
+      },
+      {
+        "jp": "これはペンじゃありません。",
+        "cn": "这不是笔。",
+        "jpFuri": "これはペンじゃありません。",
+        "en": "This is not a pen."
+      },
+      {
+        "jp": "彼は日本人じゃないです。",
+        "cn": "他不是日本人。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>日本人<rp>(</rp><rt>にっぽんじん</rt><rp>)</rp></ruby>じゃないです。",
+        "en": "He's not Japanese."
+      },
+      {
+        "jp": "明日は休みではありません。",
+        "cn": "明天不是休息日。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みではありません。",
+        "en": "Tomorrow is not a day off."
+      },
+      {
+        "jp": "それは俺のじゃないよ。",
+        "cn": "那不是我的哦（口语）。",
+        "jpFuri": "それは<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>のじゃないよ。",
+        "en": "That's not mine."
+      },
+      {
+        "jp": "今日は日曜日じゃないよ。",
+        "cn": "今天不是星期天哦。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>じゃないよ。",
+        "en": "Today isn't Sunday."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-hai-ji",
+        "relation": "肯定形式"
+      },
+      {
+        "id": "n5-hai-desuka",
+        "relation": "疑问形式"
+      }
+    ],
+    "repeatIn": [],
+    "category": "判断句"
+  },
+  {
+    "id": "n5-hai-desuka",
+    "level": "N5",
+    "pattern": "〜は〜ですか",
+    "meaning": "〜是〜吗？",
+    "usage": "N1 は N2 ですか",
+    "explanation": "基本句型的疑问形式。句尾用「か」用来疑问，句末用问号。口语中「か」有时省略，用升调表达疑问。回答为「はい、〜です」/「いいえ、〜じゃありません」。",
+    "colloquial": "〜？（升调）、〜か？（男性简体）",
+    "examples": [
+      {
+        "jp": "あなたは学生ですか。",
+        "cn": "你是学生吗？",
+        "jpFuri": "あなたは<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>ですか。",
+        "en": "Are you a student?"
+      },
+      {
+        "jp": "これは日本語の本ですか。",
+        "cn": "这是日语书吗？",
+        "jpFuri": "これは<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>の<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>ですか。",
+        "en": "Is this a Japanese book?"
+      },
+      {
+        "jp": "彼は先生ですか。",
+        "cn": "他是老师吗？",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>ですか。",
+        "en": "Is he a teacher?"
+      },
+      {
+        "jp": "明日は休みですか。",
+        "cn": "明天是休息吗？",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みですか。",
+        "en": "Is tomorrow a day off?"
+      },
+      {
+        "jp": "これ、本？",
+        "cn": "这是书吗？（口语省略か）",
+        "jpFuri": "これ、<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>？",
+        "en": "Is this a book?"
+      },
+      {
+        "jp": "それは何ですか？",
+        "cn": "那是什么？",
+        "jpFuri": "それは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか？",
+        "en": "What is it?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-hai-ji",
+        "relation": "肯定回答"
+      },
+      {
+        "id": "n5-hai-jya-nai",
+        "relation": "否定回答"
+      }
+    ],
+    "repeatIn": [],
+    "category": "判断句"
+  },
+  {
+    "id": "n5-no",
+    "level": "N5",
+    "pattern": "〜の〜（连体修饰）",
+    "meaning": "〜的〜",
+    "usage": "N1 の N2",
+    "explanation": "助词「の」连接两个名词，用来所属、属性、内容等关系。相当于中文的「的」，但用法更广，还可以用来同位语、主语等关系。",
+    "colloquial": "口语中有时省略为「ん」（例：私んち＝私の家）",
+    "examples": [
+      {
+        "jp": "私の本です。",
+        "cn": "我的书。",
+        "jpFuri": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>です。",
+        "en": "It's my book."
+      },
+      {
+        "jp": "日本の文化",
+        "cn": "日本的文化",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>の<ruby>文化<rp>(</rp><rt>ぶんか</rt><rp>)</rp></ruby>",
+        "en": "Japanese culture"
+      },
+      {
+        "jp": "日本語の先生",
+        "cn": "日语老师",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>の<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>",
+        "en": "Japanese teacher"
+      },
+      {
+        "jp": "学校の前",
+        "cn": "学校前面",
+        "jpFuri": "<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>の<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>",
+        "en": "in front of school"
+      },
+      {
+        "jp": "それ、私んちの本だよ。",
+        "cn": "那是我家的书哦（口语省略）。",
+        "jpFuri": "それ、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>んちの<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>だよ。",
+        "en": "That's my book."
+      },
+      {
+        "jp": "これは私の携帯です。",
+        "cn": "这是我的手机。",
+        "jpFuri": "これは<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>携帯<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby>です。",
+        "en": "This is my cell phone."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-hai-ji",
+        "relation": "主语标识"
+      },
+      {
+        "id": "n5-ga",
+        "relation": "が的用法（对比）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "助词"
+  },
+  {
+    "id": "n5-ga",
+    "level": "N5",
+    "pattern": "〜が〜（主格助词）",
+    "meaning": "〜（主语标识）",
+    "usage": "N1 が N2（描述）",
+    "explanation": "「が」是主语法标记，标识小句的主语。与「は」的区别：が用于客观描述新信息，は用于提示已知主题。疑问词做主语时用「が」不用「は」。",
+    "colloquial": "口语中有时省略が，尤其是「私が→私」",
+    "examples": [
+      {
+        "jp": "猫がいます。",
+        "cn": "有猫。",
+        "jpFuri": "<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>がいます。",
+        "en": "I have a cat."
+      },
+      {
+        "jp": "誰が来ましたか。",
+        "cn": "谁来了？",
+        "jpFuri": "<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>が<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ましたか。",
+        "en": "Who came?"
+      },
+      {
+        "jp": "花が咲いています。",
+        "cn": "花开了。",
+        "jpFuri": "<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>いています。",
+        "en": "Flowers are blooming."
+      },
+      {
+        "jp": "これが好きです。",
+        "cn": "我喜欢这个。",
+        "jpFuri": "これが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+        "en": "I like this."
+      },
+      {
+        "jp": "誰がやったの？",
+        "cn": "谁干的？（疑问词+が）",
+        "jpFuri": "<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>がやったの？",
+        "en": "Who did it?"
+      },
+      {
+        "jp": "猫が庭にいます。",
+        "cn": "猫在院子里。",
+        "jpFuri": "<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>が<ruby>庭<rp>(</rp><rt>にわ</rt><rp>)</rp></ruby>にいます。",
+        "en": "The cat is in the garden."
+      },
+      {
+        "jp": "新しい先生が来ました。",
+        "cn": "新老师来了。",
+        "jpFuri": "<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>が<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ました。",
+        "en": "A new teacher has arrived."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-wa",
+        "relation": "は（对比/话题）」"
+      },
+      {
+        "id": "n5-iru-aruiwa",
+        "relation": "存在句"
+      }
+    ],
+    "repeatIn": [],
+    "category": "助词"
+  },
+  {
+    "id": "n5-wa",
+    "level": "N5",
+    "pattern": "〜は〜（主题标记）",
+    "meaning": "〜（主题标识）",
+    "usage": "N1 は ...",
+    "explanation": "「は」是话题标记，提示句子的话题。与「が」不同，「は」提示已知信息或对比。在否定句中常常用「は」提示对比含义。注意：读音为「wa」而非「ha」。",
+    "colloquial": "口语中「〜は」有时省略为「〜っつーのは」等表达",
+    "examples": [
+      {
+        "jp": "私は寿司が好きです。",
+        "cn": "我喜欢寿司（我是喜欢寿司的）。",
+        "jpFuri": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>寿司<rp>(</rp><rt>すし</rt><rp>)</rp></ruby>が<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+        "en": "I like sushi."
+      },
+      {
+        "jp": "今日は休みです。",
+        "cn": "今天休息。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みです。",
+        "en": "I have a day off today."
+      },
+      {
+        "jp": "犬は好きですが、猫は嫌いです。",
+        "cn": "喜欢狗，但讨厌猫（对比）。",
+        "jpFuri": "<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>は<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きですが、<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>は<ruby>嫌<rp>(</rp><rt>きら</rt><rp>)</rp></ruby>いです。",
+        "en": "I like dogs, but I hate cats."
+      },
+      {
+        "jp": "酒は飲みません。",
+        "cn": "不喝酒（针对酒而言不喝）。",
+        "jpFuri": "<ruby>酒<rp>(</rp><rt>さけ</rt><rp>)</rp></ruby>は<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みません。",
+        "en": "I don't drink alcohol."
+      },
+      {
+        "jp": "俺は行かないよ。",
+        "cn": "我是不去的（对比/强调）。",
+        "jpFuri": "<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>は<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かないよ。",
+        "en": "I'm not going."
+      },
+      {
+        "jp": "私は毎日七時に起きます。",
+        "cn": "我每天七点起床。",
+        "jpFuri": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>七<rp>(</rp><rt>なな</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます。",
+        "en": "I wake up at seven o'clock every day."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ga",
+        "relation": "が（主格）对比"
+      },
+      {
+        "id": "n5-hai-ji",
+        "relation": "判断句"
+      }
+    ],
+    "repeatIn": [],
+    "category": "助词"
+  },
+  {
+    "id": "n5-wo",
+    "level": "N5",
+    "pattern": "〜を〜（目的格助词）",
+    "meaning": "〜（动作对象）",
+    "usage": "N1 を V",
+    "explanation": "「を」用来他动词的动作对象（宾语）。也用于用来经过离开的场所（与移动动词搭配）。注意：读音为「o」而非「wo」。",
+    "colloquial": "口语中有时弱化，尤其是快速说话时",
+    "examples": [
+      {
+        "jp": "ご飯を食べます。",
+        "cn": "吃饭。",
+        "jpFuri": "ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べます。",
+        "en": "I'm going to eat rice."
+      },
+      {
+        "jp": "本を読みます。",
+        "cn": "读书。",
+        "jpFuri": "<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>みます。",
+        "en": "I read books."
+      },
+      {
+        "jp": "日本語を勉強します。",
+        "cn": "学习日语。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>を<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+        "en": "I will study Japanese."
+      },
+      {
+        "jp": "公園を散歩します。",
+        "cn": "在公园散步。",
+        "jpFuri": "<ruby>公園<rp>(</rp><rt>こうえん</rt><rp>)</rp></ruby>を<ruby>散歩<rp>(</rp><rt>さんぽ</rt><rp>)</rp></ruby>します。",
+        "en": "Take a walk in the park."
+      },
+      {
+        "jp": "これをちょうだい。",
+        "cn": "给我这个（口语）。",
+        "jpFuri": "これをちょうだい。",
+        "en": "Give me this."
+      },
+      {
+        "jp": "毎日ご飯を食べます。",
+        "cn": "每天吃饭。",
+        "jpFuri": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べます。",
+        "en": "I eat rice every day."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-de",
+        "relation": "で（手段）"
+      },
+      {
+        "id": "n5-ni",
+        "relation": "に（对象）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "助词"
+  },
+  {
+    "id": "n5-ni",
+    "level": "N5",
+    "pattern": "〜に〜（格助词）",
+    "meaning": "〜在/到/对于〜",
+    "usage": "N1 に V / N1 に N2",
+    "explanation": "「に」有多种用法：①存在地点（にある/いる）②动作到达点（に行く/来る）③具体时间（三時に）④动作对象（にあげる）⑤比例基准（週に一回）。",
+    "colloquial": "口语中有时省略",
+    "examples": [
+      {
+        "jp": "机の上に本があります。",
+        "cn": "桌上有书。",
+        "jpFuri": "<ruby>机<rp>(</rp><rt>つくえ</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>に<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>があります。",
+        "en": "There is a book on the desk."
+      },
+      {
+        "jp": "学校に行きます。",
+        "cn": "去学校。",
+        "jpFuri": "<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "I'm going to school."
+      },
+      {
+        "jp": "九時に起きます。",
+        "cn": "九点起床。",
+        "jpFuri": "<ruby>九<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます。",
+        "en": "I get up at nine o'clock."
+      },
+      {
+        "jp": "友達にプレゼントをあげます。",
+        "cn": "给朋友礼物。",
+        "jpFuri": "<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>にプレゼントをあげます。",
+        "en": "Give a gift to a friend."
+      },
+      {
+        "jp": "今、学校にいる。",
+        "cn": "现在在学校。",
+        "jpFuri": "<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>にいる。",
+        "en": "I'm at school now."
+      },
+      {
+        "jp": "駅に行きます。",
+        "cn": "去车站。",
+        "jpFuri": "<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "I'm going to the station."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-de",
+        "relation": "で（动作场所）对比"
+      },
+      {
+        "id": "n5-e",
+        "relation": "へ（方向）对比"
+      },
+      {
+        "id": "n5-iru-aruiwa",
+        "relation": "存在句"
+      }
+    ],
+    "repeatIn": [],
+    "category": "助词"
+  },
+  {
+    "id": "n5-de",
+    "level": "N5",
+    "pattern": "〜で〜（格助词）",
+    "meaning": "在/用/因为〜",
+    "usage": "N1 で V",
+    "explanation": "「で」有多种用法：①动作发生的场所（学校で勉強する）②手段/工具（鉛筆で書く）③原因理由（病気で休む）④材料（木で作る）⑤范围（世界で一番）。",
+    "colloquial": "口语中不变",
+    "examples": [
+      {
+        "jp": "図書館で勉強します。",
+        "cn": "在图书馆学习。",
+        "jpFuri": "<ruby>図書館<rp>(</rp><rt>としょかん</rt><rp>)</rp></ruby>で<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+        "en": "I study at the library."
+      },
+      {
+        "jp": "バスで学校に行きます。",
+        "cn": "坐公交去学校。",
+        "jpFuri": "バスで<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "I go to school by bus."
+      },
+      {
+        "jp": "風邪で学校を休みました。",
+        "cn": "因感冒请假没上学。",
+        "jpFuri": "<ruby>風邪<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>で<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>を<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みました。",
+        "en": "I was absent from school because of a cold."
+      },
+      {
+        "jp": "世界で一番高い山",
+        "cn": "世界上最高的山。",
+        "jpFuri": "<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>で<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>い<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>",
+        "en": "highest mountain in the world"
+      },
+      {
+        "jp": "これ、ペンで書いたの？",
+        "cn": "这是用笔写的吗？",
+        "jpFuri": "これ、ペンで<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いたの？",
+        "en": "Did you write this with a pen?"
+      },
+      {
+        "jp": "電車で会社に行きます。",
+        "cn": "坐电车去公司。",
+        "jpFuri": "<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>で<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "I'm going to work by train."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ni",
+        "relation": "に（场所/时间）对比"
+      },
+      {
+        "id": "n5-wo",
+        "relation": "を（对象）"
+      },
+      {
+        "id": "n5-kara",
+        "relation": "から（原因）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "助词"
+  },
+  {
+    "id": "n5-e",
+    "level": "N5",
+    "pattern": "〜へ〜（方向助词）",
+    "meaning": "向/往〜",
+    "usage": "N1 へ V（移动动词）",
+    "explanation": "「へ」用来移动动作的方向或目的地，读音为「e」。与「に」的区别：に强调到达点，へ强调方向。",
+    "colloquial": "口语中常被「に」替代",
+    "examples": [
+      {
+        "jp": "日本へ行きます。",
+        "cn": "去日本。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "I'm going to Japan."
+      },
+      {
+        "jp": "ここへ来てください。",
+        "cn": "请到这里来。",
+        "jpFuri": "ここへ<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>てください。",
+        "en": "Please come here."
+      },
+      {
+        "jp": "友達の家へ遊びに行きます。",
+        "cn": "去朋友家玩。",
+        "jpFuri": "<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>の<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>へ<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>びに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "I'm going to visit my friend's house."
+      },
+      {
+        "jp": "そっちに行くよ。",
+        "cn": "我去那边（口语へ→に）。",
+        "jpFuri": "そっちに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くよ。",
+        "en": "I'll go there."
+      },
+      {
+        "jp": "明日、東京へ行きます。",
+        "cn": "明天去东京。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>、<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "I'm going to Tokyo tomorrow."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ni",
+        "relation": "に（到达点）对比"
+      }
+    ],
+    "repeatIn": [],
+    "category": "助词"
+  },
+  {
+    "id": "n5-iru-aruiwa",
+    "level": "N5",
+    "pattern": "〜に〜がいる／ある",
+    "meaning": "〜有〜",
+    "usage": "N1（场所）に N2（物/人）が いる/ある",
+    "explanation": "存在句。「いる」用于人或动物等有生命的事物，「ある」用于无生命的事物或植物。注意：主体用「が」标记，场所用「に」标记。",
+    "colloquial": "口语中「〜に〜がいる」可用「〜に〜がいるんだ」等强调",
+    "examples": [
+      {
+        "jp": "部屋に猫がいます。",
+        "cn": "房间里有猫。",
+        "jpFuri": "<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>に<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>がいます。",
+        "en": "There is a cat in the room."
+      },
+      {
+        "jp": "机の上に本があります。",
+        "cn": "桌上有书。",
+        "jpFuri": "<ruby>机<rp>(</rp><rt>つくえ</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>に<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>があります。",
+        "en": "There is a book on the desk."
+      },
+      {
+        "jp": "庭に犬がいます。",
+        "cn": "院子里有狗。",
+        "jpFuri": "<ruby>庭<rp>(</rp><rt>にわ</rt><rp>)</rp></ruby>に<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>がいます。",
+        "en": "There is a dog in the garden."
+      },
+      {
+        "jp": "ここに銀行があります。",
+        "cn": "这里有银行。",
+        "jpFuri": "ここに<ruby>銀行<rp>(</rp><rt>ぎんこう</rt><rp>)</rp></ruby>があります。",
+        "en": "There is a bank here."
+      },
+      {
+        "jp": "ここに猫がいるよ。",
+        "cn": "这里有猫哦（口语）。",
+        "jpFuri": "ここに<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>がいるよ。",
+        "en": "There's a cat here."
+      },
+      {
+        "jp": "机の上に本があります。",
+        "cn": "桌子上有书。",
+        "jpFuri": "<ruby>机<rp>(</rp><rt>つくえ</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>に<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>があります。",
+        "en": "There is a book on the desk."
+      },
+      {
+        "jp": "隣の部屋に誰かがいます。",
+        "cn": "隔壁房间有人。",
+        "jpFuri": "<ruby>隣<rp>(</rp><rt>となり</rt><rp>)</rp></ruby>の<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>に<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かがいます。",
+        "en": "There's someone in the next room."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ga",
+        "relation": "主格助词"
+      },
+      {
+        "id": "n5-ni",
+        "relation": "场所に"
+      },
+      {
+        "id": "n5-te-iru",
+        "relation": "〜ている（状态）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "存在句"
+  },
+  {
+    "id": "n5-masu",
+    "level": "N5",
+    "pattern": "〜ます（动词敬体）",
+    "meaning": "〜（礼貌形动词）",
+    "usage": "V（连用形）+ ます",
+    "explanation": "动词的礼貌体（礼貌形）。用于对长辈、上级或不熟悉的人说话。一类动词（う段结尾）：う→い段＋ます，二类/二类：去掉る＋ます，する→します，来る→きます。",
+    "colloquial": "简体是辞书形（基本形）",
+    "examples": [
+      {
+        "jp": "毎日日本語を勉強します。",
+        "cn": "每天学日语。",
+        "jpFuri": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>を<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+        "en": "I study Japanese every day."
+      },
+      {
+        "jp": "朝ご飯を食べます。",
+        "cn": "吃早餐。",
+        "jpFuri": "<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べます。",
+        "en": "I will eat breakfast."
+      },
+      {
+        "jp": "電車で帰ります。",
+        "cn": "坐电车回家。",
+        "jpFuri": "<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>で<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ります。",
+        "en": "I'm going home by train."
+      },
+      {
+        "jp": "明日友達に会います。",
+        "cn": "明天见朋友。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby><ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>に<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>います。",
+        "en": "I'll meet my friend tomorrow."
+      },
+      {
+        "jp": "毎日勉強します。",
+        "cn": "每天学习。",
+        "jpFuri": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+        "en": "I study every day."
+      },
+      {
+        "jp": "毎日ニュースを見ます。",
+        "cn": "每天看新闻。",
+        "jpFuri": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>ニュースを<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ます。",
+        "en": "I watch the news every day."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-masen",
+        "relation": "否定形式"
+      },
+      {
+        "id": "n5-mashita",
+        "relation": "过去形式"
+      },
+      {
+        "id": "n5-te-form",
+        "relation": "て形（连用形）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "动词活用"
+  },
+  {
+    "id": "n5-masen",
+    "level": "N5",
+    "pattern": "〜ません（否定）",
+    "meaning": "不〜",
+    "usage": "V（连用形）+ ません",
+    "explanation": "动词礼貌体的否定形式，相当于「ないです」的礼貌体。一类动词（う段结尾）ます→ません。",
+    "colloquial": "简体：〜ない／〜ないです",
+    "examples": [
+      {
+        "jp": "肉を食べません。",
+        "cn": "不吃肉。",
+        "jpFuri": "<ruby>肉<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べません。",
+        "en": "I don't eat meat."
+      },
+      {
+        "jp": "明日は行きません。",
+        "cn": "明天不去。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きません。",
+        "en": "I won't go tomorrow."
+      },
+      {
+        "jp": "タバコを吸いません。",
+        "cn": "不抽烟。",
+        "jpFuri": "タバコを<ruby>吸<rp>(</rp><rt>す</rt><rp>)</rp></ruby>いません。",
+        "en": "I don't smoke."
+      },
+      {
+        "jp": "今日は行かないです。",
+        "cn": "今天不去（口语否定）。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かないです。",
+        "en": "I'm not going today."
+      },
+      {
+        "jp": "明日は仕事に行きません。",
+        "cn": "明天不去上班。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きません。",
+        "en": "I won't go to work tomorrow."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-masu",
+        "relation": "肯定形式"
+      },
+      {
+        "id": "n5-nai-form",
+        "relation": "ない形（简体否定）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "动词活用"
+  },
+  {
+    "id": "n5-mashita",
+    "level": "N5",
+    "pattern": "〜ました（过去）",
+    "meaning": "〜了（过去）",
+    "usage": "V（连用形）+ ました",
+    "explanation": "动词礼貌体的过去形式。一类动词（う段结尾）：ます→ました。",
+    "colloquial": "简体：〜た",
+    "examples": [
+      {
+        "jp": "昨日映画を見ました。",
+        "cn": "昨天看电影了。",
+        "jpFuri": "<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby><ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ました。",
+        "en": "I saw a movie yesterday."
+      },
+      {
+        "jp": "先週京都に行きました。",
+        "cn": "上周去京都了。",
+        "jpFuri": "<ruby>先週<rp>(</rp><rt>せんしゅう</rt><rp>)</rp></ruby><ruby>京都<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きました。",
+        "en": "I went to Kyoto last week."
+      },
+      {
+        "jp": "昼ご飯を食べました。",
+        "cn": "吃午饭了。",
+        "jpFuri": "<ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べました。",
+        "en": "I ate lunch."
+      },
+      {
+        "jp": "昨日見たよ。",
+        "cn": "昨天看了（口语过去）。",
+        "jpFuri": "<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby><ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たよ。",
+        "en": "I saw it yesterday."
+      },
+      {
+        "jp": "昨日、友達に会いました。",
+        "cn": "昨天见了朋友。",
+        "jpFuri": "<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>、<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>に<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いました。",
+        "en": "I met a friend yesterday."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-masu",
+        "relation": "非过去形式"
+      },
+      {
+        "id": "n5-masen-deshita",
+        "relation": "过去否定形式"
+      },
+      {
+        "id": "n5-ta-form",
+        "relation": "た形"
+      }
+    ],
+    "repeatIn": [],
+    "category": "动词活用"
+  },
+  {
+    "id": "n5-masen-deshita",
+    "level": "N5",
+    "pattern": "〜ませんでした（过去否定）",
+    "meaning": "没有〜（过去没做）",
+    "usage": "V（连用形）+ ませんでした",
+    "explanation": "动词礼貌体的过去否定。用来过去没有做某事。",
+    "colloquial": "简体：〜なかった／〜なかったです",
+    "examples": [
+      {
+        "jp": "昨日勉強しませんでした。",
+        "cn": "昨天没学习。",
+        "jpFuri": "<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby><ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しませんでした。",
+        "en": "I didn't study yesterday."
+      },
+      {
+        "jp": "朝ご飯を食べませんでした。",
+        "cn": "没吃早餐。",
+        "jpFuri": "<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べませんでした。",
+        "en": "I didn't eat breakfast."
+      },
+      {
+        "jp": "日曜日は働きませんでした。",
+        "cn": "周日没工作。",
+        "jpFuri": "<ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>は<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きませんでした。",
+        "en": "I didn't work on Sundays."
+      },
+      {
+        "jp": "昨日は行かなかった。",
+        "cn": "昨天没去（口语）。",
+        "jpFuri": "<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>は<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かなかった。",
+        "en": "I didn't go yesterday."
+      },
+      {
+        "jp": "昨日は電話しませんでした。",
+        "cn": "昨天没打电话。",
+        "jpFuri": "<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>は<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>しませんでした。",
+        "en": "I didn't call you yesterday."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-mashita",
+        "relation": "过去肯定"
+      },
+      {
+        "id": "n5-masen",
+        "relation": "非过去否定"
+      },
+      {
+        "id": "n5-nai-form",
+        "relation": "ない形"
+      }
+    ],
+    "repeatIn": [],
+    "category": "动词活用"
+  },
+  {
+    "id": "n5-te-form",
+    "level": "N5",
+    "pattern": "〜て形（动词て形）",
+    "meaning": "〜（动词连用形）",
+    "usage": "Vて + 后续表达",
+    "explanation": "动词て形是日语中非常重要的变化形式，可以连接句子用来顺序、原因、并列等。变形规则：一类动词（う段结尾）分为①〜いて/〜いで（書く→書いて）②〜って（買う→買って）③〜んで（読む→読んで）④〜して（話す→話して）；二类/二类去掉る＋て；する→して、来る→きて。",
+    "colloquial": "口语中「〜ている」省略为「〜てる」，「〜てしまう」省略为「〜ちゃう」",
+    "examples": [
+      {
+        "jp": "家に帰って、ご飯を食べます。",
+        "cn": "回家，然后吃饭。",
+        "jpFuri": "<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>に<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>って、ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べます。",
+        "en": "I go home and eat dinner."
+      },
+      {
+        "jp": "毎日歩いて学校に行きます。",
+        "cn": "每天走路去学校。",
+        "jpFuri": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>いて<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "I walk to school every day."
+      },
+      {
+        "jp": "ここに名前を書いてください。",
+        "cn": "请在这里写上名字。",
+        "jpFuri": "ここに<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>を<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いてください。",
+        "en": "Please write your name here."
+      },
+      {
+        "jp": "待って！",
+        "cn": "等等！（口语て形单用）",
+        "jpFuri": "<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って！",
+        "en": "hang on!"
+      },
+      {
+        "jp": "駅に行って、電車に乗ります。",
+        "cn": "去车站坐电车。",
+        "jpFuri": "<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って、<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>に<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>ります。",
+        "en": "Go to the station and take the train."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-kudasai",
+        "relation": "てください"
+      },
+      {
+        "id": "n5-te-iru",
+        "relation": "〜ている"
+      },
+      {
+        "id": "n5-te-mo-ii",
+        "relation": "〜てもいい"
+      },
+      {
+        "id": "n5-te-wa-ikenai",
+        "relation": "〜てはいけない"
+      },
+      {
+        "id": "n5-te-kara",
+        "relation": "〜てから"
+      }
+    ],
+    "repeatIn": [],
+    "category": "动词活用"
+  },
+  {
+    "id": "n5-te-kudasai",
+    "level": "N5",
+    "pattern": "〜てください",
+    "meaning": "请〜（做某事）",
+    "usage": "Vて + ください",
+    "explanation": "请求别人做某事的礼貌表达。更礼貌的说法是「〜てくださいませんか」或「〜ていただけませんか」。否定请求用「〜ないでください」（请不要〜）。",
+    "colloquial": "「〜て」单用（关系亲近的人之间）、「〜てちょうだい」（女性/儿童用语）",
+    "examples": [
+      {
+        "jp": "ここに座ってください。",
+        "cn": "请坐在这里。",
+        "jpFuri": "ここに<ruby>座<rp>(</rp><rt>すわ</rt><rp>)</rp></ruby>ってください。",
+        "en": "Please sit here."
+      },
+      {
+        "jp": "名前を書いてください。",
+        "cn": "请写上名字。",
+        "jpFuri": "<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>を<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いてください。",
+        "en": "Please write your name."
+      },
+      {
+        "jp": "ドアを開けてください。",
+        "cn": "请开门。",
+        "jpFuri": "ドアを<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けてください。",
+        "en": "Please open the door."
+      },
+      {
+        "jp": "タバコを吸わないでください。",
+        "cn": "请不要抽烟。",
+        "jpFuri": "タバコを<ruby>吸<rp>(</rp><rt>す</rt><rp>)</rp></ruby>わないでください。",
+        "en": "Please don't smoke."
+      },
+      {
+        "jp": "ちょっと待って。",
+        "cn": "稍等一下（熟人之间）。",
+        "jpFuri": "ちょっと<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って。",
+        "en": "wait a minute."
+      },
+      {
+        "jp": "ここに座ってください。",
+        "cn": "请坐这里。",
+        "jpFuri": "ここに<ruby>座<rp>(</rp><rt>すわ</rt><rp>)</rp></ruby>ってください。",
+        "en": "Please sit here."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-form",
+        "relation": "て形"
+      },
+      {
+        "id": "n5-nai-de-kudasai",
+        "relation": "否定请求"
+      },
+      {
+        "id": "n5-te-mo-ii",
+        "relation": "〜てもいい（允许）"
+      },
+      {
+        "id": "n4-te-itadakemasenka",
+        "relation": "〜ていただけませんか（更礼貌）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "请求"
+  },
+  {
+    "id": "n5-nai-de-kudasai",
+    "level": "N5",
+    "pattern": "〜ないでください",
+    "meaning": "请不要〜",
+    "usage": "Vない + でください",
+    "explanation": "否定的请求或命令。比「〜てはいけません」更礼貌，直接请求对方不要做某事。与「〜ない形」连用。",
+    "colloquial": "「〜ないで」（比较随便）",
+    "examples": [
+      {
+        "jp": "ここで写真を撮らないでください。",
+        "cn": "请不要在这里拍照。",
+        "jpFuri": "ここで<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>らないでください。",
+        "en": "Please do not take photos here."
+      },
+      {
+        "jp": "遅刻しないでください。",
+        "cn": "请不要迟到。",
+        "jpFuri": "<ruby>遅刻<rp>(</rp><rt>ちこく</rt><rp>)</rp></ruby>しないでください。",
+        "en": "Don't be late."
+      },
+      {
+        "jp": "心配しないでください。",
+        "cn": "请不要担心。",
+        "jpFuri": "<ruby>心配<rp>(</rp><rt>しんぱい</rt><rp>)</rp></ruby>しないでください。",
+        "en": "Don't worry."
+      },
+      {
+        "jp": "そこ、触らないで。",
+        "cn": "别碰那里（口语）。",
+        "jpFuri": "そこ、<ruby>触<rp>(</rp><rt>さわ</rt><rp>)</rp></ruby>らないで。",
+        "en": "Don't touch there."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-kudasai",
+        "relation": "肯定请求"
+      },
+      {
+        "id": "n5-te-wa-ikenai",
+        "relation": "〜てはいけません（禁止）"
+      },
+      {
+        "id": "n5-nai-form",
+        "relation": "ない形"
+      }
+    ],
+    "repeatIn": [],
+    "category": "请求"
+  },
+  {
+    "id": "n5-te-mo-ii",
+    "level": "N5",
+    "pattern": "〜てもいいです",
+    "meaning": "可以〜",
+    "usage": "Vて + もいいです",
+    "explanation": "用来允许或许可。疑问形式「〜てもいいですか」用来征求对方许可（「可以〜吗？」）。口语中常省略为「〜ていい？」。否定形式「〜てはいけません」用来禁止。",
+    "colloquial": "「〜ていい？」／「〜ていいすか？」（较随意）",
+    "examples": [
+      {
+        "jp": "ここで写真を撮ってもいいですか。",
+        "cn": "可以在这里拍照吗？",
+        "jpFuri": "ここで<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>ってもいいですか。",
+        "en": "May I take pictures here."
+      },
+      {
+        "jp": "もう帰ってもいいです。",
+        "cn": "可以回去了。",
+        "jpFuri": "もう<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ってもいいです。",
+        "en": "You can go home now."
+      },
+      {
+        "jp": "この本を借りてもいいですか。",
+        "cn": "可以借这本书吗？",
+        "jpFuri": "この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りてもいいですか。",
+        "en": "May I borrow this book?"
+      },
+      {
+        "jp": "ちょっと休んでもいいですか。",
+        "cn": "可以休息一下吗？",
+        "jpFuri": "ちょっと<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>んでもいいですか。",
+        "en": "Can I take a break?"
+      },
+      {
+        "jp": "もう帰っていい？",
+        "cn": "可以回去了吗？（口语省略）",
+        "jpFuri": "もう<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>っていい？",
+        "en": "Can I go home now?"
+      },
+      {
+        "jp": "ここでタバコを吸ってもいいですか？",
+        "cn": "这里可以抽烟吗？",
+        "jpFuri": "ここでタバコを<ruby>吸<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ってもいいですか？",
+        "en": "Can I smoke here?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-wa-ikenai",
+        "relation": "禁止形式"
+      },
+      {
+        "id": "n5-te-form",
+        "relation": "て形"
+      },
+      {
+        "id": "n4-nakereba-naranai",
+        "relation": "〜なければならない（义务）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "许可"
+  },
+  {
+    "id": "n5-te-wa-ikenai",
+    "level": "N5",
+    "pattern": "〜てはいけません",
+    "meaning": "不能〜，禁止〜",
+    "usage": "Vて + はいけません",
+    "explanation": "用来禁止。比「〜ないでください」语气强。口语中常说「〜ちゃいけない」「〜じゃいけない」。普通体为「〜てはいけない」。",
+    "colloquial": "「〜ちゃいけない／じゃいけない」（口语缩略）",
+    "examples": [
+      {
+        "jp": "ここでタバコを吸ってはいけません。",
+        "cn": "禁止在这里吸烟。",
+        "jpFuri": "ここでタバコを<ruby>吸<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ってはいけません。",
+        "en": "You are not allowed to smoke here."
+      },
+      {
+        "jp": "授業中にスマホを使ってはいけません。",
+        "cn": "上课时不能使用手机。",
+        "jpFuri": "<ruby>授業<rp>(</rp><rt>じゅぎょう</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>にスマホを<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>ってはいけません。",
+        "en": "Do not use your smartphone during class."
+      },
+      {
+        "jp": "嘘をついてはいけない。",
+        "cn": "不能说谎。",
+        "jpFuri": "<ruby>嘘<rp>(</rp><rt>うそ</rt><rp>)</rp></ruby>をついてはいけない。",
+        "en": "Don't lie."
+      },
+      {
+        "jp": "ここ、入っちゃダメだよ。",
+        "cn": "这里不能进哦（口语）。",
+        "jpFuri": "ここ、<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>っちゃダメだよ。",
+        "en": "You can't go in here."
+      },
+      {
+        "jp": "図書館で話してはいけません。",
+        "cn": "不能在图书馆说话。",
+        "jpFuri": "<ruby>図書館<rp>(</rp><rt>としょかん</rt><rp>)</rp></ruby>で<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>してはいけません。",
+        "en": "Don't talk in the library."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-mo-ii",
+        "relation": "许可"
+      },
+      {
+        "id": "n5-nai-de-kudasai",
+        "relation": "请不要"
+      },
+      {
+        "id": "n4-nakereba-naranai",
+        "relation": "义务"
+      }
+    ],
+    "repeatIn": [],
+    "category": "禁止"
+  },
+  {
+    "id": "n5-te-iru",
+    "level": "N5",
+    "pattern": "〜ている",
+    "meaning": "正在〜／〜了（状态）",
+    "usage": "Vて + いる",
+    "explanation": "「〜ている」有两种主要用法：①动作正在进行（食べている→正在吃）②动作结果的状态（結婚している→结婚了/处于已婚状态）。口语中常缩略为「〜てる」。",
+    "colloquial": "「〜てる」（口语缩略，例：食べてる、見てる）",
+    "examples": [
+      {
+        "jp": "今テレビを見ています。",
+        "cn": "正在看电视。",
+        "jpFuri": "<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby>テレビを<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ています。",
+        "en": "I'm watching TV now."
+      },
+      {
+        "jp": "雨が降っています。",
+        "cn": "正在下雨。",
+        "jpFuri": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っています。",
+        "en": "It's raining."
+      },
+      {
+        "jp": "彼女は結婚しています。",
+        "cn": "她结婚了（处于已婚状态）。",
+        "jpFuri": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>しています。",
+        "en": "she is married"
+      },
+      {
+        "jp": "猫が寝ています。",
+        "cn": "猫在睡觉。",
+        "jpFuri": "<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>が<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ています。",
+        "en": "The cat is sleeping."
+      },
+      {
+        "jp": "今ご飯食べてる。",
+        "cn": "正在吃饭（てる省略）。",
+        "jpFuri": "<ruby>今<rp>(</rp><rt>こん</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby><ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べてる。",
+        "en": "I'm eating rice now."
+      },
+      {
+        "jp": "今、電話しています。",
+        "cn": "正在打电话。",
+        "jpFuri": "<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>しています。",
+        "en": "I'm on the phone right now."
+      },
+      {
+        "jp": "彼女は毎日日本語を勉強しています。",
+        "cn": "她每天在学习日语。",
+        "jpFuri": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>を<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しています。",
+        "en": "She studies Japanese every day."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-form",
+        "relation": "て形"
+      },
+      {
+        "id": "n5-te-aru",
+        "relation": "〜てある（结果状态）"
+      },
+      {
+        "id": "n5-ta-form",
+        "relation": "〜た（过去）"
+      },
+      {
+        "id": "n4-te-iku",
+        "relation": "〜ていく（方向/变化）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "动作状态"
+  },
+  {
+    "id": "n5-te-aru",
+    "level": "N5",
+    "pattern": "〜てある",
+    "meaning": "〜着（动作结果的存续）",
+    "usage": "Vて + ある",
+    "explanation": "用来人为动作结果的存续状态。与「〜ている」区别：てある强调某人有意为之的结果（门开着→有人开了），ている强调客观状态（门开着→只是描述状态）。助词常用「が」替代「を」。",
+    "colloquial": "口语中活用同上",
+    "examples": [
+      {
+        "jp": "窓が開けてあります。",
+        "cn": "窗户开着（有人打开的）。",
+        "jpFuri": "<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>が<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けてあります。",
+        "en": "The window is open."
+      },
+      {
+        "jp": "壁に絵が掛けてあります。",
+        "cn": "墙上挂着画。",
+        "jpFuri": "<ruby>壁<rp>(</rp><rt>かべ</rt><rp>)</rp></ruby>に<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>が<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けてあります。",
+        "en": "There is a picture hanging on the wall."
+      },
+      {
+        "jp": "宿題はもうしてあります。",
+        "cn": "作业已经做好了。",
+        "jpFuri": "<ruby>宿題<rp>(</rp><rt>しゅくだい</rt><rp>)</rp></ruby>はもうしてあります。",
+        "en": "I have already done my homework."
+      },
+      {
+        "jp": "テーブルに料理が並べてあります。",
+        "cn": "桌上摆好了菜。",
+        "jpFuri": "テーブルに<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>が<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>べてあります。",
+        "en": "Food is arranged on the table."
+      },
+      {
+        "jp": "窓、開けてあるよ。",
+        "cn": "窗户开着呢（准备好的）。",
+        "jpFuri": "<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>、<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けてあるよ。",
+        "en": "The window is open."
+      },
+      {
+        "jp": "壁にカレンダーが掛けてあります。",
+        "cn": "墙上挂着日历。",
+        "jpFuri": "<ruby>壁<rp>(</rp><rt>かべ</rt><rp>)</rp></ruby>にカレンダーが<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けてあります。",
+        "en": "There is a calendar hanging on the wall."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-iru",
+        "relation": "〜ている（状态）对比"
+      },
+      {
+        "id": "n5-te-oku",
+        "relation": "〜ておく（预先）"
+      },
+      {
+        "id": "n4-te-miru",
+        "relation": "〜てみる（尝试）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "动作状态"
+  },
+  {
+    "id": "n5-te-oku",
+    "level": "N5",
+    "pattern": "〜ておく",
+    "meaning": "预先〜（做好准备）",
+    "usage": "Vて + おく",
+    "explanation": "用来预先做某事，为了某个目的而提前行动。口语中常缩略为「〜とく」。也可以用来保持某种状态放任不管。",
+    "colloquial": "「〜とく」（口语缩略，例：しとく＝しておく、読んどく＝読んでおく）",
+    "examples": [
+      {
+        "jp": "明日の準備をしておきます。",
+        "cn": "提前做好明天的准备。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>の<ruby>準備<rp>(</rp><rt>じゅんび</rt><rp>)</rp></ruby>をしておきます。",
+        "en": "I'll prepare for tomorrow."
+      },
+      {
+        "jp": "窓を開けておいてください。",
+        "cn": "请把窗户开着（保持）。",
+        "jpFuri": "<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>を<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けておいてください。",
+        "en": "Please leave the window open."
+      },
+      {
+        "jp": "予約しておいたほうがいいです。",
+        "cn": "最好提前预约。",
+        "jpFuri": "<ruby>予約<rp>(</rp><rt>よやく</rt><rp>)</rp></ruby>しておいたほうがいいです。",
+        "en": "It's better to make a reservation."
+      },
+      {
+        "jp": "電気をつけっぱなしにしておいた。",
+        "cn": "让灯一直开着。",
+        "jpFuri": "<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>をつけっぱなしにしておいた。",
+        "en": "I left the light on."
+      },
+      {
+        "jp": "予約しとくね。",
+        "cn": "我先预约（とく口语）。",
+        "jpFuri": "<ruby>予約<rp>(</rp><rt>よやく</rt><rp>)</rp></ruby>しとくね。",
+        "en": "I'll make a reservation."
+      },
+      {
+        "jp": "晩ご飯を買っておきます。",
+        "cn": "先买好晚饭。",
+        "jpFuri": "<ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>っておきます。",
+        "en": "I'll buy dinner."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-aru",
+        "relation": "〜てある（结果状态）"
+      },
+      {
+        "id": "n5-te-miru",
+        "relation": "〜てみる（尝试）"
+      },
+      {
+        "id": "n5-te-shimau",
+        "relation": "〜てしまう（完了/遗憾）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "动作状态"
+  },
+  {
+    "id": "n5-te-miru",
+    "level": "N5",
+    "pattern": "〜てみる",
+    "meaning": "试着〜",
+    "usage": "Vて + みる",
+    "explanation": "用来尝试做某事，做做看。口语中常说「〜てみて」「〜てみます」。",
+    "colloquial": "「〜てみる」→「〜てみ」（年轻人口语中更短）",
+    "examples": [
+      {
+        "jp": "この料理を食べてみてください。",
+        "cn": "请尝尝这道菜。",
+        "jpFuri": "この<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べてみてください。",
+        "en": "Please try this dish."
+      },
+      {
+        "jp": "日本語で話してみます。",
+        "cn": "试试用日语说。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>で<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>してみます。",
+        "en": "I'll try speaking in Japanese."
+      },
+      {
+        "jp": "一度行ってみたいです。",
+        "cn": "想去一次看看。",
+        "jpFuri": "<ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってみたいです。",
+        "en": "I would like to go there once."
+      },
+      {
+        "jp": "このアプリを使ってみました。",
+        "cn": "试用了这个应用。",
+        "jpFuri": "このアプリを<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>ってみました。",
+        "en": "I tried using this app."
+      },
+      {
+        "jp": "これ、食べてみて！",
+        "cn": "尝尝这个！",
+        "jpFuri": "これ、<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べてみて！",
+        "en": "Try this!"
+      },
+      {
+        "jp": "このアプリを使ってみてください。",
+        "cn": "请试试用这个应用。",
+        "jpFuri": "このアプリを<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>ってみてください。",
+        "en": "Please try using this app."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-oku",
+        "relation": "〜ておく（预先）"
+      },
+      {
+        "id": "n5-te-shimau",
+        "relation": "〜てしまう（完了）"
+      },
+      {
+        "id": "n5-tai",
+        "relation": "〜たい（想做）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "尝试"
+  },
+  {
+    "id": "n5-te-shimau",
+    "level": "N5",
+    "pattern": "〜てしまう",
+    "meaning": "〜完了／不小心〜（遗憾）",
+    "usage": "Vて + しまう",
+    "explanation": "有两种含义：①动作完全结束/完成（宿題をしてしまった→作业做完了）②遗憾、后悔、不该发生却发生了（忘れてしまった→不小心忘了）。口语中缩略为「〜ちゃう／〜じゃう」。",
+    "colloquial": "「〜ちゃう／〜じゃう」（口语缩略，例：食べちゃう＝食べてしまう、死んじゃう＝死んでしまう）",
+    "examples": [
+      {
+        "jp": "宿題を全部してしまいました。",
+        "cn": "作业全做完了。",
+        "jpFuri": "<ruby>宿題<rp>(</rp><rt>しゅくだい</rt><rp>)</rp></ruby>を<ruby>全部<rp>(</rp><rt>ぜんぶ</rt><rp>)</rp></ruby>してしまいました。",
+        "en": "I have done all my homework."
+      },
+      {
+        "jp": "財布を忘れてしまいました。",
+        "cn": "不小心忘了钱包。",
+        "jpFuri": "<ruby>財布<rp>(</rp><rt>さいふ</rt><rp>)</rp></ruby>を<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れてしまいました。",
+        "en": "I forgot my wallet."
+      },
+      {
+        "jp": "ケーキを全部食べちゃった。",
+        "cn": "把蛋糕全吃掉了（遗憾）。",
+        "jpFuri": "ケーキを<ruby>全部<rp>(</rp><rt>ぜんぶ</rt><rp>)</rp></ruby><ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べちゃった。",
+        "en": "I ate all the cake."
+      },
+      {
+        "jp": "電車に乗り遅れてしまった。",
+        "cn": "没赶上电车（糟糕了）。",
+        "jpFuri": "<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>に<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>り<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れてしまった。",
+        "en": "I missed the train."
+      },
+      {
+        "jp": "やばい、忘れちゃった！",
+        "cn": "糟了，忘了！（口语缩略）",
+        "jpFuri": "やばい、<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れちゃった！",
+        "en": "Oh no, I forgot!"
+      },
+      {
+        "jp": "宿題を忘れてしまいました。",
+        "cn": "忘了做作业。",
+        "jpFuri": "<ruby>宿題<rp>(</rp><rt>しゅくだい</rt><rp>)</rp></ruby>を<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れてしまいました。",
+        "en": "I forgot my homework."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-oku",
+        "relation": "〜ておく（预先）"
+      },
+      {
+        "id": "n5-te-miru",
+        "relation": "〜てみる（尝试）"
+      },
+      {
+        "id": "n5-te-iru",
+        "relation": "〜ている（状态）"
+      },
+      {
+        "id": "n4-te-iku",
+        "relation": "〜ていく"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "动作状态"
+  },
+  {
+    "id": "n5-te-kara",
+    "level": "N5",
+    "pattern": "〜てから",
+    "meaning": "〜之后",
+    "usage": "Vて + から",
+    "explanation": "用来一个动作之后再做另一个动作，强调先后顺序。与「〜たあとで」意思相近，但「〜てから」强调两个动作紧密相连，常有「做完A紧接着B」的感觉。",
+    "colloquial": "口语中用法相同",
+    "examples": [
+      {
+        "jp": "ご飯を食べてから、散歩します。",
+        "cn": "吃完饭之后散步。",
+        "jpFuri": "ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べてから、<ruby>散歩<rp>(</rp><rt>さんぽ</rt><rp>)</rp></ruby>します。",
+        "en": "After eating, I will take a walk."
+      },
+      {
+        "jp": "仕事が終わってから、飲みに行きませんか。",
+        "cn": "下班之后去喝一杯吧？",
+        "jpFuri": "<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>が<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わってから、<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。",
+        "en": "Would you like to go out for drinks after work?"
+      },
+      {
+        "jp": "手を洗ってから食べてください。",
+        "cn": "请洗手后再吃。",
+        "jpFuri": "<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>を<ruby>洗<rp>(</rp><rt>あら</rt><rp>)</rp></ruby>ってから<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べてください。",
+        "en": "Please wash your hands before eating."
+      },
+      {
+        "jp": "日本に来てから三年になります。",
+        "cn": "来日本之后已经三年了。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>に<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>てから<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>になります。",
+        "en": "It's been three years since I came to Japan."
+      },
+      {
+        "jp": "風呂入ってから行くわ。",
+        "cn": "洗完澡去。",
+        "jpFuri": "<ruby>風呂<rp>(</rp><rt>ふろ</rt><rp>)</rp></ruby><ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ってから<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くわ。",
+        "en": "I'll go after taking a bath."
+      },
+      {
+        "jp": "仕事が終わってから、映画を見に行きます。",
+        "cn": "工作结束后去看电影。",
+        "jpFuri": "<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>が<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わってから、<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "After work, I'll go see a movie."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ta-form-ato",
+        "relation": "〜たあとで（之后）对比"
+      },
+      {
+        "id": "n5-te-form",
+        "relation": "て形"
+      },
+      {
+        "id": "n5-mae-ni",
+        "relation": "〜前に（之前）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "时间顺序"
+  },
+  {
+    "id": "n5-ta-form",
+    "level": "N5",
+    "pattern": "〜た形（简体过去）",
+    "meaning": "〜了（简体过去）",
+    "usage": "Vた",
+    "explanation": "动词的普通体过去形（た形）。变形规则与て形相同，只是把て/で换成た/だ。用于普通体会话和书面语。",
+    "colloquial": "与て形相同的变动规则",
+    "examples": [
+      {
+        "jp": "昨日映画を見た。",
+        "cn": "昨天看电影了。",
+        "jpFuri": "<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby><ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>た。",
+        "en": "I saw a movie yesterday."
+      },
+      {
+        "jp": "もう昼ご飯を食べた？",
+        "cn": "吃午饭了吗？",
+        "jpFuri": "もう<ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べた？",
+        "en": "Have you eaten lunch yet?"
+      },
+      {
+        "jp": "先週京都に行った。",
+        "cn": "上周去了京都。",
+        "jpFuri": "<ruby>先週<rp>(</rp><rt>せんしゅう</rt><rp>)</rp></ruby><ruby>京都<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。",
+        "en": "I went to Kyoto last week."
+      },
+      {
+        "jp": "あの本を読んだことがある。",
+        "cn": "读过那本书。",
+        "jpFuri": "あの<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>んだことがある。",
+        "en": "I've read that book."
+      },
+      {
+        "jp": "昨日、映画見た。",
+        "cn": "昨天看电影了（普通体）。",
+        "jpFuri": "<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>、<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby><ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>た。",
+        "en": "I saw a movie yesterday."
+      },
+      {
+        "jp": "もうご飯を食べた？",
+        "cn": "已经吃饭了吗？",
+        "jpFuri": "もうご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べた？",
+        "en": "Have you eaten yet?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-mashita",
+        "relation": "敬体过去"
+      },
+      {
+        "id": "n5-te-form",
+        "relation": "て形（变形规则相同）"
+      },
+      {
+        "id": "n5-ta-koto-ga-aru",
+        "relation": "〜たことがある（经历）"
+      },
+      {
+        "id": "n5-nai-form",
+        "relation": "〜ない形（否定）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "动词活用"
+  },
+  {
+    "id": "n5-nai-form",
+    "level": "N5",
+    "pattern": "〜ない形（简体否定）",
+    "meaning": "不〜（简体否定）",
+    "usage": "Vない",
+    "explanation": "动词的普通体否定形。一类动词（う段结尾）：う段→あ段＋ない；二类/二类：去掉る＋ない；する→しない；来る→こない。",
+    "colloquial": "「〜ない」→「〜ねぇ」（极口语，如：しねぇ＝しない）",
+    "examples": [
+      {
+        "jp": "今日は学校に行かない。",
+        "cn": "今天不去学校。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かない。",
+        "en": "I'm not going to school today."
+      },
+      {
+        "jp": "お酒を飲まない。",
+        "cn": "不喝酒。",
+        "jpFuri": "お<ruby>酒<rp>(</rp><rt>さけ</rt><rp>)</rp></ruby>を<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>まない。",
+        "en": "I don't drink alcohol."
+      },
+      {
+        "jp": "彼は来ないと思う。",
+        "cn": "我觉得他不会来。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ないと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。",
+        "en": "I don't think he will come."
+      },
+      {
+        "jp": "毎日勉強しないとだめだ。",
+        "cn": "不每天学习不行。",
+        "jpFuri": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しないとだめだ。",
+        "en": "I have to study every day."
+      },
+      {
+        "jp": "今日は行かない。",
+        "cn": "今天不去（普通体）。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かない。",
+        "en": "I'm not going today."
+      },
+      {
+        "jp": "今日は何も買わない。",
+        "cn": "今天什么都不买。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>も<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わない。",
+        "en": "I won't buy anything today."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-masen",
+        "relation": "敬体否定"
+      },
+      {
+        "id": "n5-ta-form",
+        "relation": "た形（过去）"
+      },
+      {
+        "id": "n5-nai-to-ikenai",
+        "relation": "〜ないといけない（必须）"
+      },
+      {
+        "id": "n5-nai-de-kudasai",
+        "relation": "〜ないでください"
+      }
+    ],
+    "repeatIn": [],
+    "category": "动词活用"
+  },
+  {
+    "id": "n5-tai",
+    "level": "N5",
+    "pattern": "〜たい",
+    "meaning": "想做〜",
+    "usage": "V（连用形）+ たい",
+    "explanation": "用来第一人称的愿望（想做某事）。变化方式类似い形容词：〜たい、〜たくない、〜たかった。第三人称的愿望用「〜たがる」或「〜たいと思っている」。",
+    "colloquial": "「〜てぇ」（超口语，例：行きてぇ＝行きたい）",
+    "examples": [
+      {
+        "jp": "日本に行きたいです。",
+        "cn": "想去日本。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたいです。",
+        "en": "I want to go to Japan."
+      },
+      {
+        "jp": "何を食べたいですか。",
+        "cn": "想吃什么？",
+        "jpFuri": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたいですか。",
+        "en": "What do you want to eat?"
+      },
+      {
+        "jp": "新しいスマホを買いたい。",
+        "cn": "想买新手机。",
+        "jpFuri": "<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいスマホを<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いたい。",
+        "en": "I want to buy a new smartphone."
+      },
+      {
+        "jp": "もう帰りたくない。",
+        "cn": "已经不想回去了。",
+        "jpFuri": "もう<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りたくない。",
+        "en": "I don't want to go home anymore."
+      },
+      {
+        "jp": "日本、行きてぇな〜。",
+        "cn": "好想去日本啊（超口语）。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>、<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きてぇな〜。",
+        "en": "Let's go to Japan!"
+      },
+      {
+        "jp": "来年、日本へ旅行に行きたいです。",
+        "cn": "明年想去日本旅行。",
+        "jpFuri": "<ruby>来年<rp>(</rp><rt>らいねん</rt><rp>)</rp></ruby>、<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>へ<ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたいです。",
+        "en": "I want to travel to Japan next year."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-hoshii",
+        "relation": "〜がほしい（想要某物）"
+      },
+      {
+        "id": "n5-tagaru",
+        "relation": "〜たがる（第三人称愿望）"
+      },
+      {
+        "id": "n5-masu",
+        "relation": "ます形（连用形）"
+      },
+      {
+        "id": "n5-omou",
+        "relation": "〜と思う（认为）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "愿望"
+  },
+  {
+    "id": "n5-hoshii",
+    "level": "N5",
+    "pattern": "〜がほしい",
+    "meaning": "想要〜（某物）",
+    "usage": "N が ほしい",
+    "explanation": "用来想要某物（名词），是い形容词。第三人称用「ほしがる」。注意：想要做某事用「〜たい」，想要某物用「〜がほしい」。",
+    "colloquial": "「〜ほしいんだけど」（委婉表达想要的语气）",
+    "examples": [
+      {
+        "jp": "新しいパソコンがほしいです。",
+        "cn": "想要新电脑。",
+        "jpFuri": "<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいパソコンがほしいです。",
+        "en": "I want a new computer."
+      },
+      {
+        "jp": "何が一番ほしいですか。",
+        "cn": "最想要什么？",
+        "jpFuri": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>が<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby>ほしいですか。",
+        "en": "What do you want most?"
+      },
+      {
+        "jp": "彼女は犬がほしいと言っています。",
+        "cn": "她说想要狗。",
+        "jpFuri": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>がほしいと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>っています。",
+        "en": "She wants a dog."
+      },
+      {
+        "jp": "時間がほしい。",
+        "cn": "想要时间。",
+        "jpFuri": "<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がほしい。",
+        "en": "I need time."
+      },
+      {
+        "jp": "新しいカメラほしいな。",
+        "cn": "好想要新相机啊。",
+        "jpFuri": "<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいカメラほしいな。",
+        "en": "I want a new camera."
+      },
+      {
+        "jp": "車が欲しいです。",
+        "cn": "想要车。",
+        "jpFuri": "<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>が<ruby>欲<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>しいです。",
+        "en": "I want a car."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-tai",
+        "relation": "〜たい（想做某事）"
+      },
+      {
+        "id": "n5-tagaru",
+        "relation": "〜たがる（第三人称）"
+      },
+      {
+        "id": "n4-hoshigaru",
+        "relation": "〜ほしがる（第三人称）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "愿望"
+  },
+  {
+    "id": "n5-tagaru",
+    "level": "N5",
+    "pattern": "〜たがる",
+    "meaning": "想〜（第三人称的愿望）",
+    "usage": "V（连用形）+ たがる",
+    "explanation": "用于表达第三人称的愿望，即以外部观察来描述他人「想做某事」。变化如一类动词（う段结尾）。注意：第一人称用「〜たい」即可描述自己愿望。",
+    "colloquial": "「〜たがってる」（现在进行形）",
+    "examples": [
+      {
+        "jp": "彼は日本に行きたがっています。",
+        "cn": "他好像想去日本。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたがっています。",
+        "en": "He wants to go to Japan."
+      },
+      {
+        "jp": "子供はすぐ遊びたがる。",
+        "cn": "孩子总想玩。",
+        "jpFuri": "<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>はすぐ<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>びたがる。",
+        "en": "Children want to play right away."
+      },
+      {
+        "jp": "妹は新しい服を買いたがっている。",
+        "cn": "妹妹想买新衣服。",
+        "jpFuri": "<ruby>妹<rp>(</rp><rt>いもうと</rt><rp>)</rp></ruby>は<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい<ruby>服<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いたがっている。",
+        "en": "My sister wants to buy new clothes."
+      },
+      {
+        "jp": "彼も行きたがってるよ。",
+        "cn": "他也想去呢。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>も<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたがってるよ。",
+        "en": "He wants to go too."
+      },
+      {
+        "jp": "子供がアイスクリームを食べたがっています。",
+        "cn": "小孩想吃冰淇淋。",
+        "jpFuri": "<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>がアイスクリームを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたがっています。",
+        "en": "The child wants to eat ice cream."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-tai",
+        "relation": "〜たい（第一人称）"
+      },
+      {
+        "id": "n5-hoshii",
+        "relation": "〜がほしい（想要某物）"
+      },
+      {
+        "id": "n4-hoshigaru",
+        "relation": "〜ほしがる（第三人称想要）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "愿望"
+  },
+  {
+    "id": "n5-ta-koto-ga-aru",
+    "level": "N5",
+    "pattern": "〜たことがある",
+    "meaning": "曾经〜过（经历）",
+    "usage": "Vた + ことがある",
+    "explanation": "用来曾经有过某种经历。否定形式「〜たことがない」用来没有经历过。注意：只能用于过去经历，不能用于近期刚做完的事。疑问形式「〜たことがありますか」是常用的询问经历的表达。",
+    "colloquial": "「〜たことある？」（口语省略が）",
+    "examples": [
+      {
+        "jp": "富士山に登ったことがあります。",
+        "cn": "爬过富士山。",
+        "jpFuri": "<ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>に<ruby>登<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>ったことがあります。",
+        "en": "I have climbed Mt. Fuji."
+      },
+      {
+        "jp": "日本料理を食べたことがありますか。",
+        "cn": "吃过日本料理吗？",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby><ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたことがありますか。",
+        "en": "Have you ever eaten Japanese food?"
+      },
+      {
+        "jp": "一度も外国に行ったことがありません。",
+        "cn": "一次也没有去过国外。",
+        "jpFuri": "<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>も<ruby>外国<rp>(</rp><rt>がいこく</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったことがありません。",
+        "en": "I've never been to a foreign country."
+      },
+      {
+        "jp": "この映画を見たことがある。",
+        "cn": "看过这部电影。",
+        "jpFuri": "この<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たことがある。",
+        "en": "I've seen this movie before."
+      },
+      {
+        "jp": "富士山、登ったことある？",
+        "cn": "爬过富士山吗？（口语）",
+        "jpFuri": "<ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>、<ruby>登<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>ったことある？",
+        "en": "Have you ever climbed Mt. Fuji?"
+      },
+      {
+        "jp": "すしを食べたことがありますか？",
+        "cn": "吃过寿司吗？",
+        "jpFuri": "すしを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたことがありますか？",
+        "en": "Have you ever eaten sushi?"
+      },
+      {
+        "jp": "一度も飛行機に乗ったことがありません。",
+        "cn": "一次也没坐过飞机。",
+        "jpFuri": "<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>も<ruby>飛行機<rp>(</rp><rt>ひこうき</rt><rp>)</rp></ruby>に<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>ったことがありません。",
+        "en": "I've never been on a plane."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ta-form",
+        "relation": "た形"
+      },
+      {
+        "id": "n5-koto-ga-dekiru",
+        "relation": "〜ことができる（能力）"
+      },
+      {
+        "id": "n4-ta-koto-ga-aru-n4",
+        "relation": "此语法在N4也有出现"
+      },
+      {
+        "id": "n4-koto-ga-aru",
+        "relation": "〜ことがある（有时〜）"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "经历"
+  },
+  {
+    "id": "n5-koto-ga-dekiru",
+    "level": "N5",
+    "pattern": "〜ことができる",
+    "meaning": "能够〜（能力/可能）",
+    "usage": "V（辞書形）+ ことができる",
+    "explanation": "用来有能力做某事或某种可能性。相当于动词可能形（如食べられる）的另一种表达方式。更简洁的说法是直接用动词可能形。",
+    "colloquial": "口语中常直接用可能动词（食べられる、行ける、できる）代替",
+    "examples": [
+      {
+        "jp": "日本語を話すことができます。",
+        "cn": "会说日语。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>を<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>すことができます。",
+        "en": "I can speak Japanese."
+      },
+      {
+        "jp": "ここで泳ぐことができますか。",
+        "cn": "可以在这里游泳吗？",
+        "jpFuri": "ここで<ruby>泳<rp>(</rp><rt>およ</rt><rp>)</rp></ruby>ぐことができますか。",
+        "en": "Can I swim here?"
+      },
+      {
+        "jp": "一人で行くことができます。",
+        "cn": "可以一个人去。",
+        "jpFuri": "<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>で<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くことができます。",
+        "en": "You can go alone."
+      },
+      {
+        "jp": "自転車に乗ることができます。",
+        "cn": "会骑自行车。",
+        "jpFuri": "<ruby>自転車<rp>(</rp><rt>じてんしゃ</rt><rp>)</rp></ruby>に<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>ることができます。",
+        "en": "You can ride a bicycle."
+      },
+      {
+        "jp": "日本語、話せる？",
+        "cn": "会说日语吗？（可能动词口语）",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>、<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せる？",
+        "en": "Can you speak Japanese?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-kanou-doushi",
+        "relation": "可能动词"
+      },
+      {
+        "id": "n5-ta-koto-ga-aru",
+        "relation": "〜たことがある（经历）"
+      },
+      {
+        "id": "n5-koto-ga-dekiru",
+        "relation": "〜ことができる"
+      }
+    ],
+    "repeatIn": [],
+    "category": "能力可能"
+  },
+  {
+    "id": "n5-kanou-doushi",
+    "level": "N5",
+    "pattern": "可能动词（〜られる／〜ける）",
+    "meaning": "能〜（可能形）",
+    "usage": "V（可能形）",
+    "explanation": "动词的可能形用来「能够做某事」。变形规则：一类动词（う段结尾）→え段＋る（書く→書ける、話す→話せる）；二类/二类去掉る＋られる（食べる→食べられる）；する→できる、来る→こられる。注意：一类动词（う段结尾）可能形可能被视作一段动词。",
+    "colloquial": "口语中一段动词常用「〜れる」代替「〜られる」（食べれる＝食べられる→ら抜き言葉）",
+    "examples": [
+      {
+        "jp": "日本語が話せます。",
+        "cn": "能说日语。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>が<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せます。",
+        "en": "I can speak Japanese."
+      },
+      {
+        "jp": "一人で行けます。",
+        "cn": "能一个人去。",
+        "jpFuri": "<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>で<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けます。",
+        "en": "You can go alone."
+      },
+      {
+        "jp": "ここで泳げますか。",
+        "cn": "能在这里游泳吗？",
+        "jpFuri": "ここで<ruby>泳<rp>(</rp><rt>およ</rt><rp>)</rp></ruby>げますか。",
+        "en": "Can I swim here?"
+      },
+      {
+        "jp": "この漢字が読めますか。",
+        "cn": "能读这个汉字吗？",
+        "jpFuri": "この<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>が<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>めますか。",
+        "en": "Can you read this kanji?"
+      },
+      {
+        "jp": "これ、読める？",
+        "cn": "这个能读吗？（口语可能形）",
+        "jpFuri": "これ、<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>める？",
+        "en": "Can you read this?"
+      },
+      {
+        "jp": "日本語が話せます。",
+        "cn": "会说日语。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>が<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せます。",
+        "en": "I can speak Japanese."
+      },
+      {
+        "jp": "この漢字が読めますか？",
+        "cn": "能读这个汉字吗？",
+        "jpFuri": "この<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>が<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>めますか？",
+        "en": "Can you read this kanji?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-koto-ga-dekiru",
+        "relation": "〜ことができる"
+      },
+      {
+        "id": "n5-rare-rai",
+        "relation": "ら抜き言葉（口语）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "能力可能"
+  },
+  {
+    "id": "n5-omou",
+    "level": "N5",
+    "pattern": "〜と思う",
+    "meaning": "我觉得〜／我认为〜",
+    "usage": "文（简体）＋ と思う",
+    "explanation": "表达说话人的想法、意见或判断。前面接普通体句。第一人称主语时常省略「私は」。疑问形式「〜と思いますか」用于询问对方意见。",
+    "colloquial": "「〜と思う」→「〜と思うんだけど」（委婉）→「〜かなと思う」（不太确定）",
+    "examples": [
+      {
+        "jp": "明日は晴れると思います。",
+        "cn": "我觉得明天会晴。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>晴<rp>(</rp><rt>は</rt><rp>)</rp></ruby>れると<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います。",
+        "en": "I think it will be sunny tomorrow."
+      },
+      {
+        "jp": "この本は面白いと思います。",
+        "cn": "我觉得这本书有意思。",
+        "jpFuri": "この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>は<ruby>面白<rp>(</rp><rt>おもしろ</rt><rp>)</rp></ruby>いと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います。",
+        "en": "I think this book is interesting."
+      },
+      {
+        "jp": "彼は来ないと思う。",
+        "cn": "我觉得他不会来。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ないと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。",
+        "en": "I don't think he will come."
+      },
+      {
+        "jp": "どう思いますか。",
+        "cn": "你怎么看？",
+        "jpFuri": "どう<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いますか。",
+        "en": "What do you think?"
+      },
+      {
+        "jp": "明日、雨かな〜と思う。",
+        "cn": "我觉得明天可能下雨。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>、<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>かな〜と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。",
+        "en": "I think it will rain tomorrow."
+      },
+      {
+        "jp": "彼は来ると思います。",
+        "cn": "我觉得他会来。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>ると<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います。",
+        "en": "I think he will come."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-to-iimasu",
+        "relation": "〜と言う（转述）"
+      },
+      {
+        "id": "n5-omou-n4",
+        "relation": "〜と思う（N4再次出现）"
+      },
+      {
+        "id": "n5-darou-omou",
+        "relation": "〜だろうと思う"
+      }
+    ],
+    "repeatIn": [],
+    "category": "思考意见"
+  },
+  {
+    "id": "n5-to-iimasu",
+    "level": "N5",
+    "pattern": "〜と言う",
+    "meaning": "说〜（引用内容）",
+    "usage": "文（简体）＋ と言う",
+    "explanation": "引用某人的话语或称呼。引用内容用「と」标记。直接引用时可以用「」标记引文，间接引用时用普通体句＋と。",
+    "colloquial": "口语中「〜って言う」更常见，有时缩略为「〜って」",
+    "examples": [
+      {
+        "jp": "彼は「明日行きます」と言いました。",
+        "cn": "他说「明天去」。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は「<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます」と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いました。",
+        "en": "He said, ``I'll go tomorrow.''"
+      },
+      {
+        "jp": "これは日本語で何と言いますか。",
+        "cn": "这个用日语怎么说？",
+        "jpFuri": "これは<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>で<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いますか。",
+        "en": "How do you say this in Japanese?"
+      },
+      {
+        "jp": "明日は雨だと言っていました。",
+        "cn": "他说了明天是雨天。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>だと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>っていました。",
+        "en": "He said it would rain tomorrow."
+      },
+      {
+        "jp": "彼は来ないと言った。",
+        "cn": "他说他不来。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ないと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。",
+        "en": "He said he wasn't coming."
+      },
+      {
+        "jp": "彼、来ないって言ってた。",
+        "cn": "他说他不来（口语引用）。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>、<ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ないって<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってた。",
+        "en": "He said he wasn't coming."
+      },
+      {
+        "jp": "明日は休みだと言いました。",
+        "cn": "他说了明天休息。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みだと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いました。",
+        "en": "I said I have tomorrow off."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-omou",
+        "relation": "〜と思う（认为）"
+      },
+      {
+        "id": "n5-to-wa",
+        "relation": "〜とは（定义）"
+      },
+      {
+        "id": "n4-tte",
+        "relation": "〜って（口语引用）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "引用"
+  },
+  {
+    "id": "n5-kara",
+    "level": "N5",
+    "pattern": "〜から（原因理由）",
+    "meaning": "因为〜",
+    "usage": "文（简体/敬体）+ から",
+    "explanation": "用来原因理由，主观性强。前面可以接普通体或礼貌说法。后半句可以是意志、命令、邀请等。与「ので」区别：から主观性更强，ので更客观委婉。",
+    "colloquial": "口语中「〜からね」表强调说明理由",
+    "examples": [
+      {
+        "jp": "明日テストがあるから、勉強します。",
+        "cn": "因为明天有考试，所以要学习。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>テストがあるから、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+        "en": "I have a test tomorrow, so I'll study."
+      },
+      {
+        "jp": "安いから、買いました。",
+        "cn": "因为便宜，所以买了。",
+        "jpFuri": "<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>いから、<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いました。",
+        "en": "I bought it because it was cheap."
+      },
+      {
+        "jp": "雨ですから、試合は中止です。",
+        "cn": "因为下雨，比赛取消了。",
+        "jpFuri": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>ですから、<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>は<ruby>中止<rp>(</rp><rt>ちゅうし</rt><rp>)</rp></ruby>です。",
+        "en": "It's raining, so the game is canceled."
+      },
+      {
+        "jp": "時間がないから、急ごう。",
+        "cn": "因为没时间了，赶紧吧。",
+        "jpFuri": "<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がないから、<ruby>急<rp>(</rp><rt>いそ</rt><rp>)</rp></ruby>ごう。",
+        "en": "We don't have much time, so let's hurry."
+      },
+      {
+        "jp": "安いから、買っちゃった。",
+        "cn": "因为便宜就买了（口语）。",
+        "jpFuri": "<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>いから、<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>っちゃった。",
+        "en": "I bought it because it was cheap."
+      },
+      {
+        "jp": "疲れたから、早く寝ます。",
+        "cn": "累了所以早点睡。",
+        "jpFuri": "<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れたから、<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます。",
+        "en": "I'm tired, so I'm going to bed early."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-node",
+        "relation": "〜ので（客观原因）对比"
+      },
+      {
+        "id": "n5-te-form",
+        "relation": "て形（原因）」"
+      },
+      {
+        "id": "n4-tame-ni",
+        "relation": "〜ために（目的/原因）"
+      },
+      {
+        "id": "n3-sei-de",
+        "relation": "〜せいで（负面原因）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "原因理由"
+  },
+  {
+    "id": "n5-node",
+    "level": "N5",
+    "pattern": "〜ので（原因理由）",
+    "meaning": "因为〜（客观原因）",
+    "usage": "文（简体/敬体）+ ので",
+    "explanation": "用来客观原因理由，比「から」更礼貌、委婉、客观。句尾不能接意志、命令等表达（要用から）。口语中常说「〜んで」（ので→んで）。",
+    "colloquial": "「〜んで」（口语缩略，例：雨なんで＝雨なので、来たんで＝来たので）",
+    "examples": [
+      {
+        "jp": "雨が降りましたので、試合は中止です。",
+        "cn": "因为下雨了，所以比赛取消了。",
+        "jpFuri": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りましたので、<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>は<ruby>中止<rp>(</rp><rt>ちゅうし</rt><rp>)</rp></ruby>です。",
+        "en": "It's raining, so the game has been canceled."
+      },
+      {
+        "jp": "お腹が痛いので、先に帰ります。",
+        "cn": "因为肚子疼，我先回去了。",
+        "jpFuri": "お<ruby>腹<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>が<ruby>痛<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>いので、<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>に<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ります。",
+        "en": "I have a stomach ache, so I'm going home first."
+      },
+      {
+        "jp": "安かったので買いました。",
+        "cn": "因为便宜所以买了。",
+        "jpFuri": "<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>かったので<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いました。",
+        "en": "I bought it because it was cheap."
+      },
+      {
+        "jp": "日本語がわからないので、教えてください。",
+        "cn": "因为不懂日语，请教教我。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>がわからないので、<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてください。",
+        "en": "I don't understand Japanese, so please let me know."
+      },
+      {
+        "jp": "雨なんで、やめとくわ。",
+        "cn": "因为下雨就算了（口语）。",
+        "jpFuri": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>なんで、やめとくわ。",
+        "en": "It's raining, so I'll stop."
+      },
+      {
+        "jp": "天気がいいので、散歩しましょう。",
+        "cn": "天气好，去散步吧。",
+        "jpFuri": "<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>がいいので、<ruby>散歩<rp>(</rp><rt>さんぽ</rt><rp>)</rp></ruby>しましょう。",
+        "en": "The weather is nice, so let's take a walk."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-kara",
+        "relation": "〜から（主观原因）对比"
+      },
+      {
+        "id": "n5-te-form",
+        "relation": "て形（原因）"
+      },
+      {
+        "id": "n4-tame-ni",
+        "relation": "〜ために（原因/目的）"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "原因理由"
+  },
+  {
+    "id": "n5-ga-conjunction",
+    "level": "N5",
+    "pattern": "〜が（转折/铺垫）",
+    "meaning": "但是〜／〜（铺垫）",
+    "usage": "文 + が",
+    "explanation": "「が」有两种用法：①用来转折（但是），相当于「けど」的礼貌体。②作为铺垫引入话题，不特别强调转折含义（例：すみませんが…）。口语中常用「けど」「けれども」「けれど」。",
+    "colloquial": "「〜けど」「〜けれど」（口语，更随意）",
+    "examples": [
+      {
+        "jp": "日本語は難しいですが、面白いです。",
+        "cn": "日语虽然难，但很有趣。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>は<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しいですが、<ruby>面白<rp>(</rp><rt>おもしろ</rt><rp>)</rp></ruby>いです。",
+        "en": "Japanese is difficult, but it's interesting."
+      },
+      {
+        "jp": "すみませんが、駅はどこですか。",
+        "cn": "不好意思，请问车站在哪？",
+        "jpFuri": "すみませんが、<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>はどこですか。",
+        "en": "Excuse me, but where is the station?"
+      },
+      {
+        "jp": "安いけど、美味しくない。",
+        "cn": "虽然便宜，但不好吃。",
+        "jpFuri": "<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>いけど、<ruby>美味<rp>(</rp><rt>おい</rt><rp>)</rp></ruby>しくない。",
+        "en": "It's cheap, but not delicious."
+      },
+      {
+        "jp": "行きたいけど、時間がない。",
+        "cn": "想去，但是没时间。",
+        "jpFuri": "<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたいけど、<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がない。",
+        "en": "I want to go, but I don't have time."
+      },
+      {
+        "jp": "聞きたいんだけどさ…",
+        "cn": "我想问一下哈…（口语铺垫）",
+        "jpFuri": "<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>きたいんだけどさ…",
+        "en": "I want to ask..."
+      },
+      {
+        "jp": "すみませんが、駅はどこですか？",
+        "cn": "不好意思，请问车站在哪？",
+        "jpFuri": "すみませんが、<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>はどこですか？",
+        "en": "Excuse me, but where is the station?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-kedo",
+        "relation": "〜けど（口语转折）"
+      },
+      {
+        "id": "n5-ga",
+        "relation": "〜が（主格助词）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "接续"
+  },
+  {
+    "id": "n5-kedo",
+    "level": "N5",
+    "pattern": "〜けど／けれども",
+    "meaning": "虽然〜但是〜／〜（铺垫）",
+    "usage": "文 + けど／けれども",
+    "explanation": "「けど」是「が」的口语形式，用来转折或铺垫。「けれども」更礼貌，「けど」最常用。可以用于句末用来省略（例：いいんですけど…＝虽然挺好的（但是…）用来委婉拒绝或表达遗憾）。",
+    "colloquial": "「けど」→「けどね」「けどさ」（加语气词更口语化）",
+    "examples": [
+      {
+        "jp": "明日は休みだけど、何する？",
+        "cn": "明天休息，你打算做什么？",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みだけど、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>する？",
+        "en": "Tomorrow is your day off, what will you do?"
+      },
+      {
+        "jp": "このレストランは美味しいけど、高いです。",
+        "cn": "这家餐厅好吃是好吃，但是贵。",
+        "jpFuri": "このレストランは<ruby>美味<rp>(</rp><rt>おい</rt><rp>)</rp></ruby>しいけど、<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>いです。",
+        "en": "This restaurant is delicious, but expensive."
+      },
+      {
+        "jp": "ちょっと聞きたいんですけど…",
+        "cn": "想打听一下…（铺垫）",
+        "jpFuri": "ちょっと<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>きたいんですけど…",
+        "en": "I'd like to ask you something..."
+      },
+      {
+        "jp": "行きたいんですけど、時間がなくて。",
+        "cn": "想去，但是没时间。",
+        "jpFuri": "<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたいんですけど、<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がなくて。",
+        "en": "I want to go, but I don't have time."
+      },
+      {
+        "jp": "これ、美味しいんだけどね。",
+        "cn": "这个好吃是好吃啦（转折/铺垫）。",
+        "jpFuri": "これ、<ruby>美味<rp>(</rp><rt>おい</rt><rp>)</rp></ruby>しいんだけどね。",
+        "en": "This is delicious though."
+      },
+      {
+        "jp": "安いけど、美味しいです。",
+        "cn": "虽然便宜但好吃。",
+        "jpFuri": "<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>いけど、<ruby>美味<rp>(</rp><rt>おい</rt><rp>)</rp></ruby>しいです。",
+        "en": "It's cheap, but delicious."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ga-conjunction",
+        "relation": "〜が（礼貌转折）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "接续"
+  },
+  {
+    "id": "n5-toki",
+    "level": "N5",
+    "pattern": "〜時",
+    "meaning": "〜的时候",
+    "usage": "V（辞書形/た形/ない形）+ 時／イ形 + 時／ナ形 + な時",
+    "explanation": "用来「做～的时候」、「在～的状态时」。动词接「時」时，非过去用基本形，过去用た形。定语形规则（ナ形容词+な、名词+の）。注意：基本形＋時（动作前）、た形＋時（动作后）。",
+    "colloquial": "口语中不变",
+    "examples": [
+      {
+        "jp": "日本に行く時に、お土産を買います。",
+        "cn": "去日本的时候买特产。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>に、お<ruby>土産<rp>(</rp><rt>みやげ</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>います。",
+        "en": "When I go to Japan, I buy souvenirs."
+      },
+      {
+        "jp": "子供の時、よくプールに行きました。",
+        "cn": "小时候经常去游泳池。",
+        "jpFuri": "<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、よくプールに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きました。",
+        "en": "When I was a child, I often went to the pool."
+      },
+      {
+        "jp": "暇な時、何をしますか。",
+        "cn": "有空的时候做什么？",
+        "jpFuri": "<ruby>暇<rp>(</rp><rt>ひま</rt><rp>)</rp></ruby>な<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>をしますか。",
+        "en": "What do you do in your free time?"
+      },
+      {
+        "jp": "ご飯を食べる時、「いただきます」と言います。",
+        "cn": "吃饭时说「我开动了」。",
+        "jpFuri": "ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、「いただきます」と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>います。",
+        "en": "When we eat rice, we say \"itadakimasu\"."
+      },
+      {
+        "jp": "子供の時、よくここで遊んだな。",
+        "cn": "小时候经常在这里玩。",
+        "jpFuri": "<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>の<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、よくここで<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>んだな。",
+        "en": "I used to play here a lot when I was a kid."
+      },
+      {
+        "jp": "駅に着いたとき、電話してください。",
+        "cn": "到车站的时候请打电话。",
+        "jpFuri": "<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>に<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>いたとき、<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>してください。",
+        "en": "Please call me when you arrive at the station."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-mae-ni",
+        "relation": "〜前に（之前）"
+      },
+      {
+        "id": "n5-ta-form-ato",
+        "relation": "〜たあとで（之后）"
+      },
+      {
+        "id": "n5-te-kara",
+        "relation": "〜てから（之后）"
+      },
+      {
+        "id": "n4-toki-n4",
+        "relation": "〜時（N4再次出现）"
+      },
+      {
+        "id": "n3-sai",
+        "relation": "〜際（正式「時」）"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "时间"
+  },
+  {
+    "id": "n5-mae-ni",
+    "level": "N5",
+    "pattern": "〜前に",
+    "meaning": "在〜之前",
+    "usage": "V（辞書形）+ 前に／N + の前に",
+    "explanation": "用来在某个动作或事件发生之前做某事。动词必须用基本形（非过去形），即使用于过去句也不变。名词接「の前に」。",
+    "colloquial": "口语中不变",
+    "examples": [
+      {
+        "jp": "ご飯を食べる前に、手を洗います。",
+        "cn": "吃饭前洗手。",
+        "jpFuri": "ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に、<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>を<ruby>洗<rp>(</rp><rt>あら</rt><rp>)</rp></ruby>います。",
+        "en": "Wash your hands before eating."
+      },
+      {
+        "jp": "寝る前に、歯を磨きます。",
+        "cn": "睡觉前刷牙。",
+        "jpFuri": "<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>る<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に、<ruby>歯<rp>(</rp><rt>は</rt><rp>)</rp></ruby>を<ruby>磨<rp>(</rp><rt>みが</rt><rp>)</rp></ruby>きます。",
+        "en": "Brush your teeth before going to bed."
+      },
+      {
+        "jp": "出かける前に、天気をチェックしてください。",
+        "cn": "出门前请查看天气。",
+        "jpFuri": "<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かける<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に、<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>をチェックしてください。",
+        "en": "Check the weather before heading out."
+      },
+      {
+        "jp": "授業の前に、予習します。",
+        "cn": "课前预习。",
+        "jpFuri": "<ruby>授業<rp>(</rp><rt>じゅぎょう</rt><rp>)</rp></ruby>の<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に、<ruby>予習<rp>(</rp><rt>よしゅう</rt><rp>)</rp></ruby>します。",
+        "en": "Prepare before class."
+      },
+      {
+        "jp": "寝る前に、歯磨かないと。",
+        "cn": "睡觉前得刷牙。",
+        "jpFuri": "<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>る<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に、<ruby>歯磨<rp>(</rp><rt>はみがき</rt><rp>)</rp></ruby>かないと。",
+        "en": "I have to brush my teeth before going to bed."
+      },
+      {
+        "jp": "出かける前に、鍵を確認します。",
+        "cn": "出门前确认钥匙。",
+        "jpFuri": "<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かける<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に、<ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>を<ruby>確認<rp>(</rp><rt>かくにん</rt><rp>)</rp></ruby>します。",
+        "en": "Check your keys before you leave."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-kara",
+        "relation": "〜てから（之后）"
+      },
+      {
+        "id": "n5-ta-form-ato",
+        "relation": "〜たあとで（之后）对比"
+      },
+      {
+        "id": "n5-toki",
+        "relation": "〜時"
+      }
+    ],
+    "repeatIn": [],
+    "category": "时间"
+  },
+  {
+    "id": "n5-ta-form-ato",
+    "level": "N5",
+    "pattern": "〜たあとで",
+    "meaning": "〜之后",
+    "usage": "Vた + あとで",
+    "explanation": "用来一个动作完成之后再做另一个动作。与「〜てから」的区别：あとで强调做完A之后再自由地做B，A和B之间可能有时间间隔；てから强调A→B紧密衔接。",
+    "colloquial": "口语中「〜たあと」也常用（省略で）",
+    "examples": [
+      {
+        "jp": "仕事が終わったあとで、飲みに行きます。",
+        "cn": "工作结束后去喝酒。",
+        "jpFuri": "<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>が<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わったあとで、<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "I'll go out for drinks after work."
+      },
+      {
+        "jp": "映画を見たあとで、感想を話しました。",
+        "cn": "看完电影后谈了感想。",
+        "jpFuri": "<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たあとで、<ruby>感想<rp>(</rp><rt>かんそう</rt><rp>)</rp></ruby>を<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>しました。",
+        "en": "After watching the movie, I talked about my thoughts."
+      },
+      {
+        "jp": "病院に行ったあとで、買い物をします。",
+        "cn": "去医院之后去购物。",
+        "jpFuri": "<ruby>病院<rp>(</rp><rt>びょういん</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったあとで、<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>い<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をします。",
+        "en": "After going to the hospital, I will go shopping."
+      },
+      {
+        "jp": "仕事終わったあと、飲みに行こう！",
+        "cn": "工作结束后去喝酒吧！",
+        "jpFuri": "<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby><ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わったあと、<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>こう！",
+        "en": "Let's go for a drink after work!"
+      },
+      {
+        "jp": "映画を見たあとで、ご飯を食べました。",
+        "cn": "看完电影后吃了饭。",
+        "jpFuri": "<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たあとで、ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べました。",
+        "en": "After watching a movie, we ate dinner."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-kara",
+        "relation": "〜てから（之后）对比"
+      },
+      {
+        "id": "n5-mae-ni",
+        "relation": "〜前に（之前）"
+      },
+      {
+        "id": "n5-toki",
+        "relation": "〜時"
+      }
+    ],
+    "repeatIn": [],
+    "category": "时间"
+  },
+  {
+    "id": "n5-juuryoku",
+    "level": "N5",
+    "pattern": "数量词＋で",
+    "meaning": "用/以〜（总计）",
+    "usage": "数量词 + で",
+    "explanation": "数量词后面加「で」用来总计金额、时间长度、数量范围等。「で」用来以某种总量为单位。",
+    "colloquial": "口语中用法相同",
+    "examples": [
+      {
+        "jp": "このりんごは三つで百円です。",
+        "cn": "这个苹果3个100日元。",
+        "jpFuri": "このりんごは<ruby>三<rp>(</rp><rt>みっ</rt><rp>)</rp></ruby>つで<ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。",
+        "en": "These three apples cost 100 yen."
+      },
+      {
+        "jp": "全部で五百円です。",
+        "cn": "总共500日元。",
+        "jpFuri": "<ruby>全部<rp>(</rp><rt>ぜんぶ</rt><rp>)</rp></ruby>で<ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。",
+        "en": "The total cost is 500 yen."
+      },
+      {
+        "jp": "後五分で出発します。",
+        "cn": "5分钟后出发。",
+        "jpFuri": "<ruby>後<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ふん</rt><rp>)</rp></ruby>で<ruby>出発<rp>(</rp><rt>しゅっぱつ</rt><rp>)</rp></ruby>します。",
+        "en": "I'll be leaving in five minutes."
+      },
+      {
+        "jp": "これ、全部でいくら？",
+        "cn": "这些总共多少钱？",
+        "jpFuri": "これ、<ruby>全部<rp>(</rp><rt>ぜんぶ</rt><rp>)</rp></ruby>でいくら？",
+        "en": "How much is this in total?"
+      },
+      {
+        "jp": "りんごは三個で三百円です。",
+        "cn": "苹果三个三百日元。",
+        "jpFuri": "りんごは<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>個<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>で<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。",
+        "en": "Three apples cost 300 yen."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-de",
+        "relation": "で（手段/场所）"
+      },
+      {
+        "id": "n5-ni",
+        "relation": "に（时间点）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "数量"
+  },
+  {
+    "id": "n5-wa-mo",
+    "level": "N5",
+    "pattern": "〜も",
+    "meaning": "也／都",
+    "usage": "N + も",
+    "explanation": "「も」用来「也」「都」的意思。替代「は」「が」「を」助词。与其他助词连用时（に、で、へ、から等），这些助词保留在后面加も（に→にも、で→でも）。",
+    "colloquial": "口语中不变",
+    "examples": [
+      {
+        "jp": "私も学生です。",
+        "cn": "我也是学生。",
+        "jpFuri": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>も<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>です。",
+        "en": "I'm also a student."
+      },
+      {
+        "jp": "猫も犬も好きです。",
+        "cn": "猫和狗都喜欢。",
+        "jpFuri": "<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>も<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>も<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+        "en": "I also like cats and dogs."
+      },
+      {
+        "jp": "日本にも行ったことがあります。",
+        "cn": "也去过日本。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>にも<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>ったことがあります。",
+        "en": "I have also been to Japan."
+      },
+      {
+        "jp": "これもください。",
+        "cn": "这个也请给我。",
+        "jpFuri": "これもください。",
+        "en": "Please give me this too."
+      },
+      {
+        "jp": "俺も行く！",
+        "cn": "我也去！",
+        "jpFuri": "<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>も<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く！",
+        "en": "I’m going too!"
+      },
+      {
+        "jp": "私もコーヒーが好きです。",
+        "cn": "我也喜欢咖啡。",
+        "jpFuri": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>もコーヒーが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+        "en": "I also like coffee."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-shikanai",
+        "relation": "〜しかない（只有）对比"
+      },
+      {
+        "id": "n5-dake",
+        "relation": "〜だけ（只有）对比"
+      },
+      {
+        "id": "n5-mo-n4",
+        "relation": "〜も（更高级用法）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "助词"
+  },
+  {
+    "id": "n5-dake",
+    "level": "N5",
+    "pattern": "〜だけ",
+    "meaning": "只有〜",
+    "usage": "N + だけ",
+    "explanation": "用来限定，「只有」「仅仅」。与「しか〜ない」意思相同但语法不同：だけ用于肯定句限制范围，しか〜ない用于否定句用来数量少。",
+    "colloquial": "口语中「だけ」→「だけさ」「だけどね」等添加语气",
+    "examples": [
+      {
+        "jp": "これだけください。",
+        "cn": "只要这些。",
+        "jpFuri": "これだけください。",
+        "en": "Please just give me this."
+      },
+      {
+        "jp": "日本語は少しだけ話せます。",
+        "cn": "日语只会说一点点。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>は<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しだけ<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せます。",
+        "en": "I can speak a little Japanese."
+      },
+      {
+        "jp": "一人だけで来てください。",
+        "cn": "请一个人来。",
+        "jpFuri": "<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>だけで<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>てください。",
+        "en": "Please come alone."
+      },
+      {
+        "jp": "今日だけ休みます。",
+        "cn": "只有今天休息。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>だけ<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みます。",
+        "en": "I'll take a day off just for today."
+      },
+      {
+        "jp": "これだけ？もっとないの？",
+        "cn": "只有这些？没多的了吗？",
+        "jpFuri": "これだけ？もっとないの？",
+        "en": "Is this all? Isn't there more?"
+      },
+      {
+        "jp": "一人だけ来ませんでした。",
+        "cn": "只有一个人没来。",
+        "jpFuri": "<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>だけ<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ませんでした。",
+        "en": "Only one person didn't come."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-shikanai",
+        "relation": "〜しかない（只有、否定限定）对比"
+      },
+      {
+        "id": "n5-wa-mo",
+        "relation": "〜も（也）对比"
+      }
+    ],
+    "repeatIn": [],
+    "category": "限定"
+  },
+  {
+    "id": "n5-shikanai",
+    "level": "N5",
+    "pattern": "〜しか〜ない",
+    "meaning": "只有〜（否定限定）",
+    "usage": "N + しか + V（否定形）",
+    "explanation": "用来「除了～之外没有」「只有～」。虽然用否定形，但表达肯定的含义（数量少、不足）。与「だけ」的感觉区别：しか〜ない含有「不够」「遗憾」的语气，だけ是客观陈述。",
+    "colloquial": "口语中「しかない」→「しかねぇ」",
+    "examples": [
+      {
+        "jp": "お金が百円しかありません。",
+        "cn": "只有100日元（不够）。",
+        "jpFuri": "お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>が<ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>しかありません。",
+        "en": "I only have 100 yen."
+      },
+      {
+        "jp": "日本語が少ししか話せません。",
+        "cn": "只会说一点点日语。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>が<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>ししか<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せません。",
+        "en": "I can only speak a little Japanese."
+      },
+      {
+        "jp": "一人しか来ませんでした。",
+        "cn": "只来了一个人。",
+        "jpFuri": "<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>しか<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ませんでした。",
+        "en": "Only one person came."
+      },
+      {
+        "jp": "今日しか時間がない。",
+        "cn": "只有今天有时间。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>しか<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がない。",
+        "en": "I only have time today."
+      },
+      {
+        "jp": "百円しかない…やばい。",
+        "cn": "只有100日元…糟了。",
+        "jpFuri": "<ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>しかない…やばい。",
+        "en": "I only have 100 yen...that's terrible."
+      },
+      {
+        "jp": "財布に千円しかありません。",
+        "cn": "钱包里只有一千日元。",
+        "jpFuri": "<ruby>財布<rp>(</rp><rt>さいふ</rt><rp>)</rp></ruby>に<ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>しかありません。",
+        "en": "I only have 1,000 yen in my wallet."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-dake",
+        "relation": "〜だけ（肯定限定）对比"
+      },
+      {
+        "id": "n4-shika-n4",
+        "relation": "〜しか（N4再次出现）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "限定"
+  },
+  {
+    "id": "n5-kurai",
+    "level": "N5",
+    "pattern": "〜くらい／ぐらい",
+    "meaning": "大约〜／〜左右",
+    "usage": "数量詞 + くらい／ぐらい",
+    "explanation": "用来大概的数量或程度。「くらい」「ぐらい」意思相同，ぐらい更口语化。可以接在数量词、指示词等后面。也可以用来「像…那样的」（例えの用法）。",
+    "colloquial": "「ぐらい」更口语化",
+    "examples": [
+      {
+        "jp": "十分くらいかかります。",
+        "cn": "需要大约十分钟。",
+        "jpFuri": "<ruby>十分<rp>(</rp><rt>じゅうぶん</rt><rp>)</rp></ruby>くらいかかります。",
+        "en": "It will take about ten minutes."
+      },
+      {
+        "jp": "これくらいの大きさです。",
+        "cn": "大约这么大。",
+        "jpFuri": "これくらいの<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きさです。",
+        "en": "This is how big it is."
+      },
+      {
+        "jp": "千円ぐらいです。",
+        "cn": "大约一千日元。",
+        "jpFuri": "<ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>ぐらいです。",
+        "en": "It's about 1,000 yen."
+      },
+      {
+        "jp": "三人くらい来ました。",
+        "cn": "来了大约三个人。",
+        "jpFuri": "<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>くらい<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ました。",
+        "en": "About three people came."
+      },
+      {
+        "jp": "十分ぐらいで着くよ。",
+        "cn": "大约十分钟到。",
+        "jpFuri": "<ruby>十分<rp>(</rp><rt>じゅうぶん</rt><rp>)</rp></ruby>ぐらいで<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>くよ。",
+        "en": "I'll be there in about ten minutes."
+      },
+      {
+        "jp": "毎日一時間くらい勉強します。",
+        "cn": "每天学习一小时左右。",
+        "jpFuri": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>くらい<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+        "en": "I study for about an hour every day."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-hodo",
+        "relation": "〜ほど（程度/大约）对比"
+      },
+      {
+        "id": "n5-yori",
+        "relation": "〜より（比较）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "程度数量"
+  },
+  {
+    "id": "n5-hodo",
+    "level": "N5",
+    "pattern": "〜ほど",
+    "meaning": "〜左右／〜的程度",
+    "usage": "数量词/名词 + ほど",
+    "explanation": "用来大约的程度或数量。与「くらい」的区别：ほど常用于正式场合，含有「程度」的感觉。在比较句中「〜ほど…ない」用来「不如～」。",
+    "colloquial": "口语中常用「くらい」替代",
+    "examples": [
+      {
+        "jp": "十分ほどかかります。",
+        "cn": "需要十分钟左右。",
+        "jpFuri": "<ruby>十分<rp>(</rp><rt>じゅうぶん</rt><rp>)</rp></ruby>ほどかかります。",
+        "en": "It will take about ten minutes."
+      },
+      {
+        "jp": "これほど難しいと思わなかった。",
+        "cn": "没想到这么难。",
+        "jpFuri": "これほど<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しいと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>わなかった。",
+        "en": "I didn't think it would be this difficult."
+      },
+      {
+        "jp": "彼ほど日本語が上手じゃありません。",
+        "cn": "日语不如他好。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>ほど<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>が<ruby>上手<rp>(</rp><rt>じょうず</rt><rp>)</rp></ruby>じゃありません。",
+        "en": "I'm not as good at Japanese as him."
+      },
+      {
+        "jp": "今日は昨日ほど寒くないね。",
+        "cn": "今天没有昨天冷呢。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>ほど<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>くないね。",
+        "en": "It's not as cold today as yesterday."
+      },
+      {
+        "jp": "今年は去年ほど雪が降りません。",
+        "cn": "今年不像去年那样下雪。",
+        "jpFuri": "<ruby>今年<rp>(</rp><rt>ことし</rt><rp>)</rp></ruby>は<ruby>去年<rp>(</rp><rt>きょねん</rt><rp>)</rp></ruby>ほど<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>りません。",
+        "en": "It doesn't snow as much this year as last year."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-kurai",
+        "relation": "〜くらい（程度）对比"
+      },
+      {
+        "id": "n5-yori",
+        "relation": "〜より（比较）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "程度数量"
+  },
+  {
+    "id": "n5-yori",
+    "level": "N5",
+    "pattern": "〜より（比较）",
+    "meaning": "比〜",
+    "usage": "N1 + より + N2 + のほうが + 形容词",
+    "explanation": "用来比较。「AよりBのほうが〜」＝「B比A更～」。也可以简单说「AよりBが〜」。疑问形式「AとBとどちらが〜ですか」用于询问选择。",
+    "colloquial": "口语中「より」有时省略为「よか」",
+    "examples": [
+      {
+        "jp": "日本語より英語のほうが簡単です。",
+        "cn": "英语比日语简单。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>より<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>のほうが<ruby>簡単<rp>(</rp><rt>かんたん</rt><rp>)</rp></ruby>です。",
+        "en": "English is easier than Japanese."
+      },
+      {
+        "jp": "猫より犬のほうが好きです。",
+        "cn": "比起猫更喜欢狗。",
+        "jpFuri": "<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>より<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>のほうが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+        "en": "I like dogs more than cats."
+      },
+      {
+        "jp": "夏より冬が好きです。",
+        "cn": "比起夏天更喜欢冬天。",
+        "jpFuri": "<ruby>夏<rp>(</rp><rt>なつ</rt><rp>)</rp></ruby>より<ruby>冬<rp>(</rp><rt>ふゆ</rt><rp>)</rp></ruby>が<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+        "en": "I like winter more than summer."
+      },
+      {
+        "jp": "電車よりバスのほうが速いです。",
+        "cn": "公交车比电车快。",
+        "jpFuri": "<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>よりバスのほうが<ruby>速<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>いです。",
+        "en": "Buses are faster than trains."
+      },
+      {
+        "jp": "犬より猫のほうが好き。",
+        "cn": "比起狗更喜欢猫。",
+        "jpFuri": "<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>より<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>のほうが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>き。",
+        "en": "I like cats more than dogs."
+      },
+      {
+        "jp": "電車よりバスのほうが安いです。",
+        "cn": "公交比电车便宜。",
+        "jpFuri": "<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>よりバスのほうが<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>いです。",
+        "en": "Buses are cheaper than trains."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-hodo",
+        "relation": "〜ほど（程度/比较）"
+      },
+      {
+        "id": "n5-ichiban",
+        "relation": "〜で一番（最高级）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "比较"
+  },
+  {
+    "id": "n5-ichiban",
+    "level": "N5",
+    "pattern": "〜で一番（最高级）",
+    "meaning": "在〜中最〜",
+    "usage": "N（范围）+ で + 一番 + 形容词",
+    "explanation": "用来在某个范围内最…。範囲用「〜で」用来。「一番」也可以单独使用（一番好き＝最喜欢）。注意：最高级不用于明确只有两项的比较（两项用「どちら」）。",
+    "colloquial": "口语中用法相同",
+    "examples": [
+      {
+        "jp": "日本で一番高い山は富士山です。",
+        "cn": "日本最高的山是富士山。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>で<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>い<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>は<ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>です。",
+        "en": "The highest mountain in Japan is Mt. Fuji."
+      },
+      {
+        "jp": "果物の中で何が一番好きですか。",
+        "cn": "水果里你最喜欢什么？",
+        "jpFuri": "<ruby>果物<rp>(</rp><rt>くだもの</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>で<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>が<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きですか。",
+        "en": "Which fruit do you like the most?"
+      },
+      {
+        "jp": "世界で一番大きい国はどこですか。",
+        "cn": "世界上最大的国家是哪里？",
+        "jpFuri": "<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>で<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きい<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>はどこですか。",
+        "en": "Which country is the largest in the world?"
+      },
+      {
+        "jp": "クラスで一番背が高いです。",
+        "cn": "班级里最高。",
+        "jpFuri": "クラスで<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>背<rp>(</rp><rt>せ</rt><rp>)</rp></ruby>が<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>いです。",
+        "en": "I'm the tallest in the class."
+      },
+      {
+        "jp": "日本でどこが一番好き？",
+        "cn": "在日本你最喜欢哪里？",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>でどこが<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>き？",
+        "en": "What do you like most about Japan?"
+      },
+      {
+        "jp": "この店のラーメンが一番美味しいです。",
+        "cn": "这家店的拉面最好吃。",
+        "jpFuri": "この<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>のラーメンが<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>美味<rp>(</rp><rt>おい</rt><rp>)</rp></ruby>しいです。",
+        "en": "The ramen at this restaurant is the most delicious."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-yori",
+        "relation": "〜より（比较）"
+      },
+      {
+        "id": "n5-ichiban-n4",
+        "relation": "此语法在N4再次出现"
+      }
+    ],
+    "repeatIn": [],
+    "category": "比较"
+  },
+  {
+    "id": "n5-sou-desu-hearsay",
+    "level": "N5",
+    "pattern": "〜そうです（传闻）",
+    "meaning": "听说〜／据说〜",
+    "usage": "文（简体）+ そうです",
+    "explanation": "用来传闻，即从他人那里听说的信息。前面接普通体句。「そうだ」本身没有时态变化（不说そうでした）。注意：与样态「〜そうだ（看起来像…）」是不同的语法！区分：接续不同，传闻接普通体句末，样态接动词ます形/形容词词干。",
+    "colloquial": "口语常说「〜んだって」「〜って」「〜そうだよ」",
+    "examples": [
+      {
+        "jp": "明日は雨が降るそうです。",
+        "cn": "听说明天下雨。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>るそうです。",
+        "en": "It looks like it's going to rain tomorrow."
+      },
+      {
+        "jp": "あのレストランは美味しいそうです。",
+        "cn": "听说那家餐厅很好吃。",
+        "jpFuri": "あのレストランは<ruby>美味<rp>(</rp><rt>おい</rt><rp>)</rp></ruby>しいそうです。",
+        "en": "That restaurant looks delicious."
+      },
+      {
+        "jp": "彼は結婚したそうです。",
+        "cn": "听说他结婚了。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>したそうです。",
+        "en": "Apparently he got married."
+      },
+      {
+        "jp": "日本語の試験は難しいそうです。",
+        "cn": "听说日语考试很难。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>の<ruby>試験<rp>(</rp><rt>しけん</rt><rp>)</rp></ruby>は<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しいそうです。",
+        "en": "It seems that the Japanese language test is difficult."
+      },
+      {
+        "jp": "ねえ聞いて、あの二人、結婚したんだって！",
+        "cn": "哎你听说了吗，那两个人结婚了！（口语传闻）",
+        "jpFuri": "ねえ<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いて、あの<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>、<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>したんだって！",
+        "en": "Hey, listen, those two got married!"
+      },
+      {
+        "jp": "天気予報によると、明日は雨だそうです。",
+        "cn": "据天气预报说明天会下雨。",
+        "jpFuri": "<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby><ruby>予報<rp>(</rp><rt>よほう</rt><rp>)</rp></ruby>によると、<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>だそうです。",
+        "en": "According to the weather forecast, it will rain tomorrow."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-sou-youtai",
+        "relation": "〜そうだ（样态）— 易混淆语法！"
+      },
+      {
+        "id": "n5-to-iimasu",
+        "relation": "〜と言う（引用）"
+      },
+      {
+        "id": "n4-rasii",
+        "relation": "〜らしい（传闻/推测）"
+      },
+      {
+        "id": "n4-tte",
+        "relation": "〜って（口语传闻）"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "传闻"
+  },
+  {
+    "id": "n5-yasui-nikui",
+    "level": "N5",
+    "pattern": "〜やすい／〜にくい",
+    "meaning": "容易〜／难〜",
+    "usage": "V（ます形去掉ます）+ やすい / にくい",
+    "explanation": "用来动作的难易程度，变化如い形容词。「やすい」容易做，「にくい」难做。口语中「にくい」有时说成「づらい」（例：読みづらい＝読みにくい）。",
+    "colloquial": "「〜づらい」（更口语化，与にくい同义）、「〜がたい」（书面语，可能性低）",
+    "examples": [
+      {
+        "jp": "このペンは書きやすいです。",
+        "cn": "这支笔好写。",
+        "jpFuri": "このペンは<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>きやすいです。",
+        "en": "This pen is easy to write with."
+      },
+      {
+        "jp": "この漢字は覚えにくいです。",
+        "cn": "这个汉字难记。",
+        "jpFuri": "この<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>は<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えにくいです。",
+        "en": "This kanji is difficult to remember."
+      },
+      {
+        "jp": "この町は住みやすいです。",
+        "cn": "这个城市好住。",
+        "jpFuri": "この<ruby>町<rp>(</rp><rt>まち</rt><rp>)</rp></ruby>は<ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>みやすいです。",
+        "en": "This town is easy to live in."
+      },
+      {
+        "jp": "この説明はわかりにくい。",
+        "cn": "这个说明难懂。",
+        "jpFuri": "この<ruby>説明<rp>(</rp><rt>せつめい</rt><rp>)</rp></ruby>はわかりにくい。",
+        "en": "This explanation is difficult to understand."
+      },
+      {
+        "jp": "このペン、書きやすいよ。",
+        "cn": "这支笔很好写。",
+        "jpFuri": "このペン、<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>きやすいよ。",
+        "en": "This pen is easy to write with."
+      },
+      {
+        "jp": "このスマホは操作しやすいです。",
+        "cn": "这个智能手机容易操作。",
+        "jpFuri": "このスマホは<ruby>操作<rp>(</rp><rt>そうさ</rt><rp>)</rp></ruby>しやすいです。",
+        "en": "This smartphone is easy to operate."
+      },
+      {
+        "jp": "この本の字は小さくて読みにくいです。",
+        "cn": "这本书的字太小了很难读。",
+        "jpFuri": "この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>の<ruby>字<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>は<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さくて<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>みにくいです。",
+        "en": "The font in this book is small and difficult to read."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-sugiru",
+        "relation": "〜すぎる（过度）"
+      },
+      {
+        "id": "n5-masu",
+        "relation": "ます形"
+      },
+      {
+        "id": "n4-gatai",
+        "relation": "〜がたい（难以〜，书面语）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "难易"
+  },
+  {
+    "id": "n5-sugiru",
+    "level": "N5",
+    "pattern": "〜すぎる",
+    "meaning": "太〜／过度〜",
+    "usage": "V（ます形去掉ます）+ すぎる／イ形（〜い去掉）+ すぎる／ナ形（〜）+ すぎる",
+    "explanation": "用来程度过度，含有「太过了」的感觉。动词接ます形词干，形容词接词干。变化如一段动词。",
+    "colloquial": "口语中「〜すぎる」→「〜すぎ」作为名词短语单独使用（例：それはちょっとやりすぎ＝那有点太过分了）",
+    "examples": [
+      {
+        "jp": "食べすぎました。",
+        "cn": "吃太多了。",
+        "jpFuri": "<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べすぎました。",
+        "en": "I ate too much."
+      },
+      {
+        "jp": "この問題は難しすぎます。",
+        "cn": "这个问题太难了。",
+        "jpFuri": "この<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>は<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しすぎます。",
+        "en": "This problem is too difficult."
+      },
+      {
+        "jp": "値段が高すぎる。",
+        "cn": "价格太贵了。",
+        "jpFuri": "<ruby>値段<rp>(</rp><rt>ねだん</rt><rp>)</rp></ruby>が<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>すぎる。",
+        "en": "The price is too high."
+      },
+      {
+        "jp": "飲みすぎないでください。",
+        "cn": "请不要喝太多。",
+        "jpFuri": "<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みすぎないでください。",
+        "en": "Don't drink too much."
+      },
+      {
+        "jp": "食べすぎて、お腹が苦しい…",
+        "cn": "吃太多了肚子好撑…",
+        "jpFuri": "<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べすぎて、お<ruby>腹<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>が<ruby>苦<rp>(</rp><rt>くる</rt><rp>)</rp></ruby>しい…",
+        "en": "I ate too much and my stomach hurts..."
+      },
+      {
+        "jp": "このスープは熱すぎます。",
+        "cn": "这个汤太烫了。",
+        "jpFuri": "このスープは<ruby>熱<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>すぎます。",
+        "en": "This soup is too hot."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-yasui-nikui",
+        "relation": "〜やすい／〜にくい"
+      },
+      {
+        "id": "n5-masu",
+        "relation": "ます形"
+      }
+    ],
+    "repeatIn": [],
+    "category": "程度"
+  },
+  {
+    "id": "n5-nagara",
+    "level": "N5",
+    "pattern": "〜ながら",
+    "meaning": "一边〜一边〜",
+    "usage": "V（ます形去掉ます）+ ながら",
+    "explanation": "用来同一主体同时进行两个动作，主要动作在后句。注意：两个动作必须是同一主语。不能用于短时间动作或自然现象。",
+    "colloquial": "口语中用法相同",
+    "examples": [
+      {
+        "jp": "音楽を聞きながら勉強します。",
+        "cn": "一边听音乐一边学习。",
+        "jpFuri": "<ruby>音楽<rp>(</rp><rt>おんがく</rt><rp>)</rp></ruby>を<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>きながら<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+        "en": "I study while listening to music."
+      },
+      {
+        "jp": "テレビを見ながらご飯を食べます。",
+        "cn": "一边看电视一边吃饭。",
+        "jpFuri": "テレビを<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ながらご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べます。",
+        "en": "I eat while watching TV."
+      },
+      {
+        "jp": "歩きながら話しましょう。",
+        "cn": "一边走一边说吧。",
+        "jpFuri": "<ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>きながら<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>しましょう。",
+        "en": "Let's talk while walking."
+      },
+      {
+        "jp": "コーヒーを飲みながら本を読むのが好きです。",
+        "cn": "喜欢一边喝咖啡一边读书。",
+        "jpFuri": "コーヒーを<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みながら<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>むのが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+        "en": "I like reading books while drinking coffee."
+      },
+      {
+        "jp": "ご飯食べながら、テレビ見ちゃう。",
+        "cn": "总是一边吃饭一边看电视。",
+        "jpFuri": "ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby><ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べながら、テレビ<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ちゃう。",
+        "en": "I watch TV while eating."
+      },
+      {
+        "jp": "音楽を聴きながら勉強します。",
+        "cn": "一边听音乐一边学习。",
+        "jpFuri": "<ruby>音楽<rp>(</rp><rt>おんがく</rt><rp>)</rp></ruby>を<ruby>聴<rp>(</rp><rt>き</rt><rp>)</rp></ruby>きながら<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+        "en": "I study while listening to music."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-tsutsu",
+        "relation": "〜つつ（书面语「ながら」）"
+      },
+      {
+        "id": "n5-te-iru",
+        "relation": "〜ている"
+      }
+    ],
+    "repeatIn": [],
+    "category": "同时动作"
+  },
+  {
+    "id": "n5-mashou",
+    "level": "N5",
+    "pattern": "〜ましょう",
+    "meaning": "〜吧（劝诱/邀约）",
+    "usage": "V（ます形去掉ます）+ ましょう",
+    "explanation": "用来提议、劝诱或邀请对方一起做某事。普通体是「〜よう」。疑问形式「〜ましょうか」更柔和，用来提出帮助或邀请。",
+    "colloquial": "「〜よう」（简体）、「〜ましょ」（女性口语）",
+    "examples": [
+      {
+        "jp": "一緒にご飯を食べましょう。",
+        "cn": "一起吃饭吧。",
+        "jpFuri": "<ruby>一緒<rp>(</rp><rt>いっしょ</rt><rp>)</rp></ruby>にご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べましょう。",
+        "en": "Let's eat together."
+      },
+      {
+        "jp": "ちょっと休みましょう。",
+        "cn": "休息一下吧。",
+        "jpFuri": "ちょっと<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みましょう。",
+        "en": "Let's take a break."
+      },
+      {
+        "jp": "私が持ちましょうか。",
+        "cn": "我来拿吧（提出帮助）。",
+        "jpFuri": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>が<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ちましょうか。",
+        "en": "Shall I have it?"
+      },
+      {
+        "jp": "明日また会いましょう。",
+        "cn": "明天再见面吧。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>また<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いましょう。",
+        "en": "See you tomorrow."
+      },
+      {
+        "jp": "そろそろ行こうか！",
+        "cn": "差不多该走了吧！",
+        "jpFuri": "そろそろ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>こうか！",
+        "en": "Let's go now!"
+      },
+      {
+        "jp": "一緒に写真を撮りましょう。",
+        "cn": "一起拍照吧。",
+        "jpFuri": "<ruby>一緒<rp>(</rp><rt>いっしょ</rt><rp>)</rp></ruby>に<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りましょう。",
+        "en": "Let's take a photo together."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-masenka",
+        "relation": "〜ませんか（邀约疑问）对比"
+      },
+      {
+        "id": "n5-mashouka",
+        "relation": "〜ましょうか（提议帮助）"
+      },
+      {
+        "id": "n5-masu",
+        "relation": "ます形"
+      }
+    ],
+    "repeatIn": [],
+    "category": "劝诱邀请"
+  },
+  {
+    "id": "n5-masenka",
+    "level": "N5",
+    "pattern": "〜ませんか",
+    "meaning": "要不要〜？（邀约）",
+    "usage": "V（ます形去掉ます）+ ませんか",
+    "explanation": "邀请对方做某事，比「ましょう」更礼貌地询问对方的意愿。普通体用「〜ない？」。",
+    "colloquial": "「〜ない？」（简体，例：行かない？＝要不要去？）",
+    "examples": [
+      {
+        "jp": "一緒に映画を見ませんか。",
+        "cn": "要不要一起看电影？",
+        "jpFuri": "<ruby>一緒<rp>(</rp><rt>いっしょ</rt><rp>)</rp></ruby>に<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ませんか。",
+        "en": "Would you like to watch a movie together?"
+      },
+      {
+        "jp": "コーヒーを飲みませんか。",
+        "cn": "要不要喝杯咖啡？",
+        "jpFuri": "コーヒーを<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みませんか。",
+        "en": "Would you like to have some coffee?"
+      },
+      {
+        "jp": "今週末、遊びに行かない？",
+        "cn": "这周末要不要去玩？",
+        "jpFuri": "<ruby>今週<rp>(</rp><rt>こんしゅう</rt><rp>)</rp></ruby><ruby>末<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>、<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>びに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かない？",
+        "en": "Would you like to go out this weekend?"
+      },
+      {
+        "jp": "一緒に映画を見ませんか？",
+        "cn": "要不要一起看电影？",
+        "jpFuri": "<ruby>一緒<rp>(</rp><rt>いっしょ</rt><rp>)</rp></ruby>に<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ませんか？",
+        "en": "Would you like to watch a movie together?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-mashou",
+        "relation": "〜ましょう（邀请）对比"
+      },
+      {
+        "id": "n5-mashouka",
+        "relation": "〜ましょうか（提议）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "劝诱邀请"
+  },
+  {
+    "id": "n5-mashouka",
+    "level": "N5",
+    "pattern": "〜ましょうか",
+    "meaning": "我来〜吧？（提议帮助）",
+    "usage": "V（ます形去掉ます）+ ましょうか",
+    "explanation": "用来主动提出为对方做某事（提议帮助），或向对方确认是否要一起做某事。比「〜ましょう」更柔和。",
+    "colloquial": "「〜しょうか」简体",
+    "examples": [
+      {
+        "jp": "荷物を持ちましょうか。",
+        "cn": "我来帮你拿行李吧？",
+        "jpFuri": "<ruby>荷物<rp>(</rp><rt>にもつ</rt><rp>)</rp></ruby>を<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ちましょうか。",
+        "en": "Shall I carry my luggage?"
+      },
+      {
+        "jp": "窓を開けましょうか。",
+        "cn": "我来开窗吧？",
+        "jpFuri": "<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>を<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けましょうか。",
+        "en": "Shall we open the window?"
+      },
+      {
+        "jp": "何かお手伝いしましょうか。",
+        "cn": "需要帮忙吗？",
+        "jpFuri": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>かお<ruby>手伝<rp>(</rp><rt>てつだ</rt><rp>)</rp></ruby>いしましょうか。",
+        "en": "May I help you with something?"
+      },
+      {
+        "jp": "手伝おうか？",
+        "cn": "要我帮忙吗？",
+        "jpFuri": "<ruby>手伝<rp>(</rp><rt>てつだ</rt><rp>)</rp></ruby>おうか？",
+        "en": "Shall I help you?"
+      },
+      {
+        "jp": "窓を開けましょうか？",
+        "cn": "要开窗吗？",
+        "jpFuri": "<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>を<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けましょうか？",
+        "en": "Shall I open the window?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-mashou",
+        "relation": "〜ましょう（一起做）"
+      },
+      {
+        "id": "n5-masenka",
+        "relation": "〜ませんか（邀约）"
+      },
+      {
+        "id": "n4-te-agemashouka",
+        "relation": "〜てあげましょうか（更礼貌的帮助提议）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "劝诱邀请"
+  },
+  {
+    "id": "n5-ikkei",
+    "level": "N5",
+    "pattern": "い形容词活用（〜い→くて／かった）",
+    "meaning": "い形容词的て形和た形",
+    "usage": "い形容詞（〜い）→ 〜くて（て形）/ 〜かった（た形）",
+    "explanation": "い形容词的变化：①否定：〜くない ②过去：〜かった ③て形：〜くて ④副词化：〜く。这些都是N5必须掌握的基础变化。",
+    "colloquial": "口语中有时省略「い」，如「早い→早！」（男性口语感叹）",
+    "examples": [
+      {
+        "jp": "この本は安くて面白いです。",
+        "cn": "这本书又便宜又有趣。",
+        "jpFuri": "この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>は<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>くて<ruby>面白<rp>(</rp><rt>おもしろ</rt><rp>)</rp></ruby>いです。",
+        "en": "This book is cheap and interesting."
+      },
+      {
+        "jp": "昨日はとても寒かった。",
+        "cn": "昨天很冷。",
+        "jpFuri": "<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>はとても<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>かった。",
+        "en": "It was very cold yesterday."
+      },
+      {
+        "jp": "美味しくないです。",
+        "cn": "不好吃。",
+        "jpFuri": "<ruby>美味<rp>(</rp><rt>おい</rt><rp>)</rp></ruby>しくないです。",
+        "en": "It's not delicious."
+      },
+      {
+        "jp": "早く来てください。",
+        "cn": "请快点来。",
+        "jpFuri": "<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>てください。",
+        "en": "Please come quickly."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-form",
+        "relation": "て形规则"
+      },
+      {
+        "id": "n5-na-adjective",
+        "relation": "ナ形容词活用对比"
+      }
+    ],
+    "repeatIn": [],
+    "category": "形容词活用"
+  },
+  {
+    "id": "n5-na-adjective",
+    "level": "N5",
+    "pattern": "ナ形容词活用",
+    "meaning": "ナ形容词的用法",
+    "usage": "ナ形容词 + な（修饰名词）/ に（副词）/ だ（简体断定）",
+    "explanation": "ナ形容词（形容动词）的变化规则：①修饰名词加「な」（静かな部屋）②副词化加「に」（静かにする）③普通体结尾用「だ」（静かだ）。否定用「ではない／じゃない」，过去用「だった」。",
+    "colloquial": "口语中「静かだ」→「静かだよ」「静かじゃん」（〜じゃん是年轻人常用）",
+    "examples": [
+      {
+        "jp": "静かな部屋が好きです。",
+        "cn": "喜欢安静的房间。",
+        "jpFuri": "<ruby>静<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かな<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>が<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+        "en": "I like a quiet room."
+      },
+      {
+        "jp": "部屋をきれいにしてください。",
+        "cn": "请把房间弄干净。",
+        "jpFuri": "<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>をきれいにしてください。",
+        "en": "Please clean your room."
+      },
+      {
+        "jp": "ここはとても有名です。",
+        "cn": "这里非常有名。",
+        "jpFuri": "ここはとても<ruby>有名<rp>(</rp><rt>ゆうめい</rt><rp>)</rp></ruby>です。",
+        "en": "This place is very famous."
+      },
+      {
+        "jp": "元気だった？",
+        "cn": "还好吗？（过去）",
+        "jpFuri": "<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>だった？",
+        "en": "How have you been?"
+      },
+      {
+        "jp": "静かじゃなくて、うるさいよ。",
+        "cn": "不是安静，是吵。",
+        "jpFuri": "<ruby>静<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かじゃなくて、うるさいよ。",
+        "en": "It's not quiet, it's noisy."
+      },
+      {
+        "jp": "この町は静かです。",
+        "cn": "这个城市很安静。",
+        "jpFuri": "この<ruby>町<rp>(</rp><rt>まち</rt><rp>)</rp></ruby>は<ruby>静<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かです。",
+        "en": "This town is quiet."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ikkei",
+        "relation": "い形容词活用对比"
+      }
+    ],
+    "repeatIn": [],
+    "category": "形容词活用"
+  },
+  {
+    "id": "n5-darou",
+    "level": "N5",
+    "pattern": "〜だろう／でしょう",
+    "meaning": "〜吧（推测）",
+    "usage": "文（简体）+ だろう（简体）/ でしょう（敬体）",
+    "explanation": "用来推测或确认。「でしょう」是礼貌说法，「だろう」是简体。句尾读升调为疑问（〜でしょうか？）。女性口语中常用「でしょ」作为确认。",
+    "colloquial": "「〜でしょ」「〜だろう」→「〜だろ」「〜でしょ？」（确认）",
+    "examples": [
+      {
+        "jp": "明日は晴れるでしょう。",
+        "cn": "明天会晴吧。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>晴<rp>(</rp><rt>は</rt><rp>)</rp></ruby>れるでしょう。",
+        "en": "It will be sunny tomorrow."
+      },
+      {
+        "jp": "彼はもう来ないだろう。",
+        "cn": "他应该不会来了吧。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はもう<ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ないだろう。",
+        "en": "He won't come again."
+      },
+      {
+        "jp": "これで大丈夫でしょうか。",
+        "cn": "这样没问题吧？",
+        "jpFuri": "これで<ruby>大丈夫<rp>(</rp><rt>だいじょうぶ</rt><rp>)</rp></ruby>でしょうか。",
+        "en": "Is this okay?"
+      },
+      {
+        "jp": "そうでしょう？",
+        "cn": "是吧？（寻求认同）",
+        "jpFuri": "そうでしょう？",
+        "en": "Right?"
+      },
+      {
+        "jp": "明日は晴れるだろうね。",
+        "cn": "明天会是晴天吧。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>晴<rp>(</rp><rt>は</rt><rp>)</rp></ruby>れるだろうね。",
+        "en": "It's going to be sunny tomorrow."
+      },
+      {
+        "jp": "彼も来るだろう。",
+        "cn": "他也会来吧。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>も<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>るだろう。",
+        "en": "He will come too."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-kamoshirenai",
+        "relation": "〜かもしれない（也许）"
+      },
+      {
+        "id": "n4-darou-n4",
+        "relation": "〜だろう（推测/N4再次出现）"
+      },
+      {
+        "id": "n4-rasii",
+        "relation": "〜らしい（好像）"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "推测"
+  },
+  {
+    "id": "n5-kamoshirenai",
+    "level": "N5",
+    "pattern": "〜かもしれない",
+    "meaning": "也许〜／可能〜",
+    "usage": "文（简体）+ かもしれない",
+    "explanation": "用来可能性较低、不确定的推测。「也许」「说不定」。礼貌说法为「かもしれません」。比「だろう」的可能性更低。口语中常说「〜かも」。",
+    "colloquial": "「〜かも」（年轻人口语中省略，例：そうかも＝也许是吧）、「〜かもしんない」（更随意）",
+    "examples": [
+      {
+        "jp": "明日は雨が降るかもしれません。",
+        "cn": "明天可能会下雨。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>るかもしれません。",
+        "en": "It may rain tomorrow."
+      },
+      {
+        "jp": "彼は来ないかもしれない。",
+        "cn": "他可能不来。",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ないかもしれない。",
+        "en": "He might not come."
+      },
+      {
+        "jp": "これでいいかもしれません。",
+        "cn": "这样也许可以。",
+        "jpFuri": "これでいいかもしれません。",
+        "en": "This might be fine."
+      },
+      {
+        "jp": "時間が足りないかも。",
+        "cn": "时间可能不够。",
+        "jpFuri": "<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>が<ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>りないかも。",
+        "en": "Maybe I don't have enough time."
+      },
+      {
+        "jp": "明日、雨かもしれないな。",
+        "cn": "明天可能会下雨。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>、<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>かもしれないな。",
+        "en": "It might rain tomorrow."
+      },
+      {
+        "jp": "電車が遅れるかもしれません。",
+        "cn": "电车可能会晚点。",
+        "jpFuri": "<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>が<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れるかもしれません。",
+        "en": "The train may be delayed."
+      },
+      {
+        "jp": "今日は雨が降るかもしれません。",
+        "cn": "今天可能会下雨。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>るかもしれません。",
+        "en": "It might rain today."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-darou",
+        "relation": "〜だろう（推测）对比"
+      },
+      {
+        "id": "n4-rasii",
+        "relation": "〜らしい（好像）"
+      },
+      {
+        "id": "n3-kamo-shire-nai-n3",
+        "relation": "此语法在N3再次出现"
+      }
+    ],
+    "repeatIn": [
+      "N3"
+    ],
+    "category": "推测"
+  },
+  {
+    "id": "n5-deshou-ne-yo",
+    "level": "N5",
+    "pattern": "〜ね／〜よ（终助词）",
+    "meaning": "〜吧（确认）/ 〜哦（告知）",
+    "usage": "文 + ね / よ",
+    "explanation": "终助词「ね」用来确认、征求同意、感叹。终助词「よ」用来告知新信息、提醒、强调主张。二者也可组合为「よね」（既确认又告知）。",
+    "colloquial": "「〜ね」→「〜ねー」（延长表感叹）、「〜よ」→「〜よー」",
+    "examples": [
+      {
+        "jp": "今日は暑いですね。",
+        "cn": "今天好热啊。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby>暑<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>いですね。",
+        "en": "It's hot today, isn't it?"
+      },
+      {
+        "jp": "それはいい本だよ。",
+        "cn": "那是本好书哦。",
+        "jpFuri": "それはいい<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>だよ。",
+        "en": "That's a good book."
+      },
+      {
+        "jp": "あの人は先生ですよね？",
+        "cn": "那个人是老师对吧？",
+        "jpFuri": "あの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>ですよね？",
+        "en": "That person is a teacher, right?"
+      },
+      {
+        "jp": "これ、美味しいね！",
+        "cn": "这个好吃诶！",
+        "jpFuri": "これ、<ruby>美味<rp>(</rp><rt>おい</rt><rp>)</rp></ruby>しいね！",
+        "en": "This is delicious!"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-darou",
+        "relation": "〜でしょう（确认）"
+      },
+      {
+        "id": "n5-ga-conjunction",
+        "relation": "〜が（铺垫）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "终助词"
+  },
+  {
+    "id": "n5-ka-ya-to",
+    "level": "N5",
+    "pattern": "〜か／〜や／〜と（并列列举）",
+    "meaning": "〜和〜（并列）",
+    "usage": "N1 + や + N2（例示列举）/ N1 + と + N2（全部列举）/ N1 + か + N2（选择）",
+    "explanation": "并列助词的区别：と（全部列举，A和B全部）、や（例示列举，A啊B等）、か（或，A或B的选择）。",
+    "colloquial": "口语中常用「とか」替代「や」（例：本とかペンとか）",
+    "examples": [
+      {
+        "jp": "本とペンを買いました。",
+        "cn": "买了书和笔（就这两样）。",
+        "jpFuri": "<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>とペンを<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いました。",
+        "en": "I bought a book and a pen."
+      },
+      {
+        "jp": "本やペンなどを買いました。",
+        "cn": "买了书、笔等（举例）。",
+        "jpFuri": "<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>やペンなどを<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いました。",
+        "en": "I bought books, pens, etc."
+      },
+      {
+        "jp": "今日か明日に来てください。",
+        "cn": "请在今天或明天来。",
+        "jpFuri": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>か<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>に<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>てください。",
+        "en": "Please come today or tomorrow."
+      },
+      {
+        "jp": "コーヒーとか紅茶とかが好きです。",
+        "cn": "喜欢咖啡和红茶之类的。",
+        "jpFuri": "コーヒーとか<ruby>紅茶<rp>(</rp><rt>こうちゃ</rt><rp>)</rp></ruby>とかが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+        "en": "I like coffee and tea."
+      }
+    ],
+    "related": [
+      {
+        "id": "n4-toka",
+        "relation": "〜とか（口语列举）"
+      },
+      {
+        "id": "n5-wa-mo",
+        "relation": "〜も（也/都）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "助词"
+  },
+  {
+    "id": "n5-te-iku-iku",
+    "level": "N5",
+    "pattern": "〜ていく／〜てくる（方向性）",
+    "meaning": "〜去／〜来（方向助动词）",
+    "usage": "Vて + いく / くる",
+    "explanation": "「〜ていく」用来远离说话者方向的动作（～去），「〜てくる」用来靠近说话者方向的动作（～来）。比喻用法：いく用来从现在到未来变化（～下去），くる用来从过去到现在变化（～过来了）。",
+    "colloquial": "「〜てくる」→「〜てく」（口语）、「〜ていく」→「〜てく」（同音简化不常见）",
+    "examples": [
+      {
+        "jp": "子供が走っていきました。",
+        "cn": "孩子跑过去了。",
+        "jpFuri": "<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>が<ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>っていきました。",
+        "en": "The child ran away."
+      },
+      {
+        "jp": "ちょっと待ってきてください。",
+        "cn": "请等一下马上来。",
+        "jpFuri": "ちょっと<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ってきてください。",
+        "en": "Please wait a moment."
+      },
+      {
+        "jp": "日本語をこれからも勉強していきます。",
+        "cn": "今后也继续学日语下去。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>をこれからも<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>していきます。",
+        "en": "I will continue to study Japanese."
+      },
+      {
+        "jp": "日本に留学してきました。",
+        "cn": "去日本留学回来了。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>に<ruby>留学<rp>(</rp><rt>りゅうがく</rt><rp>)</rp></ruby>してきました。",
+        "en": "I studied abroad in Japan."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-iru",
+        "relation": "〜ている"
+      },
+      {
+        "id": "n4-te-iku-n4",
+        "relation": "〜ていく（N4进一步用法）"
+      },
+      {
+        "id": "n4-te-kuru-n4",
+        "relation": "〜てくる（N4进一步用法）"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "方向"
+  },
+  {
+    "id": "n5-koto-ga-suki",
+    "level": "N5",
+    "pattern": "〜のが好き／嫌い",
+    "meaning": "喜欢/讨厌做〜",
+    "usage": "V（辞書形）+ のが好き/嫌い",
+    "explanation": "将动词名词化后加「が」用来好恶。「の」将动词短语转变为名词短语。类似表达还有「〜のが上手/下手」（擅长/不擅长）。",
+    "colloquial": "口语中常用「〜んが」代替「〜のが」",
+    "examples": [
+      {
+        "jp": "映画を見るのが好きです。",
+        "cn": "喜欢看电影。",
+        "jpFuri": "<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>るのが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+        "en": "I like watching movies."
+      },
+      {
+        "jp": "料理をするのが嫌いです。",
+        "cn": "讨厌做饭。",
+        "jpFuri": "<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>をするのが<ruby>嫌<rp>(</rp><rt>きら</rt><rp>)</rp></ruby>いです。",
+        "en": "I hate cooking."
+      },
+      {
+        "jp": "泳ぐのが上手です。",
+        "cn": "擅长游泳。",
+        "jpFuri": "<ruby>泳<rp>(</rp><rt>およ</rt><rp>)</rp></ruby>ぐのが<ruby>上手<rp>(</rp><rt>じょうず</rt><rp>)</rp></ruby>です。",
+        "en": "I'm good at swimming."
+      },
+      {
+        "jp": "早起きするのが苦手です。",
+        "cn": "不擅长早起。",
+        "jpFuri": "<ruby>早起<rp>(</rp><rt>はやお</rt><rp>)</rp></ruby>きするのが<ruby>苦手<rp>(</rp><rt>にがて</rt><rp>)</rp></ruby>です。",
+        "en": "I don't like getting up early."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-koto",
+        "relation": "〜こと（形式体言）"
+      },
+      {
+        "id": "n5-no-koto",
+        "relation": "〜の（名词化）"
+      },
+      {
+        "id": "n4-koto-ga-dekiru",
+        "relation": "〜ことができる"
+      }
+    ],
+    "repeatIn": [],
+    "category": "好恶"
+  },
+  {
+    "id": "n5-koto",
+    "level": "N5",
+    "pattern": "〜こと（形式体言）",
+    "meaning": "〜事／〜（名词化）",
+    "usage": "V（辞書形）+ こと",
+    "explanation": "「こと」将动词短语名词化。与「の」的区别：こと用来抽象的概念、事项，の更具体。有些表达只能用こと（〜ことがある、〜ことにする），有些只能用の（〜のが見える）。",
+    "colloquial": "口语中「こと」常被「の」替代",
+    "examples": [
+      {
+        "jp": "趣味は本を読むことです。",
+        "cn": "兴趣是读书。",
+        "jpFuri": "<ruby>趣味<rp>(</rp><rt>しゅみ</rt><rp>)</rp></ruby>は<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>むことです。",
+        "en": "My hobby is reading books."
+      },
+      {
+        "jp": "日本語を勉強することが大事です。",
+        "cn": "学习日语很重要。",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>を<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>することが<ruby>大事<rp>(</rp><rt>だいじ</rt><rp>)</rp></ruby>です。",
+        "en": "It is important to study Japanese."
+      },
+      {
+        "jp": "明日までに提出すること。",
+        "cn": "请在明天之前提交（书面命令）。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>までに<ruby>提出<rp>(</rp><rt>ていしゅつ</rt><rp>)</rp></ruby>すること。",
+        "en": "Please submit by tomorrow."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-koto-ga-suki",
+        "relation": "〜のが好き"
+      },
+      {
+        "id": "n5-ta-koto-ga-aru",
+        "relation": "〜たことがある"
+      },
+      {
+        "id": "n4-koto-ni-suru",
+        "relation": "〜ことにする（决定）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "名词化"
+  },
+  {
+    "id": "n5-nai-to-ikenai",
+    "level": "N5",
+    "pattern": "〜ないといけない",
+    "meaning": "必须〜（不做不行）",
+    "usage": "Vない + といけない／なければならない",
+    "explanation": "用来义务，即「不～不行」。口语中常说「〜ないと」省略后半部分。更正式的说法是「〜なければならない」。普通体「〜なければならない」也可以用「〜なきゃならない」。",
+    "colloquial": "「〜ないと」（省略后半）、「〜なきゃ」（さらに短縮）、「〜なくちゃ」",
+    "examples": [
+      {
+        "jp": "宿題をしないといけません。",
+        "cn": "必须做作业。",
+        "jpFuri": "<ruby>宿題<rp>(</rp><rt>しゅくだい</rt><rp>)</rp></ruby>をしないといけません。",
+        "en": "I have to do my homework."
+      },
+      {
+        "jp": "明日早起きしないと。",
+        "cn": "明天必须早起。",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby><ruby>早起<rp>(</rp><rt>はやお</rt><rp>)</rp></ruby>きしないと。",
+        "en": "I have to get up early tomorrow."
+      },
+      {
+        "jp": "薬を飲まなければなりません。",
+        "cn": "必须吃药。",
+        "jpFuri": "<ruby>薬<rp>(</rp><rt>くすり</rt><rp>)</rp></ruby>を<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>まなければなりません。",
+        "en": "I have to take medicine."
+      },
+      {
+        "jp": "学校に行かなきゃ。",
+        "cn": "必须去学校。",
+        "jpFuri": "<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かなきゃ。",
+        "en": "I have to go to school."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-wa-ikenai",
+        "relation": "〜てはいけない（禁止）"
+      },
+      {
+        "id": "n5-te-mo-ii",
+        "relation": "〜てもいい（允许）"
+      },
+      {
+        "id": "n4-nakereba-naranai",
+        "relation": "〜なければならない（正式义务）"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "义务"
+  },
+  {
+    "id": "n5-tari-tari",
+    "level": "N5",
+    "pattern": "〜たり〜たりする",
+    "meaning": "又〜又〜／做〜之类的事",
+    "usage": "Vた + り、Vた + りする",
+    "explanation": "列举代表性动作，暗示还有其他的。也可以只用一组「〜たりする」用来「做…之类的事」。形容词也可以用（い形→〜かったり、ナ形→〜だったり）。",
+    "colloquial": "口语中用法相同",
+    "examples": [
+      {
+        "jp": "日曜日は本を読んだり、散歩したりします。",
+        "cn": "周日看看书、散散步之类的。",
+        "jpFuri": "<ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>は<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>んだり、<ruby>散歩<rp>(</rp><rt>さんぽ</rt><rp>)</rp></ruby>したりします。",
+        "en": "On Sundays, I read books and take walks."
+      },
+      {
+        "jp": "値段が高かったり安かったりです。",
+        "cn": "价格有贵有便宜。",
+        "jpFuri": "<ruby>値段<rp>(</rp><rt>ねだん</rt><rp>)</rp></ruby>が<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>かったり<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>かったりです。",
+        "en": "The price may be high or low."
+      },
+      {
+        "jp": "夏は暑かったり寒かったりで変な天気だ。",
+        "cn": "夏天又热又冷的奇怪天气。",
+        "jpFuri": "<ruby>夏<rp>(</rp><rt>なつ</rt><rp>)</rp></ruby>は<ruby>暑<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>かったり<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>かったりで<ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>な<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>だ。",
+        "en": "The weather in summer is strange, sometimes hot and sometimes cold."
+      },
+      {
+        "jp": "週末は友達と遊んだりします。",
+        "cn": "周末和朋友出去玩之类的。",
+        "jpFuri": "<ruby>週末<rp>(</rp><rt>しゅうまつ</rt><rp>)</rp></ruby>は<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>と<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>んだりします。",
+        "en": "On the weekends, I hang out with friends."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-ta-form",
+        "relation": "た形"
+      },
+      {
+        "id": "n5-ka-ya-to",
+        "relation": "〜や（并列）"
+      },
+      {
+        "id": "n4-tari-tari-n4",
+        "relation": "此语法在N4再次出现"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "并列列举"
+  },
+  {
+    "id": "n5-jouken-ba",
+    "level": "N5",
+    "pattern": "〜ば（假定条件）",
+    "meaning": "如果〜的话",
+    "usage": "V（ば形）／イ形（〜ければ）／ナ形（〜なら（ば））",
+    "explanation": "用来假定条件「如果～的话」。ば形变化：一类动词（う段结尾）→え段＋ば（書けば）；一段动词→去掉る＋れば（食べれば）；する→すれば、来る→くれば。い形容词→〜ければ（安ければ）。",
+    "colloquial": "口语中「〜ば」→「〜りゃ」的缩略（例：すりゃ＝すれば、来りゃ＝来れば）",
+    "examples": [
+      {
+        "jp": "安ければ買います。",
+        "cn": "便宜的话就买。",
+        "jpFuri": "<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>ければ<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>います。",
+        "en": "I'll buy it if it's cheap."
+      },
+      {
+        "jp": "勉強すれば合格します。",
+        "cn": "如果学习的话就能合格。",
+        "jpFuri": "<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>すれば<ruby>合格<rp>(</rp><rt>ごうかく</rt><rp>)</rp></ruby>します。",
+        "en": "If you study, you will pass."
+      },
+      {
+        "jp": "雨ならば行きません。",
+        "cn": "下雨的话就不去。",
+        "jpFuri": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>ならば<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きません。",
+        "en": "I won't go if it rains."
+      },
+      {
+        "jp": "早く来ればよかった。",
+        "cn": "早点来就好了。",
+        "jpFuri": "<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>ればよかった。",
+        "en": "I should have come sooner."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-tara",
+        "relation": "〜たら（条件）"
+      },
+      {
+        "id": "n5-nara",
+        "relation": "〜なら（条件）"
+      },
+      {
+        "id": "n5-to-jouken",
+        "relation": "〜と（恒常条件）"
+      },
+      {
+        "id": "n4-ba-n4",
+        "relation": "〜ば（N4再次出现）"
+      },
+      {
+        "id": "n4-ba-yokatta",
+        "relation": "〜ばよかった（后悔）"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "条件"
+  },
+  {
+    "id": "n5-tara",
+    "level": "N5",
+    "pattern": "〜たら",
+    "meaning": "如果/〜了的话",
+    "usage": "Vた + ら／イ形（〜かったら）／ナ形（〜だったら）",
+    "explanation": "用来条件，是日语中最通用的条件形式。可以用来假定条件、既定条件（发现）、反复条件等。变形简单：た形的た→たら。与「ば」区别：たら范围更广，可以接意志/命令句尾；ば前句和后句不能都是意志表现。",
+    "colloquial": "口语中用法相同",
+    "examples": [
+      {
+        "jp": "安かったら買います。",
+        "cn": "便宜的话就买。",
+        "jpFuri": "<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>かったら<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>います。",
+        "en": "I'll buy it if it's cheap."
+      },
+      {
+        "jp": "日本に行ったら、富士山を見たいです。",
+        "cn": "如果去日本，想看富士山。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったら、<ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たいです。",
+        "en": "When I go to Japan, I want to see Mt. Fuji."
+      },
+      {
+        "jp": "窓を開けたら、雪が降っていた。",
+        "cn": "打开窗户，发现下雪了（发现）。",
+        "jpFuri": "<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>を<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けたら、<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っていた。",
+        "en": "When I opened the window, it was snowing."
+      },
+      {
+        "jp": "先生だったら教えてください。",
+        "cn": "如果是老师，请教教我。",
+        "jpFuri": "<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>だったら<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてください。",
+        "en": "Please let me know if you are a teacher."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-jouken-ba",
+        "relation": "〜ば（假定条件）对比"
+      },
+      {
+        "id": "n5-nara",
+        "relation": "〜なら（条件）"
+      },
+      {
+        "id": "n5-to-jouken",
+        "relation": "〜と（恒常条件）"
+      },
+      {
+        "id": "n4-tara-n4",
+        "relation": "此语法在N4再次出现"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "条件"
+  },
+  {
+    "id": "n5-nara",
+    "level": "N5",
+    "pattern": "〜なら",
+    "meaning": "如果〜（的话）",
+    "usage": "V（辞書形）+ なら／N + なら",
+    "explanation": "用来假定条件，主要用于：①承接对方的话题（A：行くつもりだ／B：行くなら…）②在假设前提下提出建议。与ば/たら的区别：なら前面接续更广，有话题承接的感觉。",
+    "colloquial": "口语中用法相同",
+    "examples": [
+      {
+        "jp": "行くなら、私も行きます。",
+        "cn": "如果你要去，我也去。",
+        "jpFuri": "<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くなら、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>も<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+        "en": "If you want to go, I'll go too."
+      },
+      {
+        "jp": "買うなら、これがいいよ。",
+        "cn": "如果要买的话，这个好哦。",
+        "jpFuri": "<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>うなら、これがいいよ。",
+        "en": "If you're going to buy one, this is the one."
+      },
+      {
+        "jp": "大学なら東京大学が一番有名です。",
+        "cn": "说到大学的话，东京大学最出名。",
+        "jpFuri": "<ruby>大学<rp>(</rp><rt>だいがく</rt><rp>)</rp></ruby>なら<ruby>東京大学<rp>(</rp><rt>とうきょうだいがく</rt><rp>)</rp></ruby>が<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>有名<rp>(</rp><rt>ゆうめい</rt><rp>)</rp></ruby>です。",
+        "en": "The University of Tokyo is the most famous university."
+      },
+      {
+        "jp": "行くなら、私も行きたい！",
+        "cn": "要去的话，我也想去！",
+        "jpFuri": "<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くなら、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>も<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたい！",
+        "en": "If you want to go, I want to go too!"
+      },
+      {
+        "jp": "駅に行くなら、この道が近いです。",
+        "cn": "去车站的话这条路近。",
+        "jpFuri": "<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くなら、この<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>が<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>いです。",
+        "en": "If you want to go to the station, this road is the closest."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-jouken-ba",
+        "relation": "〜ば（假定）"
+      },
+      {
+        "id": "n5-tara",
+        "relation": "〜たら（条件）"
+      },
+      {
+        "id": "n5-to-jouken",
+        "relation": "〜と（条件）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "条件"
+  },
+  {
+    "id": "n5-to-jouken",
+    "level": "N5",
+    "pattern": "〜と（恒常/假定条件）",
+    "meaning": "一〜就〜／如果〜",
+    "usage": "V（辞書形/ない形）+ と",
+    "explanation": "「と」的三种用法：①恒常条件（一…就…：春になると暖かくなる）②发现（…たら…た：見ると、知らない人がいた）③假定条件（如果…的话：勉強しないと落ちる）。句尾不能接意志/命令/依赖表达。",
+    "colloquial": "口语中用法相同",
+    "examples": [
+      {
+        "jp": "春になると、花が咲きます。",
+        "cn": "一到春天花就开。",
+        "jpFuri": "<ruby>春<rp>(</rp><rt>はる</rt><rp>)</rp></ruby>になると、<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>きます。",
+        "en": "In spring, flowers bloom."
+      },
+      {
+        "jp": "窓を開けると、海が見えます。",
+        "cn": "一打开窗户就能看到海。",
+        "jpFuri": "<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>を<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けると、<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>が<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えます。",
+        "en": "When you open the window, you can see the sea."
+      },
+      {
+        "jp": "左に曲がると、駅があります。",
+        "cn": "一左转就是车站。",
+        "jpFuri": "<ruby>左<rp>(</rp><rt>ひだり</rt><rp>)</rp></ruby>に<ruby>曲<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>がると、<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>があります。",
+        "en": "Turn left and you will see the station."
+      },
+      {
+        "jp": "これを読むと、わかります。",
+        "cn": "一读这个就明白了。",
+        "jpFuri": "これを<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>むと、わかります。",
+        "en": "If you read this, you'll understand."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-tara",
+        "relation": "〜たら（发现用法类似）"
+      },
+      {
+        "id": "n5-jouken-ba",
+        "relation": "〜ば（假定）"
+      },
+      {
+        "id": "n5-nara",
+        "relation": "〜なら（话题条件）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "条件"
+  },
+  {
+    "id": "n5-renshuu-chuui",
+    "level": "N5",
+    "pattern": "〜中（ちゅう／じゅう）",
+    "meaning": "正在〜／整个〜",
+    "usage": "V（ます形去掉ます）+ 中（ちゅう）／N + 中（じゅう）",
+    "explanation": "有两种读法和意思：①ちゅう：用来正在做某事（勉強中→正在学习）②じゅう：用来整个期间/整个范围（一年中→一整年、世界中→全世界）。",
+    "colloquial": "口语不变",
+    "examples": [
+      {
+        "jp": "今、会議中です。",
+        "cn": "正在开会。",
+        "jpFuri": "<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>です。",
+        "en": "I'm in a meeting right now."
+      },
+      {
+        "jp": "電話中ですから、後でかけ直します。",
+        "cn": "正在打电话，稍后再打。",
+        "jpFuri": "<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>ですから、<ruby>後<rp>(</rp><rt>あと</rt><rp>)</rp></ruby>でかけ<ruby>直<rp>(</rp><rt>なお</rt><rp>)</rp></ruby>します。",
+        "en": "I'm on the phone, so I'll call back later."
+      },
+      {
+        "jp": "世界中で人気があります。",
+        "cn": "全世界都有人气。",
+        "jpFuri": "<ruby>世界中<rp>(</rp><rt>せかいじゅう</rt><rp>)</rp></ruby>で<ruby>人気<rp>(</rp><rt>にんき</rt><rp>)</rp></ruby>があります。",
+        "en": "Popular all over the world."
+      },
+      {
+        "jp": "一日中寝ていました。",
+        "cn": "睡了一整天。",
+        "jpFuri": "<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ていました。",
+        "en": "I slept all day."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-te-iru",
+        "relation": "〜ている（进行中）"
+      },
+      {
+        "id": "n5-tokoro",
+        "relation": "〜ところ（正要/刚刚）"
+      }
+    ],
+    "repeatIn": [],
+    "category": "时间状态"
+  },
+  {
+    "id": "n5-tokoro",
+    "level": "N5",
+    "pattern": "〜ところ",
+    "meaning": "正要〜／刚刚〜／正在〜",
+    "usage": "V（辞書形）+ ところ（正要）/ V（た形）+ ところ（刚刚）/ V（て形）+ いるところ（正在）",
+    "explanation": "「ところ」用来时间节点：①基本形+ところ：正要去做（これから行くところです→正要出发）②ている+ところ：正在做（今勉強しているところです→正在学习）③た+ところ：刚刚做完（帰ってきたところです→刚回来）。",
+    "colloquial": "口语中也说「とこ」（缩短），例：今行くとこ＝现在正要走",
+    "examples": [
+      {
+        "jp": "今、出かけるところです。",
+        "cn": "正要出门。",
+        "jpFuri": "<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かけるところです。",
+        "en": "I'm about to leave now."
+      },
+      {
+        "jp": "ちょうどご飯を食べたところです。",
+        "cn": "刚刚吃完饭。",
+        "jpFuri": "ちょうどご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたところです。",
+        "en": "I just ate dinner."
+      },
+      {
+        "jp": "今調べているところです。",
+        "cn": "正在调查。",
+        "jpFuri": "<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby><ruby>調<rp>(</rp><rt>しら</rt><rp>)</rp></ruby>べているところです。",
+        "en": "I'm currently looking into it."
+      },
+      {
+        "jp": "帰ってきたところだ。",
+        "cn": "刚回来。",
+        "jpFuri": "<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ってきたところだ。",
+        "en": "I just got back."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-bakari",
+        "relation": "〜ばかり（刚〜）"
+      },
+      {
+        "id": "n5-te-iru",
+        "relation": "〜ている"
+      },
+      {
+        "id": "n5-ta-form",
+        "relation": "た形"
+      }
+    ],
+    "repeatIn": [
+      "N4"
+    ],
+    "category": "时间状态"
+  },
+  {
+    "id": "n5-bakari",
+    "level": "N5",
+    "pattern": "〜たばかり",
+    "meaning": "刚刚〜（做完没多久）",
+    "usage": "Vた + ばかり",
+    "explanation": "用来动作刚完成不久，与「〜たところ」近似。区别：たばかり强调心理上感觉时间短（可能实际已经过了一段时间），たところ强调刚刚完成的时间点。",
+    "colloquial": "口语中用法相同",
+    "examples": [
+      {
+        "jp": "日本に来たばかりです。",
+        "cn": "刚来日本不久。",
+        "jpFuri": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>に<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>たばかりです。",
+        "en": "I just came to Japan."
+      },
+      {
+        "jp": "買ったばかりのスマホを壊した。",
+        "cn": "弄坏了刚买的手机。",
+        "jpFuri": "<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったばかりのスマホを<ruby>壊<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>した。",
+        "en": "I broke the smartphone I just bought."
+      },
+      {
+        "jp": "この本は出版されたばかりです。",
+        "cn": "这本书刚出版。",
+        "jpFuri": "この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>は<ruby>出版<rp>(</rp><rt>しゅっぱん</rt><rp>)</rp></ruby>されたばかりです。",
+        "en": "This book has just been published."
+      },
+      {
+        "jp": "会社に入ったばかりの頃は大変でした。",
+        "cn": "刚进公司的时候很辛苦。",
+        "jpFuri": "<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ったばかりの<ruby>頃<rp>(</rp><rt>ころ</rt><rp>)</rp></ruby>は<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>でした。",
+        "en": "When I first joined the company, it was difficult."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-tokoro",
+        "relation": "〜たところ（刚）对比"
+      },
+      {
+        "id": "n5-ta-form",
+        "relation": "た形"
+      }
+    ],
+    "repeatIn": [],
+    "category": "时间状态"
+  },
+  {
+    "id": "n5-wo-totte",
+    "level": "N5",
+    "pattern": "〜を（希望/能力对象）",
+    "meaning": "对/关于（希望、能力的对象）",
+    "usage": "N + を + 可能/希望表达",
+    "explanation": "连用「を」还可以出现在可能动词和希望表达的句中。在可能句中，「が」和「を」都可以使用（日本語が/を話せる）。在「〜たい」「〜ほしい」句中，常用「が」但口语中「を」更常见（ご飯が/を食べたい）。",
+    "colloquial": "口语中较多用「を」",
+    "examples": [
+      {
+        "jp": "日本語を話せますか。",
+        "cn": "会说日语吗？（口语用を）",
+        "jpFuri": "<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>を<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せますか。",
+        "en": "Can you speak Japanese?"
+      },
+      {
+        "jp": "新幹線に乗りたいです。",
+        "cn": "想坐新干线。",
+        "jpFuri": "<ruby>新幹線<rp>(</rp><rt>しんかんせん</rt><rp>)</rp></ruby>に<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>りたいです。",
+        "en": "I want to ride the Shinkansen."
+      },
+      {
+        "jp": "水を飲みたい。",
+        "cn": "想喝水。",
+        "jpFuri": "<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みたい。",
+        "en": "I want to drink water."
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-wo",
+        "relation": "〜を（目的格）"
+      },
+      {
+        "id": "n5-ga",
+        "relation": "〜が（对象）"
+      },
+      {
+        "id": "n5-kanou-doushi",
+        "relation": "可能动词"
+      }
+    ],
+    "repeatIn": [],
+    "category": "助词"
+  },
+  {
+    "id": "n5-kashira-kana",
+    "level": "N5",
+    "pattern": "〜かしら／〜かな",
+    "meaning": "〜吗？／是不是〜？（不确定）",
+    "usage": "文（简体）+ かしら（女性）/ かな（男女通用）",
+    "explanation": "用来自言自语的疑问或不确定。女性多用「〜かしら」，男性多用「〜かな」，但现代日语中女性也用「かな」。比「でしょうか」更随意。",
+    "colloquial": "「〜かな」→「〜っかな」（更随意）",
+    "examples": [
+      {
+        "jp": "明日は晴れるかな。",
+        "cn": "明天会不会晴呢？",
+        "jpFuri": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>晴<rp>(</rp><rt>は</rt><rp>)</rp></ruby>れるかな。",
+        "en": "I wonder if it will be sunny tomorrow."
+      },
+      {
+        "jp": "これで合ってるかしら。",
+        "cn": "这样对吗？",
+        "jpFuri": "これで<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ってるかしら。",
+        "en": "I wonder if this is correct?"
+      },
+      {
+        "jp": "彼は来るかなあ。",
+        "cn": "他会来吗？",
+        "jpFuri": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>るかなあ。",
+        "en": "I wonder if he will come?"
+      },
+      {
+        "jp": "どうしようかな。",
+        "cn": "怎么办好呢？",
+        "jpFuri": "どうしようかな。",
+        "en": "What should I do?"
+      }
+    ],
+    "related": [
+      {
+        "id": "n5-darou",
+        "relation": "〜だろう（推测）"
+      },
+      {
+        "id": "n5-deshou-ne-yo",
+        "relation": "〜ね／〜よ"
+      }
+    ],
+    "repeatIn": [],
+    "category": "疑问不确定"
+  }
+]
