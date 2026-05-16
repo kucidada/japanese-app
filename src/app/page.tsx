@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getLevels } from '@/data';
+import { getLevels, getKanjiLevels } from '@/data';
 
 const levelInfo: Record<string, { title: string; description: string; color: string }> = {
   N5: {
@@ -29,8 +29,17 @@ const levelInfo: Record<string, { title: string; description: string; color: str
   },
 };
 
+const kanjiLevelInfo: Record<string, { title: string; color: string }> = {
+  N5: { title: 'N5 入门', color: 'from-emerald-500 to-emerald-600' },
+  N4: { title: 'N4 初级', color: 'from-sky-500 to-sky-600' },
+  N3: { title: 'N3 中级', color: 'from-amber-500 to-amber-600' },
+  N2: { title: 'N2 中上级', color: 'from-orange-500 to-orange-600' },
+  N1: { title: 'N1 高级', color: 'from-rose-500 to-rose-600' },
+};
+
 export default function Home() {
   const levels = getLevels();
+  const kanjiLevels = getKanjiLevels();
 
   return (
     <div className="flex flex-col items-center gap-8 py-8">
@@ -92,6 +101,44 @@ export default function Home() {
         <span className="rounded-full bg-zinc-100 px-3 py-2 text-xs text-zinc-400 dark:bg-zinc-800 dark:text-zinc-500">
           {levels.reduce((s, l) => s + l.count, 0)} 个语法点
         </span>
+      </div>
+
+      <div className="mt-12 w-full">
+        <h2 className="mb-4 text-center text-xl font-bold text-zinc-800 dark:text-zinc-200">
+          汉字学习
+        </h2>
+        <div className="grid w-full gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {kanjiLevels.map(({ level, count }) => {
+            const info = kanjiLevelInfo[level];
+            return (
+              <Link
+                key={level}
+                href={`/kanji/${level.toLowerCase()}`}
+                className="group relative overflow-hidden rounded-2xl border border-zinc-200 bg-white p-6 transition hover:shadow-md dark:border-zinc-800 dark:bg-zinc-900"
+              >
+                <div
+                  className={`absolute inset-x-0 top-0 h-1 bg-gradient-to-r ${info.color}`}
+                />
+                <div className="flex items-start justify-between">
+                  <div>
+                    <h2 className="text-xl font-bold text-zinc-900 dark:text-zinc-100">
+                      {info.title}
+                    </h2>
+                    <p className="mt-1 text-sm leading-relaxed text-zinc-500 dark:text-zinc-400">
+                      按 JLPT 等级学习汉字
+                    </p>
+                  </div>
+                </div>
+                <div className="mt-4 flex items-center gap-2 text-sm text-zinc-400 dark:text-zinc-500">
+                  <span className="font-semibold text-zinc-700 dark:text-zinc-300">
+                    {count}
+                  </span>
+                  <span>个汉字</span>
+                </div>
+              </Link>
+            );
+          })}
+        </div>
       </div>
     </div>
   );

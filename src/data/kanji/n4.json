@@ -1,0 +1,5947 @@
+[
+  {
+    "id": "n4-u529b",
+    "level": "N4",
+    "character": "力",
+    "onyomi": [
+      "リイ",
+      "リキ",
+      "リョク"
+    ],
+    "kunyomi": [
+      "ちから"
+    ],
+    "meaning": "bear up",
+    "strokeCount": 2,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "電力",
+        "reading": "でんりょく",
+        "meaning": "electric power",
+        "cn": "电力"
+      },
+      {
+        "word": "全速力",
+        "reading": "ぜんそくりょく",
+        "meaning": "full speed",
+        "cn": "全速"
+      },
+      {
+        "word": "国力",
+        "reading": "こくりょく",
+        "meaning": "national power",
+        "cn": "国力"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5de5",
+    "level": "N4",
+    "character": "工",
+    "onyomi": [
+      "ク",
+      "グ",
+      "コウ"
+    ],
+    "kunyomi": [],
+    "meaning": "construction",
+    "strokeCount": 3,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "工業",
+        "reading": "こうぎょう",
+        "meaning": "(manufacturing) industry",
+        "cn": "（制造业）工业"
+      },
+      {
+        "word": "大工",
+        "reading": "だいく",
+        "meaning": "carpenter",
+        "cn": "木匠"
+      },
+      {
+        "word": "工事",
+        "reading": "こうじ",
+        "meaning": "construction work",
+        "cn": "建筑工程"
+      }
+    ]
+  },
+  {
+    "id": "n4-u53e3",
+    "level": "N4",
+    "character": "口",
+    "onyomi": [
+      "ク",
+      "コウ"
+    ],
+    "kunyomi": [
+      "くち"
+    ],
+    "meaning": "mouth",
+    "strokeCount": 3,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "非常口",
+        "reading": "ひじょうぐち",
+        "meaning": "emergency exit",
+        "cn": "紧急出口"
+      },
+      {
+        "word": "出入口",
+        "reading": "でいりぐち",
+        "meaning": "exit and entrance",
+        "cn": "出口和入口"
+      },
+      {
+        "word": "出入り口",
+        "reading": "でいりぐち",
+        "meaning": "exit and entrance",
+        "cn": "出口和入口"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5915",
+    "level": "N4",
+    "character": "夕",
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "ゆう"
+    ],
+    "meaning": "evening",
+    "strokeCount": 3,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "夕刊",
+        "reading": "ゆうかん",
+        "meaning": "evening paper",
+        "cn": "晚报"
+      },
+      {
+        "word": "夕立",
+        "reading": "ゆうだち",
+        "meaning": "(sudden, heavy) shower (on a summer afternoon or evening)",
+        "cn": "（突然的、猛烈的）阵雨（在夏天的下午或晚上）"
+      },
+      {
+        "word": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening",
+        "cn": "晚上"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4e0d",
+    "level": "N4",
+    "character": "不",
+    "onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "kunyomi": [],
+    "meaning": "bad",
+    "strokeCount": 4,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "不可能",
+        "reading": "ふかのう",
+        "meaning": "impossible",
+        "cn": "不可能的"
+      },
+      {
+        "word": "不得意",
+        "reading": "ふとくい",
+        "meaning": "one's weak point",
+        "cn": "一个人的弱点"
+      },
+      {
+        "word": "不動産",
+        "reading": "ふどうさん",
+        "meaning": "real estate",
+        "cn": "房地产"
+      }
+    ]
+  },
+  {
+    "id": "n4-u65b9",
+    "level": "N4",
+    "character": "方",
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "-かた",
+      "-がた",
+      "かた"
+    ],
+    "meaning": "alternative",
+    "strokeCount": 4,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "漢方薬",
+        "reading": "かんぽうやく",
+        "meaning": "Chinese herbal medicine",
+        "cn": "中草药"
+      },
+      {
+        "word": "明け方",
+        "reading": "あけがた",
+        "meaning": "dawn",
+        "cn": "黎明"
+      },
+      {
+        "word": "正方形",
+        "reading": "せいほうけい",
+        "meaning": "square",
+        "cn": "正方形"
+      }
+    ]
+  },
+  {
+    "id": "n4-u516c",
+    "level": "N4",
+    "character": "公",
+    "onyomi": [
+      "ク",
+      "コウ"
+    ],
+    "kunyomi": [
+      "おおやけ"
+    ],
+    "meaning": "governmental",
+    "strokeCount": 4,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "公園",
+        "reading": "こうえん",
+        "meaning": "(public) park",
+        "cn": "（公园"
+      },
+      {
+        "word": "公立",
+        "reading": "こうりつ",
+        "meaning": "public (institution)",
+        "cn": "公共（机构）"
+      },
+      {
+        "word": "公営",
+        "reading": "こうえい",
+        "meaning": "public management",
+        "cn": "公共管理"
+      }
+    ]
+  },
+  {
+    "id": "n4-u725b",
+    "level": "N4",
+    "character": "牛",
+    "onyomi": [
+      "ギュウ"
+    ],
+    "kunyomi": [
+      "うし"
+    ],
+    "meaning": "cow",
+    "strokeCount": 4,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "牛乳",
+        "reading": "ぎゅうにゅう",
+        "meaning": "(cow's) milk",
+        "cn": "（牛奶）"
+      },
+      {
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "beef",
+        "cn": "牛肉"
+      },
+      {
+        "word": "和牛",
+        "reading": "わぎゅう",
+        "meaning": "Wagyu beef",
+        "cn": "和牛"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5207",
+    "level": "N4",
+    "character": "切",
+    "onyomi": [
+      "サイ",
+      "セツ"
+    ],
+    "kunyomi": [
+      "-き.り",
+      "-き.る",
+      "-き.れ",
+      "-き.れる",
+      "-ぎ.り",
+      "-ぎ.れ",
+      "き.り",
+      "き.る",
+      "き.れ",
+      "き.れる"
+    ],
+    "meaning": "be sharp",
+    "strokeCount": 4,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "爪切り",
+        "reading": "つめきり",
+        "meaning": "nail clippers",
+        "cn": "指甲刀"
+      },
+      {
+        "word": "売り切れ",
+        "reading": "うりきれ",
+        "meaning": "sold-out",
+        "cn": "售罄"
+      },
+      {
+        "word": "切符",
+        "reading": "きっぷ",
+        "meaning": "ticket",
+        "cn": "票"
+      }
+    ]
+  },
+  {
+    "id": "n4-u72ac",
+    "level": "N4",
+    "character": "犬",
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "いぬ",
+      "いぬ"
+    ],
+    "meaning": "dog",
+    "strokeCount": 4,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "盲導犬",
+        "reading": "もうどうけん",
+        "meaning": "guide dog",
+        "cn": "导盲犬"
+      },
+      {
+        "word": "愛犬",
+        "reading": "あいけん",
+        "meaning": "love of dogs",
+        "cn": "对狗的爱"
+      },
+      {
+        "word": "忠犬",
+        "reading": "ちゅうけん",
+        "meaning": "faithful dog",
+        "cn": "忠实的狗"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5c11",
+    "level": "N4",
+    "character": "少",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "すく.ない",
+      "すこ.し"
+    ],
+    "meaning": "few",
+    "strokeCount": 4,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "小数点",
+        "reading": "しょうすうてん",
+        "meaning": "decimal point",
+        "cn": "小数点"
+      },
+      {
+        "word": "少々",
+        "reading": "しょうしょう",
+        "meaning": "just a minute",
+        "cn": "等一下"
+      },
+      {
+        "word": "減少",
+        "reading": "げんしょう",
+        "meaning": "decrease",
+        "cn": "减少"
+      }
+    ]
+  },
+  {
+    "id": "n4-u624b",
+    "level": "N4",
+    "character": "手",
+    "onyomi": [
+      "シュ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "-て",
+      "た",
+      "て",
+      "て"
+    ],
+    "meaning": "hand",
+    "strokeCount": 4,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "手拭い",
+        "reading": "てぬぐい",
+        "meaning": "(hand) towel",
+        "cn": "（手）毛巾"
+      },
+      {
+        "word": "買手",
+        "reading": "かいて",
+        "meaning": "buyer",
+        "cn": "买方"
+      },
+      {
+        "word": "買い手",
+        "reading": "かいて",
+        "meaning": "buyer",
+        "cn": "买方"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6587",
+    "level": "N4",
+    "character": "文",
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "kunyomi": [
+      "あや",
+      "ふみ"
+    ],
+    "meaning": "art",
+    "strokeCount": 4,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "文部省",
+        "reading": "もんぶしょう",
+        "meaning": "Ministry of Education, Science and Culture (1871-2001)",
+        "cn": "教育、科学和文化部（1871-2001）"
+      },
+      {
+        "word": "文化的",
+        "reading": "ぶんかてき",
+        "meaning": "cultural",
+        "cn": "文化"
+      },
+      {
+        "word": "文法",
+        "reading": "ぶんぽう",
+        "meaning": "grammar",
+        "cn": "语法"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5fc3",
+    "level": "N4",
+    "character": "心",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "-ごころ",
+      "こころ"
+    ],
+    "meaning": "heart",
+    "strokeCount": 4,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "良心",
+        "reading": "りょうしん",
+        "meaning": "conscience",
+        "cn": "良心"
+      },
+      {
+        "word": "心身",
+        "reading": "しんしん",
+        "meaning": "mind and body",
+        "cn": "心灵和身体"
+      },
+      {
+        "word": "虚栄心",
+        "reading": "きょえいしん",
+        "meaning": "vanity",
+        "cn": "虚荣"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5143",
+    "level": "N4",
+    "character": "元",
+    "onyomi": [
+      "ガン",
+      "ゲン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "meaning": "beginning",
+    "strokeCount": 4,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "元日",
+        "reading": "がんじつ",
+        "meaning": "New Year's Day",
+        "cn": "元旦"
+      },
+      {
+        "word": "耳元",
+        "reading": "みみもと",
+        "meaning": "close to the ear",
+        "cn": "靠近耳朵"
+      },
+      {
+        "word": "お中元",
+        "reading": "おちゅうげん",
+        "meaning": "mid-year gift",
+        "cn": "年中礼物"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6b62",
+    "level": "N4",
+    "character": "止",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "-さ.し",
+      "-さ.す",
+      "-と.める",
+      "-ど.まり",
+      "-ど.め",
+      "-や.む",
+      "と.まる",
+      "と.める",
+      "とど.まる",
+      "とど.め",
+      "とど.める",
+      "や.む",
+      "や.める",
+      "よ.す"
+    ],
+    "meaning": "halt",
+    "strokeCount": 4,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "防止",
+        "reading": "ぼうし",
+        "meaning": "prevention",
+        "cn": "预防"
+      },
+      {
+        "word": "禁止",
+        "reading": "きんし",
+        "meaning": "prohibition",
+        "cn": "禁止"
+      },
+      {
+        "word": "静止",
+        "reading": "せいし",
+        "meaning": "stillness",
+        "cn": "寂静"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4ee3",
+    "level": "N4",
+    "character": "代",
+    "onyomi": [
+      "タイ",
+      "ダイ"
+    ],
+    "kunyomi": [
+      "-が.わり",
+      "-がわ.り",
+      "か.える",
+      "か.わり",
+      "か.わる",
+      "かわ.り",
+      "かわ.る",
+      "しろ",
+      "よ"
+    ],
+    "meaning": "age",
+    "strokeCount": 5,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "代用",
+        "reading": "だいよう",
+        "meaning": "substitution",
+        "cn": "替代"
+      },
+      {
+        "word": "代議士",
+        "reading": "だいぎし",
+        "meaning": "parliamentarian",
+        "cn": "议员"
+      },
+      {
+        "word": "代行",
+        "reading": "だいこう",
+        "meaning": "acting as agent",
+        "cn": "代理"
+      }
+    ]
+  },
+  {
+    "id": "n4-u51ac",
+    "level": "N4",
+    "character": "冬",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ふゆ"
+    ],
+    "meaning": "winter",
+    "strokeCount": 5,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "冬季",
+        "reading": "とうき",
+        "meaning": "(season of) winter",
+        "cn": "冬天（的季节）"
+      },
+      {
+        "word": "冬至",
+        "reading": "とうじ",
+        "meaning": "winter solstice",
+        "cn": "冬至"
+      },
+      {
+        "word": "春夏秋冬",
+        "reading": "しゅんかしゅうとう",
+        "meaning": "spring, summer, autumn (fall) and winter",
+        "cn": "春、夏、秋（秋）、冬"
+      }
+    ]
+  },
+  {
+    "id": "n4-u53e4",
+    "level": "N4",
+    "character": "古",
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "-ふる.す",
+      "ふる",
+      "ふる.い"
+    ],
+    "meaning": "old",
+    "strokeCount": 5,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "古典",
+        "reading": "こてん",
+        "meaning": "classic (work, esp. book)",
+        "cn": "经典（作品，尤其是书籍）"
+      },
+      {
+        "word": "古代",
+        "reading": "こだい",
+        "meaning": "ancient times",
+        "cn": "古代"
+      },
+      {
+        "word": "稽古",
+        "reading": "けいこ",
+        "meaning": "practice",
+        "cn": "实践"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5e83",
+    "level": "N4",
+    "character": "広",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひろ.い",
+      "ひろ.がる",
+      "ひろ.げる",
+      "ひろ.まる",
+      "ひろ.める"
+    ],
+    "meaning": "broad",
+    "strokeCount": 5,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "背広",
+        "reading": "せびろ",
+        "meaning": "business suit",
+        "cn": "西装"
+      },
+      {
+        "word": "広まる",
+        "reading": "ひろまる",
+        "meaning": "to spread",
+        "cn": "传播"
+      },
+      {
+        "word": "幅広い",
+        "reading": "はばひろい",
+        "meaning": "extensive",
+        "cn": "广泛的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7acb",
+    "level": "N4",
+    "character": "立",
+    "onyomi": [
+      "リットル",
+      "リツ",
+      "リュウ"
+    ],
+    "kunyomi": [
+      "-た.つ",
+      "-た.て",
+      "-た.てる",
+      "-だ.て",
+      "-だ.てる",
+      "た.ち",
+      "た.つ",
+      "た.て",
+      "た.てる",
+      "たて"
+    ],
+    "meaning": "erect",
+    "strokeCount": 5,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "立脚",
+        "reading": "りっきゃく",
+        "meaning": "being based on",
+        "cn": "是基于"
+      },
+      {
+        "word": "埋め立て",
+        "reading": "うめたて",
+        "meaning": "land reclamation",
+        "cn": "开荒"
+      },
+      {
+        "word": "中立",
+        "reading": "ちゅうりつ",
+        "meaning": "neutrality",
+        "cn": "中立性"
+      }
+    ]
+  },
+  {
+    "id": "n4-u76ee",
+    "level": "N4",
+    "character": "目",
+    "onyomi": [
+      "ボク",
+      "モク"
+    ],
+    "kunyomi": [
+      "-め",
+      "ま",
+      "め"
+    ],
+    "meaning": "care",
+    "strokeCount": 5,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "目方",
+        "reading": "めかた",
+        "meaning": "weight",
+        "cn": "重量"
+      },
+      {
+        "word": "眼差し",
+        "reading": "まなざし",
+        "meaning": "(a) look",
+        "cn": "（一）看"
+      },
+      {
+        "word": "見た目",
+        "reading": "みため",
+        "meaning": "appearance",
+        "cn": "外貌"
+      }
+    ]
+  },
+  {
+    "id": "n4-u53bb",
+    "level": "N4",
+    "character": "去",
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "kunyomi": [
+      "-さ.る",
+      "さ.る"
+    ],
+    "meaning": "divorce",
+    "strokeCount": 5,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "去年",
+        "reading": "きょねん",
+        "meaning": "last year",
+        "cn": "去年"
+      },
+      {
+        "word": "死去",
+        "reading": "しきょ",
+        "meaning": "death",
+        "cn": "死亡"
+      },
+      {
+        "word": "立ち去る",
+        "reading": "たちさる",
+        "meaning": "to leave",
+        "cn": "离开"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4e16",
+    "level": "N4",
+    "character": "世",
+    "onyomi": [
+      "セ",
+      "セイ",
+      "ソウ"
+    ],
+    "kunyomi": [
+      "よ"
+    ],
+    "meaning": "generation",
+    "strokeCount": 5,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "お世辞",
+        "reading": "おせじ",
+        "meaning": "flattery",
+        "cn": "奉承"
+      },
+      {
+        "word": "中世",
+        "reading": "ちゅうせい",
+        "meaning": "Middle Ages (in Japan esp. the Kamakura and Muromachi periods)",
+        "cn": "中世纪（日本尤其是镰仓和室町时期）"
+      },
+      {
+        "word": "世代",
+        "reading": "せだい",
+        "meaning": "generation",
+        "cn": "一代"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4ed5",
+    "level": "N4",
+    "character": "仕",
+    "onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "つか.える"
+    ],
+    "meaning": "attend",
+    "strokeCount": 5,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "支度",
+        "reading": "したく",
+        "meaning": "preparation",
+        "cn": "准备"
+      },
+      {
+        "word": "仕入れ",
+        "reading": "しいれ",
+        "meaning": "stocking",
+        "cn": "袜"
+      },
+      {
+        "word": "仕送り",
+        "reading": "しおくり",
+        "meaning": "allowance",
+        "cn": "津贴"
+      }
+    ]
+  },
+  {
+    "id": "n4-u53f0",
+    "level": "N4",
+    "character": "台",
+    "onyomi": [
+      "タイ",
+      "ダイ"
+    ],
+    "kunyomi": [
+      "うてな",
+      "つかさ",
+      "われ"
+    ],
+    "meaning": "a stand",
+    "strokeCount": 5,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "寝台",
+        "reading": "しんだい",
+        "meaning": "bed",
+        "cn": "床"
+      },
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "meaning": "typhoon",
+        "cn": "台风"
+      },
+      {
+        "word": "台無し",
+        "reading": "だいなし",
+        "meaning": "spoiled",
+        "cn": "被宠坏的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7530",
+    "level": "N4",
+    "character": "田",
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [
+      "た"
+    ],
+    "meaning": "rice field",
+    "strokeCount": 5,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "水田",
+        "reading": "すいでん",
+        "meaning": "(water-filled) paddy field",
+        "cn": "（充满水的）稻田"
+      },
+      {
+        "word": "田畑",
+        "reading": "たはた",
+        "meaning": "fields (of rice and other crops)",
+        "cn": "（水稻和其他作物的）田地"
+      },
+      {
+        "word": "油田",
+        "reading": "ゆでん",
+        "meaning": "oil field",
+        "cn": "油田"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5199",
+    "level": "N4",
+    "character": "写",
+    "onyomi": [
+      "シャ",
+      "ジャ"
+    ],
+    "kunyomi": [
+      "うつ",
+      "うつ.し",
+      "うつ.す",
+      "うつ.る"
+    ],
+    "meaning": "be photographed",
+    "strokeCount": 5,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "写る",
+        "reading": "うつる",
+        "meaning": "to be photographed",
+        "cn": "被拍照"
+      },
+      {
+        "word": "描写",
+        "reading": "びょうしゃ",
+        "meaning": "depiction",
+        "cn": "描写"
+      },
+      {
+        "word": "複写",
+        "reading": "ふくしゃ",
+        "meaning": "copying",
+        "cn": "复制"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5144",
+    "level": "N4",
+    "character": "兄",
+    "onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kunyomi": [
+      "あに"
+    ],
+    "meaning": "big brother",
+    "strokeCount": 5,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "従兄弟",
+        "reading": "いとこ",
+        "meaning": "cousin (male)",
+        "cn": "表弟（男）"
+      },
+      {
+        "word": "父兄",
+        "reading": "ふけい",
+        "meaning": "father and older brother",
+        "cn": "父亲和哥哥"
+      },
+      {
+        "word": "お兄さん",
+        "reading": "おにいさん",
+        "meaning": "older brother",
+        "cn": "哥哥"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4ee5",
+    "level": "N4",
+    "character": "以",
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "もっ.て"
+    ],
+    "meaning": "because",
+    "strokeCount": 5,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "以来",
+        "reading": "いらい",
+        "meaning": "since",
+        "cn": "自从"
+      },
+      {
+        "word": "前もって",
+        "reading": "まえもって",
+        "meaning": "in advance",
+        "cn": "提前"
+      },
+      {
+        "word": "以降",
+        "reading": "いこう",
+        "meaning": "on and after",
+        "cn": "前后"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7528",
+    "level": "N4",
+    "character": "用",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "もち.いる"
+    ],
+    "meaning": "business",
+    "strokeCount": 5,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "日用品",
+        "reading": "にちようひん",
+        "meaning": "daily necessities",
+        "cn": "生活用品"
+      },
+      {
+        "word": "画用紙",
+        "reading": "がようし",
+        "meaning": "drawing paper",
+        "cn": "绘图纸"
+      },
+      {
+        "word": "反作用",
+        "reading": "はんさよう",
+        "meaning": "reaction",
+        "cn": "反应"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6b63",
+    "level": "N4",
+    "character": "正",
+    "onyomi": [
+      "ショウ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "ただ.しい",
+      "ただ.す",
+      "まさ",
+      "まさ.に"
+    ],
+    "meaning": "10**40",
+    "strokeCount": 5,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "正方形",
+        "reading": "せいほうけい",
+        "meaning": "square",
+        "cn": "正方形"
+      },
+      {
+        "word": "大正",
+        "reading": "たいしょう",
+        "meaning": "Taishō era (1912.7.30-1926.12.25)",
+        "cn": "大正时代（1912.7.30-1926.12.25）"
+      },
+      {
+        "word": "正門",
+        "reading": "せいもん",
+        "meaning": "main gate",
+        "cn": "正门"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4e3b",
+    "level": "N4",
+    "character": "主",
+    "onyomi": [
+      "シュ",
+      "シュウ",
+      "ス"
+    ],
+    "kunyomi": [
+      "あるじ",
+      "おも",
+      "ぬし"
+    ],
+    "meaning": "chief",
+    "strokeCount": 5,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "資本主義",
+        "reading": "しほんしゅぎ",
+        "meaning": "capitalism",
+        "cn": "资本主义"
+      },
+      {
+        "word": "雇主",
+        "reading": "こしゅ",
+        "meaning": "employer",
+        "cn": "雇主"
+      },
+      {
+        "word": "封建主義",
+        "reading": "ほうけんしゅぎ",
+        "meaning": "feudalism",
+        "cn": "封建"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5b89",
+    "level": "N4",
+    "character": "安",
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "やす",
+      "やす.い",
+      "やす.まる",
+      "やす.らか"
+    ],
+    "meaning": "cheap",
+    "strokeCount": 6,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "円安",
+        "reading": "えんやす",
+        "meaning": "depreciation of the yen",
+        "cn": "日元贬值"
+      },
+      {
+        "word": "安全",
+        "reading": "あんせん",
+        "meaning": "safety",
+        "cn": "安全"
+      },
+      {
+        "word": "安っぽい",
+        "reading": "やすっぽい",
+        "meaning": "cheap-looking",
+        "cn": "看起来廉价的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5730",
+    "level": "N4",
+    "character": "地",
+    "onyomi": [
+      "ジ",
+      "チ"
+    ],
+    "kunyomi": [],
+    "meaning": "earth",
+    "strokeCount": 6,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "遊園地",
+        "reading": "ゆうえんち",
+        "meaning": "amusement park",
+        "cn": "游乐园"
+      },
+      {
+        "word": "基地",
+        "reading": "きち",
+        "meaning": "base (military, expedition, etc.)",
+        "cn": "基地（军事、远征等）"
+      },
+      {
+        "word": "盆地",
+        "reading": "ぼんち",
+        "meaning": "basin (e.g. between mountains)",
+        "cn": "盆地（例如山之间）"
+      }
+    ]
+  },
+  {
+    "id": "n4-u591a",
+    "level": "N4",
+    "character": "多",
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
+    ],
+    "meaning": "frequent",
+    "strokeCount": 6,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "大多数",
+        "reading": "だいたすう",
+        "meaning": "great majority",
+        "cn": "大多数"
+      },
+      {
+        "word": "多湿",
+        "reading": "たしつ",
+        "meaning": "high humidity",
+        "cn": "高湿度"
+      },
+      {
+        "word": "多忙",
+        "reading": "たぼう",
+        "meaning": "being very busy",
+        "cn": "很忙"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4f1a",
+    "level": "N4",
+    "character": "会",
+    "onyomi": [
+      "エ",
+      "カイ"
+    ],
+    "kunyomi": [
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる"
+    ],
+    "meaning": "association",
+    "strokeCount": 6,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "閉会",
+        "reading": "へいかい",
+        "meaning": "closure (of a ceremony, event, meeting, etc.)",
+        "cn": "(仪式、活动、会议等的)结束"
+      },
+      {
+        "word": "碁会所",
+        "reading": "ごかいしょ",
+        "meaning": "commercial go-playing parlour (parlor)",
+        "cn": "商业围棋厅（厅）"
+      },
+      {
+        "word": "展覧会",
+        "reading": "てんらんかい",
+        "meaning": "exhibition",
+        "cn": "展览"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8003",
+    "level": "N4",
+    "character": "考",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "かんが.え",
+      "かんが.える"
+    ],
+    "meaning": "consider",
+    "strokeCount": 6,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "参考書",
+        "reading": "さんこうしょ",
+        "meaning": "reference book",
+        "cn": "参考书"
+      },
+      {
+        "word": "考慮",
+        "reading": "こうりょ",
+        "meaning": "consideration",
+        "cn": "考虑"
+      },
+      {
+        "word": "参考",
+        "reading": "さんこう",
+        "meaning": "reference",
+        "cn": "参考"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8089",
+    "level": "N4",
+    "character": "肉",
+    "onyomi": [
+      "ニク"
+    ],
+    "kunyomi": [
+      "しし"
+    ],
+    "meaning": "meat",
+    "strokeCount": 6,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "beef",
+        "cn": "牛肉"
+      },
+      {
+        "word": "筋肉",
+        "reading": "きんにく",
+        "meaning": "muscle",
+        "cn": "肌肉"
+      },
+      {
+        "word": "豚肉",
+        "reading": "とんにく",
+        "meaning": "pork",
+        "cn": "猪肉"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8272",
+    "level": "N4",
+    "character": "色",
+    "onyomi": [
+      "シキ",
+      "ショク"
+    ],
+    "kunyomi": [
+      "いろ"
+    ],
+    "meaning": "color",
+    "strokeCount": 6,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "金色",
+        "reading": "きんいろ",
+        "meaning": "gold (colour, color)",
+        "cn": "金色（颜色、颜色）"
+      },
+      {
+        "word": "橙色",
+        "reading": "だいだいいろ",
+        "meaning": "orange (color, colour)",
+        "cn": "橙色（颜色，颜色）"
+      },
+      {
+        "word": "潤色",
+        "reading": "じゅんしょく",
+        "meaning": "rhetorical flourishes",
+        "cn": "修辞华丽"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6b7b",
+    "level": "N4",
+    "character": "死",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "し.に",
+      "し.ぬ"
+    ],
+    "meaning": "death",
+    "strokeCount": 6,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "脳死",
+        "reading": "のうし",
+        "meaning": "brain death",
+        "cn": "脑死亡"
+      },
+      {
+        "word": "戦死",
+        "reading": "せんし",
+        "meaning": "death in battle",
+        "cn": "战死"
+      },
+      {
+        "word": "即死",
+        "reading": "そくし",
+        "meaning": "instant death",
+        "cn": "立即死亡"
+      }
+    ]
+  },
+  {
+    "id": "n4-u540c",
+    "level": "N4",
+    "character": "同",
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "おな.じ"
+    ],
+    "meaning": "agree",
+    "strokeCount": 6,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "同級生",
+        "reading": "どうきゅうせい",
+        "meaning": "classmate",
+        "cn": "同学"
+      },
+      {
+        "word": "同封",
+        "reading": "どうふう",
+        "meaning": "enclosing (e.g. with a letter)",
+        "cn": "附上（例如用一封信）"
+      },
+      {
+        "word": "同性",
+        "reading": "どうせい",
+        "meaning": "same sex",
+        "cn": "同性"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6709",
+    "level": "N4",
+    "character": "有",
+    "onyomi": [
+      "ウ",
+      "ユウ"
+    ],
+    "kunyomi": [
+      "あ.る"
+    ],
+    "meaning": "approx",
+    "strokeCount": 6,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "有機物",
+        "reading": "ゆうきぶつ",
+        "meaning": "organic matter",
+        "cn": "有机物"
+      },
+      {
+        "word": "特有",
+        "reading": "とくゆう",
+        "meaning": "characteristic (of)",
+        "cn": "特征（的）"
+      },
+      {
+        "word": "有限",
+        "reading": "ゆうげん",
+        "meaning": "finite",
+        "cn": "有限"
+      }
+    ]
+  },
+  {
+    "id": "n4-u65e9",
+    "level": "N4",
+    "character": "早",
+    "onyomi": [
+      "サッ",
+      "ソウ"
+    ],
+    "kunyomi": [
+      "さ",
+      "はや",
+      "はや",
+      "はや.い",
+      "はや.まる",
+      "はや.める"
+    ],
+    "meaning": "early",
+    "strokeCount": 6,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "早朝",
+        "reading": "そうちょう",
+        "meaning": "early morning",
+        "cn": "清晨"
+      },
+      {
+        "word": "早起き",
+        "reading": "はやおき",
+        "meaning": "early rising",
+        "cn": "早起"
+      },
+      {
+        "word": "早春",
+        "reading": "そうしゅん",
+        "meaning": "early spring",
+        "cn": "早春"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5b57",
+    "level": "N4",
+    "character": "字",
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "-な",
+      "あざ",
+      "あざな"
+    ],
+    "meaning": "character",
+    "strokeCount": 6,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "字引",
+        "reading": "じびき",
+        "meaning": "dictionary",
+        "cn": "字典"
+      },
+      {
+        "word": "十字架",
+        "reading": "じゅうじか",
+        "meaning": "cross (for crucifixion)",
+        "cn": "十字架（钉十字架）"
+      },
+      {
+        "word": "十字路",
+        "reading": "じゅうじろ",
+        "meaning": "crossroads",
+        "cn": "十字路口"
+      }
+    ]
+  },
+  {
+    "id": "n4-u81ea",
+    "level": "N4",
+    "character": "自",
+    "onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "おの.ずから",
+      "おの.ずと",
+      "みずか.ら"
+    ],
+    "meaning": "oneself",
+    "strokeCount": 6,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "自問",
+        "reading": "じもん",
+        "meaning": "asking oneself",
+        "cn": "问自己"
+      },
+      {
+        "word": "自然科学",
+        "reading": "しぜんかがく",
+        "meaning": "natural science",
+        "cn": "自然科学"
+      },
+      {
+        "word": "自国",
+        "reading": "じこく",
+        "meaning": "one's own country",
+        "cn": "自己的国家"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5225",
+    "level": "N4",
+    "character": "別",
+    "onyomi": [
+      "ベツ"
+    ],
+    "kunyomi": [
+      "わ.ける",
+      "わか.れる"
+    ],
+    "meaning": "another",
+    "strokeCount": 7,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "送別会",
+        "reading": "そうべつかい",
+        "meaning": "farewell party",
+        "cn": "欢送会"
+      },
+      {
+        "word": "送別",
+        "reading": "そうべつ",
+        "meaning": "farewell",
+        "cn": "告别"
+      },
+      {
+        "word": "大別",
+        "reading": "たいべつ",
+        "meaning": "general classification",
+        "cn": "一般分类"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8d64",
+    "level": "N4",
+    "character": "赤",
+    "onyomi": [
+      "シャク",
+      "セキ"
+    ],
+    "kunyomi": [
+      "あか",
+      "あか",
+      "あか.い",
+      "あか.らむ",
+      "あか.らめる"
+    ],
+    "meaning": "red",
+    "strokeCount": 7,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "赤道",
+        "reading": "せきどう",
+        "meaning": "equator",
+        "cn": "赤道"
+      },
+      {
+        "word": "赤飯",
+        "reading": "せきはん",
+        "meaning": "red rice (beans and mochi) for auspicious occasions",
+        "cn": "吉祥场合的红米（豆子和麻糬）"
+      },
+      {
+        "word": "赤ちゃん",
+        "reading": "あかちゃん",
+        "meaning": "baby",
+        "cn": "婴儿"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5f1f",
+    "level": "N4",
+    "character": "弟",
+    "onyomi": [
+      "ダイ",
+      "テイ",
+      "デ"
+    ],
+    "kunyomi": [
+      "おとうと"
+    ],
+    "meaning": "faithful service to elders",
+    "strokeCount": 7,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "従兄弟",
+        "reading": "いとこ",
+        "meaning": "cousin (male)",
+        "cn": "表弟（男）"
+      },
+      {
+        "word": "弟子入り",
+        "reading": "でしいり",
+        "meaning": "becoming a pupil (of)",
+        "cn": "成为（的）学生"
+      },
+      {
+        "word": "弟子",
+        "reading": "ていし",
+        "meaning": "pupil",
+        "cn": "瞳孔"
+      }
+    ]
+  },
+  {
+    "id": "n4-u82b1",
+    "level": "N4",
+    "character": "花",
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "はな"
+    ],
+    "meaning": "flower",
+    "strokeCount": 7,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "花弁",
+        "reading": "かべん",
+        "meaning": "(flower) petal",
+        "cn": "（花）花瓣"
+      },
+      {
+        "word": "花瓶",
+        "reading": "かびん",
+        "meaning": "(flower) vase",
+        "cn": "（花）花瓶"
+      },
+      {
+        "word": "花嫁",
+        "reading": "はなよめ",
+        "meaning": "bride",
+        "cn": "新娘"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8fd1",
+    "level": "N4",
+    "character": "近",
+    "onyomi": [
+      "キン",
+      "コン"
+    ],
+    "kunyomi": [
+      "ちか.い"
+    ],
+    "meaning": "akin",
+    "strokeCount": 7,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "近距離",
+        "reading": "きんきょり",
+        "meaning": "short distance",
+        "cn": "短距离"
+      },
+      {
+        "word": "近所",
+        "reading": "きんじょ",
+        "meaning": "neighbourhood",
+        "cn": "邻里"
+      },
+      {
+        "word": "近道",
+        "reading": "ちかみち",
+        "meaning": "shorter way",
+        "cn": "更短的路"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7a76",
+    "level": "N4",
+    "character": "究",
+    "onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "きわ.める"
+    ],
+    "meaning": "research",
+    "strokeCount": 7,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "究明",
+        "reading": "きゅうめい",
+        "meaning": "investigation (esp. in academic and scientific contexts)",
+        "cn": "调查（特别是在学术和科学背景下）"
+      },
+      {
+        "word": "追究",
+        "reading": "ついきゅう",
+        "meaning": "investigation (e.g. academically, of the unknown)",
+        "cn": "调查（例如学术上的、未知的）"
+      },
+      {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "study",
+        "cn": "学习"
+      }
+    ]
+  },
+  {
+    "id": "n4-u58f2",
+    "level": "N4",
+    "character": "売",
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "う.る",
+      "う.れる"
+    ],
+    "meaning": "sell",
+    "strokeCount": 7,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "売春",
+        "reading": "ばいしゅん",
+        "meaning": "prostitution",
+        "cn": "卖淫"
+      },
+      {
+        "word": "小売り",
+        "reading": "こうり",
+        "meaning": "retail",
+        "cn": "零售"
+      },
+      {
+        "word": "小売",
+        "reading": "こうり",
+        "meaning": "retail",
+        "cn": "零售"
+      }
+    ]
+  },
+  {
+    "id": "n4-u793e",
+    "level": "N4",
+    "character": "社",
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "やしろ"
+    ],
+    "meaning": "association",
+    "strokeCount": 7,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "神社",
+        "reading": "じんしゃ",
+        "meaning": "Shinto shrine",
+        "cn": "神社"
+      },
+      {
+        "word": "支社",
+        "reading": "ししゃ",
+        "meaning": "branch office",
+        "cn": "分公司"
+      },
+      {
+        "word": "新聞社",
+        "reading": "しんぶんしゃ",
+        "meaning": "newspaper company",
+        "cn": "报业公司"
+      }
+    ]
+  },
+  {
+    "id": "n4-u79c1",
+    "level": "N4",
+    "character": "私",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "わたくし",
+      "わたし"
+    ],
+    "meaning": "I",
+    "strokeCount": 7,
+    "category": "小学6年",
+    "examples": [
+      {
+        "word": "私立",
+        "reading": "しりつ",
+        "meaning": "private (establishment)",
+        "cn": "私人（机构）"
+      },
+      {
+        "word": "私費",
+        "reading": "しひ",
+        "meaning": "private expense",
+        "cn": "私人开支"
+      },
+      {
+        "word": "私鉄",
+        "reading": "してつ",
+        "meaning": "private railway",
+        "cn": "私营铁路"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4f53",
+    "level": "N4",
+    "character": "体",
+    "onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "kunyomi": [
+      "かたち",
+      "からだ"
+    ],
+    "meaning": "body",
+    "strokeCount": 7,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "体重",
+        "reading": "たいじゅう",
+        "meaning": "(body) weight",
+        "cn": "（体重"
+      },
+      {
+        "word": "体温計",
+        "reading": "たいおんけい",
+        "meaning": "(clinical) thermometer",
+        "cn": "（临床）温度计"
+      },
+      {
+        "word": "体温",
+        "reading": "たいおん",
+        "meaning": "body temperature",
+        "cn": "体温"
+      }
+    ]
+  },
+  {
+    "id": "n4-u753a",
+    "level": "N4",
+    "character": "町",
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "まち"
+    ],
+    "meaning": "block",
+    "strokeCount": 7,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "町中",
+        "reading": "まちなか",
+        "meaning": "downtown",
+        "cn": "市中心"
+      },
+      {
+        "word": "町角",
+        "reading": "まちかど",
+        "meaning": "street corner",
+        "cn": "街角"
+      },
+      {
+        "word": "街角",
+        "reading": "まちかど",
+        "meaning": "street corner",
+        "cn": "街角"
+      }
+    ]
+  },
+  {
+    "id": "n4-u56f3",
+    "level": "N4",
+    "character": "図",
+    "onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "kunyomi": [
+      "え",
+      "はか.る"
+    ],
+    "meaning": "audacious",
+    "strokeCount": 7,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "図書",
+        "reading": "ずしょ",
+        "meaning": "books",
+        "cn": "图书"
+      },
+      {
+        "word": "図書館",
+        "reading": "ずしょかん",
+        "meaning": "library",
+        "cn": "图书馆"
+      },
+      {
+        "word": "製図",
+        "reading": "せいず",
+        "meaning": "drafting",
+        "cn": "起草"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8a00",
+    "level": "N4",
+    "character": "言",
+    "onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "い.う",
+      "こと"
+    ],
+    "meaning": "say",
+    "strokeCount": 7,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "言語",
+        "reading": "げんきょ",
+        "meaning": "language",
+        "cn": "语言"
+      },
+      {
+        "word": "公言",
+        "reading": "こうげん",
+        "meaning": "declaration",
+        "cn": "宣言"
+      },
+      {
+        "word": "方言",
+        "reading": "ほうげん",
+        "meaning": "dialect",
+        "cn": "方言"
+      }
+    ]
+  },
+  {
+    "id": "n4-u533b",
+    "level": "N4",
+    "character": "医",
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "い.する",
+      "い.やす",
+      "くすし"
+    ],
+    "meaning": "doctor",
+    "strokeCount": 7,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "歯医者",
+        "reading": "はいしゃ",
+        "meaning": "dentist",
+        "cn": "牙医"
+      },
+      {
+        "word": "医師",
+        "reading": "いし",
+        "meaning": "doctor",
+        "cn": "医生"
+      },
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "meaning": "doctor",
+        "cn": "医生"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4f4f",
+    "level": "N4",
+    "character": "住",
+    "onyomi": [
+      "ジュウ",
+      "チュウ",
+      "ヂュウ"
+    ],
+    "kunyomi": [
+      "-ず.まい",
+      "す.まう",
+      "す.む"
+    ],
+    "meaning": "dwell",
+    "strokeCount": 7,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "現住所",
+        "reading": "げんじゅうしょ",
+        "meaning": "(present) address",
+        "cn": "（现在的）地址"
+      },
+      {
+        "word": "衣食住",
+        "reading": "いしょくじゅう",
+        "meaning": "food, clothing and shelter",
+        "cn": "食物、衣服和住所"
+      },
+      {
+        "word": "住宅地",
+        "reading": "じゅうたくち",
+        "meaning": "housing district",
+        "cn": "住宅区"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8d70",
+    "level": "N4",
+    "character": "走",
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はし.る"
+    ],
+    "meaning": "run",
+    "strokeCount": 7,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "滑走路",
+        "reading": "かっそうろ",
+        "meaning": "runway",
+        "cn": "跑道"
+      },
+      {
+        "word": "師走",
+        "reading": "しはす",
+        "meaning": "twelfth month (esp. of the lunar calendar)",
+        "cn": "腊月（尤其是农历）"
+      },
+      {
+        "word": "逃走",
+        "reading": "とうそう",
+        "meaning": "flight",
+        "cn": "航班"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8db3",
+    "level": "N4",
+    "character": "足",
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "あし",
+      "た.す",
+      "た.りる",
+      "た.る"
+    ],
+    "meaning": "be sufficient",
+    "strokeCount": 7,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "足し算",
+        "reading": "たしざん",
+        "meaning": "addition",
+        "cn": "添加"
+      },
+      {
+        "word": "足首",
+        "reading": "あしくび",
+        "meaning": "ankle",
+        "cn": "踝"
+      },
+      {
+        "word": "逃げ足",
+        "reading": "にげあし",
+        "meaning": "running away",
+        "cn": "逃跑"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4f5c",
+    "level": "N4",
+    "character": "作",
+    "onyomi": [
+      "サ",
+      "サク"
+    ],
+    "kunyomi": [
+      "-づく.り",
+      "つく.り",
+      "つく.る"
+    ],
+    "meaning": "build",
+    "strokeCount": 7,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "名作",
+        "reading": "めいさく",
+        "meaning": "masterpiece",
+        "cn": "杰作"
+      },
+      {
+        "word": "原作",
+        "reading": "げんさく",
+        "meaning": "original work",
+        "cn": "原作"
+      },
+      {
+        "word": "反作用",
+        "reading": "はんさよう",
+        "meaning": "reaction",
+        "cn": "反应"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6b69",
+    "level": "N4",
+    "character": "歩",
+    "onyomi": [
+      "フ",
+      "ブ",
+      "ホ"
+    ],
+    "kunyomi": [
+      "あゆ.む",
+      "ある.く"
+    ],
+    "meaning": "counter for steps",
+    "strokeCount": 8,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "歩く",
+        "reading": "あるく",
+        "meaning": "to walk",
+        "cn": "走路"
+      },
+      {
+        "word": "歩行者",
+        "reading": "ほこうしゃ",
+        "meaning": "pedestrian",
+        "cn": "行人"
+      },
+      {
+        "word": "横断歩道",
+        "reading": "おうだんほどう",
+        "meaning": "pedestrian crossing",
+        "cn": "人行横道"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5e97",
+    "level": "N4",
+    "character": "店",
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "たな",
+      "みせ"
+    ],
+    "meaning": "shop",
+    "strokeCount": 8,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "百貨店",
+        "reading": "ひゃっかてん",
+        "meaning": "department store",
+        "cn": "百货商店"
+      },
+      {
+        "word": "飲食店",
+        "reading": "いんしょくてん",
+        "meaning": "restaurant",
+        "cn": "餐厅"
+      },
+      {
+        "word": "書店",
+        "reading": "しょてん",
+        "meaning": "bookshop",
+        "cn": "书店"
+      }
+    ]
+  },
+  {
+    "id": "n4-u670d",
+    "level": "N4",
+    "character": "服",
+    "onyomi": [
+      "フク"
+    ],
+    "kunyomi": [],
+    "meaning": "admit",
+    "strokeCount": 8,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "和服",
+        "reading": "わふく",
+        "meaning": "Japanese clothes",
+        "cn": "日系服装"
+      },
+      {
+        "word": "洋服",
+        "reading": "ようふく",
+        "meaning": "Western-style clothes (cf. traditional Japanese clothes)",
+        "cn": "西式服装（参照日本传统服装）"
+      },
+      {
+        "word": "衣服",
+        "reading": "いふく",
+        "meaning": "clothes",
+        "cn": "衣服"
+      }
+    ]
+  },
+  {
+    "id": "n4-u753b",
+    "level": "N4",
+    "character": "画",
+    "onyomi": [
+      "エ",
+      "カイ",
+      "カク",
+      "ガ"
+    ],
+    "kunyomi": [
+      "えが.く",
+      "かぎ.る",
+      "かく.する",
+      "はか.る",
+      "はかりごと"
+    ],
+    "meaning": "brush-stroke",
+    "strokeCount": 8,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "録画",
+        "reading": "ろくが",
+        "meaning": "(video) recording",
+        "cn": "（视频）录音"
+      },
+      {
+        "word": "画用紙",
+        "reading": "がようし",
+        "meaning": "drawing paper",
+        "cn": "绘图纸"
+      },
+      {
+        "word": "油絵",
+        "reading": "あぶらえ",
+        "meaning": "oil painting",
+        "cn": "油画"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4eac",
+    "level": "N4",
+    "character": "京",
+    "onyomi": [
+      "キョウ",
+      "キン",
+      "ケイ"
+    ],
+    "kunyomi": [
+      "みやこ"
+    ],
+    "meaning": "10**16",
+    "strokeCount": 8,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "上京",
+        "reading": "じょうきょう",
+        "meaning": "going (up) to the capital",
+        "cn": "去（上）首都"
+      },
+      {
+        "word": "帰京",
+        "reading": "ききょう",
+        "meaning": "returning (home) to Tokyo",
+        "cn": "返回（家）东京"
+      },
+      {
+        "word": "京都",
+        "reading": "きょうと",
+        "meaning": "Kyoto (city, prefecture)",
+        "cn": "京都（市、县）"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7a7a",
+    "level": "N4",
+    "character": "空",
+    "onyomi": [
+      "クウ"
+    ],
+    "kunyomi": [
+      "あ.き",
+      "あ.く",
+      "あ.ける",
+      "から",
+      "す.かす",
+      "す.く",
+      "そら",
+      "むな.しい"
+    ],
+    "meaning": "empty",
+    "strokeCount": 8,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "空軍",
+        "reading": "くうぐん",
+        "meaning": "air force",
+        "cn": "空军"
+      },
+      {
+        "word": "航空機",
+        "reading": "こうくうき",
+        "meaning": "aircraft",
+        "cn": "飞机"
+      },
+      {
+        "word": "空港",
+        "reading": "くうこう",
+        "meaning": "airport",
+        "cn": "飞机场"
+      }
+    ]
+  },
+  {
+    "id": "n4-u59b9",
+    "level": "N4",
+    "character": "妹",
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "いもうと"
+    ],
+    "meaning": "younger sister",
+    "strokeCount": 8,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "姉妹",
+        "reading": "きょうだい",
+        "meaning": "sisters",
+        "cn": "姐妹"
+      },
+      {
+        "word": "実妹",
+        "reading": "じつまい",
+        "meaning": "biological younger sister",
+        "cn": "亲生妹妹"
+      },
+      {
+        "word": "弟妹",
+        "reading": "ていまい",
+        "meaning": "younger brother and sister",
+        "cn": "弟弟和妹妹"
+      }
+    ]
+  },
+  {
+    "id": "n4-u660e",
+    "level": "N4",
+    "character": "明",
+    "onyomi": [
+      "ミョウ",
+      "ミン",
+      "メイ"
+    ],
+    "kunyomi": [
+      "-あ.け",
+      "あ.かす",
+      "あ.かり",
+      "あ.く",
+      "あ.くる",
+      "あ.ける",
+      "あか.らむ",
+      "あか.るい",
+      "あか.るむ",
+      "あき.らか"
+    ],
+    "meaning": "bright",
+    "strokeCount": 8,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "明治",
+        "reading": "めいじ",
+        "meaning": "Meiji era (1868.9.8-1912.7.30)",
+        "cn": "明治时代（1868.9.8-1912.7.30）"
+      },
+      {
+        "word": "明け方",
+        "reading": "あけがた",
+        "meaning": "dawn",
+        "cn": "黎明"
+      },
+      {
+        "word": "梅雨明け",
+        "reading": "つゆあけ",
+        "meaning": "end of the rainy season",
+        "cn": "雨季结束"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9752",
+    "level": "N4",
+    "character": "青",
+    "onyomi": [
+      "ショウ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "あお",
+      "あお",
+      "あお.い"
+    ],
+    "meaning": "blue",
+    "strokeCount": 8,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "青空",
+        "reading": "あおぞら",
+        "meaning": "blue sky",
+        "cn": "蓝天"
+      },
+      {
+        "word": "未成年",
+        "reading": "みせいねん",
+        "meaning": "minor",
+        "cn": "次要的"
+      },
+      {
+        "word": "青ざめる",
+        "reading": "あおざめる",
+        "meaning": "to become pale",
+        "cn": "变得苍白"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4f7f",
+    "level": "N4",
+    "character": "使",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "-つか.い",
+      "-づか.い",
+      "つか.い",
+      "つか.う"
+    ],
+    "meaning": "ambassador",
+    "strokeCount": 8,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "大使",
+        "reading": "たいし",
+        "meaning": "ambassador",
+        "cn": "大使"
+      },
+      {
+        "word": "大使館",
+        "reading": "たいしかん",
+        "meaning": "embassy",
+        "cn": "大使馆"
+      },
+      {
+        "word": "使用人",
+        "reading": "しようにん",
+        "meaning": "employee",
+        "cn": "员工"
+      }
+    ]
+  },
+  {
+    "id": "n4-u59cb",
+    "level": "N4",
+    "character": "始",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "-はじ.める",
+      "はじ.まる",
+      "はじ.める"
+    ],
+    "meaning": "begin",
+    "strokeCount": 8,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "月初め",
+        "reading": "つきはじめ",
+        "meaning": "beginning of the month",
+        "cn": "月初"
+      },
+      {
+        "word": "始終",
+        "reading": "しじゅう",
+        "meaning": "continuously",
+        "cn": "不断地"
+      },
+      {
+        "word": "始まり",
+        "reading": "はじまり",
+        "meaning": "origin",
+        "cn": "起源"
+      }
+    ]
+  },
+  {
+    "id": "n4-u4e8b",
+    "level": "N4",
+    "character": "事",
+    "onyomi": [
+      "ジ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "こと",
+      "つか.う",
+      "つか.える"
+    ],
+    "meaning": "business",
+    "strokeCount": 8,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "工事",
+        "reading": "こうじ",
+        "meaning": "construction work",
+        "cn": "建筑工程"
+      },
+      {
+        "word": "領事館",
+        "reading": "りょうじかん",
+        "meaning": "consulate",
+        "cn": "领事馆"
+      },
+      {
+        "word": "軍事",
+        "reading": "ぐんじ",
+        "meaning": "military affairs",
+        "cn": "军事"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5473",
+    "level": "N4",
+    "character": "味",
+    "onyomi": [
+      "ミ"
+    ],
+    "kunyomi": [
+      "あじ",
+      "あじ.わう"
+    ],
+    "meaning": "flavor",
+    "strokeCount": 8,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "味噌汁",
+        "reading": "みそしる",
+        "meaning": "miso soup",
+        "cn": "味噌汤"
+      },
+      {
+        "word": "苦味",
+        "reading": "くみ",
+        "meaning": "bitterness",
+        "cn": "苦味"
+      },
+      {
+        "word": "深み",
+        "reading": "ふかみ",
+        "meaning": "depth",
+        "cn": "深度"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7269",
+    "level": "N4",
+    "character": "物",
+    "onyomi": [
+      "ブツ",
+      "モツ"
+    ],
+    "kunyomi": [
+      "もの",
+      "もの"
+    ],
+    "meaning": "matter",
+    "strokeCount": 8,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "動物",
+        "reading": "どうぶつ",
+        "meaning": "animal",
+        "cn": "动物"
+      },
+      {
+        "word": "植物園",
+        "reading": "しょくぶつえん",
+        "meaning": "botanical garden",
+        "cn": "植物园"
+      },
+      {
+        "word": "建物",
+        "reading": "たてもの",
+        "meaning": "building",
+        "cn": "建筑"
+      }
+    ]
+  },
+  {
+    "id": "n4-u591c",
+    "level": "N4",
+    "character": "夜",
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "よ",
+      "よる"
+    ],
+    "meaning": "evening",
+    "strokeCount": 8,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "昼夜",
+        "reading": "ちゅうや",
+        "meaning": "day and night",
+        "cn": "日夜"
+      },
+      {
+        "word": "月夜",
+        "reading": "つきよ",
+        "meaning": "moonlit night",
+        "cn": "月夜"
+      },
+      {
+        "word": "夜空",
+        "reading": "よぞら",
+        "meaning": "night sky",
+        "cn": "夜空"
+      }
+    ]
+  },
+  {
+    "id": "n4-u82f1",
+    "level": "N4",
+    "character": "英",
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "はなぶさ"
+    ],
+    "meaning": "England",
+    "strokeCount": 8,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "英語",
+        "reading": "えいご",
+        "meaning": "English (language)",
+        "cn": "英语）"
+      },
+      {
+        "word": "英和",
+        "reading": "えいわ",
+        "meaning": "English-Japanese",
+        "cn": "英语-日语"
+      },
+      {
+        "word": "和英",
+        "reading": "わえい",
+        "meaning": "Japanese-English",
+        "cn": "日语-英语"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8005",
+    "level": "N4",
+    "character": "者",
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "もの"
+    ],
+    "meaning": "person",
+    "strokeCount": 8,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "消費者",
+        "reading": "しょうひしゃ",
+        "meaning": "consumer",
+        "cn": "消费者"
+      },
+      {
+        "word": "歯医者",
+        "reading": "はいしゃ",
+        "meaning": "dentist",
+        "cn": "牙医"
+      },
+      {
+        "word": "患者",
+        "reading": "かんじゃ",
+        "meaning": "patient",
+        "cn": "病人"
+      }
+    ]
+  },
+  {
+    "id": "n4-u77e5",
+    "level": "N4",
+    "character": "知",
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "し.らせる",
+      "し.る"
+    ],
+    "meaning": "know",
+    "strokeCount": 8,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "知合い",
+        "reading": "しりあい",
+        "meaning": "acquaintance",
+        "cn": "熟人"
+      },
+      {
+        "word": "知り合い",
+        "reading": "しりあい",
+        "meaning": "acquaintance",
+        "cn": "熟人"
+      },
+      {
+        "word": "知的",
+        "reading": "ちてき",
+        "meaning": "intellectual",
+        "cn": "知识分子"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6ce8",
+    "level": "N4",
+    "character": "注",
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "さ.す",
+      "そそ.ぐ",
+      "つ.ぐ"
+    ],
+    "meaning": "annotate",
+    "strokeCount": 8,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "取扱注意",
+        "reading": "とりあつかいちゅうい",
+        "meaning": "handling warning",
+        "cn": "处理警告"
+      },
+      {
+        "word": "注射",
+        "reading": "ちゅうしゃ",
+        "meaning": "injection",
+        "cn": "注射"
+      },
+      {
+        "word": "要注意",
+        "reading": "ようちゅうい",
+        "meaning": "need for caution",
+        "cn": "需要谨慎"
+      }
+    ]
+  },
+  {
+    "id": "n4-u59c9",
+    "level": "N4",
+    "character": "姉",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "あね",
+      "はは"
+    ],
+    "meaning": "elder sister",
+    "strokeCount": 8,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "姉妹",
+        "reading": "きょうだい",
+        "meaning": "sisters",
+        "cn": "姐妹"
+      },
+      {
+        "word": "姉さん",
+        "reading": "あねさん",
+        "meaning": "ma'am",
+        "cn": "我有"
+      },
+      {
+        "word": "お姉さん",
+        "reading": "おねえさん",
+        "meaning": "ma'am",
+        "cn": "我有"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8336",
+    "level": "N4",
+    "character": "茶",
+    "onyomi": [
+      "サ",
+      "チャ"
+    ],
+    "kunyomi": [],
+    "meaning": "tea",
+    "strokeCount": 9,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "茶の間",
+        "reading": "ちゃのま",
+        "meaning": "(Japanese-style) living room",
+        "cn": "（日式）客厅"
+      },
+      {
+        "word": "紅茶",
+        "reading": "こうちゃ",
+        "meaning": "black tea",
+        "cn": "红茶"
+      },
+      {
+        "word": "茶色",
+        "reading": "ちゃいろ",
+        "meaning": "brown",
+        "cn": "棕色的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6301",
+    "level": "N4",
+    "character": "持",
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "-も.ち",
+      "も.つ",
+      "も.てる"
+    ],
+    "meaning": "have",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "金持ち",
+        "reading": "かねもち",
+        "meaning": "rich person",
+        "cn": "有钱人"
+      },
+      {
+        "word": "受け持つ",
+        "reading": "うけもつ",
+        "meaning": "to take (be in) charge of",
+        "cn": "负责（负责）"
+      },
+      {
+        "word": "力持ち",
+        "reading": "ちからもち",
+        "meaning": "muscleman",
+        "cn": "肌肉男"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6625",
+    "level": "N4",
+    "character": "春",
+    "onyomi": [
+      "シュン"
+    ],
+    "kunyomi": [
+      "はる"
+    ],
+    "meaning": "spring (season)",
+    "strokeCount": 9,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "早春",
+        "reading": "そうしゅん",
+        "meaning": "early spring",
+        "cn": "早春"
+      },
+      {
+        "word": "売春",
+        "reading": "ばいしゅん",
+        "meaning": "prostitution",
+        "cn": "卖淫"
+      },
+      {
+        "word": "春夏秋冬",
+        "reading": "しゅんかしゅうとう",
+        "meaning": "spring, summer, autumn (fall) and winter",
+        "cn": "春、夏、秋（秋）、冬"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5f85",
+    "level": "N4",
+    "character": "待",
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "-ま.ち",
+      "ま.つ"
+    ],
+    "meaning": "depend on",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "招待",
+        "reading": "しょうたい",
+        "meaning": "invitation",
+        "cn": "邀请函"
+      },
+      {
+        "word": "待合室",
+        "reading": "まちあいしつ",
+        "meaning": "waiting room",
+        "cn": "等候室"
+      },
+      {
+        "word": "待ち伏せ",
+        "reading": "まちぶせ",
+        "meaning": "ambush",
+        "cn": "伏击"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5ea6",
+    "level": "N4",
+    "character": "度",
+    "onyomi": [
+      "タク",
+      "ト",
+      "ド"
+    ],
+    "kunyomi": [
+      "-た.い",
+      "たび"
+    ],
+    "meaning": "attitude",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "一度に",
+        "reading": "いちどに",
+        "meaning": "all at once",
+        "cn": "一下子"
+      },
+      {
+        "word": "角度",
+        "reading": "かくど",
+        "meaning": "angle",
+        "cn": "角度"
+      },
+      {
+        "word": "密度",
+        "reading": "みつど",
+        "meaning": "density",
+        "cn": "密度"
+      }
+    ]
+  },
+  {
+    "id": "n4-u767a",
+    "level": "N4",
+    "character": "発",
+    "onyomi": [
+      "ハツ",
+      "ホツ"
+    ],
+    "kunyomi": [
+      "あば.く",
+      "おこ.る",
+      "た.つ",
+      "つか.わす",
+      "はな.つ"
+    ],
+    "meaning": "counter for gunshots",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "発着",
+        "reading": "はっちゃく",
+        "meaning": "arrival and departure",
+        "cn": "到达和离开"
+      },
+      {
+        "word": "頻発",
+        "reading": "ひんぱつ",
+        "meaning": "frequent occurrence",
+        "cn": "频繁发生"
+      },
+      {
+        "word": "発育",
+        "reading": "はついく",
+        "meaning": "(physical) growth",
+        "cn": "（身体）成长"
+      }
+    ]
+  },
+  {
+    "id": "n4-u98a8",
+    "level": "N4",
+    "character": "風",
+    "onyomi": [
+      "フ",
+      "フウ"
+    ],
+    "kunyomi": [
+      "かざ",
+      "かぜ"
+    ],
+    "meaning": "air",
+    "strokeCount": 9,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "洋風",
+        "reading": "ようふう",
+        "meaning": "Western style",
+        "cn": "西式风格"
+      },
+      {
+        "word": "風呂場",
+        "reading": "ふろば",
+        "meaning": "bathroom",
+        "cn": "浴室"
+      },
+      {
+        "word": "扇風機",
+        "reading": "せんぷうき",
+        "meaning": "electric fan",
+        "cn": "电扇"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6d77",
+    "level": "N4",
+    "character": "海",
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "うみ"
+    ],
+    "meaning": "ocean",
+    "strokeCount": 9,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "海抜",
+        "reading": "かいばつ",
+        "meaning": "height above sea level",
+        "cn": "海拔"
+      },
+      {
+        "word": "海産物",
+        "reading": "かいさんぶつ",
+        "meaning": "marine products",
+        "cn": "海产"
+      },
+      {
+        "word": "海軍",
+        "reading": "かいぐん",
+        "meaning": "navy",
+        "cn": "海军"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6025",
+    "level": "N4",
+    "character": "急",
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "いそ.ぎ",
+      "いそ.ぐ",
+      "せ.く"
+    ],
+    "meaning": "emergency",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "急性",
+        "reading": "きゅうせい",
+        "meaning": "acute (illness)",
+        "cn": "急性（疾病）"
+      },
+      {
+        "word": "救急車",
+        "reading": "きゅうきゅうしゃ",
+        "meaning": "ambulance",
+        "cn": "救护车"
+      },
+      {
+        "word": "急速",
+        "reading": "きゅうそく",
+        "meaning": "rapid (e.g. progress)",
+        "cn": "快速（例如进展）"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8a08",
+    "level": "N4",
+    "character": "計",
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "はか.らう",
+      "はか.る"
+    ],
+    "meaning": "measure",
+    "strokeCount": 9,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "体温計",
+        "reading": "たいおんけい",
+        "meaning": "(clinical) thermometer",
+        "cn": "（临床）温度计"
+      },
+      {
+        "word": "統計",
+        "reading": "とうけい",
+        "meaning": "statistics",
+        "cn": "统计数据"
+      },
+      {
+        "word": "寒暖計",
+        "reading": "かんだんけい",
+        "meaning": "thermometer",
+        "cn": "温度计"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5efa",
+    "level": "N4",
+    "character": "建",
+    "onyomi": [
+      "ケン",
+      "コン"
+    ],
+    "kunyomi": [
+      "-だ.て",
+      "た.つ",
+      "た.て",
+      "た.てる"
+    ],
+    "meaning": "build",
+    "strokeCount": 9,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "建物",
+        "reading": "たてもの",
+        "meaning": "building",
+        "cn": "建筑"
+      },
+      {
+        "word": "封建主義",
+        "reading": "ほうけんしゅぎ",
+        "meaning": "feudalism",
+        "cn": "封建"
+      },
+      {
+        "word": "建築",
+        "reading": "けんちく",
+        "meaning": "construction",
+        "cn": "建造"
+      }
+    ]
+  },
+  {
+    "id": "n4-u754c",
+    "level": "N4",
+    "character": "界",
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [],
+    "meaning": "boundary",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "国境",
+        "reading": "くにざかい",
+        "meaning": "border (between countries)",
+        "cn": "边界（国家之间）"
+      },
+      {
+        "word": "財界",
+        "reading": "ざいかい",
+        "meaning": "financial world",
+        "cn": "金融世界"
+      },
+      {
+        "word": "限界",
+        "reading": "げんかい",
+        "meaning": "limit",
+        "cn": "限制"
+      }
+    ]
+  },
+  {
+    "id": "n4-u54c1",
+    "level": "N4",
+    "character": "品",
+    "onyomi": [
+      "ヒン",
+      "ホン"
+    ],
+    "kunyomi": [
+      "しな"
+    ],
+    "meaning": "article",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "日用品",
+        "reading": "にちようひん",
+        "meaning": "daily necessities",
+        "cn": "生活用品"
+      },
+      {
+        "word": "品詞",
+        "reading": "ひんし",
+        "meaning": "part of speech",
+        "cn": "词类"
+      },
+      {
+        "word": "品質",
+        "reading": "ひんしつ",
+        "meaning": "quality (of a product or a service)",
+        "cn": "（产品或服务的）质量"
+      }
+    ]
+  },
+  {
+    "id": "n4-u79cb",
+    "level": "N4",
+    "character": "秋",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あき",
+      "とき"
+    ],
+    "meaning": "autumn",
+    "strokeCount": 9,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "秋風",
+        "reading": "あきかぜ",
+        "meaning": "autumn breeze",
+        "cn": "秋风"
+      },
+      {
+        "word": "春夏秋冬",
+        "reading": "しゅんかしゅうとう",
+        "meaning": "spring, summer, autumn (fall) and winter",
+        "cn": "春、夏、秋（秋）、冬"
+      },
+      {
+        "word": "秋分",
+        "reading": "しゅうぶん",
+        "meaning": "autumnal equinox",
+        "cn": "秋分"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5ba4",
+    "level": "N4",
+    "character": "室",
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "むろ"
+    ],
+    "meaning": "apartment",
+    "strokeCount": 9,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "和室",
+        "reading": "わしつ",
+        "meaning": "Japanese-style room",
+        "cn": "日式房间"
+      },
+      {
+        "word": "洋室",
+        "reading": "ようしつ",
+        "meaning": "Western-style room",
+        "cn": "西式房间"
+      },
+      {
+        "word": "浴室",
+        "reading": "よくしつ",
+        "meaning": "bathroom",
+        "cn": "浴室"
+      }
+    ]
+  },
+  {
+    "id": "n4-u601d",
+    "level": "N4",
+    "character": "思",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "おぼ.す",
+      "おも.う",
+      "おもえら.く"
+    ],
+    "meaning": "think",
+    "strokeCount": 9,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "片思い",
+        "reading": "かたおもい",
+        "meaning": "unrequited love",
+        "cn": "单恋"
+      },
+      {
+        "word": "思い出",
+        "reading": "おもいで",
+        "meaning": "memories",
+        "cn": "回忆"
+      },
+      {
+        "word": "思考",
+        "reading": "しこう",
+        "meaning": "thought",
+        "cn": "想法"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9001",
+    "level": "N4",
+    "character": "送",
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "おく.る"
+    ],
+    "meaning": "escort",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "送別会",
+        "reading": "そうべつかい",
+        "meaning": "farewell party",
+        "cn": "欢送会"
+      },
+      {
+        "word": "送別",
+        "reading": "そうべつ",
+        "meaning": "farewell",
+        "cn": "告别"
+      },
+      {
+        "word": "送り仮名",
+        "reading": "おくりがな",
+        "meaning": "kana written after a kanji to complete the full (usually kun) reading of the word",
+        "cn": "在汉字之后写的假名，以完成该单词的完整（通常是 kun）阅读"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5c4b",
+    "level": "N4",
+    "character": "屋",
+    "onyomi": [
+      "オク"
+    ],
+    "kunyomi": [
+      "や"
+    ],
+    "meaning": "dealer",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "紺屋",
+        "reading": "こうや",
+        "meaning": "dyer",
+        "cn": "染色者"
+      },
+      {
+        "word": "屋内",
+        "reading": "おくない",
+        "meaning": "indoor (court, pool, etc.)",
+        "cn": "室内（法庭、游泳池等）"
+      },
+      {
+        "word": "宿屋",
+        "reading": "やどや",
+        "meaning": "inn",
+        "cn": "客栈"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7814",
+    "level": "N4",
+    "character": "研",
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "と.ぐ"
+    ],
+    "meaning": "polish",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "study",
+        "cn": "学习"
+      },
+      {
+        "word": "磨く",
+        "reading": "みがく",
+        "meaning": "to refine (a skill, etc.)",
+        "cn": "精炼（技能等）"
+      },
+      {
+        "word": "研ぐ",
+        "reading": "とぐ",
+        "meaning": "to wash (rice)",
+        "cn": "洗（米）"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6d0b",
+    "level": "N4",
+    "character": "洋",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "meaning": "Western style",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "洋裁",
+        "reading": "ようさい",
+        "meaning": "(Western) dressmaking",
+        "cn": "（西式）裁缝"
+      },
+      {
+        "word": "洋書",
+        "reading": "ようしょ",
+        "meaning": "Western book",
+        "cn": "西书"
+      },
+      {
+        "word": "洋風",
+        "reading": "ようふう",
+        "meaning": "Western style",
+        "cn": "西式风格"
+      }
+    ]
+  },
+  {
+    "id": "n4-u97f3",
+    "level": "N4",
+    "character": "音",
+    "onyomi": [
+      "-ノン",
+      "イン",
+      "オン"
+    ],
+    "kunyomi": [
+      "おと",
+      "ね"
+    ],
+    "meaning": "noise",
+    "strokeCount": 9,
+    "category": "小学1年",
+    "examples": [
+      {
+        "word": "録音",
+        "reading": "ろくおん",
+        "meaning": "(audio) recording",
+        "cn": "（音频）录音"
+      },
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "meaning": "music",
+        "cn": "音乐"
+      },
+      {
+        "word": "防音",
+        "reading": "ぼうおん",
+        "meaning": "soundproofing",
+        "cn": "隔音"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6620",
+    "level": "N4",
+    "character": "映",
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "-ば.え",
+      "うつ.す",
+      "うつ.る",
+      "は.える"
+    ],
+    "meaning": "projection",
+    "strokeCount": 9,
+    "category": "小学6年",
+    "examples": [
+      {
+        "word": "上映",
+        "reading": "じょうえい",
+        "meaning": "screening (a movie)",
+        "cn": "放映（电影）"
+      },
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "meaning": "movie",
+        "cn": "电影"
+      },
+      {
+        "word": "映画館",
+        "reading": "えいがかん",
+        "meaning": "movie theatre",
+        "cn": "电影院"
+      }
+    ]
+  },
+  {
+    "id": "n4-u91cd",
+    "level": "N4",
+    "character": "重",
+    "onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "え",
+      "おも",
+      "おも.い",
+      "おも.なう",
+      "おも.り",
+      "かさ.なる",
+      "かさ.ねる"
+    ],
+    "meaning": "-fold",
+    "strokeCount": 9,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "体重",
+        "reading": "たいじゅう",
+        "meaning": "(body) weight",
+        "cn": "（体重"
+      },
+      {
+        "word": "重工業",
+        "reading": "じゅうこうぎょう",
+        "meaning": "heavy industry",
+        "cn": "重工业"
+      },
+      {
+        "word": "重症",
+        "reading": "じゅうしょう",
+        "meaning": "serious illness",
+        "cn": "重病"
+      }
+    ]
+  },
+  {
+    "id": "n4-u663c",
+    "level": "N4",
+    "character": "昼",
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "ひる"
+    ],
+    "meaning": "daytime",
+    "strokeCount": 9,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "昼夜",
+        "reading": "ちゅうや",
+        "meaning": "day and night",
+        "cn": "日夜"
+      },
+      {
+        "word": "昼下がり",
+        "reading": "ひるさがり",
+        "meaning": "early afternoon",
+        "cn": "下午早些时候"
+      },
+      {
+        "word": "昼過ぎ",
+        "reading": "ひるすぎ",
+        "meaning": "just past noon",
+        "cn": "中午刚过"
+      }
+    ]
+  },
+  {
+    "id": "n4-u75c5",
+    "level": "N4",
+    "character": "病",
+    "onyomi": [
+      "ビョウ",
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "-や.み",
+      "や.む",
+      "やまい"
+    ],
+    "meaning": "ill",
+    "strokeCount": 10,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "看病",
+        "reading": "かんびょう",
+        "meaning": "nursing (a patient)",
+        "cn": "护理（病人）"
+      },
+      {
+        "word": "急病",
+        "reading": "きゅうびょう",
+        "meaning": "sudden illness",
+        "cn": "突发疾病"
+      },
+      {
+        "word": "病死",
+        "reading": "びょうし",
+        "meaning": "death from disease",
+        "cn": "疾病死亡"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5e30",
+    "level": "N4",
+    "character": "帰",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "おく.る",
+      "かえ.す",
+      "かえ.る",
+      "とつ.ぐ"
+    ],
+    "meaning": "arrive at",
+    "strokeCount": 10,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "日帰り",
+        "reading": "ひがえり",
+        "meaning": "day trip",
+        "cn": "一日游"
+      },
+      {
+        "word": "帰省",
+        "reading": "きせい",
+        "meaning": "homecoming",
+        "cn": "归来"
+      },
+      {
+        "word": "帰化",
+        "reading": "きか",
+        "meaning": "naturalization",
+        "cn": "入籍"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5bb6",
+    "level": "N4",
+    "character": "家",
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "いえ",
+      "うち",
+      "や"
+    ],
+    "meaning": "expert",
+    "strokeCount": 10,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "実家",
+        "reading": "じっか",
+        "meaning": "(one's parents') home",
+        "cn": "（父母的）家"
+      },
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "family",
+        "cn": "家庭"
+      },
+      {
+        "word": "家系",
+        "reading": "かけい",
+        "meaning": "family lineage",
+        "cn": "家族血统"
+      }
+    ]
+  },
+  {
+    "id": "n4-u501f",
+    "level": "N4",
+    "character": "借",
+    "onyomi": [
+      "シャク"
+    ],
+    "kunyomi": [
+      "か.りる"
+    ],
+    "meaning": "borrow",
+    "strokeCount": 10,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "前借り",
+        "reading": "まえがり",
+        "meaning": "getting an advance (on one's salary)",
+        "cn": "预支工资"
+      },
+      {
+        "word": "間借り",
+        "reading": "まがり",
+        "meaning": "renting a room",
+        "cn": "租一个房间"
+      },
+      {
+        "word": "借り",
+        "reading": "かり",
+        "meaning": "borrowing",
+        "cn": "借用"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6599",
+    "level": "N4",
+    "character": "料",
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [],
+    "meaning": "fee",
+    "strokeCount": 10,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "衣料",
+        "reading": "いりょう",
+        "meaning": "clothing",
+        "cn": "衣服"
+      },
+      {
+        "word": "飲料水",
+        "reading": "いんりょうすい",
+        "meaning": "drinking water",
+        "cn": "饮用水"
+      },
+      {
+        "word": "食料",
+        "reading": "しょくりょう",
+        "meaning": "food",
+        "cn": "食物"
+      }
+    ]
+  },
+  {
+    "id": "n4-u65c5",
+    "level": "N4",
+    "character": "旅",
+    "onyomi": [
+      "リョ"
+    ],
+    "kunyomi": [
+      "たび"
+    ],
+    "meaning": "travel",
+    "strokeCount": 10,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "旅客機",
+        "reading": "りょかくき",
+        "meaning": "passenger plane",
+        "cn": "客机"
+      },
+      {
+        "word": "旅券",
+        "reading": "りょけん",
+        "meaning": "passport",
+        "cn": "护照"
+      },
+      {
+        "word": "旅費",
+        "reading": "りょひ",
+        "meaning": "travel expenses",
+        "cn": "差旅费"
+      }
+    ]
+  },
+  {
+    "id": "n4-u52c9",
+    "level": "N4",
+    "character": "勉",
+    "onyomi": [
+      "ベン"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "meaning": "diligent",
+    "strokeCount": 10,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "勉学",
+        "reading": "べんがく",
+        "meaning": "study",
+        "cn": "学习"
+      },
+      {
+        "word": "勤勉",
+        "reading": "きんべん",
+        "meaning": "diligent",
+        "cn": "勤奋"
+      },
+      {
+        "word": "努めて",
+        "reading": "つとめて",
+        "meaning": "as much as possible",
+        "cn": "尽量"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8d77",
+    "level": "N4",
+    "character": "起",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "お.きる",
+      "お.こす",
+      "お.こる",
+      "おこ.す",
+      "た.つ"
+    ],
+    "meaning": "get up",
+    "strokeCount": 10,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "早起き",
+        "reading": "はやおき",
+        "meaning": "early rising",
+        "cn": "早起"
+      },
+      {
+        "word": "起立",
+        "reading": "きりつ",
+        "meaning": "standing up",
+        "cn": "站起来"
+      },
+      {
+        "word": "発起人",
+        "reading": "ほっきにん",
+        "meaning": "originator",
+        "cn": "鼻祖"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7279",
+    "level": "N4",
+    "character": "特",
+    "onyomi": [
+      "トク"
+    ],
+    "kunyomi": [],
+    "meaning": "special",
+    "strokeCount": 10,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "特技",
+        "reading": "とくぎ",
+        "meaning": "special skill",
+        "cn": "特殊技能"
+      },
+      {
+        "word": "超特急",
+        "reading": "ちょうとっきゅう",
+        "meaning": "super express",
+        "cn": "超级快车"
+      },
+      {
+        "word": "特産",
+        "reading": "とくさん",
+        "meaning": "being produced in a particular region",
+        "cn": "在特定地区生产"
+      }
+    ]
+  },
+  {
+    "id": "n4-u901a",
+    "level": "N4",
+    "character": "通",
+    "onyomi": [
+      "ツ",
+      "ツウ"
+    ],
+    "kunyomi": [
+      "-とお.り",
+      "-どお.し",
+      "-どお.り",
+      "かよ.う",
+      "とお.し",
+      "とお.す",
+      "とお.り",
+      "とお.る"
+    ],
+    "meaning": "avenue",
+    "strokeCount": 10,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "通勤",
+        "reading": "つうきん",
+        "meaning": "commuting to work",
+        "cn": "上班通勤"
+      },
+      {
+        "word": "通貨",
+        "reading": "つうか",
+        "meaning": "currency",
+        "cn": "货币"
+      },
+      {
+        "word": "人通り",
+        "reading": "ひとどおり",
+        "meaning": "pedestrian traffic",
+        "cn": "行人交通"
+      }
+    ]
+  },
+  {
+    "id": "n4-u590f",
+    "level": "N4",
+    "character": "夏",
+    "onyomi": [
+      "カ",
+      "ガ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "なつ"
+    ],
+    "meaning": "summer",
+    "strokeCount": 10,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "夏季",
+        "reading": "かき",
+        "meaning": "summer season",
+        "cn": "夏季"
+      },
+      {
+        "word": "夏至",
+        "reading": "げし",
+        "meaning": "summer solstice",
+        "cn": "夏至"
+      },
+      {
+        "word": "春夏秋冬",
+        "reading": "しゅんかしゅうとう",
+        "meaning": "spring, summer, autumn (fall) and winter",
+        "cn": "春、夏、秋（秋）、冬"
+      }
+    ]
+  },
+  {
+    "id": "n4-u54e1",
+    "level": "N4",
+    "character": "員",
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [],
+    "meaning": "employee",
+    "strokeCount": 10,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "委員",
+        "reading": "いいん",
+        "meaning": "committee member",
+        "cn": "委员"
+      },
+      {
+        "word": "乗組員",
+        "reading": "のりくみいん",
+        "meaning": "crew (of a ship, airplane, etc.)",
+        "cn": "（船舶、飞机等的）机组人员"
+      },
+      {
+        "word": "従業員",
+        "reading": "じゅうぎょういん",
+        "meaning": "employee",
+        "cn": "员工"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9662",
+    "level": "N4",
+    "character": "院",
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [],
+    "meaning": "Inst.",
+    "strokeCount": 10,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "参議院",
+        "reading": "さんぎいん",
+        "meaning": "House of Councillors (upper house of the National Diet of Japan)",
+        "cn": "参议院（日本国会上议院）"
+      },
+      {
+        "word": "衆議院",
+        "reading": "しゅうぎいん",
+        "meaning": "House of Representatives (lower house of the National Diet of Japan)",
+        "cn": "众议院（日本国会下议院）"
+      },
+      {
+        "word": "大学院",
+        "reading": "だいがくいん",
+        "meaning": "graduate school",
+        "cn": "研究所"
+      }
+    ]
+  },
+  {
+    "id": "n4-u771f",
+    "level": "N4",
+    "character": "真",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ま",
+      "ま",
+      "まこと"
+    ],
+    "meaning": "Buddhist sect",
+    "strokeCount": 10,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "真珠",
+        "reading": "しんじゅ",
+        "meaning": "pearl",
+        "cn": "珍珠"
+      },
+      {
+        "word": "真っ黒",
+        "reading": "まっくろ",
+        "meaning": "pitch black",
+        "cn": "漆黑"
+      },
+      {
+        "word": "真四角",
+        "reading": "ましかく",
+        "meaning": "square",
+        "cn": "正方形"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7d19",
+    "level": "N4",
+    "character": "紙",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "かみ"
+    ],
+    "meaning": "paper",
+    "strokeCount": 10,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "印紙",
+        "reading": "いんし",
+        "meaning": "(revenue) stamp",
+        "cn": "（收入）邮票"
+      },
+      {
+        "word": "画用紙",
+        "reading": "がようし",
+        "meaning": "drawing paper",
+        "cn": "绘图纸"
+      },
+      {
+        "word": "包み紙",
+        "reading": "つつみがみ",
+        "meaning": "wrapping paper",
+        "cn": "包装纸"
+      }
+    ]
+  },
+  {
+    "id": "n4-u52d5",
+    "level": "N4",
+    "character": "動",
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "うご.かす",
+      "うご.く"
+    ],
+    "meaning": "change",
+    "strokeCount": 11,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "能動的",
+        "reading": "のうどうてき",
+        "meaning": "active",
+        "cn": "积极的"
+      },
+      {
+        "word": "動物",
+        "reading": "どうぶつ",
+        "meaning": "animal",
+        "cn": "动物"
+      },
+      {
+        "word": "受動的",
+        "reading": "じゅどうてき",
+        "meaning": "passive",
+        "cn": "被动的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u60aa",
+    "level": "N4",
+    "character": "悪",
+    "onyomi": [
+      "アク",
+      "オ"
+    ],
+    "kunyomi": [
+      "-にく.い",
+      "あ.し",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にく.い",
+      "にく.む",
+      "わる",
+      "わる.い"
+    ],
+    "meaning": "bad",
+    "strokeCount": 11,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "難い",
+        "reading": "がたい",
+        "meaning": "difficult to ...",
+        "cn": "很难..."
+      },
+      {
+        "word": "悪夢",
+        "reading": "あくむ",
+        "meaning": "nightmare",
+        "cn": "恶梦"
+      },
+      {
+        "word": "善悪",
+        "reading": "ぜんあく",
+        "meaning": "right and wrong",
+        "cn": "对与错"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9ed2",
+    "level": "N4",
+    "character": "黒",
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くろ",
+      "くろ.い",
+      "くろ.ずむ"
+    ],
+    "meaning": "black",
+    "strokeCount": 11,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "黒板",
+        "reading": "こくばん",
+        "meaning": "blackboard",
+        "cn": "黑板"
+      },
+      {
+        "word": "真っ黒",
+        "reading": "まっくろ",
+        "meaning": "pitch black",
+        "cn": "漆黑"
+      },
+      {
+        "word": "黒字",
+        "reading": "くろじ",
+        "meaning": "black letter",
+        "cn": "黑字"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6559",
+    "level": "N4",
+    "character": "教",
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "おし.える",
+      "おそ.わる"
+    ],
+    "meaning": "doctrine",
+    "strokeCount": 11,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "教諭",
+        "reading": "きょうゆ",
+        "meaning": "(licensed) teacher",
+        "cn": "（有执照的）教师"
+      },
+      {
+        "word": "仏教",
+        "reading": "ぶっきょう",
+        "meaning": "Buddhism",
+        "cn": "佛教"
+      },
+      {
+        "word": "教師",
+        "reading": "きょうし",
+        "meaning": "teacher (classroom)",
+        "cn": "老师（课堂）"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7406",
+    "level": "N4",
+    "character": "理",
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [
+      "ことわり"
+    ],
+    "meaning": "arrangement",
+    "strokeCount": 11,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "理学部",
+        "reading": "りがくぶ",
+        "meaning": "department of science",
+        "cn": "科学系"
+      },
+      {
+        "word": "地理",
+        "reading": "ちり",
+        "meaning": "geography",
+        "cn": "地理"
+      },
+      {
+        "word": "論理",
+        "reading": "ろんり",
+        "meaning": "logic",
+        "cn": "逻辑"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9ce5",
+    "level": "N4",
+    "character": "鳥",
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "とり"
+    ],
+    "meaning": "bird",
+    "strokeCount": 11,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "小鳥",
+        "reading": "ことり",
+        "meaning": "small bird",
+        "cn": "小鸟"
+      },
+      {
+        "word": "鳥居",
+        "reading": "とりい",
+        "meaning": "torii",
+        "cn": "鸟居"
+      },
+      {
+        "word": "白鳥",
+        "reading": "しらとり",
+        "meaning": "white-feathered bird",
+        "cn": "白羽毛的鸟"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5f37",
+    "level": "N4",
+    "character": "強",
+    "onyomi": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "こわ.い",
+      "し.いる",
+      "つよ.い",
+      "つよ.まる",
+      "つよ.める"
+    ],
+    "meaning": "strong",
+    "strokeCount": 11,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "強いて",
+        "reading": "しいて",
+        "meaning": "by force",
+        "cn": "强行"
+      },
+      {
+        "word": "最強",
+        "reading": "さいきょう",
+        "meaning": "strongest",
+        "cn": "最强"
+      },
+      {
+        "word": "心強い",
+        "reading": "こころづよい",
+        "meaning": "heartening",
+        "cn": "令人振奋的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5802",
+    "level": "N4",
+    "character": "堂",
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [],
+    "meaning": "hall",
+    "strokeCount": 11,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "講堂",
+        "reading": "こうどう",
+        "meaning": "auditorium",
+        "cn": "礼堂"
+      },
+      {
+        "word": "食堂",
+        "reading": "しょくどう",
+        "meaning": "restaurant",
+        "cn": "餐厅"
+      },
+      {
+        "word": "堂々",
+        "reading": "どうどう",
+        "meaning": "grandly",
+        "cn": "隆重地"
+      }
+    ]
+  },
+  {
+    "id": "n4-u554f",
+    "level": "N4",
+    "character": "問",
+    "onyomi": [
+      "モン"
+    ],
+    "kunyomi": [
+      "と.い",
+      "と.う",
+      "とん"
+    ],
+    "meaning": "ask",
+    "strokeCount": 11,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "自問",
+        "reading": "じもん",
+        "meaning": "asking oneself",
+        "cn": "问自己"
+      },
+      {
+        "word": "訪問",
+        "reading": "ほうもん",
+        "meaning": "call",
+        "cn": "称呼"
+      },
+      {
+        "word": "問い",
+        "reading": "とい",
+        "meaning": "question",
+        "cn": "问题"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7fd2",
+    "level": "N4",
+    "character": "習",
+    "onyomi": [
+      "シュウ",
+      "ジュ"
+    ],
+    "kunyomi": [
+      "なら.い",
+      "なら.う"
+    ],
+    "meaning": "learn",
+    "strokeCount": 11,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "予習",
+        "reading": "よしゅう",
+        "meaning": "preparation for a lesson",
+        "cn": "备课"
+      },
+      {
+        "word": "習得",
+        "reading": "しゅうとく",
+        "meaning": "learning",
+        "cn": "学习"
+      },
+      {
+        "word": "復習",
+        "reading": "ふくしゅう",
+        "meaning": "review (of learned material)",
+        "cn": "复习（所学材料）"
+      }
+    ]
+  },
+  {
+    "id": "n4-u91ce",
+    "level": "N4",
+    "character": "野",
+    "onyomi": [
+      "ショ",
+      "ヤ"
+    ],
+    "kunyomi": [
+      "の",
+      "の"
+    ],
+    "meaning": "civilian life",
+    "strokeCount": 11,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "野球",
+        "reading": "やきゅう",
+        "meaning": "baseball",
+        "cn": "棒球"
+      },
+      {
+        "word": "プロ野球",
+        "reading": "プロやきゅう",
+        "meaning": "professional baseball",
+        "cn": "职业棒球"
+      },
+      {
+        "word": "野菜",
+        "reading": "やさい",
+        "meaning": "vegetable",
+        "cn": "蔬菜"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9b5a",
+    "level": "N4",
+    "character": "魚",
+    "onyomi": [
+      "ギョ"
+    ],
+    "kunyomi": [
+      "-ざかな",
+      "うお",
+      "さかな"
+    ],
+    "meaning": "fish",
+    "strokeCount": 11,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "金魚",
+        "reading": "きんぎょ",
+        "meaning": "goldfish (Carassius auratus)",
+        "cn": "金鱼（Carassius auratus）"
+      },
+      {
+        "word": "まな板",
+        "reading": "まないた",
+        "meaning": "chopping board",
+        "cn": "案板"
+      },
+      {
+        "word": "鮮魚",
+        "reading": "せんぎょ",
+        "meaning": "fresh fish",
+        "cn": "新鲜的鱼"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7d42",
+    "level": "N4",
+    "character": "終",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "-お.わる",
+      "お.える",
+      "お.わる",
+      "おわ.る",
+      "つい",
+      "つい.に"
+    ],
+    "meaning": "end",
+    "strokeCount": 11,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "終電",
+        "reading": "しゅうでん",
+        "meaning": "last train (of the day)",
+        "cn": "（当天）最后一趟火车"
+      },
+      {
+        "word": "終着駅",
+        "reading": "しゅうちゃくえき",
+        "meaning": "terminal station",
+        "cn": "终点站"
+      },
+      {
+        "word": "終戦",
+        "reading": "しゅうせん",
+        "meaning": "end of war"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9031",
+    "level": "N4",
+    "character": "週",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [],
+    "meaning": "week",
+    "strokeCount": 11,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "毎週",
+        "reading": "まいしゅう",
+        "meaning": "every week",
+        "cn": "每周"
+      },
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "meaning": "next week",
+        "cn": "下周"
+      },
+      {
+        "word": "今週",
+        "reading": "こんしゅう",
+        "meaning": "this week",
+        "cn": "本星期"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8ee2",
+    "level": "N4",
+    "character": "転",
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "うたた",
+      "うつ.る",
+      "くる.めく",
+      "ころ.がす",
+      "ころ.がる",
+      "ころ.げる",
+      "ころ.ぶ",
+      "まろ.ぶ"
+    ],
+    "meaning": "change",
+    "strokeCount": 11,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "好転",
+        "reading": "こうてん",
+        "meaning": "changing for the better",
+        "cn": "变得更好"
+      },
+      {
+        "word": "自転車",
+        "reading": "じてんしゃ",
+        "meaning": "bicycle",
+        "cn": "自行车"
+      },
+      {
+        "word": "運転手",
+        "reading": "うんてんしゅ",
+        "meaning": "driver",
+        "cn": "司机"
+      }
+    ]
+  },
+  {
+    "id": "n4-u65cf",
+    "level": "N4",
+    "character": "族",
+    "onyomi": [
+      "ゾク"
+    ],
+    "kunyomi": [],
+    "meaning": "family",
+    "strokeCount": 11,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "水族館",
+        "reading": "すいぞくかん",
+        "meaning": "aquarium",
+        "cn": "水族馆"
+      },
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "family",
+        "cn": "家庭"
+      },
+      {
+        "word": "親族",
+        "reading": "しんぞく",
+        "meaning": "relative",
+        "cn": "相对的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u5834",
+    "level": "N4",
+    "character": "場",
+    "onyomi": [
+      "ジョウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "ば"
+    ],
+    "meaning": "location",
+    "strokeCount": 12,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "風呂場",
+        "reading": "ふろば",
+        "meaning": "bathroom",
+        "cn": "浴室"
+      },
+      {
+        "word": "農場",
+        "reading": "のうじょう",
+        "meaning": "farm (agriculture)",
+        "cn": "农场（农业）"
+      },
+      {
+        "word": "役場",
+        "reading": "やくば",
+        "meaning": "town hall",
+        "cn": "市政厅"
+      }
+    ]
+  },
+  {
+    "id": "n4-u671d",
+    "level": "N4",
+    "character": "朝",
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "あさ"
+    ],
+    "meaning": "(North) Korea",
+    "strokeCount": 12,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "朝御飯",
+        "reading": "あさごはん",
+        "meaning": "breakfast",
+        "cn": "早餐"
+      },
+      {
+        "word": "朝食",
+        "reading": "あさけ",
+        "meaning": "breakfast",
+        "cn": "早餐"
+      },
+      {
+        "word": "朝飯",
+        "reading": "あさはん",
+        "meaning": "breakfast",
+        "cn": "早餐"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7b54",
+    "level": "N4",
+    "character": "答",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "こた.え",
+      "こた.える"
+    ],
+    "meaning": "answer",
+    "strokeCount": 12,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "解答",
+        "reading": "かいとう",
+        "meaning": "answer",
+        "cn": "回答"
+      },
+      {
+        "word": "問答",
+        "reading": "もんどう",
+        "meaning": "questions and answers",
+        "cn": "问答"
+      },
+      {
+        "word": "回答",
+        "reading": "かいとう",
+        "meaning": "reply",
+        "cn": "回复"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8cb8",
+    "level": "N4",
+    "character": "貸",
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "か.し",
+      "か.す",
+      "かし"
+    ],
+    "meaning": "lend",
+    "strokeCount": 12,
+    "category": "小学5年",
+    "examples": [
+      {
+        "word": "貸し出し",
+        "reading": "かしだし",
+        "meaning": "lending",
+        "cn": "贷款"
+      },
+      {
+        "word": "貸間",
+        "reading": "かしま",
+        "meaning": "room to let",
+        "cn": "房间出租"
+      },
+      {
+        "word": "賃貸",
+        "reading": "ちんたい",
+        "meaning": "lease",
+        "cn": "租"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9053",
+    "level": "N4",
+    "character": "道",
+    "onyomi": [
+      "トウ",
+      "ドウ"
+    ],
+    "kunyomi": [
+      "いう",
+      "みち"
+    ],
+    "meaning": "course",
+    "strokeCount": 12,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "書道",
+        "reading": "しょどう",
+        "meaning": "calligraphy",
+        "cn": "书法"
+      },
+      {
+        "word": "赤道",
+        "reading": "せきどう",
+        "meaning": "equator",
+        "cn": "赤道"
+      },
+      {
+        "word": "人道的",
+        "reading": "じんどうてき",
+        "meaning": "humane",
+        "cn": "人道"
+      }
+    ]
+  },
+  {
+    "id": "n4-u98ef",
+    "level": "N4",
+    "character": "飯",
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "めし"
+    ],
+    "meaning": "boiled rice",
+    "strokeCount": 12,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "朝御飯",
+        "reading": "あさごはん",
+        "meaning": "breakfast",
+        "cn": "早餐"
+      },
+      {
+        "word": "朝飯",
+        "reading": "あさはん",
+        "meaning": "breakfast",
+        "cn": "早餐"
+      },
+      {
+        "word": "赤飯",
+        "reading": "せきはん",
+        "meaning": "red rice (beans and mochi) for auspicious occasions",
+        "cn": "吉祥场合的红米（豆子和麻糬）"
+      }
+    ]
+  },
+  {
+    "id": "n4-u96c6",
+    "level": "N4",
+    "character": "集",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あつ.まる",
+      "あつ.める",
+      "つど.う"
+    ],
+    "meaning": "congregate",
+    "strokeCount": 12,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "採集",
+        "reading": "さいしゅう",
+        "meaning": "collecting",
+        "cn": "收集"
+      },
+      {
+        "word": "人だかり",
+        "reading": "ひとだかり",
+        "meaning": "crowd",
+        "cn": "人群"
+      },
+      {
+        "word": "編集",
+        "reading": "へんしゅう",
+        "meaning": "editing",
+        "cn": "编辑"
+      }
+    ]
+  },
+  {
+    "id": "n4-u958b",
+    "level": "N4",
+    "character": "開",
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "-びら.き",
+      "あ.く",
+      "あ.ける",
+      "ひら.き",
+      "ひら.く",
+      "ひら.ける"
+    ],
+    "meaning": "open",
+    "strokeCount": 12,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "開会",
+        "reading": "かいかい",
+        "meaning": "opening of a meeting",
+        "cn": "会议开幕"
+      },
+      {
+        "word": "開発",
+        "reading": "かいはつ",
+        "meaning": "development",
+        "cn": "发展"
+      },
+      {
+        "word": "開催",
+        "reading": "かいさい",
+        "meaning": "holding (a conference, exhibition, etc.)",
+        "cn": "举办（会议、展览等）"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8cb7",
+    "level": "N4",
+    "character": "買",
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "か.う"
+    ],
+    "meaning": "buy",
+    "strokeCount": 12,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "仲買",
+        "reading": "なかがい",
+        "meaning": "brokerage",
+        "cn": "经纪业务"
+      },
+      {
+        "word": "買手",
+        "reading": "かいて",
+        "meaning": "buyer",
+        "cn": "买方"
+      },
+      {
+        "word": "買い手",
+        "reading": "かいて",
+        "meaning": "buyer",
+        "cn": "买方"
+      }
+    ]
+  },
+  {
+    "id": "n4-u98f2",
+    "level": "N4",
+    "character": "飲",
+    "onyomi": [
+      "イン",
+      "オン"
+    ],
+    "kunyomi": [
+      "-の.み",
+      "の.む"
+    ],
+    "meaning": "drink",
+    "strokeCount": 12,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "飲料水",
+        "reading": "いんりょうすい",
+        "meaning": "drinking water",
+        "cn": "饮用水"
+      },
+      {
+        "word": "飲食店",
+        "reading": "いんしょくてん",
+        "meaning": "restaurant",
+        "cn": "餐厅"
+      },
+      {
+        "word": "湯飲み",
+        "reading": "ゆのみ",
+        "meaning": "teacup",
+        "cn": "茶碗"
+      }
+    ]
+  },
+  {
+    "id": "n4-u904b",
+    "level": "N4",
+    "character": "運",
+    "onyomi": [
+      "ウン"
+    ],
+    "kunyomi": [
+      "はこ.ぶ"
+    ],
+    "meaning": "advance",
+    "strokeCount": 12,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "運良く",
+        "reading": "うんよく",
+        "meaning": "luckily",
+        "cn": "幸运的是"
+      },
+      {
+        "word": "運輸",
+        "reading": "うんゆ",
+        "meaning": "transportation",
+        "cn": "运输"
+      },
+      {
+        "word": "運河",
+        "reading": "うんが",
+        "meaning": "(navigable) canal",
+        "cn": "（可通航的）运河"
+      }
+    ]
+  },
+  {
+    "id": "n4-u7740",
+    "level": "N4",
+    "character": "着",
+    "onyomi": [
+      "ジャク",
+      "チャク"
+    ],
+    "kunyomi": [
+      "き.せる",
+      "き.る",
+      "つ.く",
+      "つ.ける"
+    ],
+    "meaning": "arrive",
+    "strokeCount": 12,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "到着",
+        "reading": "とうちゃく",
+        "meaning": "arrival",
+        "cn": "到达"
+      },
+      {
+        "word": "発着",
+        "reading": "はっちゃく",
+        "meaning": "arrival and departure",
+        "cn": "到达和离开"
+      },
+      {
+        "word": "先着",
+        "reading": "せんちゃく",
+        "meaning": "arriving first",
+        "cn": "首先到达"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6f22",
+    "level": "N4",
+    "character": "漢",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "meaning": "China",
+    "strokeCount": 13,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "漢方薬",
+        "reading": "かんぽうやく",
+        "meaning": "Chinese herbal medicine",
+        "cn": "中草药"
+      },
+      {
+        "word": "漢字",
+        "reading": "かんじ",
+        "meaning": "kanji",
+        "cn": "汉字"
+      },
+      {
+        "word": "常用漢字",
+        "reading": "じょうようかんじ",
+        "meaning": "jōyō kanji",
+        "cn": "上阳汉字"
+      }
+    ]
+  },
+  {
+    "id": "n4-u697d",
+    "level": "N4",
+    "character": "楽",
+    "onyomi": [
+      "ガク",
+      "ゴウ",
+      "ラク"
+    ],
+    "kunyomi": [
+      "この.む",
+      "たの.しい",
+      "たの.しむ"
+    ],
+    "meaning": "comfort",
+    "strokeCount": 13,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "meaning": "music",
+        "cn": "音乐"
+      },
+      {
+        "word": "楽器",
+        "reading": "がっき",
+        "meaning": "musical instrument",
+        "cn": "乐器"
+      },
+      {
+        "word": "楽天的",
+        "reading": "らくてんてき",
+        "meaning": "optimistic",
+        "cn": "乐观的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8a66",
+    "level": "N4",
+    "character": "試",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "こころ.みる",
+      "ため.す"
+    ],
+    "meaning": "attempt",
+    "strokeCount": 13,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "入試",
+        "reading": "にゅうし",
+        "meaning": "entrance examination",
+        "cn": "入学考试"
+      },
+      {
+        "word": "試行錯誤",
+        "reading": "しこうさくご",
+        "meaning": "trial and error",
+        "cn": "反复试验"
+      },
+      {
+        "word": "筆記試験",
+        "reading": "ひっきしけん",
+        "meaning": "written examination",
+        "cn": "笔试"
+      }
+    ]
+  },
+  {
+    "id": "n4-u65b0",
+    "level": "N4",
+    "character": "新",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "あたら.しい",
+      "あら",
+      "あら.た",
+      "にい"
+    ],
+    "meaning": "new",
+    "strokeCount": 13,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "謹賀新年",
+        "reading": "きんがしんねん",
+        "meaning": "Happy New Year",
+        "cn": "新年快乐"
+      },
+      {
+        "word": "新年",
+        "reading": "しんねん",
+        "meaning": "New Year",
+        "cn": "新年"
+      },
+      {
+        "word": "新鮮",
+        "reading": "しんせん",
+        "meaning": "fresh",
+        "cn": "新鲜的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u696d",
+    "level": "N4",
+    "character": "業",
+    "onyomi": [
+      "ギョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "わざ"
+    ],
+    "meaning": "arts",
+    "strokeCount": 13,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "工業",
+        "reading": "こうぎょう",
+        "meaning": "(manufacturing) industry",
+        "cn": "（制造业）工业"
+      },
+      {
+        "word": "農業",
+        "reading": "のうぎょう",
+        "meaning": "agriculture",
+        "cn": "农业"
+      },
+      {
+        "word": "林業",
+        "reading": "りんぎょう",
+        "meaning": "forestry",
+        "cn": "林业"
+      }
+    ]
+  },
+  {
+    "id": "n4-u610f",
+    "level": "N4",
+    "character": "意",
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "meaning": "care",
+    "strokeCount": 13,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "取扱注意",
+        "reading": "とりあつかいちゅうい",
+        "meaning": "handling warning",
+        "cn": "处理警告"
+      },
+      {
+        "word": "不得意",
+        "reading": "ふとくい",
+        "meaning": "one's weak point",
+        "cn": "一个人的弱点"
+      },
+      {
+        "word": "意義",
+        "reading": "いぎ",
+        "meaning": "meaning",
+        "cn": "意义"
+      }
+    ]
+  },
+  {
+    "id": "n4-u6b4c",
+    "level": "N4",
+    "character": "歌",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "うた",
+      "うた.う"
+    ],
+    "meaning": "sing",
+    "strokeCount": 14,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "歌手",
+        "reading": "かしゅ",
+        "meaning": "singer",
+        "cn": "歌手"
+      },
+      {
+        "word": "歌舞伎",
+        "reading": "かぶき",
+        "meaning": "kabuki",
+        "cn": "歌舞伎"
+      },
+      {
+        "word": "歌留多",
+        "reading": "かるた",
+        "meaning": "karuta",
+        "cn": "更好的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u99c5",
+    "level": "N4",
+    "character": "駅",
+    "onyomi": [
+      "エキ"
+    ],
+    "kunyomi": [],
+    "meaning": "station",
+    "strokeCount": 14,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "駅前",
+        "reading": "えきまえ",
+        "meaning": "in front of a station",
+        "cn": "在车站前"
+      },
+      {
+        "word": "駅長",
+        "reading": "えきちょう",
+        "meaning": "station master",
+        "cn": "站长"
+      },
+      {
+        "word": "終着駅",
+        "reading": "しゅうちゃくえき",
+        "meaning": "terminal station",
+        "cn": "终点站"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9280",
+    "level": "N4",
+    "character": "銀",
+    "onyomi": [
+      "ギン"
+    ],
+    "kunyomi": [
+      "しろがね"
+    ],
+    "meaning": "silver",
+    "strokeCount": 14,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "金持ち",
+        "reading": "かねもち",
+        "meaning": "rich person",
+        "cn": "有钱人"
+      },
+      {
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "bank",
+        "cn": "银行"
+      },
+      {
+        "word": "銀河",
+        "reading": "ぎんが",
+        "meaning": "Milky Way",
+        "cn": "银河系"
+      }
+    ]
+  },
+  {
+    "id": "n4-u8cea",
+    "level": "N4",
+    "character": "質",
+    "onyomi": [
+      "シチ",
+      "シツ",
+      "チ"
+    ],
+    "kunyomi": [
+      "ただ.す",
+      "たち",
+      "もと",
+      "わりふ"
+    ],
+    "meaning": "matter",
+    "strokeCount": 15,
+    "category": "小学5年",
+    "examples": [
+      {
+        "word": "地質",
+        "reading": "ちしつ",
+        "meaning": "geological features",
+        "cn": "地质特征"
+      },
+      {
+        "word": "人質",
+        "reading": "ひとじち",
+        "meaning": "hostage",
+        "cn": "人质"
+      },
+      {
+        "word": "質量",
+        "reading": "しつりょう",
+        "meaning": "mass",
+        "cn": "大量的"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9928",
+    "level": "N4",
+    "character": "館",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "たて",
+      "やかた"
+    ],
+    "meaning": "building",
+    "strokeCount": 16,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "水族館",
+        "reading": "すいぞくかん",
+        "meaning": "aquarium",
+        "cn": "水族馆"
+      },
+      {
+        "word": "領事館",
+        "reading": "りょうじかん",
+        "meaning": "consulate",
+        "cn": "领事馆"
+      },
+      {
+        "word": "大使館",
+        "reading": "たいしかん",
+        "meaning": "embassy",
+        "cn": "大使馆"
+      }
+    ]
+  },
+  {
+    "id": "n4-u89aa",
+    "level": "N4",
+    "character": "親",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "おや",
+      "おや",
+      "した.しい",
+      "した.しむ"
+    ],
+    "meaning": "dealer (cards)",
+    "strokeCount": 16,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "父親",
+        "reading": "ちちおや",
+        "meaning": "father",
+        "cn": "父亲"
+      },
+      {
+        "word": "母親",
+        "reading": "ははおや",
+        "meaning": "mother",
+        "cn": "母亲"
+      },
+      {
+        "word": "親子",
+        "reading": "おやこ",
+        "meaning": "parent and child",
+        "cn": "父母和孩子"
+      }
+    ]
+  },
+  {
+    "id": "n4-u984c",
+    "level": "N4",
+    "character": "題",
+    "onyomi": [
+      "ダイ"
+    ],
+    "kunyomi": [],
+    "meaning": "subject",
+    "strokeCount": 18,
+    "category": "小学3年",
+    "examples": [
+      {
+        "word": "例題",
+        "reading": "れいだい",
+        "meaning": "example",
+        "cn": "例子"
+      },
+      {
+        "word": "議題",
+        "reading": "ぎだい",
+        "meaning": "topic of discussion",
+        "cn": "讨论话题"
+      },
+      {
+        "word": "別問題",
+        "reading": "べつもんだい",
+        "meaning": "different thing",
+        "cn": "不同的事情"
+      }
+    ]
+  },
+  {
+    "id": "n4-u9a13",
+    "level": "N4",
+    "character": "験",
+    "onyomi": [
+      "ケン",
+      "ゲン"
+    ],
+    "kunyomi": [
+      "あかし",
+      "しるし",
+      "ため.す",
+      "ためし"
+    ],
+    "meaning": "effect",
+    "strokeCount": 18,
+    "category": "小学4年",
+    "examples": [
+      {
+        "word": "経験",
+        "reading": "けいけん",
+        "meaning": "experience",
+        "cn": "经验"
+      },
+      {
+        "word": "受験",
+        "reading": "じゅけん",
+        "meaning": "taking an examination (esp. for entrance to a school or university)",
+        "cn": "参加考试（特别是进入学校或大学）"
+      },
+      {
+        "word": "筆記試験",
+        "reading": "ひっきしけん",
+        "meaning": "written examination",
+        "cn": "笔试"
+      }
+    ]
+  },
+  {
+    "id": "n4-u66dc",
+    "level": "N4",
+    "character": "曜",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "meaning": "weekday",
+    "strokeCount": 18,
+    "category": "小学2年",
+    "examples": [
+      {
+        "word": "金曜日",
+        "reading": "きんようび",
+        "meaning": "Friday",
+        "cn": "星期五"
+      },
+      {
+        "word": "金曜",
+        "reading": "きんよう",
+        "meaning": "Friday",
+        "cn": "星期五"
+      },
+      {
+        "word": "月曜日",
+        "reading": "げつようび",
+        "meaning": "Monday",
+        "cn": "周一"
+      }
+    ]
+  }
+]

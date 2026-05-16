@@ -1130,5 +1130,119 @@
     ],
     "repeatIn": [],
     "category": "列举"
+  },
+  {
+    "id": "n3-honorific",
+    "level": "N3",
+    "pattern": "尊敬語（敬語）",
+    "meaning": "尊敬语 — 抬高对方动作",
+    "usage": "お + 連用形 + になる / 特殊尊敬語",
+    "explanation": "尊敬語（尊敬语）用于抬高对方的动作，表达对对方的敬意。由「お+連用形+になる」构成。\n\n五段/一段动词：お + 連用形 + になる（お書きになる、お食べになる）。\nサ変：ご + サ変語幹 + になる（ご連絡になる）。\n\n特殊尊敬语（需个别记忆）：\n• する→なさる\n• 行く/来る/いる→いらっしゃる\n• 食べる/飲む→召し上がる\n• 言う→おっしゃる\n• 見る→ご覧になる\n• 知っている→ご存じ\n• くれる→くださる",
+    "colloquial": "日常多用「〜される」（尊敬の受身）替代",
+    "examples": [
+      {
+        "jp": "先生は何をお読みになりますか？",
+        "cn": "老师您在读什么？",
+        "jpFuri": "",
+        "en": "What are you reading, teacher?"
+      },
+      {
+        "jp": "社長はもうお帰りになりました。",
+        "cn": "社长已经回去了。",
+        "jpFuri": "",
+        "en": "The president has already returned."
+      },
+      {
+        "jp": "お名前は何とおっしゃいますか？",
+        "cn": "您贵姓？",
+        "jpFuri": "",
+        "en": "What is your name?"
+      },
+      {
+        "jp": "どうぞお召し上がりください。",
+        "cn": "请用。",
+        "jpFuri": "",
+        "en": "Please eat/drink."
+      }
+    ],
+    "related": [],
+    "repeatIn": [],
+    "category": "敬语"
+  },
+  {
+    "id": "n3-humble",
+    "level": "N3",
+    "pattern": "謙譲語（敬語）",
+    "meaning": "谦让语 — 降低自己动作",
+    "usage": "お + 連用形 + する / 特殊謙譲語",
+    "explanation": "謙譲語（谦让语）通过降低自己的动作来表达对对方的敬意。由「お+連用形+する/いたす」构成。\n\n五段/一段动词：お + 連用形 + する（お書きする、お食べする）。\nサ変：ご + サ変語幹 + する（ご連絡する）。\n\n更谦让的说法将「する」替换为「いたす」。\n\n特殊谦让语：\n• する→いたす\n• 行く/来る→伺う（うかがう）\n• 食べる/飲む→いただく\n• 言う→申す/申し上げる\n• 見る→拝見する\n• 知っている→存じている\n• あげる→差し上げる",
+    "colloquial": "日常多用「〜ます」替代",
+    "examples": [
+      {
+        "jp": "私がお持ちします。",
+        "cn": "我来拿。",
+        "jpFuri": "",
+        "en": "I will carry it."
+      },
+      {
+        "jp": "後ほどお電話いたします。",
+        "cn": "稍后给您打电话。",
+        "jpFuri": "",
+        "en": "I will call you later."
+      },
+      {
+        "jp": "明日伺います。",
+        "cn": "明天拜访您。",
+        "jpFuri": "",
+        "en": "I will visit you tomorrow."
+      },
+      {
+        "jp": "申し訳ございません。",
+        "cn": "非常抱歉。",
+        "jpFuri": "",
+        "en": "I'm very sorry."
+      }
+    ],
+    "related": [],
+    "repeatIn": [],
+    "category": "敬语"
+  },
+  {
+    "id": "n3-causative_passive",
+    "level": "N3",
+    "pattern": "使役受身形（〜せられる/〜させられる）",
+    "meaning": "使役被动 — 被迫做…",
+    "usage": "被迫做非自愿的事情",
+    "explanation": "使役受身形表示「被迫做某事」「不得不做某事」。由使役形+受身形组合而成。\n\n构成：\n• 五段动词：未然形 + せられる（書く→書かせられる→書かされる）\n  口语中常省略为「〜される」（書かされる）\n• 一段动词：詞干 + させられる（食べる→食べさせられる）\n• サ変：する→させられる\n• カ変：来る→来させられる\n\n表示被迫做不愿意做的事情，带有不情愿的语气。",
+    "colloquial": "五段口语常用省略形「〜される」（書かされる）",
+    "examples": [
+      {
+        "jp": "毎日残業させられる。",
+        "cn": "每天被迫加班。",
+        "jpFuri": "",
+        "en": "I'm forced to work overtime every day."
+      },
+      {
+        "jp": "先生に宿題をたくさんやらされた。",
+        "cn": "被老师布置了大量作业。",
+        "jpFuri": "",
+        "en": "I was made to do a lot of homework by the teacher."
+      },
+      {
+        "jp": "嫌いな野菜を無理やり食べさせられた。",
+        "cn": "被迫吃了讨厌的蔬菜。",
+        "jpFuri": "",
+        "en": "I was forced to eat vegetables I hate."
+      },
+      {
+        "jp": "休日出勤させられた。",
+        "cn": "被迫在休息日上班。",
+        "jpFuri": "",
+        "en": "I was forced to work on a holiday."
+      }
+    ],
+    "related": [],
+    "repeatIn": [],
+    "category": "语态"
   }
 ]
